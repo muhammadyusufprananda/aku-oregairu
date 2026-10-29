@@ -92,7 +92,7 @@ Suggested initial tokens (refine through real device testing):
 ```
 
 - Prefer a book-friendly serif (e.g. Literata or Noto Serif) for prose and a restrained UI font for controls.
-- Site and hero titles use locally hosted Nunito weight 900, uppercase and rounded like the volume-cover lettering; reading prose remains Literata.
+- All site, page, volume, chapter, dialog, and hero titles use locally hosted Nunito weight 900, rounded like the volume-cover lettering. The wordmark and main hero title are uppercase; other headings retain their natural case. Reading prose remains Literata.
 - Default site surfaces and the initial reader theme are white. Retain Kertas and Gelap as explicit reader palettes and preserve existing saved preferences.
 - The Yukinon hero is 300–340px tall on phones and at most 360px on desktop; blend artwork into white using a subtle CSS fade, keep the face visible, and place the catalog heading/grid directly afterward.
 - Host fonts locally where licensing allows; minimize font weights and payload.

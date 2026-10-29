@@ -39,4 +39,4 @@ Font Literata dan Nunito: SIL Open Font License, salinan di `public/assets/Liter
 
 Dengan koleksi EPUB lokal yang telah diizinkan dan Python + Pillow tersedia, jalankan `python3 tools/prepare_covers.py`. Script hanya mengambil gambar yang ditandai sebagai sampul pada metadata EPUB, menghasilkan WebP ukuran 360/720 piksel, dan memperbarui `docs/cover-sources.json`. Tidak mengekstrak teks bab. Build/CI memakai aset yang sudah disimpan di repo dan tidak membutuhkan `raw/` atau Python.
 
-Identitas situs menggunakan Nunito 900 bergaya tebal membulat sebagai pendekatan tipografi sampul, bukan font asli sampul. Beranda memakai hero Yukinon yang membaur ke latar putih; katalog langsung di bawahnya. Reader baru mulai dengan tema Putih, sedangkan preferensi tema yang sudah tersimpan tetap dipertahankan.
+Identitas situs dan seluruh judul halaman, volume, bab, serta dialog menggunakan Nunito 900 bergaya tebal membulat sebagai pendekatan tipografi sampul, bukan font asli sampul. Beranda memakai hero Yukinon yang membaur ke latar putih; katalog langsung di bawahnya. Reader baru mulai dengan tema Putih, sedangkan preferensi tema yang sudah tersimpan tetap dipertahankan.

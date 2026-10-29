@@ -47,6 +47,12 @@ button {
 h1,
 h2,
 h3,
+h4,
+h5,
+h6 {
+  font-family: Nunito, system-ui, sans-serif;
+  font-weight: 900;
+}
 .serif {
   font-family: Literata, Georgia, serif;
   font-weight: 400;
@@ -158,7 +164,8 @@ main.about {
   transform: rotate(-35deg);
 }
 .cover .series {
-  font-family: Literata, serif;
+  font-family: Nunito, system-ui, sans-serif;
+  font-weight: 900;
   font-size: clamp(14px, 2vw, 21px);
   line-height: 1.3;
   position: relative;
@@ -840,9 +847,9 @@ main.catalog {
   max-width: 260px;
   margin: 16px 0 0;
   font:
-    10px/1.7 Literata,
-    Georgia,
-    serif;
+    900 10px/1.7 Nunito,
+    system-ui,
+    sans-serif;
   color: #555;
 }
 .catalog > .demo-banner {

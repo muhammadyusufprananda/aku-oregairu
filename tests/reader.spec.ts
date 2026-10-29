@@ -200,6 +200,12 @@ test("selection, center controls, reduced motion and large type", async ({
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBeTruthy();
+  await page.getByRole("button", { name: "Pengaturan baca" }).click();
+  expect(
+    await page
+      .locator("#settings")
+      .evaluate((el) => el.scrollWidth <= el.clientWidth),
+  ).toBeTruthy();
 });
 
 test("spread image and short viewport fallback", async ({ page }) => {

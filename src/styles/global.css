@@ -748,3 +748,17 @@ dialog::backdrop {
     min-height: 44px;
   }
 }
+dialog:not(.viewer) {
+  padding: clamp(12px, 4vw, 24px);
+}
+.dialog-heading h2 {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.dialog-heading .icon-button {
+  min-width: 32px;
+  flex: 0 0 32px;
+}
+.setting {
+  overflow-wrap: anywhere;
+}

@@ -1,0 +1,208 @@
+---
+import Base from "../../../layouts/Base.astro";
+import { blocksFor, chapters, url } from "../../../lib/catalog";
+export function getStaticPaths() {
+  return chapters.map((chapter, index) => ({
+    params: { volume: "contoh", chapter: chapter.slug },
+    props: { index },
+  }));
+}
+const { index } = Astro.props;
+const blocks = blocksFor(index);
+---
+
+<Base title={chapters[index].title} reader>
+  <noscript>
+    <style>
+      .reader [data-open],
+      .reader #prev,
+      .reader #next {
+        display: none;
+      }
+      .reader-bottom {
+        justify-content: center;
+      }
+    </style>
+  </noscript>
+  <main
+    class="reader fallback"
+    id="reader"
+    data-chapter={index}
+    data-theme="kertas"
+  >
+    <header class="reader-top">
+      <a
+        class="icon-button"
+        href={url("volume/contoh/")}
+        aria-label="Kembali ke daftar bab"
+      >
+        ←
+      </a>
+      <span>
+        Contoh orisinal · Bab {index + 1}
+        <br />
+        {chapters[index].title}
+      </span>
+      <button
+        class="icon-button"
+        data-open="settings"
+        aria-label="Pengaturan baca"
+      >
+        Aa
+      </button>
+      <button class="icon-button" data-open="toc" aria-label="Daftar bab">
+        ☰
+      </button>
+    </header>
+    <article class="page-area" id="page" aria-label="Halaman bacaan">
+      {blocks.map((b) =>
+        b.kind === "heading" ? (
+          <h1>{b.text}</h1>
+        ) : b.kind === "image" ? (
+          <figure>
+            <button data-image={b.src} aria-label="Perbesar ilustrasi">
+              <img
+                src={b.src}
+                loading="lazy"
+                decoding="async"
+                alt={b.text}
+                width={index === 0 ? 600 : 1200}
+                height={index === 0 ? 800 : 600}
+              />
+            </button>
+            <figcaption>{b.text}</figcaption>
+          </figure>
+        ) : (
+          <p>
+            {b.emphasis?.length ? (
+              <>
+                <em>{b.text.slice(0, 8)}</em>
+                {b.text.slice(8)}
+              </>
+            ) : (
+              b.text
+            )}
+          </p>
+        ),
+      )}
+    </article>
+    <footer class="reader-bottom">
+      <button id="prev" class="icon-button" aria-label="Halaman sebelumnya">
+        ←
+      </button>
+      <div class="reader-progress">
+        <a
+          id="next-chapter"
+          href={url(
+            index === 0 ? `baca/contoh/${chapters[1].slug}/` : "volume/contoh/",
+          )}
+          hidden
+        >
+          {index === 0 ? "Bab berikutnya →" : "Kembali ke daftar bab →"}
+        </a>
+        <span id="page-count" aria-live="polite">
+          Mode baca bergulir · Contoh orisinal
+        </span>
+      </div>
+      <button id="next" class="icon-button" aria-label="Halaman berikutnya">
+        →
+      </button>
+    </footer>
+    <dialog id="settings">
+      <div class="dialog-heading">
+        <h2>Pengaturan baca</h2>
+        <button class="icon-button" data-close aria-label="Tutup pengaturan">
+          ×
+        </button>
+      </div>
+      <label class="setting">
+        Ukuran font <output id="size-output">18 px</output>
+        <input
+          id="font-size"
+          type="range"
+          min="16"
+          max="28"
+          step="1"
+          value="18"
+        />
+      </label>
+      <div class="setting">
+        Tema tampilan
+        <div class="choices" id="themes">
+          {["Kertas", "Putih", "Gelap"].map((t) => (
+            <button
+              data-theme-value={t.toLowerCase()}
+              aria-pressed={t === "Kertas"}
+            >
+              {t}
+            </button>
+          ))}
+        </div>
+      </div>
+      <div class="setting">
+        Spasi baris
+        <div class="choices" id="leading">
+          {[1.5, 1.8, 2].map((n) => (
+            <button data-leading={n} aria-pressed={n === 1.8}>
+              {n.toFixed(1)}×
+            </button>
+          ))}
+        </div>
+      </div>
+      <p class="muted" style="font-size:12px">
+        Posisi membaca dan pengaturan disimpan otomatis di browser ini jika
+        penyimpanan tersedia.
+      </p>
+    </dialog>
+    <dialog id="toc">
+      <div class="dialog-heading">
+        <h2>Daftar bab</h2>
+        <button class="icon-button" data-close aria-label="Tutup daftar bab">
+          ×
+        </button>
+      </div>
+      {chapters.map((c, i) => (
+        <a
+          href={url(`baca/contoh/${c.slug}/`)}
+          aria-current={i === index ? "page" : undefined}
+        >
+          0{i + 1} · {c.title}
+        </a>
+      ))}
+    </dialog>
+    <dialog id="viewer" class="viewer">
+      <div class="dialog-heading">
+        <span>Ilustrasi orisinal</span>
+        <button data-close class="icon-button" aria-label="Tutup ilustrasi">
+          ×
+        </button>
+      </div>
+      <div class="viewer-stage">
+        <img id="viewer-image" alt="" draggable="false" />
+      </div>
+      <div class="viewer-tools">
+        <button class="icon-button" id="zoom-out" aria-label="Perkecil">
+          −
+        </button>
+        <button
+          class="icon-button"
+          id="zoom-reset"
+          aria-label="Atur ulang zoom"
+        >
+          100%
+        </button>
+        <button class="icon-button" id="zoom-in" aria-label="Perbesar">
+          +
+        </button>
+      </div>
+    </dialog>
+    <script
+      id="chapter-data"
+      type="application/json"
+      set:html={JSON.stringify(blocks).replace(/</g, "\u003c")}
+    />
+  </main>
+</Base>
+<script>
+  import "../../../lib/reader";
+</script>

@@ -1,0 +1,59 @@
+---
+import Base from "../layouts/Base.astro";
+import { volumes, url } from "../lib/catalog";
+---
+
+<Base title="Koleksi volume">
+  <main class="catalog">
+    <div class="section-heading">
+      <h1>Koleksi volume</h1>
+      <span>Yahari Ore no Seishun Love Comedy wa Machigatteiru</span>
+    </div>
+    <a id="resume" class="resume" hidden>
+      Lanjutkan membaca <span>→</span>
+    </a>
+    <section class="demo-banner" aria-label="Contoh pembaca">
+      <div>
+        <span class="eyebrow">Pratinjau pembaca</span>
+        <h2>Ambil waktu untuk satu halaman.</h2>
+        <p>
+          Coba pengalaman membaca dengan teks orisinal. Bukan terjemahan
+          Oregairu.
+        </p>
+      </div>
+      <a class="text-link" href={url("volume/contoh/")}>
+        Buka contoh baca <span aria-hidden="true">→</span>
+      </a>
+    </section>
+    <div class="volume-grid">
+      {volumes.map((v) => (
+        <article class="volume-card">
+          <a href={url(`volume/${v.slug}/`)}>
+            <div class="cover" aria-hidden="true">
+              <span class="series">
+                Oregairu
+                <br />
+                Indonesia
+              </span>
+              <span class="number">{v.number}</span>
+              <small>SAMPUL PENGGANTI</small>
+            </div>
+            <h2>Volume {v.number}</h2>
+            <p>Konten belum tersedia</p>
+          </a>
+        </article>
+      ))}
+    </div>
+  </main>
+</Base>
+<script>
+  import { readProgress } from "../lib/storage";
+  import { chapters, url } from "../lib/catalog";
+  const progress = readProgress();
+  const resume = document.querySelector<HTMLAnchorElement>("#resume");
+  if (progress && resume) {
+    resume.href = url(`baca/contoh/${chapters[progress.chapter].slug}/`);
+    resume.hidden = false;
+    resume.firstChild!.textContent = `Lanjutkan contoh · ${chapters[progress.chapter].title} `;
+  }
+</script>

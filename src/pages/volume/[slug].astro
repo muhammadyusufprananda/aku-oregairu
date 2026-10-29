@@ -1,0 +1,93 @@
+---
+import Base from "../../layouts/Base.astro";
+import { volumes, chapters, url } from "../../lib/catalog";
+export function getStaticPaths() {
+  return [
+    ...volumes.map((volume) => ({
+      params: { slug: volume.slug },
+      props: { volume },
+    })),
+    {
+      params: { slug: "contoh" },
+      props: { volume: { slug: "contoh", number: "—" } },
+    },
+  ];
+}
+const { volume } = Astro.props;
+const demo = volume.slug === "contoh";
+---
+
+<Base title={demo ? "Contoh Baca Orisinal" : `Volume ${volume.number}`}>
+  <main class="detail">
+    <a class="back" href={url()}>
+      ← Kembali ke koleksi
+    </a>
+    <section class="detail-intro">
+      <div class="cover" aria-hidden="true">
+        <span class="series">
+          {demo ? "Sebuah jeda" : "Oregairu Indonesia"}
+        </span>
+        <span class="number">{demo ? "Aa" : volume.number}</span>
+        <small>{demo ? "TEKS ORISINAL" : "SAMPUL PENGGANTI"}</small>
+      </div>
+      <div>
+        <span class="eyebrow">
+          {demo ? "Pratinjau pengalaman membaca" : "Koleksi Oregairu"}
+        </span>
+        <h1>{demo ? "Contoh Baca Orisinal" : `Volume ${volume.number}`}</h1>
+        <p class="description">
+          {demo
+            ? "Dua bab pendek tentang ruang baca dan waktu untuk berhenti sejenak. Dibuat khusus untuk menguji website; bukan bagian dari novel Oregairu."
+            : "Halaman volume sudah disiapkan. Teks terjemahan dan informasi editorial akan ditambahkan setelah ditinjau."}
+        </p>
+        {demo && (
+          <a
+            class="primary"
+            id="start-reading"
+            href={url(`baca/contoh/${chapters[0].slug}/`)}
+          >
+            Mulai Membaca →
+          </a>
+        )}
+      </div>
+    </section>
+    {demo ? (
+      <section>
+        <h2>Daftar bab</h2>
+        <ol class="chapter-list">
+          {chapters.map((c, i) => (
+            <li>
+              <a href={url(`baca/contoh/${c.slug}/`)}>
+                <small>0{i + 1}</small>
+                <span>{c.title}</span>
+                <span aria-hidden="true">→</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+        <p class="notice">
+          Teks dan ilustrasi contoh adalah materi orisinal dengan bantuan AI,
+          hanya untuk demonstrasi pembaca.
+        </p>
+      </section>
+    ) : (
+      <p class="notice">
+        Konten belum tersedia. Sambil menunggu, kamu bisa{" "}
+        <a style="text-decoration:underline" href={url("volume/contoh/")}>
+          mencoba pembaca
+        </a>
+        .
+      </p>
+    )}
+  </main>
+</Base>
+<script>
+  import { readProgress } from "../../lib/storage";
+  import { chapters, url } from "../../lib/catalog";
+  const p = readProgress();
+  const a = document.querySelector<HTMLAnchorElement>("#start-reading");
+  if (p && a) {
+    a.href = url(`baca/contoh/${chapters[p.chapter].slug}/`);
+    a.textContent = "Lanjutkan Membaca →";
+  }
+</script>

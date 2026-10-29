@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.astro/
+raw/
+test-results/
+playwright-report/
+# Local visual reference, not a website asset.
+UI Refrence.png

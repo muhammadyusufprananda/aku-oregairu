@@ -1,4 +1,4 @@
-# Oregairu Indonesia
+# Aku Oregairu
 
 Website statis dengan Astro, TypeScript, dan CSS. Membutuhkan Node.js 24 dan npm.
 

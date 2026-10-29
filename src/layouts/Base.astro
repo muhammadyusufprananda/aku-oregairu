@@ -21,15 +21,15 @@ const { title, reader = false } = Astro.props;
     />
     <meta
       name="description"
-      content="Proyek independen Oregairu Indonesia. Pengalaman membaca yang tenang, dirancang untuk ponsel."
+      content="Proyek independen Aku Oregairu. Pengalaman membaca yang tenang, dirancang untuk ponsel."
     />
-    <title>{title} · Oregairu Indonesia</title>
+    <title>{title} · Aku Oregairu</title>
   </head>
   <body class:list={[reader && "reader-body"]}>
     {!reader && (
       <header class="site-header">
         <a class="wordmark" href={url()}>
-          oregairu.indonesia
+          Aku Oregairu
           <small>Proyek terjemahan penggemar independen</small>
         </a>
         <a class="about-link" href={url("tentang/")}>
@@ -40,7 +40,7 @@ const { title, reader = false } = Astro.props;
     <slot />
     {!reader && (
       <footer class="site-footer">
-        <span>Oregairu Indonesia</span>
+        <span>Aku Oregairu</span>
         <span>Ruang kecil untuk cerita yang panjang.</span>
         <a href={url("tentang/")}>Tentang proyek</a>
       </footer>

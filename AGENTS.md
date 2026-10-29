@@ -1,8 +1,8 @@
-# AGENTS.md — Oregairu Indonesia
+# AGENTS.md — Aku Oregairu
 
 ## 1. Project identity
 
-**Project:** Oregairu Indonesia  
+**Project:** Aku Oregairu  
 **Type:** Independent, noncommercial, Indonesian-language fan translation project dedicated exclusively to *Yahari Ore no Seishun Love Comedy wa Machigatteiru* (Oregairu).  
 **Primary goal:** Deliver an exceptionally comfortable, book-like reading experience on mobile phones.  
 **Deployment:** GitHub Pages, as a fully static site.
@@ -37,7 +37,7 @@ This file is the standing product and engineering brief for AI coding agents (in
 
 This page must show Oregairu volumes immediately below a compact site header. Make the volume collection the dominant content.
 
-- Compact wordmark: `Oregairu Indonesia` (or `oregairu.indonesia` as a typographic treatment).
+- Compact wordmark: `Aku Oregairu` (or `aku.oregairu` as a typographic treatment).
 - Optional understated subtitle: `Indonesian Fan Translation`.
 - Display real, verified volume records in their intended sequence.
 - Show cover (only if authorized), volume number, and minimal status information when available.

@@ -1,10 +1,10 @@
 :root {
-  --paper: #f7f3eb;
-  --elevated: #fcfaf6;
-  --ink: #282722;
-  --muted: #777167;
-  --line: #ded8ce;
-  --accent: #343b37;
+  --paper: #ffffff;
+  --elevated: #fafafa;
+  --ink: #202020;
+  --muted: #696969;
+  --line: #e5e5e5;
+  --accent: #242424;
   font-family: system-ui, sans-serif;
   color: var(--ink);
   background: var(--paper);
@@ -38,7 +38,7 @@ button:disabled {
   cursor: default;
 }
 :focus-visible {
-  outline: 2px solid #8a6543;
+  outline: 2px solid #454545;
   outline-offset: 5px;
 }
 button {
@@ -73,21 +73,27 @@ main.about {
 }
 .site-header {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid var(--line);
   gap: 20px;
 }
 .wordmark {
+  min-width: 0;
+  max-width: 100%;
   font:
-    clamp(20px, 4vw, 26px) Literata,
-    serif;
-  letter-spacing: -1px;
+    900 clamp(20px, 4vw, 27px)/1.1 Nunito,
+    system-ui,
+    sans-serif;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
 }
 .wordmark small {
   display: block;
   font: 10px system-ui;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.04em;
+  text-transform: none;
   margin-top: 8px;
 }
 .about-link {
@@ -309,6 +315,13 @@ main.about {
   height: 100dvh;
   background: var(--paper);
   color: var(--ink);
+}
+.reader[data-theme="kertas"] {
+  --paper: #f7f3eb;
+  --elevated: #fcfaf6;
+  --ink: #282722;
+  --muted: #777167;
+  --line: #ded8ce;
 }
 .reader[data-theme="putih"] {
   --paper: #fff;
@@ -566,9 +579,6 @@ dialog::backdrop {
   font-size: 14px;
 }
 @media (min-width: 1000px) {
-  .catalog {
-    padding-top: 40px !important;
-  }
   .reader-top,
   .reader-bottom {
     padding-left: calc((100% - 760px) / 2);
@@ -701,7 +711,7 @@ dialog::backdrop {
     line-height: 1.6;
   }
   .section-heading h1 {
-    white-space: nowrap;
+    white-space: normal;
   }
 }
 .reader-top span,
@@ -779,64 +789,99 @@ dialog:not(.viewer) {
   object-position: bottom left;
   border-radius: 3px;
 }
-.catalog-intro {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 160px;
-  align-items: center;
-  gap: 24px;
-  margin: 0 0 28px;
+main.catalog {
+  padding-top: 0;
 }
-.catalog-intro .section-heading {
-  display: block;
+.series-hero {
+  --hero-art-width: min(70%, 420px);
+  container-type: inline-size;
+  position: relative;
+  isolation: isolate;
+  height: 360px;
+  margin: 0 -28px 28px;
+  overflow: hidden;
+  background: #fff;
+}
+.hero-art {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: var(--hero-art-width);
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+  z-index: -2;
+}
+.series-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0 0 0 auto;
+  width: var(--hero-art-width);
+  z-index: -1;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, #fff 0%, #ffffffd9 12%, #ffffff00 48%),
+    linear-gradient(0deg, #fff 0%, #ffffff00 18%);
+}
+.hero-copy {
+  padding: 34px 28px;
+  width: 55%;
+}
+.hero-title {
+  font:
+    900 clamp(22px, 3vw, 30px)/1.12 Nunito,
+    system-ui,
+    sans-serif;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
   margin: 0;
 }
-.catalog-intro .section-heading h1 {
-  white-space: normal;
-}
-.catalog-intro .section-heading span {
-  display: block;
-  max-width: 330px;
+.hero-subtitle {
+  max-width: 260px;
+  margin: 16px 0 0;
   font:
-    12px/1.8 Literata,
+    10px/1.7 Literata,
+    Georgia,
     serif;
-  margin-top: 18px;
-  color: var(--muted);
+  color: #555;
 }
-.yukino-portrait {
-  display: block;
-  width: 160px;
-  height: 240px;
-  object-fit: contain;
-  border-radius: 3px;
+.catalog > .demo-banner {
+  margin-top: 40px;
+  margin-bottom: 0;
 }
 @media (max-width: 480px) {
-  .catalog-intro {
-    grid-template-columns: minmax(0, 1fr) 130px;
-    gap: 16px;
-    margin-bottom: 24px;
+  .series-hero {
+    --hero-art-width: 76%;
+    height: clamp(300px, 42svh, 340px);
+    margin: 0 -20px 24px;
   }
-  .yukino-portrait {
-    width: 130px;
-    height: 195px;
+  .hero-art {
+    object-position: center 20%;
   }
-  .catalog-intro .section-heading h1 {
-    font-size: 27px;
+  .hero-copy {
+    padding: 32px 20px;
+    width: 49%;
   }
-  .catalog-intro .section-heading span {
-    font-size: 10px;
-    margin-top: 12px;
+  .hero-title {
+    font-size: clamp(20px, 5.6vw, 25px);
+  }
+  .hero-subtitle {
+    max-width: 145px;
+    font-size: 9px;
   }
 }
-@media (max-width: 340px) {
-  .catalog-intro {
-    grid-template-columns: minmax(0, 1fr) 110px;
-    gap: 12px;
+
+@container (max-width:260px) {
+  .hero-copy {
+    width: 100%;
   }
-  .yukino-portrait {
-    width: 110px;
-    height: 165px;
+  .hero-title {
+    font-size: 18px;
   }
-  .catalog-intro .section-heading h1 {
-    font-size: 25px;
+  .hero-art {
+    opacity: 0.2;
+  }
+  .hero-subtitle {
+    max-width: 100%;
   }
 }

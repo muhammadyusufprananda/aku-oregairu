@@ -10,7 +10,37 @@ for (const width of [320, 360, 390, 430, 768, 1280])
     await page.goto("");
     await expect(page.locator(".volume-card")).toHaveCount(18);
     await expect(page.locator(".wordmark")).toContainText("Aku Oregairu");
-    await expect(page.locator(".yukino-portrait")).toBeVisible();
+    await expect(page.locator(".hero-art")).toBeVisible();
+    expect(
+      await page.locator(".series-hero").evaluate((el) => el.clientHeight),
+    ).toBeLessThanOrEqual(360);
+    expect(
+      await page
+        .locator("body")
+        .evaluate(
+          () => getComputedStyle(document.documentElement).backgroundColor,
+        ),
+    ).toBe("rgb(255, 255, 255)");
+    expect(
+      await page
+        .locator(".wordmark")
+        .evaluate((el) => getComputedStyle(el).fontFamily),
+    ).toContain("Nunito");
+    expect(
+      await page
+        .locator(".wordmark")
+        .evaluate((el) => getComputedStyle(el).fontWeight),
+    ).toBe("900");
+    expect(
+      await page
+        .locator(".demo-banner")
+        .evaluate(
+          (el) =>
+            el.compareDocumentPosition(
+              document.querySelector(".volume-grid")!,
+            ) & Node.DOCUMENT_POSITION_PRECEDING,
+        ),
+    ).toBeTruthy();
     await page.locator(".volume-card img").evaluateAll(async (images) => {
       await Promise.all(
         images.map(async (image) => {
@@ -172,6 +202,7 @@ test("readable without JavaScript", async ({ browser }) => {
   await page.goto("http://localhost:4321/aku-oregairu/" + reader);
   await expect(page.locator("#page p")).toHaveCount(28);
   await expect(page.locator("#reader")).toHaveClass(/fallback/);
+  await expect(page.locator("#reader")).toHaveAttribute("data-theme", "putih");
   await context.close();
 });
 
@@ -244,4 +275,68 @@ test("spread image and short viewport fallback", async ({ page }) => {
   await page.waitForTimeout(400);
   await expect(page.locator("#reader")).toHaveClass(/fallback/);
   await expect(page.locator("#page p")).toHaveCount(28);
+});
+
+test("white default and all reader palettes remain distinct", async ({
+  page,
+}) => {
+  await page.goto(reader);
+  await ready(page);
+  await expect(page.locator("#reader")).toHaveAttribute("data-theme", "putih");
+  await page.getByRole("button", { name: "Pengaturan baca" }).click();
+  for (const [name, theme, color] of [
+    ["Kertas", "kertas", "rgb(247, 243, 235)"],
+    ["Gelap", "gelap", "rgb(34, 37, 33)"],
+    ["Putih", "putih", "rgb(255, 255, 255)"],
+  ]) {
+    await page.getByRole("button", { name, exact: true }).click();
+    await expect(page.locator("#reader")).toHaveAttribute("data-theme", theme);
+    expect(
+      await page
+        .locator("#reader")
+        .evaluate((el) => getComputedStyle(el).backgroundColor),
+    ).toBe(color);
+    await expect(
+      page.getByRole("button", { name, exact: true }),
+    ).toHaveAttribute("aria-pressed", "true");
+  }
+});
+
+test("existing paper preference survives new white default", async ({
+  page,
+}) => {
+  await page.addInitScript(() =>
+    localStorage.setItem(
+      "oregairu.settings",
+      JSON.stringify({ version: 1, theme: "kertas", size: 22, leading: 2 }),
+    ),
+  );
+  await page.goto(reader);
+  await ready(page);
+  await expect(page.locator("#reader")).toHaveAttribute("data-theme", "kertas");
+  expect(
+    await page.locator("#page").evaluate((el) => getComputedStyle(el).fontSize),
+  ).toBe("22px");
+});
+
+test("catalog remains readable at 200 percent zoom", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("");
+  await page.evaluate(() => (document.documentElement.style.zoom = "2"));
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBeTruthy();
+  expect(
+    await page
+      .locator(".hero-copy")
+      .evaluate(
+        (el) =>
+          el.getBoundingClientRect().bottom <=
+          document.querySelector(".series-hero")!.getBoundingClientRect()
+            .bottom,
+      ),
+  ).toBeTruthy();
+  await expect(page.locator(".wordmark")).toBeVisible();
 });

@@ -13,7 +13,7 @@ export type Progress = {
 };
 export const defaults: Settings = {
   version: 1,
-  theme: "kertas",
+  theme: "putih",
   size: 18,
   leading: 1.8,
 };

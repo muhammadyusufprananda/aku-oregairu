@@ -23,7 +23,7 @@ This file is the standing product and engineering brief for AI coding agents (in
 
 - Language: **Bahasa Indonesia** for the user-facing interface.
 - Scope: **Oregairu only**; one series, multiple volumes and chapters.
-- Homepage: **the volume catalog itself**. No separate landing page, promotional hero, splash screen, or introduction gate.
+- Homepage: **the volume catalog itself**. A Yukinon background hero matching the supplied reference is explicitly approved by the owner; keep the catalog directly below it on the same page. No separate landing page, splash screen, or introduction gate.
 - Reading model: **Page Flip** / paginated horizontal reading, not default continuous scrolling.
 - Visual direction: minimalist, premium, literary, e-reader-like; not an anime merchandise shop.
 - Reader: responsive book-style pages, adjustable typography and theme, automatic local progress saving.
@@ -45,7 +45,7 @@ This page must show Oregairu volumes immediately below a compact site header. Ma
 - Offer a discreet **Lanjutkan Membaca** entry when valid local reading progress exists; it must not displace the catalog.
 - Keep mobile layout practical: a clean 2-column grid is an acceptable baseline, but the design can explore a more distinctive volume-selection interaction if it remains simpler and more useful than a conventional store grid.
 - Desktop should scale gracefully without oversized cards or excessive empty decoration.
-- No fake statistics, fabricated chapter counts, ornamental bookshelves, huge character banners, auto-playing carousels, or generic promotional copy.
+- No fake statistics, fabricated chapter counts, ornamental bookshelves, oversized promotional banners, auto-playing carousels, or generic promotional copy.
 
 ### `/volume/[slug]/` — Volume Detail
 
@@ -80,18 +80,21 @@ Suggested initial tokens (refine through real device testing):
 
 ```css
 :root {
-  --paper: #f7f3eb;
-  --paper-elevated: #fcfaf6;
-  --ink: #282722;
-  --ink-muted: #777167;
-  --line: #ded8ce;
-  --accent: #343b37;
+  --paper: #ffffff;
+  --paper-elevated: #fafafa;
+  --ink: #202020;
+  --ink-muted: #696969;
+  --line: #e5e5e5;
+  --accent: #242424;
   --content-max: 1120px;
   --reader-max: 680px;
 }
 ```
 
 - Prefer a book-friendly serif (e.g. Literata or Noto Serif) for prose and a restrained UI font for controls.
+- Site and hero titles use locally hosted Nunito weight 900, uppercase and rounded like the volume-cover lettering; reading prose remains Literata.
+- Default site surfaces and the initial reader theme are white. Retain Kertas and Gelap as explicit reader palettes and preserve existing saved preferences.
+- The Yukinon hero is 300–340px tall on phones and at most 360px on desktop; blend artwork into white using a subtle CSS fade, keep the face visible, and place the catalog heading/grid directly afterward.
 - Host fonts locally where licensing allows; minimize font weights and payload.
 - Comfortable reading line-height, typically around 1.65–1.9; user-adjustable.
 - Avoid fully justified Indonesian prose if it causes distracting word gaps on narrow screens; default to left-aligned text unless testing supports otherwise.
@@ -249,6 +252,6 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 
 ## 11. Explicit anti-patterns
 
-**Do not implement:** decorative bookshelves, faux wooden textures, oversized anime hero banners, multi-series search, storefront pricing, account systems, fake reading statistics, busy dashboards, autoplay effects, excessive page-turn 3D physics, or meaningless placeholder controls.
+**Do not implement:** decorative bookshelves, faux wooden textures, oversized promotional hero banners, multi-series search, storefront pricing, account systems, fake reading statistics, busy dashboards, autoplay effects, excessive page-turn 3D physics, or meaningless placeholder controls.
 
 **North star:** The homepage makes choosing an Oregairu volume effortless. The reader makes the website itself easy to forget.

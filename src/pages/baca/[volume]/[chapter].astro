@@ -28,7 +28,7 @@ const blocks = blocksFor(index);
     class="reader fallback"
     id="reader"
     data-chapter={index}
-    data-theme="kertas"
+    data-theme="putih"
   >
     <header class="reader-top">
       <a
@@ -132,7 +132,7 @@ const blocks = blocksFor(index);
           {["Kertas", "Putih", "Gelap"].map((t) => (
             <button
               data-theme-value={t.toLowerCase()}
-              aria-pressed={t === "Kertas"}
+              aria-pressed={t === "Putih"}
             >
               {t}
             </button>

@@ -6,34 +6,40 @@ import { volumes, url } from "../lib/catalog";
 
 <Base title="Koleksi volume">
   <main class="catalog">
-    <section class="catalog-intro" aria-label="Koleksi Oregairu">
-      <div class="section-heading">
-        <h1>Koleksi volume</h1>
-        <span>Yahari Ore no Seishun Love Comedy wa Machigatteiru</span>
-      </div>
+    <section class="series-hero" aria-label="Oregairu">
       <img
-        class="yukino-portrait"
-        src={url("assets/yukino-400.webp")}
+        class="hero-art"
+        src={url("assets/yukino-800.webp")}
         srcset={`${url("assets/yukino-400.webp")} 400w, ${url("assets/yukino-800.webp")} 800w`}
-        sizes="(max-width:480px) 130px, 160px"
-        width="400"
-        height="600"
+        sizes="(max-width:480px) 76vw, 420px"
+        width="800"
+        height="1200"
         alt="Ilustrasi Yukino Yukinoshita di dekat jendela"
         fetchpriority="high"
       />
+      <div class="hero-copy">
+        <p class="hero-title">
+          My Youth
+          <br />
+          Romantic
+          <br />
+          Comedy Is
+          <br />
+          Wrong, As
+          <br />I Expected
+        </p>
+        <p class="hero-subtitle">
+          Yahari Ore no Seishun Love Comedy wa Machigatteiru
+        </p>
+      </div>
     </section>
+    <div class="section-heading">
+      <h1>Koleksi volume</h1>
+      <span>Oregairu</span>
+    </div>
     <a id="resume" class="resume" hidden>
       Lanjutkan membaca <span>→</span>
     </a>
-    <section class="demo-banner" aria-label="Contoh pembaca">
-      <div>
-        <h2>Contoh Baca Orisinal</h2>
-        <p>Teks demo, bukan terjemahan Oregairu.</p>
-      </div>
-      <a class="text-link" href={url("volume/contoh/")}>
-        Coba <span aria-hidden="true">→</span>
-      </a>
-    </section>
     <div class="volume-grid">
       {volumes.map((v, index) => (
         <article class="volume-card">
@@ -45,6 +51,15 @@ import { volumes, url } from "../lib/catalog";
         </article>
       ))}
     </div>
+    <section class="demo-banner" aria-label="Contoh pembaca">
+      <div>
+        <h2>Contoh Baca Orisinal</h2>
+        <p>Teks demo, bukan terjemahan Oregairu.</p>
+      </div>
+      <a class="text-link" href={url("volume/contoh/")}>
+        Coba <span aria-hidden="true">→</span>
+      </a>
+    </section>
   </main>
 </Base>
 <script>

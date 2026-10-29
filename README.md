@@ -33,4 +33,8 @@ Target: https://muhammadyusufprananda.github.io/aku-oregairu/
 
 Workflow `.github/workflows/deploy.yml` membangun `dist/` pada push ke `main`. Pilih **Settings → Pages → Source → GitHub Actions** di GitHub. Semua tautan internal memakai helper base URL. Untuk custom domain, ubah `site` dan `base` di konfigurasi Astro dan uji ulang aset/deep link. Tidak ada Node.js runtime di hosting.
 
-Font Literata: SIL Open Font License, salinan di `public/assets/Literata-OFL.txt`. Teks dan SVG demo dibuat dengan bantuan AI. Hak Oregairu tetap pada pemegang haknya; tidak ada isi EPUB atau ilustrasi resminya dipublikasikan.
+Font Literata: SIL Open Font License, salinan di `public/assets/Literata-OFL.txt`. Teks dan SVG demo dibuat dengan bantuan AI. Hak Oregairu tetap pada pemegang haknya; teks dan berkas EPUB tidak dipublikasikan. Sampul katalog diambil dari EPUB lokal berdasarkan konfirmasi izin pemilik proyek; ilustrasi Yukino disiapkan dari referensi dengan bantuan AI. Rincian aset ada di `docs/ASSETS.md`.
+
+## Menyiapkan ulang sampul
+
+Dengan koleksi EPUB lokal yang telah diizinkan dan Python + Pillow tersedia, jalankan `python3 tools/prepare_covers.py`. Script hanya mengambil gambar yang ditandai sebagai sampul pada metadata EPUB, menghasilkan WebP ukuran 360/720 piksel, dan memperbarui `docs/cover-sources.json`. Tidak mengekstrak teks bab. Build/CI memakai aset yang sudah disimpan di repo dan tidak membutuhkan `raw/` atau Python.

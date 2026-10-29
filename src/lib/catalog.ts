@@ -22,6 +22,8 @@ export const volumes = [
 ].map((number) => ({
   slug: `volume-${number.replace(".", "-")}`,
   number: number.padStart(2, "0"),
+  cover: url(`assets/covers/volume-${number.replace(".", "-")}-720.webp`),
+  coverSmall: url(`assets/covers/volume-${number.replace(".", "-")}-360.webp`),
 }));
 export type Block = {
   id: string;

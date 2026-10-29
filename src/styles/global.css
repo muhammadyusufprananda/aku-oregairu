@@ -762,3 +762,81 @@ dialog:not(.viewer) {
 .setting {
   overflow-wrap: anywhere;
 }
+.cover-image {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+.cover-image:after {
+  display: none;
+}
+.cover-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: bottom left;
+  border-radius: 3px;
+}
+.catalog-intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 160px;
+  align-items: center;
+  gap: 24px;
+  margin: 0 0 28px;
+}
+.catalog-intro .section-heading {
+  display: block;
+  margin: 0;
+}
+.catalog-intro .section-heading h1 {
+  white-space: normal;
+}
+.catalog-intro .section-heading span {
+  display: block;
+  max-width: 330px;
+  font:
+    12px/1.8 Literata,
+    serif;
+  margin-top: 18px;
+  color: var(--muted);
+}
+.yukino-portrait {
+  display: block;
+  width: 160px;
+  height: 240px;
+  object-fit: contain;
+  border-radius: 3px;
+}
+@media (max-width: 480px) {
+  .catalog-intro {
+    grid-template-columns: minmax(0, 1fr) 130px;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+  .yukino-portrait {
+    width: 130px;
+    height: 195px;
+  }
+  .catalog-intro .section-heading h1 {
+    font-size: 27px;
+  }
+  .catalog-intro .section-heading span {
+    font-size: 10px;
+    margin-top: 12px;
+  }
+}
+@media (max-width: 340px) {
+  .catalog-intro {
+    grid-template-columns: minmax(0, 1fr) 110px;
+    gap: 12px;
+  }
+  .yukino-portrait {
+    width: 110px;
+    height: 165px;
+  }
+  .catalog-intro .section-heading h1 {
+    font-size: 25px;
+  }
+}

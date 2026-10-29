@@ -1,14 +1,27 @@
 ---
 import Base from "../layouts/Base.astro";
+import VolumeCover from "../components/VolumeCover.astro";
 import { volumes, url } from "../lib/catalog";
 ---
 
 <Base title="Koleksi volume">
   <main class="catalog">
-    <div class="section-heading">
-      <h1>Koleksi volume</h1>
-      <span>Yahari Ore no Seishun Love Comedy wa Machigatteiru</span>
-    </div>
+    <section class="catalog-intro" aria-label="Koleksi Oregairu">
+      <div class="section-heading">
+        <h1>Koleksi volume</h1>
+        <span>Yahari Ore no Seishun Love Comedy wa Machigatteiru</span>
+      </div>
+      <img
+        class="yukino-portrait"
+        src={url("assets/yukino-400.webp")}
+        srcset={`${url("assets/yukino-400.webp")} 400w, ${url("assets/yukino-800.webp")} 800w`}
+        sizes="(max-width:480px) 130px, 160px"
+        width="400"
+        height="600"
+        alt="Ilustrasi Yukino Yukinoshita di dekat jendela"
+        fetchpriority="high"
+      />
+    </section>
     <a id="resume" class="resume" hidden>
       Lanjutkan membaca <span>→</span>
     </a>
@@ -22,18 +35,10 @@ import { volumes, url } from "../lib/catalog";
       </a>
     </section>
     <div class="volume-grid">
-      {volumes.map((v) => (
+      {volumes.map((v, index) => (
         <article class="volume-card">
           <a href={url(`volume/${v.slug}/`)}>
-            <div class="cover" aria-hidden="true">
-              <span class="series">
-                Aku
-                <br />
-                Oregairu
-              </span>
-              <span class="number">{v.number}</span>
-              <small>SAMPUL PENGGANTI</small>
-            </div>
+            <VolumeCover {...v} eager={index < 4} />
             <h2>Volume {v.number}</h2>
             <p>Konten belum tersedia</p>
           </a>

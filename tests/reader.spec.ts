@@ -9,6 +9,19 @@ for (const width of [320, 360, 390, 430, 768, 1280])
     await page.setViewportSize({ width, height: 800 });
     await page.goto("");
     await expect(page.locator(".volume-card")).toHaveCount(18);
+    await expect(page.locator(".wordmark")).toContainText("Aku Oregairu");
+    await expect(page.locator(".yukino-portrait")).toBeVisible();
+    await page.locator(".volume-card img").evaluateAll(async (images) => {
+      await Promise.all(
+        images.map(async (image) => {
+          const img = image as HTMLImageElement;
+          img.loading = "eager";
+          await img.decode();
+          if (!img.naturalWidth) throw new Error("Sampul gagal dimuat");
+        }),
+      );
+    });
+    await expect(page.getByText("SAMPUL PENGGANTI")).toHaveCount(0);
     expect(
       await page.evaluate(
         () => document.documentElement.scrollWidth <= innerWidth,
@@ -18,6 +31,10 @@ for (const width of [320, 360, 390, 430, 768, 1280])
     await expect(
       page.getByText("Konten belum tersedia.", { exact: false }).last(),
     ).toBeVisible();
+    await expect(page.locator(".detail-intro img")).toHaveAttribute(
+      "alt",
+      "Sampul Oregairu Volume 01",
+    );
     await page.goto(reader);
     await ready(page);
     const blocks = await page

@@ -1,6 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
-import { url } from "../lib/catalog";
+import { url, chaptersFor, editorialLabel } from "../lib/catalog";
+const chapter = chaptersFor("volume-1")[0];
 ---
 
 <Base title="Tentang proyek">
@@ -22,30 +23,36 @@ import { url } from "../lib/catalog";
     </p>
     <h2>Status saat ini</h2>
     <p>
-      Website berada dalam tahap pengembangan. Katalog hanya menampilkan nomor
-      volume berdasarkan inventaris bahan lokal. Belum ada teks terjemahan yang
-      diterbitkan di sini. Katalog menggunakan sampul volume dari koleksi lokal.
+      Volume 1 Bab 1 sudah tersedia dalam bahasa Indonesia dengan status{" "}
+      <strong>{editorialLabel(chapter)}</strong>. Volume lain belum memiliki
+      teks terjemahan di website ini. Katalog memakai sampul dari koleksi lokal
+      pemilik proyek.
     </p>
     <h2>Proses editorial dan bantuan AI</h2>
     <p>
-      Penerjemahan akan melalui peninjauan manusia untuk menjaga makna,
-      konsistensi istilah, dan keterbacaan. AI membantu pengembangan website
-      serta pembuatan teks dan ilustrasi demonstrasi. Materi demo bukan kutipan
-      atau terjemahan novel. Ilustrasi Yukino di katalog disiapkan dari
-      referensi visual dengan bantuan AI.
+      Terjemahan Indonesia disusun dengan bantuan AI dari edisi bahasa Inggris
+      yang diterjemahkan Jennifer Ward dan diterbitkan Yen Press. Ini bukan
+      terjemahan langsung dari bahasa Jepang. Status draf menandakan bahwa
+      hasilnya belum ditinjau manusia untuk ketepatan makna, istilah, dan gaya
+      bahasa. Status hanya diubah setelah pemilik proyek menyatakan peninjauan
+      selesai.
+    </p>
+    <p>
+      AI juga membantu pengembangan website. Ilustrasi Yukino pada hero
+      disiapkan dari referensi visual dengan bantuan AI; ilustrasi dalam Bab 1
+      berasal dari EPUB sumber dan ditampilkan sesuai urutannya.
     </p>
     <h2>Hak cipta dan atribusi</h2>
     <p>
       Hak atas Oregairu tetap berada pada pemegang hak masing-masing. Status
-      nonkomersial bukan pengganti izin publikasi. Sampul digunakan berdasarkan
-      konfirmasi izin dari pemilik proyek. Berkas EPUB dan teks novelnya tidak
-      disertakan dalam website ini. Sampul menampilkan karya Ponkan8 untuk novel
-      Wataru Watari, dari edisi berbahasa Inggris Yen Press.
+      nonkomersial bukan pengganti izin publikasi. Sampul dan materi bab
+      dipasang berdasarkan konfirmasi serta arahan pemilik proyek. Berkas EPUB
+      tidak dipublikasikan. Novel ditulis oleh Wataru Watari dan diilustrasikan
+      Ponkan8; edisi Inggris mencantumkan Jennifer Ward sebagai penerjemah.
     </p>
     <p>
-      Tipografi Literata dan Nunito digunakan dengan lisensi SIL Open Font
-      License; salinan lisensi disertakan dalam aset website. Ilustrasi contoh
-      dibuat sebagai SVG orisinal untuk proyek ini.
+      Tipografi Noto Sans, Literata, dan Nunito digunakan dengan lisensi SIL
+      Open Font License; salinan lisensi disertakan dalam aset website.
     </p>
     <h2>Privasi dan kontak</h2>
     <p>

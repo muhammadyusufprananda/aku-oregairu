@@ -1,0 +1,45 @@
+---
+import type { Block } from "../lib/catalog";
+import { segmentsFor } from "../lib/prose";
+interface Props {
+  block: Block;
+}
+const { block } = Astro.props;
+const Tag =
+  block.kind === "heading" ? (block.headingLevel === 2 ? "h2" : "h1") : "p";
+---
+
+{block.kind === "image" ? (
+  <figure>
+    <button data-image={block.src} aria-label="Perbesar ilustrasi">
+      <img
+        src={block.src}
+        alt={block.text}
+        width={block.width}
+        height={block.height}
+        loading="lazy"
+        decoding="async"
+      />
+    </button>
+    <figcaption>{block.text}</figcaption>
+  </figure>
+) : (
+  <Tag
+    class:list={[block.kind === "separator" && "scene-break"]}
+    aria-label={block.kind === "separator" ? "Pergantian adegan" : undefined}
+  >
+    {segmentsFor(block).map((s) =>
+      s.style === "strong-em" ? (
+        <strong>
+          <em>{s.text}</em>
+        </strong>
+      ) : s.style === "strong" ? (
+        <strong>{s.text}</strong>
+      ) : s.style === "em" ? (
+        <em>{s.text}</em>
+      ) : (
+        s.text
+      ),
+    )}
+  </Tag>
+)}

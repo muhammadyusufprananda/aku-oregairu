@@ -1,11 +1,13 @@
 import type { Block } from "./catalog";
 import { readProgress, readSettings, write } from "./storage";
+import { segmentsFor } from "./prose";
 const root = document.querySelector<HTMLElement>("#reader")!;
 const page = document.querySelector<HTMLElement>("#page")!;
 const blocks: Block[] = JSON.parse(
   document.querySelector("#chapter-data")!.textContent!,
 );
-const chapter = Number(root.dataset.chapter);
+const chapter = root.dataset.chapter!;
+const volume = root.dataset.volume!;
 const settings = readSettings();
 type Part = { block: string; start: number; end: number };
 let pages: Part[][] = [],
@@ -17,7 +19,11 @@ const previous = document.querySelector<HTMLButtonElement>("#prev")!,
 const count = document.querySelector("#page-count")!;
 let anchor = { block: blocks[0].id, offset: 0 };
 const saved = readProgress();
-if (saved?.chapter === chapter && blocks.some((b) => b.id === saved.block))
+if (
+  saved?.volume === volume &&
+  saved.chapter === chapter &&
+  blocks.some((b) => b.id === saved.block)
+)
   anchor = { block: saved.block, offset: saved.offset };
 function element(part: Part): HTMLElement {
   const b = blocks.find((b) => b.id === part.block)!;
@@ -31,25 +37,36 @@ function element(part: Part): HTMLElement {
     img.alt = b.text;
     img.loading = "lazy";
     img.decoding = "async";
+    if (b.width) img.width = b.width;
+    if (b.height) img.height = b.height;
     button.append(img);
     const caption = document.createElement("figcaption");
     caption.textContent = b.text;
     figure.append(button, caption);
     return figure;
   }
-  const el = document.createElement(b.kind === "heading" ? "h1" : "p");
-  let cursor = part.start;
-  for (const mark of b.emphasis || []) {
-    const start = Math.max(part.start, mark.start),
-      end = Math.min(part.end, mark.end);
-    if (end <= start) continue;
-    el.append(document.createTextNode(b.text.slice(cursor, start)));
-    const em = document.createElement("em");
-    em.textContent = b.text.slice(start, end);
-    el.append(em);
-    cursor = end;
+  const el = document.createElement(
+    b.kind === "heading" ? (b.headingLevel === 2 ? "h2" : "h1") : "p",
+  );
+  if (b.kind === "separator") {
+    el.className = "scene-break";
+    el.setAttribute("aria-label", "Pergantian adegan");
   }
-  el.append(document.createTextNode(b.text.slice(cursor, part.end)));
+  for (const segment of segmentsFor(b, part.start, part.end)) {
+    if (!segment.style) {
+      el.append(document.createTextNode(segment.text));
+      continue;
+    }
+    const node = document.createElement(
+      segment.style === "em" ? "em" : "strong",
+    );
+    if (segment.style === "strong-em") {
+      const em = document.createElement("em");
+      em.textContent = segment.text;
+      node.append(em);
+    } else node.textContent = segment.text;
+    el.append(node);
+  }
   return el;
 }
 function remember() {
@@ -57,8 +74,8 @@ function remember() {
   const first = pages[current][0];
   anchor = { block: first.block, offset: first.start };
   write("oregairu.progress", {
-    version: 1,
-    volume: "contoh",
+    version: 2,
+    volume,
     chapter,
     ...anchor,
   });
@@ -82,7 +99,7 @@ function fallback() {
       element({ block: b.id, start: 0, end: b.text.length }),
     ),
   );
-  count.textContent = "Mode baca bergulir · Contoh orisinal";
+  count.textContent = "Mode baca bergulir";
   previous.disabled = true;
   next.disabled = true;
   busy = false;
@@ -184,8 +201,8 @@ async function paginate() {
     render(false);
     anchor = target;
     write("oregairu.progress", {
-      version: 1,
-      volume: "contoh",
+      version: 2,
+      volume,
       chapter,
       ...anchor,
     });
@@ -198,6 +215,7 @@ async function paginate() {
 }
 function applySettings() {
   root.dataset.theme = settings.theme;
+  root.dataset.font = settings.font;
   root.style.setProperty("--size", `${settings.size}px`);
   root.style.setProperty("--leading", String(settings.leading));
   document.querySelector<HTMLInputElement>("#font-size")!.value = String(
@@ -210,6 +228,14 @@ function applySettings() {
       b.setAttribute(
         "aria-pressed",
         String(b.dataset.themeValue === settings.theme),
+      ),
+    );
+  root
+    .querySelectorAll<HTMLButtonElement>("[data-font-value]")
+    .forEach((b) =>
+      b.setAttribute(
+        "aria-pressed",
+        String(b.dataset.fontValue === settings.font),
       ),
     );
   root
@@ -266,6 +292,15 @@ root.querySelectorAll<HTMLDialogElement>("dialog").forEach((d) => {
   d.querySelector<HTMLButtonElement>("[data-close]")!.onclick = () => d.close();
   d.addEventListener("close", () => openers.get(d)?.focus());
 });
+root.querySelectorAll<HTMLButtonElement>("[data-font-value]").forEach(
+  (b) =>
+    (b.onclick = () => {
+      settings.font = b.dataset.fontValue as "sans" | "serif";
+      applySettings();
+      write("oregairu.settings", settings);
+      schedule();
+    }),
+);
 document.querySelector<HTMLInputElement>("#font-size")!.oninput = (e) => {
   settings.size = Number((e.target as HTMLInputElement).value);
   applySettings();
@@ -357,7 +392,7 @@ function transform() {
 }
 function showImage(button: HTMLButtonElement) {
   viewerImage.src = button.dataset.image!;
-  viewerImage.alt = button.querySelector("img")?.alt || "Illustration";
+  viewerImage.alt = button.querySelector("img")?.alt || "Ilustrasi";
   zoom = 1;
   panX = panY = 0;
   openDialog(viewer, button);

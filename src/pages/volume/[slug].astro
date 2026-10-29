@@ -1,31 +1,24 @@
 ---
 import Base from "../../layouts/Base.astro";
 import VolumeCover from "../../components/VolumeCover.astro";
-import { volumes, chapters, url } from "../../lib/catalog";
+import {
+  volumes,
+  chaptersFor,
+  chapterUrl,
+  editorialLabel,
+  url,
+} from "../../lib/catalog";
 export function getStaticPaths() {
-  return [
-    ...volumes.map((volume) => ({
-      params: { slug: volume.slug },
-      props: { volume },
-    })),
-    {
-      params: { slug: "contoh" },
-      props: {
-        volume: {
-          slug: "contoh",
-          number: "—",
-          cover: undefined,
-          coverSmall: undefined,
-        },
-      },
-    },
-  ];
+  return volumes.map((volume) => ({
+    params: { slug: volume.slug },
+    props: { volume },
+  }));
 }
 const { volume } = Astro.props;
-const demo = volume.slug === "contoh";
+const chapters = chaptersFor(volume.slug);
 ---
 
-<Base title={demo ? "Contoh Baca Orisinal" : `Volume ${volume.number}`}>
+<Base title={`Volume ${volume.number}`}>
   <main class="detail">
     <a class="back" href={url()}>
       ← Kembali ke koleksi
@@ -33,63 +26,62 @@ const demo = volume.slug === "contoh";
     <section class="detail-intro">
       <VolumeCover {...volume} eager />
       <div>
-        <span class="eyebrow">
-          {demo ? "Pratinjau pengalaman membaca" : "Koleksi Oregairu"}
-        </span>
-        <h1>{demo ? "Contoh Baca Orisinal" : `Volume ${volume.number}`}</h1>
+        <span class="eyebrow">Koleksi Oregairu</span>
+        <h1>Volume {volume.number}</h1>
         <p class="description">
-          {demo
-            ? "Dua bab pendek tentang ruang baca dan waktu untuk berhenti sejenak. Dibuat khusus untuk menguji website; bukan bagian dari novel Oregairu."
-            : "Halaman volume sudah disiapkan. Teks terjemahan dan informasi editorial akan ditambahkan setelah ditinjau."}
+          {chapters.length
+            ? "Bab 1 tersedia dalam bahasa Indonesia, diterjemahkan dari edisi berbahasa Inggris. Baca label editorial sebelum mulai."
+            : "Teks terjemahan belum tersedia untuk volume ini."}
         </p>
-        {demo && (
+        {chapters.length > 0 && (
           <a
             class="primary"
             id="start-reading"
-            href={url(`baca/contoh/${chapters[0].slug}/`)}
+            data-volume={volume.slug}
+            href={chapterUrl(chapters[0])}
           >
             Mulai Membaca →
           </a>
         )}
       </div>
     </section>
-    {demo ? (
+    {chapters.length ? (
       <section>
         <h2>Daftar bab</h2>
         <ol class="chapter-list">
-          {chapters.map((c, i) => (
+          {chapters.map((c) => (
             <li>
-              <a href={url(`baca/contoh/${c.slug}/`)}>
-                <small>0{i + 1}</small>
-                <span>{c.title}</span>
+              <a href={chapterUrl(c)}>
+                <small>{String(c.number).padStart(2, "0")}</small>
+                <span>
+                  {c.title}
+                  <small class="chapter-status">{editorialLabel(c)}</small>
+                </span>
                 <span aria-hidden="true">→</span>
               </a>
             </li>
           ))}
         </ol>
         <p class="notice">
-          Teks dan ilustrasi contoh adalah materi orisinal dengan bantuan AI,
-          hanya untuk demonstrasi pembaca.
+          {editorialLabel(chapters[0])}.{" "}
+          {chapters[0].editorialStatus === "draft"
+            ? "Terjemahan ini memerlukan peninjauan manusia untuk ketepatan makna, istilah, dan gaya bahasa."
+            : "Peninjauan manusia telah dikonfirmasi oleh pemilik proyek."}
         </p>
       </section>
     ) : (
-      <p class="notice">
-        Konten belum tersedia. Sambil menunggu, kamu bisa{" "}
-        <a style="text-decoration:underline" href={url("volume/contoh/")}>
-          mencoba pembaca
-        </a>
-        .
-      </p>
+      <p class="notice">Konten belum tersedia.</p>
     )}
   </main>
 </Base>
 <script>
   import { readProgress } from "../../lib/storage";
-  import { chapters, url } from "../../lib/catalog";
-  const p = readProgress();
-  const a = document.querySelector<HTMLAnchorElement>("#start-reading");
-  if (p && a) {
-    a.href = url(`baca/contoh/${chapters[p.chapter].slug}/`);
+  import { getChapter, chapterUrl } from "../../lib/catalog";
+  const p = readProgress(),
+    a = document.querySelector<HTMLAnchorElement>("#start-reading");
+  const c = p ? getChapter(p.volume, p.chapter) : undefined;
+  if (c && a && c.volume === a.dataset.volume) {
+    a.href = chapterUrl(c);
     a.textContent = "Lanjutkan Membaca →";
   }
 </script>

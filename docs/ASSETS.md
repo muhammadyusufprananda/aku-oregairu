@@ -1,9 +1,10 @@
-# Aset visual Aku Oregairu
+# Aset Aku Oregairu
 
-- Pemilik proyek mengonfirmasi izin penggunaan gambar dalam percakapan pada 30 Oktober 2026. Konfirmasi ini menjadi dasar pemasangan sampul dari koleksi lokal, bukan klaim lisensi terbuka atau afiliasi resmi.
-- `public/assets/covers/volume-*-{360,720}.webp`: sampul yang ditandai dalam manifest EPUB masing-masing volume, dikonversi tanpa pemotongan. Sumber per gambar tercatat di `cover-sources.json`. Hak karya tetap pada pemegang haknya.
-- `public/assets/yukino-{400,800}.webp`: ilustrasi Yukino yang disiapkan dengan imagegen dari gambar `UI Refrence.png` milik pengguna. Ini hasil pengolahan AI dari referensi, bukan ilustrasi baru yang diambil dari EPUB atau gambar resmi yang diklaim autentik.
-- `public/assets/window.svg` dan `landscape.svg`: ilustrasi demo orisinal berbantuan AI; tetap dipakai untuk menguji reader, terpisah dari katalog volume asli.
-- Font Literata dan Nunito menggunakan SIL Open Font License; lihat `public/assets/Literata-OFL.txt` dan `public/assets/Nunito-OFL.txt`. Nunito 900 dipakai sebagai pendekatan gaya judul sampul, bukan identifikasi font asli.
+- Pemilik proyek mengonfirmasi penggunaan aset koleksi lokal dan meminta penerjemahan serta publikasi Volume 1 Bab 1 sebagai draf dalam percakapan pada 30 Oktober 2026. Ini dasar pemasangan materi, bukan klaim lisensi terbuka atau afiliasi resmi.
+- `public/assets/covers/volume-*-{360,720}.webp`: gambar sampul yang ditandai dalam EPUB masing-masing volume, dikonversi tanpa pemotongan. Rincian sumber ada di `cover-sources.json`.
+- `public/assets/chapters/volume-1/bab-1/*.webp`: empat ilustrasi dari bagian Bab 1, karya Ponkan8; sumber dan urutannya ada di `editorial/volume-1-bab-1-sources.json`. Gambar tidak digambar ulang. Tulisan dalam ilustrasi bentang diterjemahkan sebagai teks pendamping pada bacaan.
+- `public/assets/yukino-{400,800}.webp`: hasil imagegen dari referensi `UI Refrence.png` pengguna, dipakai sebagai hero. Bukan gambar resmi yang diklaim autentik.
+- Teks Indonesia Bab 1 adalah draf berbantuan AI dari edisi Inggris terjemahan Jennifer Ward (Yen Press), novel Wataru Watari dengan ilustrasi Ponkan8. Hak karya tetap pada pemegang hak masing-masing. Status editorial dan cara meninjaunya dijelaskan di `editorial/README.md`.
+- Font Noto Sans, Literata, dan Nunito menggunakan SIL Open Font License. Salinan: `public/assets/Noto-Sans-OFL.txt`, `Literata-OFL.txt`, dan `Nunito-OFL.txt`. Nunito 900 adalah pendekatan gaya judul sampul, bukan identifikasi font asli.
 
-Berkas EPUB, teks novel, dan gambar referensi antarmuka tidak masuk build publik. Tidak ada konten novel yang diterjemahkan pada tahap ini.
+Berkas EPUB, ekstraksi prosa Inggris, dan gambar referensi antarmuka tidak masuk build publik. Aset SVG serta teks demonstrasi sudah dihapus.

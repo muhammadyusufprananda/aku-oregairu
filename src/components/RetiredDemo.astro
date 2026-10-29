@@ -1,0 +1,17 @@
+---
+import Base from "../layouts/Base.astro";
+import { url } from "../lib/catalog";
+---
+
+<Base title="Bacaan telah diperbarui">
+  <main class="about">
+    <h1>Bacaan telah diperbarui</h1>
+    <p>
+      Halaman demonstrasi telah dihapus. Volume 1 Bab 1 kini tersedia sebagai
+      draf terjemahan.
+    </p>
+    <a class="primary" href={url("volume/volume-1/")}>
+      Buka Volume 1 →
+    </a>
+  </main>
+</Base>

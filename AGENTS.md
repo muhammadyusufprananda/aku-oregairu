@@ -91,8 +91,8 @@ Suggested initial tokens (refine through real device testing):
 }
 ```
 
-- Prefer a book-friendly serif (e.g. Literata or Noto Serif) for prose and a restrained UI font for controls.
-- All site, page, volume, chapter, dialog, and hero titles use locally hosted Nunito weight 900, rounded like the volume-cover lettering. The wordmark and main hero title are uppercase; other headings retain their natural case. Reading prose remains Literata.
+- Default reading prose uses locally hosted Noto Sans; offer Literata as a Serif setting. Use regular/italic/bold variants to preserve source emphasis.
+- All site, page, volume, chapter, dialog, and hero titles use locally hosted Nunito weight 900, rounded like the volume-cover lettering. The wordmark and main hero title are uppercase; other headings retain their natural case. Reading prose defaults to Noto Sans, with Literata available as a reader setting.
 - Default site surfaces and the initial reader theme are white. Retain Kertas and Gelap as explicit reader palettes and preserve existing saved preferences.
 - The Yukinon hero is 300–340px tall on phones and at most 360px on desktop; blend artwork into white using a subtle CSS fade, keep the face visible, and place the catalog heading/grid directly afterward.
 - Host fonts locally where licensing allows; minimize font weights and payload.
@@ -143,7 +143,7 @@ This is the most important engineering feature. Implement a **reliable paginated
 ### Settings and persistence
 
 - Theme: `Kertas`, `Putih`, `Gelap`.
-- Adjustable font size, optional serif/font choices, and line spacing.
+- Adjustable font size, Sans-serif/Serif font choice, and line spacing. Default: Sans-serif (Noto Sans), 18px, line spacing 1.8, Putih. Preserve older theme/size/spacing settings during migration.
 - Persist settings and reading progress using `localStorage` with a versioned schema and defensive parsing.
 - Track volume/chapter and stable content anchor, with a safe fallback if content changes.
 - Do not require registration or external analytics.
@@ -205,7 +205,7 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 ## 7. Content, translation, and rights rules
 
 - All visible interface copy should be natural Indonesian.
-- Treat translations as editorial material requiring human review, not as automatically publishable AI output.
+- Treat translations as editorial material requiring human review. The owner explicitly requested public Volume 1 Bab 1 as an AI-assisted draft before human review; label it accordingly. Set editorialStatus to reviewed only after the owner confirms that review is complete.
 - Keep a glossary/style guide for names, honorifics, tone, and recurring terms when translation work begins.
 - Never silently rewrite the meaning of a source passage for fluency.
 - Be transparent about AI assistance without making AI the site's visual identity.
@@ -242,7 +242,7 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 
 - [ ] Homepage opens directly to a usable Oregairu volume catalog.
 - [ ] Selecting a volume opens its detail page.
-- [ ] Chapter navigation opens a functional Page Flip reader with original placeholder content.
+- [ ] Chapter navigation opens a functional Page Flip reader with translated editorial content.
 - [ ] Reader handles tap, swipe, keyboard, resizing, and font changes without losing logical position.
 - [ ] Illustrations display uncropped and can open in a zoomable viewer.
 - [ ] Theme, typography, and progress persist locally.
@@ -255,3 +255,12 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 **Do not implement:** decorative bookshelves, faux wooden textures, oversized promotional hero banners, multi-series search, storefront pricing, account systems, fake reading statistics, busy dashboards, autoplay effects, excessive page-turn 3D physics, or meaningless placeholder controls.
 
 **North star:** The homepage makes choosing an Oregairu volume effortless. The reader makes the website itself easy to forget.
+
+## 12. Current editorial implementation
+
+- Demo prose and SVGs are retired. Old demo URLs display a short replacement notice linking to Volume 1. Do not restore demonstration content.
+- Volume 1 Bab 1 is translated from the owner-provided English EPUB, not directly from Japanese. Include all chapter001* spine sections before Chapter 2 and the four illustrations in order; do not bundle English prose extraction or EPUB files.
+- Store chapter metadata/status in `src/content/chapters/index.json`; available statuses are `draft` and `reviewed`. Content uses stable block IDs and source references. Instructions and glossary live in `docs/editorial/`.
+- Hero credits: Wataru Watari (Penulis), Ponkan8 (Ilustrator).
+- Settings/progress use version 2. Preserve old settings; ignore demo progress. Sans-serif is the default, while serif remains available.
+- PWA/installability/offline caching are explicitly deferred by the owner; do not add them in this change.

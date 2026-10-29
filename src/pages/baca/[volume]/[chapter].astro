@@ -1,17 +1,27 @@
 ---
 import Base from "../../../layouts/Base.astro";
-import { blocksFor, chapters, url } from "../../../lib/catalog";
+import ReaderBlock from "../../../components/ReaderBlock.astro";
+import {
+  chapters,
+  chaptersFor,
+  chapterUrl,
+  editorialLabel,
+  url,
+} from "../../../lib/catalog";
+import { blocksFor } from "../../../lib/content";
 export function getStaticPaths() {
-  return chapters.map((chapter, index) => ({
-    params: { volume: "contoh", chapter: chapter.slug },
-    props: { index },
+  return chapters.map((chapter) => ({
+    params: { volume: chapter.volume, chapter: chapter.slug },
+    props: { chapter },
   }));
 }
-const { index } = Astro.props;
-const blocks = blocksFor(index);
+const { chapter } = Astro.props;
+const blocks = blocksFor(chapter);
+const volumeChapters = chaptersFor(chapter.volume);
+const nextChapter = volumeChapters.find((c) => c.number > chapter.number);
 ---
 
-<Base title={chapters[index].title} reader>
+<Base title={chapter.title} reader>
   <noscript>
     <style>
       .reader [data-open],
@@ -27,21 +37,23 @@ const blocks = blocksFor(index);
   <main
     class="reader fallback"
     id="reader"
-    data-chapter={index}
+    data-volume={chapter.volume}
+    data-chapter={chapter.slug}
+    data-font="sans"
     data-theme="putih"
   >
     <header class="reader-top">
       <a
         class="icon-button"
-        href={url("volume/contoh/")}
+        href={url(`volume/${chapter.volume}/`)}
         aria-label="Kembali ke daftar bab"
       >
         ←
       </a>
       <span>
-        Contoh orisinal · Bab {index + 1}
+        Volume 01 · Bab {chapter.number}
         <br />
-        {chapters[index].title}
+        {chapter.title}
       </span>
       <button
         class="icon-button"
@@ -54,37 +66,13 @@ const blocks = blocksFor(index);
         ☰
       </button>
     </header>
+    <aside class="reader-editorial" aria-label="Status editorial">
+      {editorialLabel(chapter)}
+    </aside>
     <article class="page-area" id="page" aria-label="Halaman bacaan">
-      {blocks.map((b) =>
-        b.kind === "heading" ? (
-          <h1>{b.text}</h1>
-        ) : b.kind === "image" ? (
-          <figure>
-            <button data-image={b.src} aria-label="Perbesar ilustrasi">
-              <img
-                src={b.src}
-                loading="lazy"
-                decoding="async"
-                alt={b.text}
-                width={index === 0 ? 600 : 1200}
-                height={index === 0 ? 800 : 600}
-              />
-            </button>
-            <figcaption>{b.text}</figcaption>
-          </figure>
-        ) : (
-          <p>
-            {b.emphasis?.length ? (
-              <>
-                <em>{b.text.slice(0, 8)}</em>
-                {b.text.slice(8)}
-              </>
-            ) : (
-              b.text
-            )}
-          </p>
-        ),
-      )}
+      {blocks.map((block) => (
+        <ReaderBlock block={block} />
+      ))}
     </article>
     <footer class="reader-bottom">
       <button id="prev" class="icon-button" aria-label="Halaman sebelumnya">
@@ -93,15 +81,17 @@ const blocks = blocksFor(index);
       <div class="reader-progress">
         <a
           id="next-chapter"
-          href={url(
-            index === 0 ? `baca/contoh/${chapters[1].slug}/` : "volume/contoh/",
-          )}
+          href={
+            nextChapter
+              ? chapterUrl(nextChapter)
+              : url(`volume/${chapter.volume}/`)
+          }
           hidden
         >
-          {index === 0 ? "Bab berikutnya →" : "Kembali ke daftar bab →"}
+          {nextChapter ? "Bab berikutnya →" : "Kembali ke daftar bab →"}
         </a>
         <span id="page-count" aria-live="polite">
-          Mode baca bergulir · Contoh orisinal
+          Mode baca bergulir
         </span>
       </div>
       <button id="next" class="icon-button" aria-label="Halaman berikutnya">
@@ -126,6 +116,19 @@ const blocks = blocksFor(index);
           value="18"
         />
       </label>
+      <div class="setting">
+        Jenis font
+        <div class="choices">
+          {[
+            { value: "sans", label: "Sans-serif" },
+            { value: "serif", label: "Serif" },
+          ].map((f) => (
+            <button data-font-value={f.value} aria-pressed={f.value === "sans"}>
+              {f.label}
+            </button>
+          ))}
+        </div>
+      </div>
       <div class="setting">
         Tema tampilan
         <div class="choices" id="themes">
@@ -161,18 +164,18 @@ const blocks = blocksFor(index);
           ×
         </button>
       </div>
-      {chapters.map((c, i) => (
+      {volumeChapters.map((c) => (
         <a
-          href={url(`baca/contoh/${c.slug}/`)}
-          aria-current={i === index ? "page" : undefined}
+          href={chapterUrl(c)}
+          aria-current={c.id === chapter.id ? "page" : undefined}
         >
-          0{i + 1} · {c.title}
+          {String(c.number).padStart(2, "0")} · {c.title}
         </a>
       ))}
     </dialog>
     <dialog id="viewer" class="viewer">
       <div class="dialog-heading">
-        <span>Ilustrasi orisinal</span>
+        <span>Ilustrasi Volume 01 · Bab {chapter.number}</span>
         <button data-close class="icon-button" aria-label="Tutup ilustrasi">
           ×
         </button>

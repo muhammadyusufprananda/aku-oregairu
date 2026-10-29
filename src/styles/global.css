@@ -207,7 +207,7 @@ main.about {
 .volume-card a:hover .cover {
   transform: translateY(-3px);
 }
-.demo-banner,
+
 .resume {
   border: 1px solid var(--line);
   border-radius: 4px;
@@ -218,15 +218,6 @@ main.about {
   padding: 20px 24px;
   margin: 0 0 32px;
   background: var(--elevated);
-}
-.demo-banner h2 {
-  font-size: 20px;
-  margin: 6px 0;
-}
-.demo-banner p {
-  font-size: 12px;
-  margin: 0;
-  color: var(--muted);
 }
 .text-link {
   font-size: 13px;
@@ -397,16 +388,16 @@ main.about {
 }
 .page-area {
   position: absolute;
-  top: 88px;
+  top: 120px;
   bottom: 84px;
   left: max(22px, env(safe-area-inset-left));
   right: max(22px, env(safe-area-inset-right));
   max-width: 680px;
   margin: auto;
   font:
-    var(--size)/var(--leading) Literata,
-    Georgia,
-    serif;
+    400 var(--size)/var(--leading) "Noto Sans",
+    system-ui,
+    sans-serif;
   overflow: hidden;
   overflow-wrap: anywhere;
 }
@@ -464,7 +455,7 @@ main.about {
   top: auto;
   bottom: auto;
   margin: 0 auto;
-  padding: 90px 0;
+  padding: 120px 0 90px;
   overflow: visible;
 }
 .reader-body:has(.fallback) {
@@ -604,13 +595,6 @@ dialog::backdrop {
   .site-footer {
     flex-wrap: wrap;
   }
-  .demo-banner {
-    padding: 18px;
-    align-items: flex-start;
-  }
-  .demo-banner .text-link {
-    align-self: center;
-  }
 }
 @media (max-width: 480px) {
   .site-header,
@@ -645,16 +629,6 @@ dialog::backdrop {
   }
   .cover .number {
     font-size: 55px;
-  }
-  .demo-banner {
-    flex-direction: column;
-    gap: 12px;
-  }
-  .demo-banner .text-link {
-    align-self: flex-start;
-    min-height: 32px;
-    display: flex;
-    align-items: center;
   }
   .detail-intro {
     grid-template-columns: 110px 1fr;
@@ -737,33 +711,6 @@ dialog::backdrop {
 }
 .reader-top {
   gap: 0;
-}
-.demo-banner {
-  padding: 16px 20px;
-}
-.demo-banner h2 {
-  font-size: 18px;
-  margin: 0 0 6px;
-}
-@media (max-width: 480px) {
-  .demo-banner {
-    flex-direction: row;
-    align-items: center;
-    gap: 12px;
-    padding: 14px 16px;
-    margin-bottom: 24px;
-  }
-  .demo-banner h2 {
-    font-size: 16px;
-  }
-  .demo-banner p {
-    font-size: 11px;
-    line-height: 1.6;
-  }
-  .demo-banner .text-link {
-    align-self: center;
-    min-height: 44px;
-  }
 }
 dialog:not(.viewer) {
   padding: clamp(12px, 4vw, 24px);
@@ -852,10 +799,6 @@ main.catalog {
     sans-serif;
   color: #555;
 }
-.catalog > .demo-banner {
-  margin-top: 40px;
-  margin-bottom: 0;
-}
 @media (max-width: 480px) {
   .series-hero {
     --hero-art-width: 76%;
@@ -890,5 +833,104 @@ main.catalog {
   }
   .hero-subtitle {
     max-width: 100%;
+  }
+}
+
+.reader[data-font="serif"] .page-area {
+  font-family: Literata, Georgia, serif;
+}
+.page-area h2 {
+  font-size: 1.25em;
+  line-height: 1.45;
+  margin: 1em 0;
+}
+.scene-break {
+  text-align: center;
+  color: var(--muted);
+  padding: 0.5em 0;
+}
+.reader-editorial {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  right: 0;
+  z-index: 4;
+  padding: 6px 16px;
+  min-height: 32px;
+  background: var(--elevated);
+  font:
+    10px/1.4 system-ui,
+    sans-serif;
+  text-align: center;
+  color: var(--muted);
+}
+.controls-hidden .reader-editorial {
+  visibility: hidden;
+}
+.fallback .reader-editorial {
+  position: fixed;
+}
+.chapter-status {
+  display: block;
+  margin-top: 8px;
+  line-height: 1.6;
+}
+.hero-credits {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin: 14px 0 0;
+  font:
+    11px/1.4 system-ui,
+    sans-serif;
+}
+.hero-credits div {
+  min-width: 0;
+}
+.hero-credits dt {
+  font-size: 9px;
+  color: var(--muted);
+}
+.hero-credits dd {
+  margin: 3px 0 0;
+  color: var(--ink);
+}
+@media (max-width: 480px) {
+  .hero-copy {
+    padding-top: 22px;
+    padding-bottom: 16px;
+  }
+  .hero-title {
+    font-size: clamp(18px, 5.1vw, 23px);
+  }
+  .hero-subtitle {
+    margin-top: 10px;
+  }
+  .hero-credits {
+    gap: 8px 12px;
+    font-size: 10px;
+    margin-top: 10px;
+  }
+  .hero-credits dt {
+    font-size: 8px;
+  }
+}
+@container (max-width:260px) {
+  .hero-copy {
+    padding-top: 16px;
+    padding-bottom: 12px;
+  }
+  .hero-title {
+    font-size: 17px;
+  }
+  .hero-credits {
+    margin-top: 8px;
+    gap: 8px;
+    font-size: 9px;
+  }
+  .hero-subtitle {
+    font-size: 8px;
+    line-height: 1.4;
+    margin-top: 8px;
   }
 }

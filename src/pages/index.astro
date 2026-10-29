@@ -1,7 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import VolumeCover from "../components/VolumeCover.astro";
-import { volumes, url } from "../lib/catalog";
+import { volumes, url, chaptersFor } from "../lib/catalog";
 ---
 
 <Base title="Koleksi volume">
@@ -31,6 +31,16 @@ import { volumes, url } from "../lib/catalog";
         <p class="hero-subtitle">
           Yahari Ore no Seishun Love Comedy wa Machigatteiru
         </p>
+        <dl class="hero-credits">
+          <div>
+            <dt>Penulis</dt>
+            <dd>Wataru Watari</dd>
+          </div>
+          <div>
+            <dt>Ilustrator</dt>
+            <dd>Ponkan8</dd>
+          </div>
+        </dl>
       </div>
     </section>
     <div class="section-heading">
@@ -46,30 +56,28 @@ import { volumes, url } from "../lib/catalog";
           <a href={url(`volume/${v.slug}/`)}>
             <VolumeCover {...v} eager={index < 4} />
             <h2>Volume {v.number}</h2>
-            <p>Konten belum tersedia</p>
+            <p>
+              {chaptersFor(v.slug).length
+                ? `Bab 1 tersedia · ${chaptersFor(v.slug)[0].editorialStatus === "draft" ? "Draf" : "Sudah ditinjau"}`
+                : "Konten belum tersedia"}
+            </p>
           </a>
         </article>
       ))}
     </div>
-    <section class="demo-banner" aria-label="Contoh pembaca">
-      <div>
-        <h2>Contoh Baca Orisinal</h2>
-        <p>Teks demo, bukan terjemahan Oregairu.</p>
-      </div>
-      <a class="text-link" href={url("volume/contoh/")}>
-        Coba <span aria-hidden="true">→</span>
-      </a>
-    </section>
   </main>
 </Base>
 <script>
   import { readProgress } from "../lib/storage";
-  import { chapters, url } from "../lib/catalog";
+  import { getChapter, chapterUrl } from "../lib/catalog";
   const progress = readProgress();
+  const chapter = progress
+    ? getChapter(progress.volume, progress.chapter)
+    : undefined;
   const resume = document.querySelector<HTMLAnchorElement>("#resume");
-  if (progress && resume) {
-    resume.href = url(`baca/contoh/${chapters[progress.chapter].slug}/`);
+  if (chapter && resume) {
+    resume.href = chapterUrl(chapter);
     resume.hidden = false;
-    resume.firstChild!.textContent = `Lanjutkan contoh · ${chapters[progress.chapter].title} `;
+    resume.firstChild!.textContent = `Lanjutkan Membaca · Volume 01 Bab ${chapter.number} `;
   }
 </script>

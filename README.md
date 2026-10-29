@@ -1,6 +1,6 @@
 # Aku Oregairu
 
-Website statis dengan Astro, TypeScript, dan CSS. Membutuhkan Node.js 24 dan npm.
+Situs statis Astro + TypeScript + CSS untuk GitHub Pages. Membutuhkan Node.js 24 dan npm.
 
 ```sh
 npm ci
@@ -10,13 +10,24 @@ npm run build
 npm run preview
 ```
 
-Buka URL yang ditampilkan, dengan subpath `/aku-oregairu/`.
+Buka URL yang ditampilkan dengan subpath `/aku-oregairu/`.
 
-## Konten
+## Konten dan status editorial
 
-`src/lib/catalog.ts` memisahkan metadata volume, daftar bab demo, dan blok bacaan ber-ID stabil. Saat menambahkan konten editorial yang diizinkan, pertahankan ID blok agar progres tetap bermakna. Nomor halaman dihitung dari layout, bukan metadata. Demo adalah teks orisinal dengan ilustrasi SVG buatan proyek; bukan terjemahan novel. Tidak ada metadata resmi selain nomor inventaris lokal yang diklaim. Folder `raw/` diabaikan Git dan tidak masuk build.
+Volume 1 Bab 1 tersedia lengkap sebagai **draf berbantuan AI yang belum ditinjau manusia**, diterjemahkan dari EPUB Inggris lokal. Bab lain belum dipublikasikan. Teks/ilustrasi demo telah dihapus; tautan demo lama menampilkan pemberitahuan dan tautan ke Volume 1.
 
-Reader mengukur blok dalam DOM. Paragraf panjang dibagi pada batas kata. Posisi memakai ID blok dan offset teks, disimpan bersama pengaturan dalam localStorage versi 1. Jika pagination gagal (misalnya viewport terlalu pendek), reader beralih ke teks bergulir. Tanpa JavaScript, teks tetap tersedia. Layout prose mendukung heading, paragraf dengan rentang penekanan inline, dan gambar. Penekanan dipertahankan saat teks dipisah antarhalaman.
+- Metadata dan status bab: `src/content/chapters/index.json`.
+- Terjemahan ber-ID stabil: `src/content/chapters/volume-1-bab-1.json`.
+- Cara meninjau, mengubah `draft` menjadi `reviewed`, pemetaan sumber, dan isu bahasa: [panduan editorial](docs/editorial/README.md).
+- Nama dan istilah: [glosarium](docs/editorial/GLOSARIUM.md).
+
+Build memeriksa referensi volume, status, isi bab, rentang penekanan, urutan dan kelengkapan pemetaan sumber, serta aset. Pertahankan ID blok ketika memperbaiki terjemahan agar progres tetap bermakna. Pemeriksaan teknis tidak menggantikan peninjauan manusia. Bahasa Inggris sumber dan EPUB tidak ditambahkan sebagai prosa/file publik; `raw/` diabaikan Git.
+
+## Reader
+
+Pagination mengukur DOM, membagi paragraf pada batas kata, dan mempertahankan italic/bold. Posisi memakai identitas volume/bab serta ID blok dan offset teks. Nomor halaman adalah hasil layout, bukan metadata tetap. Jika layout terlalu pendek atau pagination gagal, reader menampilkan teks bergulir. Tanpa JavaScript, teks tetap tersedia.
+
+Default: Noto Sans 18 px, spasi 1,8, tema Putih. Pengunjung dapat memilih Sans-serif/Serif (Literata), ukuran, spasi, dan tema Kertas/Putih/Gelap. Judul tetap Nunito 900. Pengaturan versi 1 dimigrasikan ke versi 2 dengan tema, ukuran, dan spasi tetap; font awal Sans-serif. Progres demo versi lama diabaikan, tanpa menghapus pengaturan. Data rusak atau storage yang diblokir tidak menghentikan pembacaan.
 
 ## Pengujian
 
@@ -25,18 +36,16 @@ npx playwright install chromium
 npm test
 ```
 
-Tes otomatis memakai Chromium desktop dengan viewport ponsel; bukan pengganti pengujian perangkat fisik. Reload tanpa jaringan hanya bekerja jika resource sudah tersedia dalam cache browser; tidak ada service worker atau jaminan mode offline.
+Tes Chromium menggunakan enam lebar viewport termasuk ponsel, seluruh pagination Bab 1, penekanan, ilustrasi bentang, reflow, pergantian font, progres, migrasi penyimpanan, dialog, zoom 200%, dan fallback tanpa JavaScript. Belum menggantikan pengujian perangkat fisik. PWA ditunda: tidak ada manifest, service worker, atau jaminan bacaan offline.
 
 ## GitHub Pages
 
 Target: https://muhammadyusufprananda.github.io/aku-oregairu/
 
-Workflow `.github/workflows/deploy.yml` membangun `dist/` pada push ke `main`. Pilih **Settings → Pages → Source → GitHub Actions** di GitHub. Semua tautan internal memakai helper base URL. Untuk custom domain, ubah `site` dan `base` di konfigurasi Astro dan uji ulang aset/deep link. Tidak ada Node.js runtime di hosting.
+Workflow `.github/workflows/deploy.yml` memeriksa, menguji, dan membangun `dist/` pada push ke `main`. Sumber Pages: **GitHub Actions**. Tautan dan aset memakai base URL. Untuk custom domain, ubah `site` dan `base` lalu uji ulang. Tidak ada Node.js runtime, akun, database, atau dashboard editorial di hosting.
 
-Font Literata dan Nunito: SIL Open Font License, salinan di `public/assets/Literata-OFL.txt` dan `public/assets/Nunito-OFL.txt`. Teks dan SVG demo dibuat dengan bantuan AI. Hak Oregairu tetap pada pemegang haknya; teks dan berkas EPUB tidak dipublikasikan. Sampul katalog diambil dari EPUB lokal berdasarkan konfirmasi izin pemilik proyek; ilustrasi Yukino disiapkan dari referensi dengan bantuan AI. Rincian aset ada di `docs/ASSETS.md`.
+## Aset
 
-## Menyiapkan ulang sampul
+Lihat [catatan aset](docs/ASSETS.md). Noto Sans, Literata, dan Nunito di-host lokal dengan SIL Open Font License; salinan lisensi ada di `public/assets/`.
 
-Dengan koleksi EPUB lokal yang telah diizinkan dan Python + Pillow tersedia, jalankan `python3 tools/prepare_covers.py`. Script hanya mengambil gambar yang ditandai sebagai sampul pada metadata EPUB, menghasilkan WebP ukuran 360/720 piksel, dan memperbarui `docs/cover-sources.json`. Tidak mengekstrak teks bab. Build/CI memakai aset yang sudah disimpan di repo dan tidak membutuhkan `raw/` atau Python.
-
-Identitas situs dan seluruh judul halaman, volume, bab, serta dialog menggunakan Nunito 900 bergaya tebal membulat sebagai pendekatan tipografi sampul, bukan font asli sampul. Beranda memakai hero Yukinon yang membaur ke latar putih; katalog langsung di bawahnya. Reader baru mulai dengan tema Putih, sedangkan preferensi tema yang sudah tersimpan tetap dipertahankan.
+Dengan EPUB lokal yang telah diizinkan dan Python + Pillow, `python3 tools/prepare_covers.py` menyiapkan sampul WebP. `python3 tools/prepare_chapter1.py` menyiapkan ilustrasi dan pemetaan Bab 1; teks Inggris sementara hanya berada di `/tmp/`. Build/CI tidak membutuhkan EPUB, Python, atau Pillow.

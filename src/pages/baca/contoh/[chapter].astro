@@ -1,0 +1,10 @@
+---
+import RetiredDemo from "../../../components/RetiredDemo.astro";
+export function getStaticPaths() {
+  return ["ruang-yang-tenang", "catatan-di-jendela"].map((chapter) => ({
+    params: { chapter },
+  }));
+}
+---
+
+<RetiredDemo />

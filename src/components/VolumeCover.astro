@@ -1,30 +1,22 @@
 ---
 interface Props {
   number: string;
-  cover?: string;
-  coverSmall?: string;
+  cover: string;
+  coverSmall: string;
   eager?: boolean;
 }
 const { number, cover, coverSmall, eager = false } = Astro.props;
 ---
 
-{cover ? (
-  <div class="cover cover-image">
-    <img
-      src={cover}
-      srcset={coverSmall ? `${coverSmall} 360w, ${cover} 720w` : undefined}
-      sizes="(max-width:480px) 44vw, (max-width:760px) 30vw, 230px"
-      width="720"
-      height="1080"
-      loading={eager ? "eager" : "lazy"}
-      decoding="async"
-      alt={`Sampul Oregairu Volume ${number}`}
-    />
-  </div>
-) : (
-  <div class="cover" aria-hidden="true">
-    <span class="series">Sebuah jeda</span>
-    <span class="number">Aa</span>
-    <small>TEKS ORISINAL</small>
-  </div>
-)}
+<div class="cover cover-image">
+  <img
+    src={cover}
+    srcset={`${coverSmall} 360w, ${cover} 720w`}
+    sizes="(max-width:480px) 44vw, (max-width:760px) 30vw, 230px"
+    width="720"
+    height="1080"
+    loading={eager ? "eager" : "lazy"}
+    decoding="async"
+    alt={`Sampul Oregairu Volume ${number}`}
+  />
+</div>

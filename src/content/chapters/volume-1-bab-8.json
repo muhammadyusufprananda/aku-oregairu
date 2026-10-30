@@ -1,0 +1,613 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "AI"
+  },
+  "blocks": [
+    {
+      "id": "v1-bab-8-chapter008-h2",
+      "kind": "heading",
+      "source": "chapter008.xhtml#h2",
+      "text": "Lalu, Hikigaya merenung."
+    },
+    {
+      "id": "v1-bab-8-chapter008-Art_P211",
+      "kind": "image",
+      "source": "chapter008.xhtml#Art_P211.jpg",
+      "src": "assets/chapters/volume-1/bab-8/Art_P211.webp",
+      "width": 201,
+      "height": 389,
+      "text": "Yui versi chibi tampak cemas dengan mangkuk dan botol bahan masakan."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p001",
+      "kind": "text",
+      "source": "chapter008.xhtml#p1",
+      "text": "Masa muda.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 10,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p002",
+      "kind": "text",
+      "source": "chapter008.xhtml#p2",
+      "text": "Kata youth cuma terdiri dari lima huruf, tetapi begitu kuat menggerakkan hati manusia. Bagi orang dewasa yang sudah terjun ke masyarakat, kata itu membangkitkan kepedihan manis dan nostalgia. Bagi perempuan muda, kerinduan abadi. Dan bagi orang sepertiku, kecemburuan hebat serta kebencian gelap.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 296,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p003",
+      "kind": "text",
+      "source": "chapter008.xhtml#p3",
+      "text": "Kehidupanku di SMA sama sekali tidak menyerupai bayangan warna-warni di atas. Duniaku kelabu, muram, dan monokrom. Sejak awal sudah suram, ketika aku mengalami kecelakaan lalu lintas pada hari upacara penerimaan murid baru. Setelah itu, aku hanya pulang-pergi antara rumah dan sekolah, mengunjungi perpustakaan saat akhir pekan, dan menjalani hari-hari yang jauh berbeda dari murid pada umumnya. Jauh dari komedi romantis apa pun.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 430,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p004",
+      "kind": "text",
+      "source": "chapter008.xhtml#p4",
+      "text": "Tapi aku bersenang-senang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 26,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p005",
+      "kind": "text",
+      "source": "chapter008.xhtml#p5",
+      "text": "Rajin pergi ke perpustakaan untuk menamatkan novel fantasi setebal batu bata, mendengarkan penyiar dengan terpukau ketika kebetulan menyalakan radio tengah malam, memancing tulisan yang menghangatkan hati di samudra elektronik luas yang dikuasai teks… Semua itu kutemukan, semua itu kujumpai, justru karena hari-hariku kuhabiskan sendirian.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 340,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p006",
+      "kind": "text",
+      "source": "chapter008.xhtml#p6",
+      "text": "Aku bersyukur dan terharu oleh setiap pengalaman itu. Meski sampai menangis, air mataku bukan ratapan. Aku tidak akan pernah menyangkal nilai waktu yang kuhabiskan, hari-hari masa mudaku yang disebut kelas satu SMA. Aku akan membenarkannya dengan tegas. Kurasa sikapku dalam hal ini tidak akan berubah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 302,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p007",
+      "kind": "text",
+      "source": "chapter008.xhtml#p7",
+      "text": "Meski begitu, perlu kutegaskan bahwa aku tidak bermaksud menyangkal nilai pengalaman orang lain yang sedang merayakan masa muda. Di tengah kehidupan remaja, mereka bahkan bisa mengubah kegagalan menjadi kenangan indah. Perselisihan dan pertengkaran mereka pandang sebagai keresahan masa muda.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 292,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p008",
+      "kind": "text",
+      "source": "chapter008.xhtml#p8",
+      "text": "Melalui penyaring masa muda mereka, dunia berubah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 50,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p009",
+      "kind": "text",
+      "source": "chapter008.xhtml#p9",
+      "text": "Kalau begitu, mungkin masa remajaku pun bisa dilihat melalui kacamata komedi romantis berwarna merah jambu itu. Dan mungkin itu tidak salah. Tempatku sekarang mungkin suatu hari akan tampak berkilauan. Bahkan mataku yang busuk seperti ikan mati pun mungkin akan berbinar. Selama masih punya harapan seperti itu, kurasakan sesuatu perlahan tumbuh di dalam diriku. Memang, selama hari-hariku di Klub Layanan, aku mempelajari satu hal.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 432,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p010",
+      "kind": "text",
+      "source": "chapter008.xhtml#p10",
+      "text": "Kesimpulannya:",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 14,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p011",
+      "kind": "text",
+      "source": "chapter008.xhtml#p11",
+      "text": "Sampai di situ, penaku berhenti."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p012",
+      "kind": "text",
+      "source": "chapter008.xhtml#p12",
+      "text": "Sendirian di kelas seusai sekolah, aku meregangkan tangan ke atas kepala sambil mengerang. Bukan karena dirundung atau apa. Aku cuma mengulang tugas sesuai perintah Bu Hiratsuka. Sungguh, tahu? Aku tidak dirundung, oke?"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p013",
+      "kind": "text",
+      "source": "chapter008.xhtml#p13",
+      "text": "Setengah karangan kutulis dengan lancar, tetapi kesimpulannya tidak kunjung pas, dan hari sudah cukup sore."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p014",
+      "kind": "text",
+      "source": "chapter008.xhtml#p14",
+      "text": "Sisanya kutulis di ruang klub saja, pikirku sambil cepat memasukkan kertas dan alat tulis ke tas, meninggalkan kelas kosong. Lorong menuju gedung khusus sepi. Suara teriakan murid-murid klub olahraga bergema di sepanjang lorong.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p015",
+      "kind": "text",
+      "source": "chapter008.xhtml#p15",
+      "text": "Yukinoshita mungkin sedang membaca lagi di ruang klub. Jadi aku bisa melanjutkan karangan tanpa gangguan. Lagi pula klub itu tidak sungguh melakukan apa pun. Sesekali orang aneh memang muncul, tetapi jarang sekali. Kebanyakan murid membicarakan masalah mereka dengan teman yang lebih mudah didekati dan akrab—atau memendam semuanya."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p016",
+      "kind": "text",
+      "source": "chapter008.xhtml#p16",
+      "text": "Mungkin itulah cara yang benar, sikap yang diharapkan. Tapi terkadang ada orang yang tidak mampu melakukannya. Orang sepertiku, Yukinoshita, Yuigahama, atau Zaimokuza."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p017",
+      "kind": "text",
+      "source": "chapter008.xhtml#p17",
+      "text": "Bagi banyak orang, persahabatan, cinta, mimpi, dan sebagainya pasti hal yang indah. Bahkan rasa gelisah dan cemas pun bisa dilihat secara positif. Cara pandang itulah yang disebut masa muda.",
+      "emphasis": [
+        {
+          "start": 180,
+          "end": 189,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p018",
+      "kind": "text",
+      "source": "chapter008.xhtml#p18",
+      "text": "Tapi pada akhirnya, justru karena itulah orang berwatak berlawanan sepertiku bertanya-tanya: jangan-jangan orang cuma menikmati mabuk euforia masa muda. Adikku pasti akan bilang, Youth? Seperti youth guys better get outta here? Itu youse guys, tahu? Kebanyakan menonton TV!",
+      "emphasis": [
+        {
+          "start": 179,
+          "end": 227,
+          "style": "em"
+        },
+        {
+          "start": 232,
+          "end": 242,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-Art_orn",
+      "kind": "separator",
+      "source": "chapter008.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p019",
+      "kind": "text",
+      "source": "chapter008.xhtml#p19",
+      "text": "Ketika pintu ruang klub kubuka, Yukinoshita berada di tempat yang sama seperti biasa, masih tenggelam dalam buku dengan posisi yang tak berubah. Mendengar derit pintu, dia mengangkat kepala. “Oh. Kupikir kamu tidak datang hari ini,” katanya sambil menyelipkan pembatas ke buku saku. Dibandingkan dahulu, ketika dia terus membaca dan mengabaikanku total, ini kemajuan luar biasa."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p020",
+      "kind": "text",
+      "source": "chapter008.xhtml#p20",
+      "text": "“Yah, sempat terpikir mau bolos. Cuma hari ini ada yang harus kukerjakan.” Kutarik kursi di depan meja panjang, menyerong dari Yukinoshita, lalu duduk. Kami berdua kembali ke pos masing-masing. Kertas kukeluarkan dari tas dan kubentangkan di meja."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p021",
+      "kind": "text",
+      "source": "chapter008.xhtml#p21",
+      "text": "Sambil memperhatikan pekerjaanku, Yukinoshita mengangkat alis dengan sedikit kesal. “Hei. Menurutmu klub ini untuk apa?”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p022",
+      "kind": "text",
+      "source": "chapter008.xhtml#p22",
+      "text": "“Kamu sendiri cuma membaca,” tunjukku. Yukinoshita membuang muka dengan canggung. Rupanya hari ini pun tidak ada yang datang membawa permintaan."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p023",
+      "kind": "text",
+      "source": "chapter008.xhtml#p23",
+      "text": "Di ruangan tenang itu, hanya detak jarum detik yang terdengar. Kalau dipikir-pikir, sudah lama aku tidak merasakan kesunyian seperti ini. Mungkin karena seseorang yang berisik sedang tidak ada."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p024",
+      "kind": "text",
+      "source": "chapter008.xhtml#p24",
+      "text": "“Oh, iya, Yuigahama ke mana?”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p025",
+      "kind": "text",
+      "source": "chapter008.xhtml#p25",
+      "text": "“Katanya mau menghabiskan waktu bersama Miura dan teman-temannya.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p026",
+      "kind": "text",
+      "source": "chapter008.xhtml#p26",
+      "text": "“Huh…” Mengejutkan. Atau tidak juga. Mereka memang berteman sejak awal. Sejak pertandingan tenis itu, sikap Miura melunak sampai orang luar pun bisa melihatnya. Entah karena Yuigahama menjadi lebih terbuka atau bukan."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p027",
+      "kind": "text",
+      "source": "chapter008.xhtml#p27",
+      "text": "“Kalau kamu, Hikigaya? Rekanmu tidak ikut hari ini?”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p028",
+      "kind": "text",
+      "source": "chapter008.xhtml#p28",
+      "text": "“Totsuka sedang bersama timnya. Entah berkat latihan khususmu atau apa, dia sedang sangat bersemangat dengan kegiatan klub.” Artinya, waktunya bersamaku jadi sedikit. Sedih sekali."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p029",
+      "kind": "text",
+      "source": "chapter008.xhtml#p29",
+      "text": "“Bukan Totsuka. Yang satu lagi.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p030",
+      "kind": "text",
+      "source": "chapter008.xhtml#p30",
+      "text": "“Siapa?”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p031",
+      "kind": "text",
+      "source": "chapter008.xhtml#p31",
+      "text": "“Siapa…? Masih ada satu lagi, kan? Makhluk yang selalu berkeliaran di dekatmu itu.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p032",
+      "kind": "text",
+      "source": "chapter008.xhtml#p32",
+      "text": "“Hei, jangan menakutiku… Tunggu, kamu bisa merasakan hantu?”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p033",
+      "kind": "text",
+      "source": "chapter008.xhtml#p33",
+      "text": "“Huh, hantu? Omong kosong. Tidak ada yang begitu.” Yukinoshita menghela napas dan menatap seolah berkata, Kalau mau, kamu yang kujadikan hantu. Percakapan yang terasa nostalgia. “Maksudku, itu. Za… Zai, Zaitsu? Begitu namanya…?”",
+      "emphasis": [
+        {
+          "start": 106,
+          "end": 116,
+          "style": "em"
+        },
+        {
+          "start": 122,
+          "end": 142,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p034",
+      "kind": "text",
+      "source": "chapter008.xhtml#p34",
+      "text": "“Oh, Zaimokuza. Tapi dia bukan rekanku.” Disebut teman saja masih meragukan. “Katanya, ‘Hari ini medan pembantaian… Maaf, tetapi aku harus mengutamakan tenggatku,’ lalu pulang.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p035",
+      "kind": "text",
+      "source": "chapter008.xhtml#p35",
+      "text": "“Kalau bicara memang seperti novelis laris,” gumam Yukinoshita dengan wajah terang-terangan muak.",
+      "emphasis": [
+        {
+          "start": 7,
+          "end": 13,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p036",
+      "kind": "text",
+      "source": "chapter008.xhtml#p36",
+      "text": "Bukan, bukan. Coba jadi aku. Aku yang dipaksa membaca tulisannya. Dia bahkan tidak menulis narasinya, cuma membawa ide ilustrasi dan kerangka alur, tahu? Hei, Hachiman! Aku baru memikirkan adegan baru yang mutakhir! Tokoh utama perempuannya bertubuh karet, dan tokoh perempuan kedua punya kekuatan meniadakan kekuatan itu! Ini pasti laku! Dasar bodoh. Itu bukan mutakhir, tapi mengecewakan. Jiplakan semata.",
+      "emphasis": [
+        {
+          "start": 154,
+          "end": 338,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p037",
+      "kind": "text",
+      "source": "chapter008.xhtml#p37",
+      "text": "Yah, pada akhirnya kami cuma bagian dari komunitas sementara yang suam-suam kuku. Seusai waktu bersama itu, masing-masing kembali ke tempat asalnya."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p038",
+      "kind": "text",
+      "source": "chapter008.xhtml#p38",
+      "text": "Pertemuan sekali seumur hidup, begitu orang menyebutnya."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p039",
+      "kind": "text",
+      "source": "chapter008.xhtml#p39",
+      "text": "Jadi kalau ditanya apakah tempat ini tempatku dan Yukinoshita, tidak juga. Percakapan kami masih terputus-putus, melantur, dan canggung seperti biasa."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p040",
+      "kind": "text",
+      "source": "chapter008.xhtml#p40",
+      "text": "“Ibu masuk.” Mendadak pintu terbuka dengan suara berderak."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p041",
+      "kind": "text",
+      "source": "chapter008.xhtml#p41",
+      "text": "“Huh.” Mungkin Yukinoshita sudah menyerah. Dia menempelkan telapak tangan ke dahi lalu menghela napas."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p042",
+      "kind": "text",
+      "source": "chapter008.xhtml#p42",
+      "text": "Sekarang aku mengerti. Kalau berada di tempat sunyi lalu pintu mendadak terbuka, memang ingin mengatakan sesuatu yang ketus. Huh."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p043",
+      "kind": "text",
+      "source": "chapter008.xhtml#p43",
+      "text": "“Bu Hiratsuka. Tolong ketuk pintu kalau masuk,” tegurku."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p044",
+      "kind": "text",
+      "source": "chapter008.xhtml#p44",
+      "text": "“Hmm? Biasanya itu ucapan Yukinoshita, kan?” Dengan wajah bingung, Bu Hiratsuka menarik kursi terdekat dan duduk."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p045",
+      "kind": "text",
+      "source": "chapter008.xhtml#p45",
+      "text": "“Ada perlu apa, Bu?” tanya Yukinoshita. Mata Bu Hiratsuka berbinar seperti anak laki-laki, seperti biasa."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p046",
+      "kind": "text",
+      "source": "chapter008.xhtml#p46",
+      "text": "“Ibu mau mengumumkan hasil sementara pertandingan kalian.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p047",
+      "kind": "text",
+      "source": "chapter008.xhtml#p47",
+      "text": "“Oh, itu…” Aku benar-benar lupa. Sebenarnya aku tidak ingat kami pernah menyelesaikan apa pun, jadi tentu mudah terlupakan."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p048",
+      "kind": "text",
+      "source": "chapter008.xhtml#p48",
+      "text": "“Skor kalian sekarang masing-masing dua kemenangan. Saat ini seri. Hmm, persaingan ketat memang inti manga pertarungan! Secara pribadi, Ibu berharap kematian Hikigaya akan memicu kebangkitan kekuatan Yukinoshita.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p049",
+      "kind": "text",
+      "source": "chapter008.xhtml#p49",
+      "text": "“Kenapa saya harus mati dalam alurnya? Um, Ibu bilang masing-masing menang dua kali, tapi kami tidak sungguh menyelesaikan apa-apa. Yang datang meminta bantuan pun cuma tiga orang.” Apa beliau tidak bisa berhitung?"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p050",
+      "kind": "text",
+      "source": "chapter008.xhtml#p50",
+      "text": "“Menurut hitungan Ibu, jelas empat orang. Ibu sudah bilang penilaiannya akan bias dan semaunya.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p051",
+      "kind": "text",
+      "source": "chapter008.xhtml#p51",
+      "text": "“Sampai sejauh itu membuat aturan sendiri, rasanya malah menyegarkan.” Ibu Gian atau apa?"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p052",
+      "kind": "text",
+      "source": "chapter008.xhtml#p52",
+      "text": "“Bu Hiratsuka. Bisa Ibu jelaskan dasar penilaian poinnya? Seperti yang baru saja dia rengekkan, kami tidak menyelesaikan satu pun kekhawatiran orang yang berkonsultasi.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p053",
+      "kind": "text",
+      "source": "chapter008.xhtml#p53",
+      "text": "“Hmm…” Mendengar pertanyaan Yukinoshita, Bu Hiratsuka diam berpikir sejenak. “Begini… kanji untuk kekhawatiran punya unsur hati di kiri—dengan kata lain, hati ditulis di samping kemalangan. Lalu di atas kemalangan itu diberi tutup.”",
+      "emphasis": [
+        {
+          "start": 98,
+          "end": 110,
+          "style": "em"
+        },
+        {
+          "start": 123,
+          "end": 127,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p054",
+      "kind": "text",
+      "source": "chapter008.xhtml#p54",
+      "text": "“Memangnya Ibu sekarang kelas berapa?”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p055",
+      "kind": "text",
+      "source": "chapter008.xhtml#p55",
+      "text": "“Ketika mencemaskan sesuatu, kalian selalu menyembunyikan keinginan sejati di sampingnya. Hal yang dikonsultasikan orang belum tentu masalah yang sebenarnya mereka cemaskan. Itu maksud Ibu.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p056",
+      "kind": "text",
+      "source": "chapter008.xhtml#p56",
+      "text": "“Bagian pertama penjelasan itu sama sekali tidak perlu,” komentar Yukinoshita."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p057",
+      "kind": "text",
+      "source": "chapter008.xhtml#p57",
+      "text": "“Juga tidak terlalu cerdas,” tambahku."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p058",
+      "kind": "text",
+      "source": "chapter008.xhtml#p58",
+      "text": "Yukinoshita menebasnya dengan tajam, dan Bu Hiratsuka sedikit layu. “Begitu… Padahal Ibu sudah susah-susah memikirkannya…” Intinya, standar menang dan kalah beliau sepenuhnya sesuka hati. Guruku merajuk, melirik bergantian antara aku dan Yukinoshita, lalu membuka mulut. “Astaga… Kalian kompak kalau sedang kejam… Seperti sudah berteman bertahun-tahun.”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p059",
+      "kind": "text",
+      "source": "chapter008.xhtml#p59",
+      "text": "“Apa? Saya tidak akan pernah berteman dengan anak itu,” kata Yukinoshita sambil mengangkat bahu. Kukira dia akan melirik tajam, tapi dia bahkan tidak melihatku."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p060",
+      "kind": "text",
+      "source": "chapter008.xhtml#p60",
+      "text": "“Hikigaya, jangan terlalu sedih. Seperti kata pepatah… ‘Ada serangga yang suka makan tanaman knotweed.’ Selera orang tidak bisa ditebak,” kata guru itu seakan menghibur."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p061",
+      "kind": "text",
+      "source": "chapter008.xhtml#p61",
+      "text": "Padahal aku tidak sedih. Aduh, kebaikannya menyakitkan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 55,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p062",
+      "kind": "text",
+      "source": "chapter008.xhtml#p62",
+      "text": "“Memang…” Aneh, Yukinoshita setuju. Tunggu, kamu yang tadi mencoba membuatku sedih! Tapi Yukinoshita tidak berbohong dan tidak memalsukan perasaan, jadi perkataannya pasti bisa dipercaya. Dia tersenyum ramah. “Suatu hari pasti ada serangga yang menyukaimu, Hikigaya.”",
+      "emphasis": [
+        {
+          "start": 36,
+          "end": 83,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p063",
+      "kind": "text",
+      "source": "chapter008.xhtml#p63",
+      "text": "“Setidaknya jadikan hewan yang manis!” Aku tidak bilang Jadikan manusia, yang menurutku cukup rendah hati.",
+      "emphasis": [
+        {
+          "start": 56,
+          "end": 71,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p064",
+      "kind": "text",
+      "source": "chapter008.xhtml#p64",
+      "text": "Sebaliknya, Yukinoshita yang sombong mengepalkan tangan dengan wajah seakan berkata, Kena kau! Matanya berbinar setelah mengatakan sesuatu yang cerdas, dan dia tampak menikmatinya.",
+      "emphasis": [
+        {
+          "start": 85,
+          "end": 94,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p065",
+      "kind": "text",
+      "source": "chapter008.xhtml#p65",
+      "text": "Sebagai sasaran leluconnya, aku sama sekali tidak menikmatinya. Bukankah bicara dengan gadis seharusnya lebih seperti cekikikan-hehe-rayuan-cium-cium? Ini aneh sekali. Berniat mencatat perasaan yang baru terlintas, kuraih pensil mekanik. Saat itulah Yukinoshita mengintip ke arahku.",
+      "emphasis": [
+        {
+          "start": 118,
+          "end": 149,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-8-chapter008-p066",
+      "kind": "text",
+      "source": "chapter008.xhtml#p66",
+      "text": "“Oh, iya. Dari tadi kamu menulis apa?”"
+    },
+    {
+      "id": "v1-bab-8-chapter008-p067",
+      "kind": "text",
+      "source": "chapter008.xhtml#p67",
+      "text": "“Diam. Bukan apa-apa.” Lalu kutuliskan baris terakhir karanganku."
+    },
+    {
+      "id": "v1-bab-8-chapter008-p068",
+      "kind": "text",
+      "source": "chapter008.xhtml#p68",
+      "text": "Ada yang salah dengan komedi romantis masa mudaku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 50,
+          "style": "em"
+        }
+      ]
+    }
+  ]
+}

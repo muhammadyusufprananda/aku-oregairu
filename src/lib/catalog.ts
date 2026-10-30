@@ -6,7 +6,7 @@ export type ReadingSection = {
   volume: string;
   slug: string;
   number: number | null;
-  kind: "frontmatter" | "chapter";
+  kind: "frontmatter" | "chapter" | "backmatter";
   order: number;
   title: string;
   editorialStatus: "draft" | "reviewed";
@@ -56,7 +56,7 @@ export const sections: ReadingSection[] = chapterRecords.map((c) => {
     !volumes.some((v) => v.slug === c.volume) ||
     !c.title ||
     !c.slug ||
-    !["frontmatter", "chapter"].includes(c.kind) ||
+    !["frontmatter", "chapter", "backmatter"].includes(c.kind) ||
     !Number.isInteger(c.order) ||
     c.order < 0 ||
     (c.kind === "chapter"
@@ -85,7 +85,15 @@ export const chaptersFor = (volume: string) =>
 export const sectionIdentity = (c: ReadingSection) =>
   c.kind === "frontmatter"
     ? `Pembuka Volume ${Number(volumes.find((v) => v.slug === c.volume)!.number)}`
-    : `Volume ${volumes.find((v) => v.slug === c.volume)!.number} · Bab ${c.number}`;
+    : c.kind === "backmatter"
+      ? `Volume ${Number(volumes.find((v) => v.slug === c.volume)!.number)} · ${c.title}`
+      : `Volume ${volumes.find((v) => v.slug === c.volume)!.number} · Bab ${c.number}`;
+export const sectionName = (c: ReadingSection) =>
+  c.kind === "chapter"
+    ? `Bab ${c.number}`
+    : c.kind === "frontmatter"
+      ? "Pembuka"
+      : c.title;
 export const sectionUrl = (c: ReadingSection) =>
   url(`baca/${c.volume}/${c.slug}/`);
 export const editorialLabel = (c: ReadingSection) =>

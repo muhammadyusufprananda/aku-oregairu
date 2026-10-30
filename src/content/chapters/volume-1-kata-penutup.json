@@ -1,0 +1,168 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "AI"
+  },
+  "blocks": [
+    {
+      "id": "v1-kata-penutup-afterword-h1",
+      "kind": "heading",
+      "source": "afterword.xhtml#h1",
+      "text": "Kata Penutup"
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p001",
+      "kind": "text",
+      "source": "afterword.xhtml#p1",
+      "text": "Lama tidak berjumpa. Saya Wataru Watari. Dan salam kenal. Saya Wataru Watari."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p002",
+      "kind": "text",
+      "source": "afterword.xhtml#p2",
+      "text": "Mungkin mendadak, tetapi masa muda yang biasa dibicarakan masyarakat itu salah semua. Semuanya bohong belaka. Berkencan ke mal besar seperti LaLaport dengan seragam sekolah bersama pacar yang manis, atau dikenalkan kepada gadis dari sekolah lain lewat teman lalu pergi makan bersama… Semua itu tidak pernah terjadi. Fiksi.",
+      "emphasis": [
+        {
+          "start": 25,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p003",
+      "kind": "text",
+      "source": "afterword.xhtml#p3",
+      "text": "Dalam komedi romantis remaja, ada kalimat ini di akhir, bukan? Ini karya fiksi dan tidak berhubungan dengan kejadian, orang, atau kelompok nyata. Dengan kata lain, komedi romantis remaja semacam itu cuma kumpulan kebohongan. Semua orang sedang ditipu.",
+      "emphasis": [
+        {
+          "start": 63,
+          "end": 145,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p004",
+      "kind": "text",
+      "source": "afterword.xhtml#p4",
+      "text": "Masa muda yang sesungguhnya adalah ketika dua cowok mampir ke tempat makan cepat saji seperti Saizeriya sepulang sekolah, lalu nongkrong sampai malam hanya dengan minuman isi ulang dan focaccia, mati-matian menjelekkan orang serta mengeluhkan sekolah untuk membunuh waktu. Seperti itulah. Itulah pengalaman remaja yang nyata. Saya mengalaminya sendiri, jadi pasti benar."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p005",
+      "kind": "text",
+      "source": "afterword.xhtml#p5",
+      "text": "Tapi pengalaman semacam itu juga tidak buruk."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p006",
+      "kind": "text",
+      "source": "afterword.xhtml#p6",
+      "text": "Mencampur soda melon dan jus jeruk lalu menamainya melonge dan bersemangat karenanya, pergi karyawisata dan bermain mahjong dalam suasana brutal bersama tiga cowok lain, melihat gadis yang saya sukai bersama pacarnya lalu mendadak terdiam… Sekarang semuanya saya anggap kenangan indah."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p007",
+      "kind": "text",
+      "source": "afterword.xhtml#p7",
+      "text": "Maaf, itu bohong. Saya membencinya. Saya juga ingin berkencan dengan siswi SMA berseragam. Bukan, sekarang pun masih ingin. Perasaan itulah yang saya tulis di sini. Semoga kalian menikmatinya."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p008",
+      "kind": "text",
+      "source": "afterword.xhtml#p8",
+      "text": "Sekarang, ucapan terima kasih."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p009",
+      "kind": "text",
+      "source": "afterword.xhtml#p9",
+      "text": "Untuk pengelola saya, Hoshino-sama: kalau semua perasaan saya tuliskan, jadinya satu buku, jadi saya singkat saja. Anda membantu dalam segala hal, besar maupun kecil. Terima kasih banyak."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p010",
+      "kind": "text",
+      "source": "afterword.xhtml#p10",
+      "text": "Untuk Ponkan-sama: ilustrasi Anda yang sangat manis dan indah memberi saya kekuatan setiap kali hampir goyah. Saya sungguh senang telah meminta Anda mengilustrasikan buku ini. Terima kasih banyak."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-Art_1",
+      "kind": "separator",
+      "source": "afterword.xhtml#Art_1.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p011",
+      "kind": "text",
+      "source": "afterword.xhtml#p11",
+      "text": "Meski sama sekali tidak mengenal saya, Yomi Hirasaka-sama menulis komentar promosi untuk saya. Saat rasanya akan remuk oleh cemas dan khawatir, komentar Hirasaka memberi saya keberanian. Terima kasih banyak."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p012",
+      "kind": "text",
+      "source": "afterword.xhtml#p12",
+      "text": "Untuk teman-teman: teman-temanku! Setiap bertemu, kalian cuma membicarakan uang! Saya kecewa! Bicarakan hidup kalian atau apa, dong!"
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p013",
+      "kind": "text",
+      "source": "afterword.xhtml#p13",
+      "text": "Untuk seluruh pembaca: penulis Wataru Watari tidak mungkin ada tanpa kalian. Setiap kata yang kalian kirimkan memberi saya tenaga. Terima kasih banyak!"
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p014",
+      "kind": "text",
+      "source": "afterword.xhtml#p14",
+      "text": "Dan terakhir, untuk diriku semasa SMA: karya ini lahir justru karena dahulu kamu begitu getir, selalu mengatakan Membosankan sekali; bodoh sekali. Banggalah. Masa mudamu memang serba salah, tapi saya yakin itu sepenuhnya benar. Terima kasih.",
+      "emphasis": [
+        {
+          "start": 113,
+          "end": 145,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p015",
+      "kind": "text",
+      "source": "afterword.xhtml#p15",
+      "text": "Sekarang, soal kelanjutan cerita. Berlanjut atau tidaknya bergantung pada beberapa hal, tetapi saya percaya kita akan bertemu lagi. Sambil memoles alur berikutnya, saya rasa tulisan ini saya akhiri sampai di sini."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p016",
+      "kind": "text",
+      "source": "afterword.xhtml#p16",
+      "text": "Pada suatu hari di bulan Februari,"
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p017",
+      "kind": "text",
+      "source": "afterword.xhtml#p17",
+      "text": "Di suatu tempat di Chiba,"
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p018",
+      "kind": "text",
+      "source": "afterword.xhtml#p18",
+      "text": "Mengenang diriku pada masa yang sudah lama berlalu,"
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p019",
+      "kind": "text",
+      "source": "afterword.xhtml#p19",
+      "text": "Sambil menyeruput kopi yang manis, sangat manis."
+    },
+    {
+      "id": "v1-kata-penutup-afterword-p020",
+      "kind": "text",
+      "source": "afterword.xhtml#p20",
+      "text": "Wataru Watari",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 13,
+          "style": "strong"
+        }
+      ]
+    }
+  ]
+}

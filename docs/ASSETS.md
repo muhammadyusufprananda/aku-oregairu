@@ -9,3 +9,6 @@
 - Font Noto Sans, Literata, dan Nunito menggunakan SIL Open Font License. Salinan: `public/assets/Noto-Sans-OFL.txt`, `Literata-OFL.txt`, dan `Nunito-OFL.txt`. Nunito 900 adalah pendekatan gaya judul sampul, bukan identifikasi font asli.
 
 Berkas EPUB, ekstraksi prosa Inggris, dan gambar referensi antarmuka tidak masuk build publik. Aset SVG serta teks demonstrasi sudah dihapus.
+
+- Kelanjutan Volume 1 dipasang atas permintaan pemilik untuk menyelesaikan volume. `assets/chapters/volume-1/bab-{2..8}/` dan `catatan-penerjemah/` berisi 23 ilustrasi tambahan dari EPUB yang sama, dalam urutan spine. Pemetaan: `editorial/volume-1-remaining-sources.json`. Tujuh profil/angket bergambar diberi teks terjemahan pendamping. Tidak ada gambar yang diunduh dari situs pihak ketiga.
+- Metode draf mesin Google Translate dan penyuntingan awal AI dijelaskan terbuka di halaman Tentang serta panduan editorial. Kata penutup dan catatan penerjemah edisi Inggris bukan tulisan editorial asli proyek.

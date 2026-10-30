@@ -1,14 +1,22 @@
 import { existsSync } from "node:fs";
 import { resolve } from "node:path";
-import content from "../content/chapters/volume-1-bab-1.json";
-import opening from "../content/chapters/volume-1-pembuka.json";
 import openingProvenance from "../../docs/editorial/volume-1-pembuka-sources.json";
 import provenance from "../../docs/editorial/volume-1-bab-1-sources.json";
+import remainingProvenance from "../../docs/editorial/volume-1-remaining-sources.json";
 import { sections, url, type Block, type ReadingSection } from "./catalog";
-const data: Record<string, unknown> = {
-  "volume-1-bab-1": content,
-  "volume-1-pembuka": opening,
-};
+const imported = import.meta.glob<{ default: unknown }>(
+  "../content/chapters/volume-1-*.json",
+  { eager: true },
+);
+const data: Record<string, unknown> = Object.fromEntries(
+  Object.entries(imported).map(([path, value]) => [
+    path
+      .split("/")
+      .pop()!
+      .replace(/\.json$/, ""),
+    value.default,
+  ]),
+);
 export function blocksFor(chapter: ReadingSection): Block[] {
   const record = data[chapter.id] as { blocks?: Block[] } | undefined;
   if (!record?.blocks?.length)
@@ -56,6 +64,21 @@ export function blocksFor(chapter: ReadingSection): Block[] {
     if (JSON.stringify(actual) !== JSON.stringify(expected))
       throw Error("Pemetaan sumber Bab 1 belum lengkap atau urutannya berubah");
   }
+  const remaining =
+    remainingProvenance.sections[
+      chapter.slug as keyof typeof remainingProvenance.sections
+    ];
+  if (chapter.volume === "volume-1" && remaining) {
+    const expected = remaining.blocks.map((b) => b.id);
+    const expectedIds = new Set(expected);
+    const actual = record.blocks
+      .filter((b) => expectedIds.has(b.id))
+      .map((b) => b.id);
+    if (JSON.stringify(actual) !== JSON.stringify(expected))
+      throw Error(
+        `Pemetaan sumber belum lengkap atau urutan berubah: ${chapter.id}`,
+      );
+  }
   if (chapter.kind === "frontmatter") {
     const expected = openingProvenance.files.flatMap((f) =>
       f.images.map((i) => i.id),
@@ -69,7 +92,7 @@ export function blocksFor(chapter: ReadingSection): Block[] {
     )
       throw Error("Urutan ilustrasi pembuka berbeda dari spine sumber");
   }
-  if (chapter.kind === "chapter" && record.blocks[0].text !== chapter.title)
+  if (chapter.kind !== "frontmatter" && record.blocks[0].text !== chapter.title)
     throw Error("Judul isi bab dan metadata berbeda");
   return record.blocks.map((b) => ({
     ...b,

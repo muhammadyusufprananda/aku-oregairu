@@ -1,6 +1,6 @@
 # Glosarium dan pedoman gaya
 
-Pedoman kerja untuk draf Volume 1 Bab 1. Perubahan istilah perlu diterapkan konsisten; jangan mengubah ID paragraf ketika hanya mengganti kata.
+Pedoman kerja untuk seluruh draf Volume 1. Perubahan istilah perlu diterapkan konsisten; jangan mengubah ID paragraf ketika hanya mengganti kata.
 
 | Sumber                            | Padanan/aturan                                                                   |
 | --------------------------------- | -------------------------------------------------------------------------------- |
@@ -25,3 +25,13 @@ Pedoman kerja untuk draf Volume 1 Bab 1. Perubahan istilah perlu diterapkan kons
 - Tanda petik melengkung, elipsis, dan pemisah kalimat dipakai konsisten. Pertahankan italic/bold dan batas paragraf; perubahan penekanan memerlukan pembaruan offset pada blok.
 - Nama Jepang tidak dibalik tanpa alasan dari sumber. Jangan menambahkan honorifik yang tidak ada dalam edisi Inggris.
 - Ambiguitas dan permainan kata yang belum berhasil dicatat di README editorial, bukan diselesaikan diam-diam dengan mengubah makna.
+
+## Istilah lanjutan Volume 1
+
+- Yui Yuigahama, Saika Totsuka, Yoshiteru Zaimokuza, Hayato Hayama, Yumiko Miura, dan Komachi Hikigaya: nama mengikuti edisi sumber. Panggilan Hikki, Yukinon, dan Sai-chan dipertahankan. “Yahallo!” tetap sebagai sapaan khas.
+- `M-2 syndrome`: sindrom M-2, merujuk chuunibyou/kelas dua SMP. Bedakan dari `second-year head swell`: sindrom sok tahu kelas dua SMA (kounibyou), lelucon Bu Hiratsuka.
+- `Master Swordsman General`: Jenderal Ahli Pedang. Jangan meratakan perbedaan nada ketika Zaimokuza sengaja keluar dari peran.
+- `househusband`: bapak rumah tangga; `leech`: benalu, sesuai nada sinis.
+- `rally`: reli; `court`: lapangan; `serve`: servis; `backhand`, `slice`, `drop shot`, `deuce`: istilah tenis dipertahankan.
+- Nama produk/minuman dan judul karya pada sumber dipertahankan, bukan diganti menjadi produk Indonesia.
+- Catatan penerjemah di akhir volume berasal dari edisi Inggris. Penjelasan tersebut bukan klaim riset atau catatan asli penerjemah Indonesia.

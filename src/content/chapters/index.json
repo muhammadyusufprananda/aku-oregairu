@@ -18,5 +18,95 @@
     "editorialStatus": "draft",
     "kind": "chapter",
     "order": 1
+  },
+  {
+    "id": "volume-1-bab-2",
+    "volume": "volume-1",
+    "slug": "bab-2",
+    "kind": "chapter",
+    "number": 2,
+    "order": 2,
+    "title": "Yukino Yukinoshita selalu teguh pada pendiriannya.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-1-bab-3",
+    "volume": "volume-1",
+    "slug": "bab-3",
+    "kind": "chapter",
+    "number": 3,
+    "order": 3,
+    "title": "Yui Yuigahama selalu mencuri-curi pandang ke sekeliling.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-1-bab-4",
+    "volume": "volume-1",
+    "slug": "bab-4",
+    "kind": "chapter",
+    "number": 4,
+    "order": 4,
+    "title": "Meski begitu, kelas ini baik-baik saja.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-1-bab-5",
+    "volume": "volume-1",
+    "slug": "bab-5",
+    "kind": "chapter",
+    "number": 5,
+    "order": 5,
+    "title": "Dengan kata lain, Yoshiteru Zaimokuza agak menyimpang.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-1-bab-6",
+    "volume": "volume-1",
+    "slug": "bab-6",
+    "kind": "chapter",
+    "number": 6,
+    "order": 6,
+    "title": "Namun, Saika Totsuka memilikinya.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-1-bab-7",
+    "volume": "volume-1",
+    "slug": "bab-7",
+    "kind": "chapter",
+    "number": 7,
+    "order": 7,
+    "title": "Terkadang, dewa-dewa komedi romantis berbaik hati.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-1-bab-8",
+    "volume": "volume-1",
+    "slug": "bab-8",
+    "kind": "chapter",
+    "number": 8,
+    "order": 8,
+    "title": "Lalu, Hikigaya merenung.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-1-kata-penutup",
+    "volume": "volume-1",
+    "slug": "kata-penutup",
+    "kind": "backmatter",
+    "number": null,
+    "order": 9,
+    "title": "Kata Penutup",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-1-catatan-penerjemah",
+    "volume": "volume-1",
+    "slug": "catatan-penerjemah",
+    "kind": "backmatter",
+    "number": null,
+    "order": 10,
+    "title": "Catatan Penerjemah Edisi Inggris",
+    "editorialStatus": "draft"
   }
 ]

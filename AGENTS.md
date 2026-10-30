@@ -272,3 +272,11 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - Previous/next navigation crosses section boundaries. Returning from the first page of Bab 1 opens the final page of Pembuka. Preserve existing version-2 progress for Bab 1; the opening has its own stable section/block IDs.
 - Center tap continues to toggle the existing reader controls, including the header. Do not make the header permanently visible.
 - Review status applies independently to Pembuka and Bab 1. Only mark a section reviewed after the owner confirms review of that section.
+
+## 14. Complete Volume 1 draft
+
+- Owner requested completion through Volume 1. Pembuka, Chapters 1–8, Afterword, and English-edition Translation Notes are now published as independent draft sections. No section is human-reviewed until explicitly confirmed.
+- Back matter uses `kind: backmatter`, `number: null`, orders 9/10, slugs `kata-penutup` and `catatan-penerjemah`; do not label it Chapters 9/10. Navigation crosses all eleven sections in source order.
+- New sources and 23 illustrations are mapped in `docs/editorial/volume-1-remaining-sources.json`. Seven profile/survey pages have translated companion text. Small inline music symbols remain inline; repeated ornaments have unique IDs.
+- Initial Chapters 2–6 and early Chapter 7 drafts used Google Translate with preliminary AI editing. Late Chapter 7, Chapter 8, back matter, and image companions were AI-translated. This is not a full semantic/literary review; maintain transparent method disclosures and draft labels. No translation service runs in production/CI.
+- Preserve existing Pembuka/Bab 1 anchors and storage schema 2. Do not introduce PWA work, other volumes, or unrelated reader redesign while revising this draft.

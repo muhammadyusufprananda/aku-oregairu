@@ -5,6 +5,7 @@ import {
   sections,
   sectionsFor,
   sectionIdentity,
+  sectionName,
   sectionUrl,
   editorialLabel,
   url,
@@ -62,7 +63,9 @@ const previousChapter = volumeChapters[sectionIndex - 1];
         <br />
         {chapter.kind === "frontmatter"
           ? "Sampul dan halaman pembuka"
-          : chapter.title}
+          : chapter.kind === "backmatter"
+            ? "Bagian penutup volume"
+            : chapter.title}
       </span>
       <button
         class="icon-button"
@@ -86,19 +89,12 @@ const previousChapter = volumeChapters[sectionIndex - 1];
     <nav class="reader-section-links" aria-label="Navigasi bagian bacaan">
       {previousChapter && (
         <a href={`${sectionUrl(previousChapter)}?pos=akhir`}>
-          ← Kembali ke{" "}
-          {previousChapter.kind === "frontmatter"
-            ? "Pembuka"
-            : `Bab ${previousChapter.number}`}
+          ← Kembali ke {sectionName(previousChapter)}
         </a>
       )}
       {nextChapter && (
         <a href={sectionUrl(nextChapter)}>
-          Lanjut ke{" "}
-          {nextChapter.kind === "frontmatter"
-            ? "Pembuka"
-            : `Bab ${nextChapter.number}`}{" "}
-          →
+          Lanjut ke {sectionName(nextChapter)} →
         </a>
       )}
     </nav>
@@ -117,7 +113,7 @@ const previousChapter = volumeChapters[sectionIndex - 1];
           hidden
         >
           {nextChapter
-            ? `Lanjut ke ${nextChapter.kind === "frontmatter" ? "Pembuka" : `Bab ${nextChapter.number}`} →`
+            ? `Lanjut ke ${sectionName(nextChapter)} →`
             : "Kembali ke daftar bab →"}
         </a>
         <span id="page-count" aria-live="polite">
@@ -201,7 +197,9 @@ const previousChapter = volumeChapters[sectionIndex - 1];
         >
           {c.kind === "frontmatter"
             ? "Pembuka"
-            : String(c.number).padStart(2, "0")}{" "}
+            : c.kind === "backmatter"
+              ? "Penutup"
+              : String(c.number).padStart(2, "0")}{" "}
           · {c.title}
         </a>
       ))}

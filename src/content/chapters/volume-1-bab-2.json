@@ -1,0 +1,1207 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate + AI"
+  },
+  "blocks": [
+    {
+      "id": "v1-bab-2-chapter002-h2",
+      "kind": "heading",
+      "source": "chapter002.xhtml#h2",
+      "text": "Yukino Yukinoshita selalu teguh pada pendiriannya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-Art_P33",
+      "kind": "image",
+      "source": "chapter002.xhtml#Art_P33.jpg",
+      "src": "assets/chapters/volume-1/bab-2/Art_P33.webp",
+      "width": 201,
+      "height": 389,
+      "text": "Yui versi chibi menatap mangkuk adonan dengan ekspresi cemas."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p001",
+      "kind": "text",
+      "source": "chapter002.xhtml#p1",
+      "text": "Seusai jam wali kelas, aku keluar dan mendapati Bu Hiratsuka sedang menungguku. Dengan tangan bersedekap dan tubuh tegak, beliau tampak persis seperti sipir penjara. Seragam militer dan cambuk pasti cocok sekali dengannya. Yah, sekolah pada dasarnya memang seperti penjara, jadi membayangkannya berpakaian begitu bukan hal yang sulit. Beliau seperti keluar dari Alcatraz atau Cassandra. Kenapa Juru Selamat Akhir Abad tidak muncul sekarang juga?"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p002",
+      "kind": "text",
+      "source": "chapter002.xhtml#p2",
+      "text": "“Hikigaya. Waktunya kegiatan klub,” katanya, dan seketika darahku terasa surut. Gawat. Aku dibawa ke penjara. Kalau sampai diantar ke ruang klub, aku benar-benar bakal putus asa menjalani kehidupan di sekolah ini. Yukinoshita memang terlahir untuk merendahkan orang lain. Bukan sekadar bermulut tajam. Perkataannya itu murni kekerasan verbal. Dia bukan tsundere. Dia cuma perempuan menyebalkan.",
+      "emphasis": [
+        {
+          "start": 80,
+          "end": 352,
+          "style": "em"
+        },
+        {
+          "start": 361,
+          "end": 394,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p003",
+      "kind": "text",
+      "source": "chapter002.xhtml#p3",
+      "text": "Tapi Bu Hiratsuka tidak menunjukkan simpati sedikit pun. Beliau tersenyum dingin seperti robot. “Ayo,” katanya sambil mencoba meraih lenganku. Aku dengan cekatan menghindar. Tangannya kembali menyambar, dan aku mengelak lagi."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p004",
+      "kind": "text",
+      "source": "chapter002.xhtml#p4",
+      "text": "“Um, mengingat pendidikan sekolah menghargai otonomi murid dan mendorong kemandirian mereka, saya rasa saya harus menolak tindakan pemaksaan ini.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p005",
+      "kind": "text",
+      "source": "chapter002.xhtml#p5",
+      "text": "“Sayangnya, sekolah justru tempat melatihmu agar menyesuaikan diri dengan masyarakat. Begitu terjun ke dunia nyata, pendapatmu tak ada artinya. Biasakan dirimu dipaksa mulai sekarang.” Baru saja beliau selesai bicara, tinjunya sudah melesat. Pukulan itu menghunjam perutku dengan bunyi gedebuk, membuatku kehabisan napas."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p006",
+      "kind": "text",
+      "source": "chapter002.xhtml#p6",
+      "text": "Memanfaatkan tubuhku yang tak bisa bergerak, Bu Hiratsuka mencengkeram lenganku. “Kamu tahu apa yang akan terjadi kalau mencoba kabur lagi, kan? Jangan merepotkan tinju Ibu lagi.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p007",
+      "kind": "text",
+      "source": "chapter002.xhtml#p7",
+      "text": "“Jadi Ibu sudah memutuskan akan memukul saya lagi?” Aku sudah tidak sanggup menahan sakit lagi.",
+      "emphasis": [
+        {
+          "start": 52,
+          "end": 95,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p008",
+      "kind": "text",
+      "source": "chapter002.xhtml#p8",
+      "text": "Begitu kami berjalan, sang sipir membuka mulut seakan baru teringat sesuatu. “Oh, iya. Kalau kamu kabur lagi, Ibu langsung menyatakanmu kalah dalam pertandingan melawan Yukinoshita, ditambah hukuman ekstra. Jangan harap kamu bisa lulus tepat waktu.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p009",
+      "kind": "text",
+      "source": "chapter002.xhtml#p9",
+      "text": "Dia benar-benar mengacaukan masa depan dan kesehatan mentalku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 62,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p010",
+      "kind": "text",
+      "source": "chapter002.xhtml#p10",
+      "text": "Hak sepatunya berketuk di lantai saat Bu Hiratsuka berjalan di sampingku. Tapi kalau dilihat dari sudut tertentu, tangannya di lenganku membuat beliau tampak seperti perempuan panggilan yang bercosplay sebagai guru, berjalan bersamaku meninggalkan kelab tempat kami berkenalan untuk berkencan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p011",
+      "kind": "text",
+      "source": "chapter002.xhtml#p11",
+      "text": "Ada tiga hal yang membedakan keadaan kami dari bayangan itu. Pertama, aku tidak membayarnya. Kedua, tangannya bukan bertumpu manis di lenganku, melainkan memuntir sikuku sampai mentok. Terakhir, aku sama sekali tidak senang atau bergairah. Ujung sikuku memang menyentuh payudara beliau, tapi itu pun tak membangkitkan apa-apa. Beliau sedang membawaku ke ruang klub itu."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p012",
+      "kind": "text",
+      "source": "chapter002.xhtml#p12",
+      "text": "“Um, saya tidak akan kabur atau apa, jadi saya bisa jalan sendiri. Lagi pula, saya memang selalu sendirian. Sendirian bukan masalah buat saya. Justru saya tidak bisa santai kalau tidak sendirian.”",
+      "emphasis": [
+        {
+          "start": 179,
+          "end": 184,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p013",
+      "kind": "text",
+      "source": "chapter002.xhtml#p13",
+      "text": "“Jangan bilang hal sesepi itu. Ibu ingin menemanimu.” Tiba-tiba beliau tersenyum—nyaris lembut. Berbeda sekali dari seringai menyebalkannya yang biasa, sampai perubahan mendadak itu membuat jantungku sedikit berdebar. “Daripada mengertakkan gigi karena kamu berhasil kabur, Ibu lebih suka mengantarmu meski kamu membencinya. Beban pikiran Ibu lebih ringan begini.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p014",
+      "kind": "text",
+      "source": "chapter002.xhtml#p14",
+      "text": "“Alasannya parah sekali!”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p015",
+      "kind": "text",
+      "source": "chapter002.xhtml#p15",
+      "text": "“Apa maksudmu? Kalau kamu memang tidak mau pergi, Ibu tidak bisa mengubah perasaanmu, tapi Ibu membawamu ke klub ini demi kebaikanmu. Supaya kamu bisa diperbaiki. Inilah indahnya kasih sayang seorang guru kepada muridnya.”",
+      "emphasis": [
+        {
+          "start": 122,
+          "end": 132,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p016",
+      "kind": "text",
+      "source": "chapter002.xhtml#p16",
+      "text": "“Ini kasih sayang? Kalau ini kasih sayang, saya tidak membutuhkannya.”",
+      "emphasis": [
+        {
+          "start": 25,
+          "end": 28,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p017",
+      "kind": "text",
+      "source": "chapter002.xhtml#p17",
+      "text": "“Dilihat dari alasan menyedihkanmu untuk kabur tadi, kamu benar-benar terpelintir. Jangan-jangan saking terpelintirnya, aliran meridianmu sampai terbalik. Jangan sampai kamu membangun Mausoleum Salib Kaisar Suci.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p018",
+      "kind": "text",
+      "source": "chapter002.xhtml#p18",
+      "text": "Ibu terlalu suka manga, ya?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 27,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p019",
+      "kind": "text",
+      "source": "chapter002.xhtml#p19",
+      "text": "“Kamu pasti lebih manis kalau tidak selalu membantah. Pasti tidak menyenangkan punya pandangan hidup yang serba terbalik begitu.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p020",
+      "kind": "text",
+      "source": "chapter002.xhtml#p20",
+      "text": "“Hidup bukan cuma soal bersenang-senang. Kalau begitu, film-film Hollywood yang menyedihkan tidak akan ada. Menikmati tragedi itu memang ada, lho.”",
+      "emphasis": [
+        {
+          "start": 130,
+          "end": 136,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p021",
+      "kind": "text",
+      "source": "chapter002.xhtml#p21",
+      "text": "“Khas Hikigaya. Banyak anak muda punya pandangan hidup menyimpang, tapi kamu sudah sampai tahap penyakit. Seperti gangguan khusus anak-anak setelah naik dari kelas satu SMA… Kamu mengidap sindrom sok tahu kelas dua SMA.” Dengan wajah cerah, Bu Hiratsuka mendiagnosis kondisiku.",
+      "emphasis": [
+        {
+          "start": 72,
+          "end": 76,
+          "style": "em"
+        },
+        {
+          "start": 188,
+          "end": 218,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p022",
+      "kind": "text",
+      "source": "chapter002.xhtml#p22",
+      "text": "“Wah, kejam sekali, memperlakukan saya seperti orang sakit. Memangnya apa itu ‘sindrom sok tahu kelas dua SMA’?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p023",
+      "kind": "text",
+      "source": "chapter002.xhtml#p23",
+      "text": "“Kamu suka manga dan anime, kan?” Bu Hiratsuka mengganti topik, mengabaikan permintaanku untuk menjelaskan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p024",
+      "kind": "text",
+      "source": "chapter002.xhtml#p24",
+      "text": "“Saya rasa saya tidak membencinya.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p025",
+      "kind": "text",
+      "source": "chapter002.xhtml#p25",
+      "text": "“Kenapa kamu menyukainya?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p026",
+      "kind": "text",
+      "source": "chapter002.xhtml#p26",
+      "text": "“Ya… manga dan anime adalah bagian dari kebudayaan Jepang, sekaligus budaya pop yang bisa dibanggakan di dunia internasional. Jadi, justru tidak wajar kalau tidak mengakui nilainya. Pasarnya juga terus berkembang, sehingga penting dari segi ekonomi.”",
+      "emphasis": [
+        {
+          "start": 157,
+          "end": 162,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p027",
+      "kind": "text",
+      "source": "chapter002.xhtml#p27",
+      "text": "“Hmm. Lalu bagaimana dengan sastra biasa? Kamu suka Keigo Higashino atau Koutarou Isaka?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p028",
+      "kind": "text",
+      "source": "chapter002.xhtml#p28",
+      "text": "“Saya membacanya, tapi terus terang, saya lebih suka karya-karya mereka sebelum populer.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p029",
+      "kind": "text",
+      "source": "chapter002.xhtml#p29",
+      "text": "“Light novel seperti apa yang kamu suka?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p030",
+      "kind": "text",
+      "source": "chapter002.xhtml#p30",
+      "text": "“Gagaga dan Kodansha BOX. Yah, saya tidak tahu apakah yang kedua bisa disebut label penerbit atau bukan. Kenapa jadi diinterogasi begini?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p031",
+      "kind": "text",
+      "source": "chapter002.xhtml#p31",
+      "text": "“Hmm… Persis seperti dugaan Ibu—dalam arti buruk. Sindrom kelas dua SMA-mu sudah parah.” Sang calon dokter menatapku cemas."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p032",
+      "kind": "text",
+      "source": "chapter002.xhtml#p32",
+      "text": "“Seperti yang saya bilang, apa maksudnya itu?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p033",
+      "kind": "text",
+      "source": "chapter002.xhtml#p33",
+      "text": "“Sindrom sok tahu kelas dua SMA ya persis seperti namanya. Pola pikir yang umum di kalangan murid SMA. Mereka merasa pandangan menyimpang itu keren dan cenderung meniru gagasan populer di Internet, semacam ‘Kalau bekerja, berarti kalah!’ Mereka mengaku sudah menyukai penulis populer ‘sebelum terkenal’. Mereka berlagak seakan sudah mencapai pencerahan aneh. Singkatnya, mereka itu menyebalkan.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p034",
+      "kind": "text",
+      "source": "chapter002.xhtml#p34",
+      "text": "“Saya menyebalkan…? Sial! Hampir semuanya benar! Saya bahkan tidak bisa membantah!”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p035",
+      "kind": "text",
+      "source": "chapter002.xhtml#p35",
+      "text": "“Oh, Ibu sedang memujimu. Murid-murid sekarang pandai sekali melepaskan diri dari kenyataan. Sebagai guru, Ibu tidak sanggup menangani semuanya. Rasanya seperti bekerja di pabrik.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p036",
+      "kind": "text",
+      "source": "chapter002.xhtml#p36",
+      "text": "“Murid-murid zaman sekarang, ya?” Senyum sinis lolos dari bibirku. Klise sekali. Aku sempat berpikir untuk menolak mentah-mentah argumennya karena bosan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p037",
+      "kind": "text",
+      "source": "chapter002.xhtml#p37",
+      "text": "Bu Hiratsuka menatap mataku lalu mengangkat bahu. “Sepertinya kamu ingin menyanggah, tapi justru sikap seperti itulah gejalanya.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p038",
+      "kind": "text",
+      "source": "chapter002.xhtml#p38",
+      "text": "“Begitukah?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p039",
+      "kind": "text",
+      "source": "chapter002.xhtml#p39",
+      "text": "“Jangan salah paham. Ibu sungguh sedang memujimu. Ibu menyukaimu. Kamu belum menyerah untuk berpikir. Meski cara berpikirmu menyimpang.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p040",
+      "kind": "text",
+      "source": "chapter002.xhtml#p40",
+      "text": "Mendengar kata-kata Ibu menyukaimu membuatku sedikit tercekat. Aku kesulitan mencari jawaban untuk ungkapan yang asing itu.",
+      "emphasis": [
+        {
+          "start": 20,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p041",
+      "kind": "text",
+      "source": "chapter002.xhtml#p41",
+      "text": "“Jadi, dari sudut pandangmu yang menyimpang itu, bagaimana kamu melihat Yukino Yukinoshita?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p042",
+      "kind": "text",
+      "source": "chapter002.xhtml#p42",
+      "text": "“Dia menyebalkan,” jawabku seketika. Aku seyakin itu, seolah dia baru saja berkata padaku, Menurutku kamu sebaiknya menyerah soal ‘Concrete Road’.",
+      "emphasis": [
+        {
+          "start": 91,
+          "end": 146,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p043",
+      "kind": "text",
+      "source": "chapter002.xhtml#p43",
+      "text": "“Begitu, ya.” Bu Hiratsuka tersenyum kecut. “Tapi dia murid yang sangat berbakat… Rupanya orang-orang unggul di dunia pun punya masalahnya sendiri. Padahal dia gadis yang sangat baik.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p044",
+      "kind": "text",
+      "source": "chapter002.xhtml#p44",
+      "text": "Di alam semesta apa?! Dalam hati aku mendecakkan lidahku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 21,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p045",
+      "kind": "text",
+      "source": "chapter002.xhtml#p45",
+      "text": "“Ibu yakin dia juga sedang kesakitan. Dia baik hati dan pada umumnya benar. Tapi dunia ini tidak baik dan penuh kesalahan. Pasti sulit baginya hidup di dalamnya.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p046",
+      "kind": "text",
+      "source": "chapter002.xhtml#p46",
+      "text": "“Selain bagian bahwa dia baik hati dan benar itu, saya cukup setuju dengan pendapat Ibu tentang dunia,” kataku. Guruku membalas dengan tatapan seolah berkata, Benar, kan?",
+      "emphasis": [
+        {
+          "start": 159,
+          "end": 170,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p047",
+      "kind": "text",
+      "source": "chapter002.xhtml#p47",
+      "text": "“Kalian… kalian memang anak-anak yang terpelintir. Ada bagian dari diri kalian yang tampaknya tidak akan cocok dengan masyarakat, dan itu membuat Ibu khawatir. Karena itulah Ibu ingin mengumpulkan kalian di satu tempat.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p048",
+      "kind": "text",
+      "source": "chapter002.xhtml#p48",
+      "text": "“Jadi klub itu bangsal isolasi?!”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p049",
+      "kind": "text",
+      "source": "chapter002.xhtml#p49",
+      "text": "“Bisa dibilang begitu. Ibu suka mengamati kalian; kalian menghibur. Mungkin Ibu cuma ingin menjaga kalian tetap dekat.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p050",
+      "kind": "text",
+      "source": "chapter002.xhtml#p50",
+      "text": "Sambil tersenyum ceria, beliau memuntir lenganku lagi seperti kebiasaannya. Mungkin gerakan mirip MMA itu dipelajarinya dari manga. Sikuku sesekali menyentuh payudaranya yang penuh sambil mengeluarkan bunyi berderak mengerikan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p051",
+      "kind": "text",
+      "source": "chapter002.xhtml#p51",
+      "text": "Huh… Dengan lengan dipuntir sejauh ini, aku pun sulit melepaskan diri. Menjengkelkan, tapi aku tidak punya pilihan selain menghibur diri dengan sensasi itu sedikit lebih lama.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 4,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p052",
+      "kind": "text",
+      "source": "chapter002.xhtml#p52",
+      "text": "Ya, benar. Sayang sekali."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p053",
+      "kind": "text",
+      "source": "chapter002.xhtml#p53",
+      "text": "Terlintas dalam benakku bahwa payudara itu berpasangan, jadi bukankah bust harus berbentuk jamak, seperti busts?",
+      "emphasis": [
+        {
+          "start": 70,
+          "end": 74,
+          "style": "em"
+        },
+        {
+          "start": 106,
+          "end": 111,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-Art_orn",
+      "kind": "separator",
+      "source": "chapter002.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p054",
+      "kind": "text",
+      "source": "chapter002.xhtml#p54",
+      "text": "Sesampainya di gedung khusus, Bu Hiratsuka tampaknya sudah tidak khawatir aku akan kabur, jadi beliau akhirnya melepaskanku. Meski begitu, ketika beranjak pergi beliau masih menoleh. Tatapan itu sama sekali bukan tatapan enggan berpisah atau masih ingin bersamaku. Tidak ada sedikit pun unsur itu. Yang kurasakan justru niat membunuh murni, seakan memperingatkan, Kalau kamu mencoba kabur, kamu tahu akibatnya, kan?",
+      "emphasis": [
+        {
+          "start": 364,
+          "end": 415,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p055",
+      "kind": "text",
+      "source": "chapter002.xhtml#p55",
+      "text": "Sambil tersenyum pahit, aku berjalan menyusuri lorong. Sudut gedung khusus itu sunyi senyap, dengan hembusan angin dingin mengalir melaluinya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p056",
+      "kind": "text",
+      "source": "chapter002.xhtml#p56",
+      "text": "Meskipun pasti ada klub lain yang melakukan aktivitas mereka pada saat itu, kebisingan mereka tampaknya tidak sampai sejauh ini. Aku tidak tahu apakah itu karena lokasinya atau karena aura misterius yang terpancar dari Yukino Yukinoshita."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p057",
+      "kind": "text",
+      "source": "chapter002.xhtml#p57",
+      "text": "Aku meletakkan tanganku di pintu untuk membukanya. Sejujurnya, hatiku terasa berat, tapi akan menggangguku untuk melarikan diri hanya karena itu. Pada dasarnya, aku hanya tidak peduli dengan apapun yang dia katakan. Aku tidak akan menganggap kami sebagai dua orang dalam satu ruangan bersama. Sebaliknya, itu adalah satu orang dan satu orang lainnya. Aku tidak akan merasa canggung atau tidak nyaman jika dia adalah orang asing bagi aku."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p058",
+      "kind": "text",
+      "source": "chapter002.xhtml#p58",
+      "text": "Hari ini aku akan menjalankan strategi nomor satu “Sendirian Tidak Menakutkan”: Kalau melihat orang asing, anggap saja dia orang asing. Omong-omong, strategi nomor dua tidak ada. Pada dasarnya, rasa canggung muncul karena pikiran seperti Aku harus membicarakan sesuatu atau Aku harus berteman dengannya. Saat duduk di kereta di sebelah seseorang, kamu tidak akan berpikir, Wah, kami cuma berdua! Canggung sekali! Kalau aku bersikap begitu, dia pun akan menyerah. Dia hanya akan duduk diam sambil membaca.",
+      "emphasis": [
+        {
+          "start": 238,
+          "end": 268,
+          "style": "em"
+        },
+        {
+          "start": 274,
+          "end": 302,
+          "style": "em"
+        },
+        {
+          "start": 373,
+          "end": 412,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p059",
+      "kind": "text",
+      "source": "chapter002.xhtml#p59",
+      "text": "Ketika aku membuka pintu ruang klub, Yukinoshita terlihat sama seperti kemarin, duduk disana sambil membaca."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p060",
+      "kind": "text",
+      "source": "chapter002.xhtml#p60",
+      "text": "Aku membuka pintu tetapi tidak tahu harus berkata apa padanya. Aku hanya membungkuk kecil dan berjalan ke arahnya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p061",
+      "kind": "text",
+      "source": "chapter002.xhtml#p61",
+      "text": "Yukinoshita memandangku sebentar lalu kembali membaca bukunya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p062",
+      "kind": "text",
+      "source": "chapter002.xhtml#p62",
+      "text": "“Aku sedekat ini, tepat di depanmu, dan kamu akan mengabaikanku?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p063",
+      "kind": "text",
+      "source": "chapter002.xhtml#p63",
+      "text": "Dia begitu berkomitmen untuk mengabaikanku, sejenak aku bertanya-tanya apakah aku telah berubah menjadi udara. Persis seperti inilah yang aku rasakan di kelas setiap hari."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p064",
+      "kind": "text",
+      "source": "chapter002.xhtml#p64",
+      "text": "“Salam yang aneh. Kamu berasal dari suku mana?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p065",
+      "kind": "text",
+      "source": "chapter002.xhtml#p65",
+      "text": "“…Selamat siang.” Tidak tahan menghadapi sindirannya, sapaan yang ditanamkan padaku sejak prasekolah itu keluar begitu saja. Mendengarnya, Yukinoshita tersenyum."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p066",
+      "kind": "text",
+      "source": "chapter002.xhtml#p66",
+      "text": "Aku pikir ini adalah pertama kalinya dia tersenyum kepada aku. Itu mengajariku beberapa fakta yang tidak berguna—seperti ketika dia tersenyum, dia mendapat lesung pipit dan gigi taringnya sedikit menonjol."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p067",
+      "kind": "text",
+      "source": "chapter002.xhtml#p67",
+      "text": "“Selamat siang. Kupikir kamu tidak akan datang lagi.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p068",
+      "kind": "text",
+      "source": "chapter002.xhtml#p68",
+      "text": "Sejujurnya, menurutku senyuman itu adalah tindakan kotor. Permainan busuk di level Tangan Tuhan Maradona. Dengan kata lain, pada akhirnya, aku tidak punya pilihan selain menerimanya. “A-aku datang saja karena kalau aku kabur, aku akan kalah dalam kompetisi! J-jangan salah paham!” Itu adalah pertukaran yang sedikit rom-com-ish. Namun biasanya posisi cowok dan cewek terbalik. Ini tidak benar."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p069",
+      "kind": "text",
+      "source": "chapter002.xhtml#p69",
+      "text": "Yukinoshita tidak tampak tersinggung. Dia malah terus bicara seakan tidak peduli apakah aku akan menjawab. “Kupikir setelah dimaki separah itu, orang biasa tidak akan datang lagi. Kamu masokis?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p070",
+      "kind": "text",
+      "source": "chapter002.xhtml#p70",
+      "text": "“Tidak!”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p071",
+      "kind": "text",
+      "source": "chapter002.xhtml#p71",
+      "text": "“Kalau begitu, seorang penguntit?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p072",
+      "kind": "text",
+      "source": "chapter002.xhtml#p72",
+      "text": "“Bukan itu juga! Hei, kenapa tebakan ini didasarkan pada asumsi kalau aku menyukaimu?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p073",
+      "kind": "text",
+      "source": "chapter002.xhtml#p73",
+      "text": "“Kamu tidak?” Si brengsek itu dengan acuh tak acuh memiringkan kepalanya ke samping, ekspresi bingung di wajahnya. Itu agak lucu tapi tidak sebanding dengan biaya pertukaran ini."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p074",
+      "kind": "text",
+      "source": "chapter002.xhtml#p74",
+      "text": "“Tidak mungkin! Bahkan aku tidak tertarik dengan ego besarmu.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p075",
+      "kind": "text",
+      "source": "chapter002.xhtml#p75",
+      "text": "“Oh? Aku mendapat kesan bahwa kamu menyukaiku,” katanya, ekspresinya dingin dan netral seperti biasa, tidak menunjukkan keterkejutan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p076",
+      "kind": "text",
+      "source": "chapter002.xhtml#p76",
+      "text": "Memang benar: Yukinoshita memang mempunyai wajah yang imut. Dia sangat manis bahkan orang sepertiku, yang tidak punya satupun teman di sekolah ini, tahu tentang dia. Tidak diragukan lagi dia adalah salah satu gadis terpanas di sekolah."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p077",
+      "kind": "text",
+      "source": "chapter002.xhtml#p77",
+      "text": "Namun meski begitu, egonya tidak normal."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p078",
+      "kind": "text",
+      "source": "chapter002.xhtml#p78",
+      "text": "“Pengasuhan seperti apa yang membuatmu percaya omong kosong naif seperti itu? Apakah setiap hari ulang tahunmu? Apakah pacarmu Sinterklas?” Pastilah seperti itu baginya untuk mengembangkan otak yang optimis tanpa henti. Jika dia terus menempuh jalan ini, dia pasti akan menemui akhir yang menyedihkan. Dia harus memperbaiki lintasan itu sebelum dia melakukan sesuatu yang tidak dapat dibatalkan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p079",
+      "kind": "text",
+      "source": "chapter002.xhtml#p79",
+      "text": "Bertentangan dengan penilaian aku yang lebih baik, kebaikan manusia di dalam diri aku tergerak. Aku memilih kata-kataku dengan hati-hati untuk melunakkan pukulannya. “Yukinoshita. Kamu tidak normal. Jangan berpikir sebaliknya. Lakukan lobotomi atau semacamnya.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p080",
+      "kind": "text",
+      "source": "chapter002.xhtml#p80",
+      "text": "“Kamu sebaiknya sedikit lebih bijaksana. Demi kebaikanmu sendiri.” Yukinoshita terkekeh sambil menatapku, tapi matanya tidak tersenyum… Mengerikan. Hebatnya, dia belum menyebutku sampah atau ampas atau apa pun. Jujur saja, kalau wajahnya tidak semanis itu, pasti sudah kutinju. “Yah, bagi makhluk rendahan sepertimu, aku mungkin tampak tidak normal. Tapi bagiku, ini akal sehat yang paling mendasar. Pengalaman telah membuktikan bahwa aku benar.” Yukinoshita dengan bangga membusungkan dada dan tertawa kecil."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p081",
+      "kind": "text",
+      "source": "chapter002.xhtml#p81",
+      "text": "Itu lucu. Sikap itu cukup menarik baginya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p082",
+      "kind": "text",
+      "source": "chapter002.xhtml#p82",
+      "text": "“Pengalaman, ya…?” Cara dia mengatakannya seperti itu membuatku berpikir dia pasti punya pacar Sinterklas. Penampilannya saja sudah cukup untuk meyakinkanku akan hal itu."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p083",
+      "kind": "text",
+      "source": "chapter002.xhtml#p83",
+      "text": "“Kalau begitu, kamu pasti bersenang-senang di sekolah,” gumamku sambil menghela napas."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p084",
+      "kind": "text",
+      "source": "chapter002.xhtml#p84",
+      "text": "Yukinoshita tersentak. “T-tentu saja. Terus terang, kehidupanku di sini biasa saja. Sangat tenang,” katanya, tetapi entah kenapa dia menghadap ke arah lain. Berkat pose itu, aku mendapat fakta lain yang sama sekali tidak berguna: lekukan lembut dari dagu ke lehernya ternyata cukup indah."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p085",
+      "kind": "text",
+      "source": "chapter002.xhtml#p85",
+      "text": "Sambil memperhatikannya, aku akhirnya menyadari sesuatu. Kalau lebih tenang, mungkin aku sudah menyadarinya sejak tadi. Orang angkuh yang gemar merendahkan orang lain mustahil membangun hubungan sosial yang normal. Jadi, kehidupan sekolahnya tidak mungkin semulus yang dia katakan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p086",
+      "kind": "text",
+      "source": "chapter002.xhtml#p86",
+      "text": "Mari kita tanyakan saja padanya tentang hal itu…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 48,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p087",
+      "kind": "text",
+      "source": "chapter002.xhtml#p87",
+      "text": "“Hei. Kamu punya teman?” aku bertanya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p088",
+      "kind": "text",
+      "source": "chapter002.xhtml#p88",
+      "text": "Yukinoshita mengalihkan pandangannya. “Pertama-tama, bisakah kamu mendefinisikan dengan tepat apa yang dimaksud dengan ‘teman’?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p089",
+      "kind": "text",
+      "source": "chapter002.xhtml#p89",
+      "text": "“Oh, sudahlah. Hanya orang yang tidak punya teman yang akan menanyakan hal itu.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p090",
+      "kind": "text",
+      "source": "chapter002.xhtml#p90",
+      "text": "Sumber: aku."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p091",
+      "kind": "text",
+      "source": "chapter002.xhtml#p91",
+      "text": "Sejujurnya, aku sendiri tidak tahu apa yang tepatnya bisa disebut teman. Sudah waktunya seseorang menjelaskan bedanya dengan kenalan. Kalau sekali bertemu berarti teman, dan setiap hari bertemu berarti saudara? Mi-Do-Fa-Do-Re-Si-So-La-O? Kenapa hanya “O” yang bukan bagian dari tangga nada? Hal-hal kecil itu penting, sial!"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p092",
+      "kind": "text",
+      "source": "chapter002.xhtml#p92",
+      "text": "Sebutan yang digunakan untuk membedakan teman dan kenalan pada awalnya cukup mencurigakan. Hal ini sangat mencolok terutama pada perempuan. Bahkan ketika kamu berada di kelas yang sama, aku merasa kamu harus mengurutkannya sebagai teman sekelas, teman, atau sahabat. Lalu di mana kamu menarik garis batas antara kategori-kategori tersebut?"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p093",
+      "kind": "text",
+      "source": "chapter002.xhtml#p93",
+      "text": "Tapi mari kita kembali ke topik."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p094",
+      "kind": "text",
+      "source": "chapter002.xhtml#p94",
+      "text": "“Yah, aku tahu kamu tidak punya teman, jadi ya, sudahlah.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p095",
+      "kind": "text",
+      "source": "chapter002.xhtml#p95",
+      "text": "“Aku tidak bilang aku tidak punya, kan? Bahkan jika aku tidak punya, itu tidak selalu merugikan.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p096",
+      "kind": "text",
+      "source": "chapter002.xhtml#p96",
+      "text": "“Oh baiklah. Tentu saja. Ya ya.” Aku dengan lancar mengesampingkan alasannya saat dia menatapku tajam. “Tapi, bagaimana kamu tidak punya teman jika semua orang menyukaimu?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p097",
+      "kind": "text",
+      "source": "chapter002.xhtml#p97",
+      "text": "Yukinoshita tampak marah. Kemudian dia berbalik, tampak tidak senang, dan membuka mulutnya. “Aku yakin kamu tidak akan mengerti.” Pipinya sedikit menggembung saat dia mengarahkan pandangannya ke arah yang berlawanan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p098",
+      "kind": "text",
+      "source": "chapter002.xhtml#p98",
+      "text": "Yah, Yukinoshita dan aku adalah individu yang berbeda, jadi aku tidak mengerti apa yang dia rasakan, tidak sedikit pun. Bahkan jika dia memberitahuku, aku yakin itu akan sulit untuk dipahami. Tidak peduli seberapa jauh kamu melangkah, pada akhirnya, orang tidak akan pernah bisa benar-benar memahami satu sama lain."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p099",
+      "kind": "text",
+      "source": "chapter002.xhtml#p99",
+      "text": "Tapi dalam hal ini, tentang kesendirian… Ini adalah salah satu bidang yang menurutku bisa aku hubungkan dengannya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p100",
+      "kind": "text",
+      "source": "chapter002.xhtml#p100",
+      "text": "“Yah, bukannya aku tidak mengerti maksudmu. Kamu bisa bersenang-senang sendiri. Aku sebenarnya muak dengan gagasan bahwa seseorang tidak bisa sendirian.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p101",
+      "kind": "text",
+      "source": "chapter002.xhtml#p101",
+      "text": "…"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p102",
+      "kind": "text",
+      "source": "chapter002.xhtml#p102",
+      "text": "Yukinoshita memperhatikanku sesaat sebelum mengalihkan pandangannya lagi dan menutup matanya. Dia sepertinya sedang memikirkan sesuatu."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p103",
+      "kind": "text",
+      "source": "chapter002.xhtml#p103",
+      "text": "“Kamu sendirian karena kamu menginginkannya, jadi menjengkelkan jika orang-orang mengasihanimu karenanya. Aku mengerti, aku mengerti.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p104",
+      "kind": "text",
+      "source": "chapter002.xhtml#p104",
+      "text": "“Memangnya makhluk rendahan sepertimu berhak menganggapku sama denganmu? Menjengkelkan sekali,” keluhnya, menyibakkan rambut ke belakang seakan hendak menepis rasa kesalnya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p105",
+      "kind": "text",
+      "source": "chapter002.xhtml#p105",
+      "text": "“Yah, meskipun kamu dan aku adalah orang-orang dengan kaliber yang sangat berbeda, aku bisa bersimpati dengan perasaan menyendiri karena kamu menginginkannya. Meski menyakitkan bagiku untuk mengatakannya,” tambahnya, menyeringai dengan nada mencela diri sendiri. Senyumannya agak gelap namun juga damai."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p106",
+      "kind": "text",
+      "source": "chapter002.xhtml#p106",
+      "text": "“Apa maksudmu ‘beda tingkat’? Wawasanku tentang seni menyendiri itu luas sekali. Aku begitu ahli sampai boleh kamu panggil Master Penyendiri. Gagasan bahwa orang sepertimu bisa mengajariku cara menyendiri itu tidak masuk akal.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p107",
+      "kind": "text",
+      "source": "chapter002.xhtml#p107",
+      "text": "“Apa ini...? Tiba-tiba kamu tampil sebagai pria yang kuat, dapat diandalkan—meskipun sedikit sedih—.” Yukinoshita ternganga ke arahku dengan keterkejutan dan keterkejutan di wajahnya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p108",
+      "kind": "text",
+      "source": "chapter002.xhtml#p108",
+      "text": "Puas mendapat reaksi seperti itu darinya, aku melanjutkan dengan penuh kemenangan, “Kamu tidak bisa menyebut dirimu kesepian. Semua orang mencintaimu. Kamu memalukan bagi para penyendiri sejati.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p109",
+      "kind": "text",
+      "source": "chapter002.xhtml#p109",
+      "text": "Seketika wajah Yukinoshita berubah menjadi senyum mengejek. “Cara berpikirmu dangkal sekali. Apa kamu cuma memakai refleks sumsum tulang belakang? Memangnya kamu tahu rasanya disukai orang? Oh, aku lupa. Kamu belum pernah mengalaminya. Seharusnya aku mempertimbangkan itu. Maaf.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p110",
+      "kind": "text",
+      "source": "chapter002.xhtml#p110",
+      "text": "“Jika kamu mau bersusah payah untuk menjadi perhatian, setidaknya selesaikan sampai akhir.” Aku kira ini yang mereka sebut kesopanan palsu. Dia benar-benar brengsek.",
+      "emphasis": [
+        {
+          "start": 92,
+          "end": 165,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p111",
+      "kind": "text",
+      "source": "chapter002.xhtml#p111",
+      "text": "“Jadi, bagaimana rasanya jika semua orang menyukaimu?” aku bertanya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p112",
+      "kind": "text",
+      "source": "chapter002.xhtml#p112",
+      "text": "Yukinoshita menutup matanya sebentar untuk mempertimbangkannya. Dengan susah payah, dia berdehem dan membuka mulutnya. “Sebagai orang yang tidak disukai siapa pun, kamu mendengar ini mungkin tidak menyenangkan.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p113",
+      "kind": "text",
+      "source": "chapter002.xhtml#p113",
+      "text": "“Segala sesuatu yang keluar dari mulutmu itu tidak menyenangkan, jadi jangan khawatir,” aku meyakinkannya, dan Yukinoshita mengambil napas kecil."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p114",
+      "kind": "text",
+      "source": "chapter002.xhtml#p114",
+      "text": "Tidak mungkin aku bisa merasa lebih buruk dari sebelumnya. Pertukaran terakhir kami membuatku merasa sudah kenyang lebih dari cukup—seperti saat aku memesan ramen sepuasnya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p115",
+      "kind": "text",
+      "source": "chapter002.xhtml#p115",
+      "text": "“Aku selalu manis, jadi kebanyakan laki-laki yang mendekatiku tertarik padaku.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p116",
+      "kind": "text",
+      "source": "chapter002.xhtml#p116",
+      "text": "Ampun.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p117",
+      "kind": "text",
+      "source": "chapter002.xhtml#p117",
+      "text": "Ini mengenyangkan seperti sayuran ganda dan bumbu tambahan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p118",
+      "kind": "text",
+      "source": "chapter002.xhtml#p118",
+      "text": "Tapi sekarang setelah dia membuat pernyataan yang mengesankan, aku tidak bisa meninggalkan tempat dudukku. Aku akan menyedotnya dan menunggu dia melanjutkan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p119",
+      "kind": "text",
+      "source": "chapter002.xhtml#p119",
+      "text": "“Aku pikir itu terjadi sekitar kelas lima atau enam. Sejak saat itu...” Dia meruncing, ekspresinya menjadi agak melankolis dibandingkan sebelumnya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p120",
+      "kind": "text",
+      "source": "chapter002.xhtml#p120",
+      "text": "Itu baru kurang dari lima tahun. Aku bertanya-tanya bagaimana rasanya terus-menerus dihujani perhatian dari lawan jenis. Sejujurnya, sebagai seseorang yang dihujani kebencian terhadap lawan jenis selama kurang lebih enam belas tahun, aku tidak bisa membayangkannya. Sebagai laki-laki yang bahkan tidak mendapatkan coklat Valentine dari ibunya sendiri, aku tidak mengerti dunia itu. Menurut aku, dia adalah anggota tim pemenang dalam hidup yang tersenyum puas. Dia hanya akan memaksaku untuk menahan bualan yang lebih konyol lagi."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p121",
+      "kind": "text",
+      "source": "chapter002.xhtml#p121",
+      "text": "Tapi…benar juga karena vektornya di area itu positif sedangkan vektor aku sangat negatif, sulit bagi aku untuk menangani ekspresi emosi terbuka darinya. Rasanya seperti berdiri telanjang bulat di tengah angin badai yang dahsyat. Itu sama buruknya dengan dikecam oleh pengadilan kanguru di kelas. Rasanya seperti disuruh berdiri sendirian di depan papan tulis, dikelilingi oleh teman-teman sekelasmu di semua sisi sambil bertepuk tangan serempak, meneriakkan, Minta maaf! Minta maaf!",
+      "emphasis": [
+        {
+          "start": 459,
+          "end": 482,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p122",
+      "kind": "text",
+      "source": "chapter002.xhtml#p122",
+      "text": "Itu sungguh menyebalkan. Itulah satu-satunya saat aku menangis di sekolah."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p123",
+      "kind": "text",
+      "source": "chapter002.xhtml#p123",
+      "text": "Tapi itu sudah cukup tentang aku untuk saat ini."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p124",
+      "kind": "text",
+      "source": "chapter002.xhtml#p124",
+      "text": "“Yah, itu pasti jauh lebih baik daripada dibenci terus-menerus. Kamu sudah dimanjakan. Dimanjakan!” Kenangan tidak menyenangkan yang muncul di pikiranku keluar dari mulutku."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p125",
+      "kind": "text",
+      "source": "chapter002.xhtml#p125",
+      "text": "Saat itu Yukinoshita menghela napas pendek. Wajahnya membentuk sesuatu yang mirip senyum, tetapi jelas merupakan ekspresi yang sama sekali berbeda. “Aku tidak pernah meminta siapa pun menyukaiku,” katanya, lalu menambahkan, “Atau mungkin, justru aku yang ingin menyukai seseorang.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p126",
+      "kind": "text",
+      "source": "chapter002.xhtml#p126",
+      "text": "“Apa?” Tanggapan aku sepenuhnya tidak disengaja. Komentarnya disampaikan dengan bisikan yang semakin pelan."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p127",
+      "kind": "text",
+      "source": "chapter002.xhtml#p127",
+      "text": "Yukinoshita menoleh ke arahku lagi, ekspresi wajahnya serius. “Bagaimana perasaanmu jika kamu mempunyai teman yang selalu populer di kalangan perempuan?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p128",
+      "kind": "text",
+      "source": "chapter002.xhtml#p128",
+      "text": "“Pertanyaan bodoh sekali. Aku tidak punya teman, jadi itu bukan sesuatu yang perlu kukhawatirkan.” Sungguh jawaban yang kuat dan maskulin! Aku bahkan mengejutkan diri aku sendiri dengan jawaban improvisasi aku yang seketika sampai pada titik interupsi."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p129",
+      "kind": "text",
+      "source": "chapter002.xhtml#p129",
+      "text": "Yukinoshita pasti merasakan keterkejutanku. Dia terdiam, rahangnya ternganga. “Untuk sesaat, aku mempunyai khayalan bahwa kamu mungkin mengatakan sesuatu yang keren.” Dia dengan lembut menyentuhkan tangannya ke pelipisnya, seolah-olah sedang dilanda sakit kepala atau semacamnya, dan mengarahkan pandangannya ke bawah. “Beri aku jawaban saja, bicaralah secara hipotetis.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p130",
+      "kind": "text",
+      "source": "chapter002.xhtml#p130",
+      "text": "“Aku akan membunuhnya.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p131",
+      "kind": "text",
+      "source": "chapter002.xhtml#p131",
+      "text": "Tampaknya puas dengan jawabanku yang cepat, Yukinoshita mengangguk. “Lihat? Kamu akan mencoba untuk mengecualikan individu itu, bukan? Sama seperti binatang yang tidak berakal...tidak, bahkan lebih rendah dari binatang. Di sekolah yang pernah aku hadiri, ada banyak orang seperti itu. Aku kira mereka semua hanyalah jiwa menyedihkan yang menggunakan perilaku seperti itu sebagai validasi diri.” Yukinoshita mendengus."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p132",
+      "kind": "text",
+      "source": "chapter002.xhtml#p132",
+      "text": "Seorang gadis yang dibenci oleh gadis lain. Memang ada kategori seperti itu. Aku telah belajar sesuatu dari sepuluh tahun aku di sekolah. Aku belum terlalu tenggelam di dalamnya, tapi aku mendapatkan sebanyak itu hanya dengan menonton dari pinggir lapangan. Tidak, aku justru memahaminya karena aku menonton dari pinggir lapangan. Aku yakin Yukinoshita selalu berada di tengah-tengah semua itu, dan itulah sebabnya dia dikelilingi oleh musuh. Aku bisa membayangkan apa yang akan terjadi pada orang seperti itu.",
+      "emphasis": [
+        {
+          "start": 95,
+          "end": 102,
+          "style": "em"
+        },
+        {
+          "start": 288,
+          "end": 294,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p133",
+      "kind": "text",
+      "source": "chapter002.xhtml#p133",
+      "text": "“Waktu SD, sepatu dalam ruanganku disembunyikan sekitar enam puluh kali. Sekitar lima puluh di antaranya dilakukan anak perempuan sekelasku.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p134",
+      "kind": "text",
+      "source": "chapter002.xhtml#p134",
+      "text": "“Aku ingin tahu tentang sepuluh kali terakhir itu.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p135",
+      "kind": "text",
+      "source": "chapter002.xhtml#p135",
+      "text": "“Tiga kali disembunyikan anak laki-laki. Dua kali dibeli guru dariku. Lima kali dibawa kabur anjing.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p136",
+      "kind": "text",
+      "source": "chapter002.xhtml#p136",
+      "text": "“Itu adalah statistik yang tinggi.” Itu sedikit melebihi ekspektasiku."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p137",
+      "kind": "text",
+      "source": "chapter002.xhtml#p137",
+      "text": "“Itu bukanlah bagian yang seharusnya mengejutkanmu.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p138",
+      "kind": "text",
+      "source": "chapter002.xhtml#p138",
+      "text": "“Aku sengaja mengabaikan petunjuknya.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p139",
+      "kind": "text",
+      "source": "chapter002.xhtml#p139",
+      "text": "“Karena itu, aku selalu membawa pulang sepatu dalam ruanganku setiap hari. Seruling rekorderku pun kubawa pulang.” Wajah Yukinoshita menunjukkan betapa merepotkannya semua itu."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p140",
+      "kind": "text",
+      "source": "chapter002.xhtml#p140",
+      "text": "Tanpa sadar, aku bersimpati padanya. Cuma, yah…bukan karena ceritanya menarik perhatianku, atau karena aku merasa bersalah atas kejadian waktu SD ketika aku mencari jam pagi saat kelas kosong lalu menukar kepala seruling rekorder kami. Aku cuma kasihan padanya. Sungguh, sungguh. Hachiman tidak berbohong!",
+      "emphasis": [
+        {
+          "start": 47,
+          "end": 52,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p141",
+      "kind": "text",
+      "source": "chapter002.xhtml#p141",
+      "text": "“Pasti sulit.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p142",
+      "kind": "text",
+      "source": "chapter002.xhtml#p142",
+      "text": "“Ya, benar. Karena aku sangat manis.” Dia tertawa dengan cara yang agak mencela diri sendiri, dan kali ini pemandangannya tidak lagi menjengkelkan seperti sebelumnya. “Tapi menurutku mau bagaimana lagi. Tidak ada seorang pun yang sempurna. Mereka lemah, berhati jelek, dan cepat berubah menjadi iri hati. Mereka mencoba menjatuhkan orang lain. Aneh sekali... Di dunia yang kita tinggali, semakin hebat seseorang, semakin sulit hidupnya. Tidakkah menurutmu itu aneh? Itu sebabnya aku akan mengubah dunia ini dan semua orang di dalamnya.” Yukinoshita menunjukkan ketulusan yang jelas di matanya—matanya sedingin es kering. Cukup dingin untuk terbakar."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p143",
+      "kind": "text",
+      "source": "chapter002.xhtml#p143",
+      "text": "“Arah usahamu itu aneh sekali.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p144",
+      "kind": "text",
+      "source": "chapter002.xhtml#p144",
+      "text": "“Begitukah? Bahkan jika kamu benar, menurutku itu adalah pilihan yang jauh lebih baik daripada menjadi layu dan kelelahan sepertimu. Aku benci caramu...menganggap kelemahanmu sendiri sebagai kebajikan,” bentaknya, mengalihkan pandangannya ke luar jendela."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p145",
+      "kind": "text",
+      "source": "chapter002.xhtml#p145",
+      "text": "Yukino Yukinoshita adalah gadis cantik. Pada titik ini, ini adalah fakta yang tidak terbantahkan. Aku terpaksa menerimanya, betapapun disesalkannya hal itu."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p146",
+      "kind": "text",
+      "source": "chapter002.xhtml#p146",
+      "text": "Dari luar, dia tampak sebagai teladan yang berperilaku tanpa cela—tak tertandingi secara akademis dan secara umum tanpa cela. Namun kepribadiannya memiliki kelemahan yang sangat fatal."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p147",
+      "kind": "text",
+      "source": "chapter002.xhtml#p147",
+      "text": "Tidak ada yang menganggap hal seperti itu lucu."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p148",
+      "kind": "text",
+      "source": "chapter002.xhtml#p148",
+      "text": "Tapi ada alasan untuk kekurangannya. Aku tidak menganggap kata-kata Bu Hiratsuka sebagai hal yang biasa, tapi sebagai seorang elit, Yukinoshita memang mempunyai masalahnya sendiri."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p149",
+      "kind": "text",
+      "source": "chapter002.xhtml#p149",
+      "text": "Aku yakin tidak akan sulit menyembunyikannya. Untuk bekerja sama dengan semua orang, untuk menggunakan setiap trik dalam buku ini, unggul dalam segala hal, sambil membodohi dunia di sekitar kamu. Kebanyakan orang melakukan itu."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p150",
+      "kind": "text",
+      "source": "chapter002.xhtml#p150",
+      "text": "Seperti halnya seseorang yang pandai belajar, ketika mendapat nilai bagus dalam suatu ulangan, akan mengatakan bahwa itu hanyalah suatu kebetulan, bahwa ia hanya menebak-nebak, atau sekadar beruntung. Atau ketika sekelompok gadis biasa iri pada seorang gadis cantik, gadis cantik itu menunjukkan keburukannya secara besar-besaran dengan membicarakan lemak subkutannya."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p151",
+      "kind": "text",
+      "source": "chapter002.xhtml#p151",
+      "text": "Tapi Yukinoshita tidak melakukan itu."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p152",
+      "kind": "text",
+      "source": "chapter002.xhtml#p152",
+      "text": "Dia tidak pernah berbohong pada dirinya sendiri. Aku bisa menghormatinya. Karena aku juga sama."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p153",
+      "kind": "text",
+      "source": "chapter002.xhtml#p153",
+      "text": "Yukinoshita mengalihkan perhatiannya ke sampul bukunya, seolah menandakan percakapan sudah selesai."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p154",
+      "kind": "text",
+      "source": "chapter002.xhtml#p154",
+      "text": "Melihat itu, perasaan aneh membuatku lengah. Terlintas dalam benakku bahwa dia dan aku sama, dalam beberapa hal, meskipun sangat berbeda dengan pendapatku. Pada saat itu, aku bahkan mulai merasa seolah keheningan di antara kami terasa nyaman. Tekanan darah aku sedikit meningkat. Rasanya detak jantungku sudah melampaui kecepatan jarum detik dan memberitahuku bahwa aku ingin bergerak lebih cepat lagi."
+    },
+    {
+      "id": "v1-bab-2-chapter002-p155",
+      "kind": "text",
+      "source": "chapter002.xhtml#p155",
+      "text": "Jadi…"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p156",
+      "kind": "text",
+      "source": "chapter002.xhtml#p156",
+      "text": "Jadi dia dan aku…"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p157",
+      "kind": "text",
+      "source": "chapter002.xhtml#p157",
+      "text": "“Hei, Yukinoshita. Bisakah kita berteman—?”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p158",
+      "kind": "text",
+      "source": "chapter002.xhtml#p158",
+      "text": "“Maafkan aku. Itu tidak mungkin.”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p159",
+      "kind": "text",
+      "source": "chapter002.xhtml#p159",
+      "text": "“Apa? Aku bahkan belum menyelesaikan kalimatku!”"
+    },
+    {
+      "id": "v1-bab-2-chapter002-p160",
+      "kind": "text",
+      "source": "chapter002.xhtml#p160",
+      "text": "Penolakan telak tanpa celah. Ditambah lagi, wajahnya seakan berkata, Ih…",
+      "emphasis": [
+        {
+          "start": 69,
+          "end": 72,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-2-chapter002-p161",
+      "kind": "text",
+      "source": "chapter002.xhtml#p161",
+      "text": "Tidak ada yang manis dari dia. Komedi romantis bisa mati terbakar saja."
+    }
+  ]
+}

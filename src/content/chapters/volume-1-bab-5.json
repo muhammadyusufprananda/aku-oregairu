@@ -1,0 +1,1774 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate + AI"
+  },
+  "blocks": [
+    {
+      "id": "v1-bab-5-chapter005-h2",
+      "kind": "heading",
+      "source": "chapter005.xhtml#h2",
+      "text": "Dengan kata lain, Yoshiteru Zaimokuza agak menyimpang."
+    },
+    {
+      "id": "v1-bab-5-chapter005-Art_P107",
+      "kind": "image",
+      "source": "chapter005.xhtml#Art_P107.jpg",
+      "src": "assets/chapters/volume-1/bab-5/Art_P107.webp",
+      "width": 201,
+      "height": 391,
+      "text": "Yui versi chibi memegang botol bahan masakan."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p001",
+      "kind": "text",
+      "source": "chapter005.xhtml#p1",
+      "text": "Memang agak terlambat untuk membahas hal ini, tapi pada dasarnya tujuan Klub Layanan adalah untuk mendengarkan setiap permintaan siswa dan kemudian membantu mereka mengatasi masalah mereka. Aku harus memastikannya secara mental seperti ini, atau aku tidak akan tahu apa maksudnya lagi. Maksudku, biasanya aku dan Yukinoshita hanya membaca saat waktu klub, tahu? Dan Yuigahama hanya memainkan ponselnya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p002",
+      "kind": "text",
+      "source": "chapter005.xhtml#p2",
+      "text": "“Hmm. Hei…jadi, kenapa kamu ada di sini?” Dia muncul secara alami, dan meskipun aku menganggap remeh kehadirannya, Yuigahama sebenarnya bukan anggota klub. Sebenarnya aku bahkan tidak yakin apakah aku adalah anggotanya. Hei, sungguh, apa aku ada di klub ini? Lagipula aku ingin berhenti.",
+      "emphasis": [
+        {
+          "start": 197,
+          "end": 200,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p003",
+      "kind": "text",
+      "source": "chapter005.xhtml#p3",
+      "text": "“Hah? Ya, aku lagi tidak ada kegiatan hari ini, paham, kan?” katanya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p004",
+      "kind": "text",
+      "source": "chapter005.xhtml#p4",
+      "text": "“Tidak paham kalau kamu pakai ungkapan ‘paham, kan?’ begitu. Itu dialek Hiroshima?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p005",
+      "kind": "text",
+      "source": "chapter005.xhtml#p5",
+      "text": "“Apa? Hiroshima? Bukan, aku penduduk asli Chiba.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p006",
+      "kind": "text",
+      "source": "chapter005.xhtml#p6",
+      "text": "Sebenarnya, ungkapan “paham, kan?” itu berasal dari dialek Hiroshima, dan banyak orang pasti berpikir, Hah? Baru dengar. Cara bicara laki-laki dalam dialek Hiroshima terkenal menyeramkan, tapi cara bicara perempuannya justru manis. Masuk sepuluh besar aksen termanis menurut penilaianku pribadi.",
+      "emphasis": [
+        {
+          "start": 103,
+          "end": 120,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p007",
+      "kind": "text",
+      "source": "chapter005.xhtml#p7",
+      "text": "“Hmph. Aku tidak akan membiarkanmu menyebut dirimu penduduk asli Chiba hanya karena kamu lahir di prefektur Chiba.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p008",
+      "kind": "text",
+      "source": "chapter005.xhtml#p8",
+      "text": "“Uh, Hikigaya. Aku tidak mengerti apa yang kamu bicarakan.” Yukinoshita menatapku dengan tatapan mencemooh. Tapi aku mengabaikannya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p009",
+      "kind": "text",
+      "source": "chapter005.xhtml#p9",
+      "text": "“Ayo berangkat, Yuigahama. Pertanyaan pertama: Apa yang disebut dengan pendarahan dalam akibat serangan benda tumpul?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p010",
+      "kind": "text",
+      "source": "chapter005.xhtml#p10",
+      "text": "“Aonajimi! Memar biru!”",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 9,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p011",
+      "kind": "text",
+      "source": "chapter005.xhtml#p11",
+      "text": "“Ngh! Benar. Aku tidak menyangka kamu akan menguasai dialek Chiba... Lalu, pertanyaan nomor dua: Apa yang disertakan dengan makan siang sekolahmu?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p012",
+      "kind": "text",
+      "source": "chapter005.xhtml#p12",
+      "text": "“Kacang miso!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p013",
+      "kind": "text",
+      "source": "chapter005.xhtml#p13",
+      "text": "“Oh-ho, sepertinya kamu benar-benar penduduk asli Chiba.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p014",
+      "kind": "text",
+      "source": "chapter005.xhtml#p14",
+      "text": "“Itulah yang aku katakan.” Dia meletakkan tangannya di pinggulnya dan memiringkan kepalanya ke samping dengan ekspresi wajahnya yang berkata, Apa masalah pria ini?",
+      "emphasis": [
+        {
+          "start": 142,
+          "end": 163,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p015",
+      "kind": "text",
+      "source": "chapter005.xhtml#p15",
+      "text": "Di sampingnya, Yukinoshita meletakkan sikunya di atas meja dan tangannya di dahi sambil menghela napas. “Tentang apa ini sekarang? Apakah ada gunanya pertukaran itu?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p016",
+      "kind": "text",
+      "source": "chapter005.xhtml#p16",
+      "text": "Tentu saja tidak ada gunanya. “Itu hanya Kuis Ultra Trans-Chiba. Trivia dari seluruh prefektur! Yang paling spesifik, dari antara Matsudo hingga Choshi.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p017",
+      "kind": "text",
+      "source": "chapter005.xhtml#p17",
+      "text": "“Itu tidak mencakup banyak hal!” Yuigahama menyindir."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p018",
+      "kind": "text",
+      "source": "chapter005.xhtml#p18",
+      "text": "“Baiklah, lalu bagaimana kalau dari Sawara ke Tateyama?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p019",
+      "kind": "text",
+      "source": "chapter005.xhtml#p19",
+      "text": "“Itu tidak melintang. Itu dari utara ke selatan,” kata Yukinoshita."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p020",
+      "kind": "text",
+      "source": "chapter005.xhtml#p20",
+      "text": "Kalian tahu semua itu hanya dari nama tempatnya? Seberapa terobsesinya kamu dengan Chiba?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 89,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p021",
+      "kind": "text",
+      "source": "chapter005.xhtml#p21",
+      "text": "“Oke, pertanyaan nomor tiga. Kalau kamu naik Jalur Sotobo menuju Toke, binatang aneh apa yang akan kamu lihat di jalan?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p022",
+      "kind": "text",
+      "source": "chapter005.xhtml#p22",
+      "text": "“Oh, ngomong-ngomong soal Matsudo, Yukinon, seharusnya ada banyak toko ramen di daerah ini. Ayo kita pergi kapan-kapan!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p023",
+      "kind": "text",
+      "source": "chapter005.xhtml#p23",
+      "text": "“Ramen ya? Aku belum sering memakannya, jadi aku tidak begitu tahu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p024",
+      "kind": "text",
+      "source": "chapter005.xhtml#p24",
+      "text": "“Tidak apa-apa! Aku juga jarang makan ramen!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p025",
+      "kind": "text",
+      "source": "chapter005.xhtml#p25",
+      "text": "“Hah? Apa yang baik tentang itu? Bisakah kamu menjelaskannya?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p026",
+      "kind": "text",
+      "source": "chapter005.xhtml#p26",
+      "text": "“Tentu. Jadi ya, apa nama toko di Matsudo itu? Seharusnya ada tempat yang sangat bagus...”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p027",
+      "kind": "text",
+      "source": "chapter005.xhtml#p27",
+      "text": "“Apakah kamu mendengarkan?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p028",
+      "kind": "text",
+      "source": "chapter005.xhtml#p28",
+      "text": "“Hmm? Aku mendengarkan. Oh, tapi ada beberapa tempat bagus di daerah ini. Letaknya di lingkunganku, jadi aku sangat mengenalnya. Sekitar lima menit berjalan kaki dari sini. Ada toko yang sering aku lewati ketika aku sedang berjalan-jalan dengan anjingku.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p029",
+      "kind": "text",
+      "source": "chapter005.xhtml#p29",
+      "text": "Jawaban yang benar adalah burung unta. Sungguh mengejutkan tiba-tiba melihat burung unta di luar jendela kereta… Sebenarnya cukup mengasyikkan."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p030",
+      "kind": "text",
+      "source": "chapter005.xhtml#p30",
+      "text": "Huh.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 4,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p031",
+      "kind": "text",
+      "source": "chapter005.xhtml#p31",
+      "text": "Mengabaikan kedua gadis dan percakapan sepihak tentang ramen itu, aku kembali membaca. Kenapa aku tetap sendirian padahal ada dua orang lain di ruangan? Tapi mungkin memang beginilah murid SMA. Dibandingkan anak SMP, kegiatan murid SMA lebih luas, mulai tertarik pada pakaian, masakan, dan sebagainya. Mengobrol soal kedai ramen terasa sangat seperti anak SMA, kan?"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p032",
+      "kind": "text",
+      "source": "chapter005.xhtml#p32",
+      "text": "Namun, menurut aku Kuis Ultra Trans-Chiba bukanlah acara yang normal."
+    },
+    {
+      "id": "v1-bab-5-chapter005-Art_orn",
+      "kind": "separator",
+      "source": "chapter005.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p033",
+      "kind": "text",
+      "source": "chapter005.xhtml#p33",
+      "text": "Itu adalah hari berikutnya. Ketika aku pergi ke ruang klub, aku tiba dan menemukan pemandangan yang tidak biasa dari Yukinoshita dan Yuigahama yang berdiri diam di depan pintu. Aku mengamati mereka, bertanya-tanya apa yang mereka lakukan, ketika kulihat pintunya terbuka sedikit dan mereka mengintip ke dalam."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p034",
+      "kind": "text",
+      "source": "chapter005.xhtml#p34",
+      "text": "“Apa yang sedang kamu lakukan?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p035",
+      "kind": "text",
+      "source": "chapter005.xhtml#p35",
+      "text": "““Eeeek!”” Menjerit dengan manis dan bersamaan, mereka berdua melompat ke udara.",
+      "emphasis": [
+        {
+          "start": 2,
+          "end": 8,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p036",
+      "kind": "text",
+      "source": "chapter005.xhtml#p36",
+      "text": "“Hikigaya… K-kamu mengagetkanku…”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p037",
+      "kind": "text",
+      "source": "chapter005.xhtml#p37",
+      "text": "“Kalian mengejutkan aku.” Ada apa dengan reaksi itu? Kalian bertingkah seperti kucingku saat aku bertemu dengannya di ruang tamu tengah malam.",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 7,
+          "style": "em"
+        },
+        {
+          "start": 20,
+          "end": 23,
+          "style": "em"
+        },
+        {
+          "start": 26,
+          "end": 142,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p038",
+      "kind": "text",
+      "source": "chapter005.xhtml#p38",
+      "text": "“Bisa tidak, jangan menyelinap begitu?” Tatapan tajam dan wajah galak Yukinoshita pun persis seperti kucingku. Kalau dipikir-pikir, dari semua anggota keluarga, cuma aku yang tidak disukai kucing itu. Satu lagi kesamaan Yukinoshita dan kucingku."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p039",
+      "kind": "text",
+      "source": "chapter005.xhtml#p39",
+      "text": "“Maaf. Jadi, apa yang sedang kamu lakukan?” Aku bertanya lagi, dan Yuigahama, sama seperti sebelumnya, membuka pintu sedikit dan diam-diam mengintip ke dalam sambil menjawab, “Ada orang yang mencurigakan di ruang klub.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p040",
+      "kind": "text",
+      "source": "chapter005.xhtml#p40",
+      "text": "“Kalian berdua yang mencurigakan di sini.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p041",
+      "kind": "text",
+      "source": "chapter005.xhtml#p41",
+      "text": "“Dengarkan saja. Jangan pedulikan kami. Bisakah kamu masuk ke dalam dan melihat apa yang terjadi di sana?” Perintah Yukinoshita, terlihat cemberut."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p042",
+      "kind": "text",
+      "source": "chapter005.xhtml#p42",
+      "text": "Aku melangkah ke depan mereka berdua seperti yang diinstruksikan, dengan hati-hati membuka pintu, dan masuk."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p043",
+      "kind": "text",
+      "source": "chapter005.xhtml#p43",
+      "text": "Menunggu kami adalah embusan angin. Saat aku membuka pintu, angin laut bertiup ke dalam ruangan. Lembaran kertas berserakan di sekitar ruang kelas, ciri khas angin sepoi-sepoi yang bertiup di sekitar sekolah tepi pantai ini. Itu tampak seperti sekawanan merpati yang terbang keluar dari topi sutra yang digunakan untuk trik sulap, dan di tengah-tengah dunia putih itu berdiri seorang pria."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p044",
+      "kind": "text",
+      "source": "chapter005.xhtml#p44",
+      "text": "“Heh-heh-heh… Aku cukup terkejut melihatmu di tempat seperti ini. Aku sudah menunggumu, Hachiman Hikigaya.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p045",
+      "kind": "text",
+      "source": "chapter005.xhtml#p45",
+      "text": "“A-apa yang kamu katakan?!” Dia terkejut, tapi dia menungguku? Apa maksudnya itu? Akulah yang terkejut di sini."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p046",
+      "kind": "text",
+      "source": "chapter005.xhtml#p46",
+      "text": "Sambil menggeser kertas putih yang berkibar, aku mengamati si penyusup. Seperti dugaanku, dia… Tidak, aku tidak mengenalnya. Tidak. Aku tidak mengenal Yoshiteru Zaimokuza."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p047",
+      "kind": "text",
+      "source": "chapter005.xhtml#p47",
+      "text": "Yah, aku kira aku tidak mengenal sebagian besar siswa di sekolah ini. Namun, dalam kategori orang-orang yang belum kukenal, pria ini menduduki puncak daftar orang-orang yang tidak ingin kukenal. Ditambah lagi, dia berkeringat dengan mantel panjang dan memakai sarung tangan tanpa jari meski saat itu hampir musim panas. Bahkan jika aku mengenal pria seperti itu, aku tidak akan peduli."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p048",
+      "kind": "text",
+      "source": "chapter005.xhtml#p48",
+      "text": "“Hikigaya, sepertinya dia mengenalmu…” Yukinoshita bersembunyi di balik punggungku saat dia membandingkan aku dan si penyelundup, dengan ekspresi ragu di wajahnya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p049",
+      "kind": "text",
+      "source": "chapter005.xhtml#p49",
+      "text": "Dia tersentak sejenak di bawah tatapan tidak sopannya sebelum langsung menghadapku, menyilangkan tangannya sambil tertawa kecil. Dia mengangkat bahunya secara dramatis, menggelengkan kepalanya dengan arogan. “Bagaimana kamu bisa melupakan wajah pasanganmu? Aku benar-benar tersinggung, Hachiman.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p050",
+      "kind": "text",
+      "source": "chapter005.xhtml#p50",
+      "text": "“Dia menyebutmu rekannya…” Yuigahama menatapku dengan dingin. Matanya berkata, Kalian semua sampah bisa pergi dan mati.",
+      "emphasis": [
+        {
+          "start": 79,
+          "end": 118,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p051",
+      "kind": "text",
+      "source": "chapter005.xhtml#p51",
+      "text": "“Benar, partner. Kamu punya kenangan tentang hari-hari itu, bukan? Kita sering melewati neraka bersama-sama.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p052",
+      "kind": "text",
+      "source": "chapter005.xhtml#p52",
+      "text": "“Kami baru saja berpasangan di kelas olahraga,” aku tidak bisa menahan diri untuk membalas, dan seringai yang disebabkan oleh kebencian menyebar di wajahnya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p053",
+      "kind": "text",
+      "source": "chapter005.xhtml#p53",
+      "text": "“Hmph. Kebiasaan jahat itu tidak lebih dari neraka. Berpasangan dengan siapa pun yang kamu suka, kata mereka? Heh-heh-heh... Aku tidak pernah tahu kapan aku akan binasa, jadi aku tidak menjalin ikatan seperti itu... Aku tidak membutuhkan lagi perpisahan yang menyayat jiwa. Jika itu adalah cinta, maka aku tidak memerlukannya!” Matanya berkaca-kaca saat dia menatap ke luar jendela. Dia mungkin melihat gambar putri kesayangannya yang melayang di langit. Atau mungkin semua orang terlalu menyukai Fist of the North Star.",
+      "emphasis": [
+        {
+          "start": 497,
+          "end": 519,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p054",
+      "kind": "text",
+      "source": "chapter005.xhtml#p54",
+      "text": "Nah, jika kamu sudah sampai sejauh ini, tidak peduli seberapa tebalnya kamu, kamu pasti sudah menyadarinya sekarang. Orang ini sedikit…kamu tahu."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p055",
+      "kind": "text",
+      "source": "chapter005.xhtml#p55",
+      "text": "“Apa yang kamu inginkan, Zaimokuza?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p056",
+      "kind": "text",
+      "source": "chapter005.xhtml#p56",
+      "text": "“Hngh, kamu telah menyuarakan nama yang terukir di jiwaku. Aku memang Jenderal Ahli Pedang, Yoshiteru Zaimokuza.” Jas hujannya berkibar kencang, bergemerisik saat dia meregangkan wajahnya yang gemuk menjadi ekspresi yang sangat tampan dan berbalik menghadapku. Dia benar-benar memiliki karakter dengan identitas Jenderal Ahli Pedang yang dia ciptakan. Melihatnya saja membuat kepalaku berdenyut-denyut. Sebenarnya, itu lebih melukai jiwaku dibandingkan kepalaku, dan tatapan tajam Yukinoshita dan Yuigahama bahkan lebih menyakitkan dari itu."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p057",
+      "kind": "text",
+      "source": "chapter005.xhtml#p57",
+      "text": "“Hei…apa itu?” Ketidaksenangan—atau lebih tepatnya, ketidaknyamanan—terpampang di wajahnya, Yuigahama menatapku tajam. Kenapa aku yang dilirik?",
+      "emphasis": [
+        {
+          "start": 9,
+          "end": 12,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p058",
+      "kind": "text",
+      "source": "chapter005.xhtml#p58",
+      "text": "“Ini Yoshiteru Zaimokuza… Kami partner di kelas olahraga.” Sejujurnya, itu tidak lebih dan tidak kurang dari itu. Hanya itu yang ada dalam hubungan kami. Aku kira tidak sepenuhnya salah untuk mengatakan bahwa kami adalah mitra dengan tujuan untuk bertahan hidup di “masa sulit” itu."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p059",
+      "kind": "text",
+      "source": "chapter005.xhtml#p59",
+      "text": "Sungguh, harus memilih pasangan untuk melakukan sesuatu adalah hal yang sangat buruk."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p060",
+      "kind": "text",
+      "source": "chapter005.xhtml#p60",
+      "text": "Dan karena Zaimokuza sangat menyakitkan untuk ditonton, dia memahami kepahitan saat itu juga."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p061",
+      "kind": "text",
+      "source": "chapter005.xhtml#p61",
+      "text": "Zaimokuza dan aku pertama kali berpasangan di kelas olahraga karena hanya kami berdua yang tersisa, dan sejak saat itu, kami selalu dipasangkan bersama. Sejujurnya, dia mengidap kasus sindrom M-2 yang parah sehingga aku ingin menukarnya ke tim lain. Namun, karena tidak dapat mengelolanya, aku menyerah. Aku juga berpikir untuk mendeklarasikan diriku sebagai agen bebas, tapi sayangnya, merekrut seseorang sekaliberku sangat mahal sehingga tidak berjalan dengan baik. Benar kan? Ya tidak. Hanya saja kami berdua tidak punya teman."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p062",
+      "kind": "text",
+      "source": "chapter005.xhtml#p62",
+      "text": "Yukinoshita mendengarkan penjelasanku sambil membandingkan Zaimokuza dan aku. Dan kemudian, seolah puas, dia mengangguk. “Ini yang mereka sebut ‘burung sejenis yang berkumpul bersama’, ya?” Dia telah mencapai kesimpulan yang paling buruk."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p063",
+      "kind": "text",
+      "source": "chapter005.xhtml#p63",
+      "text": "“Jangan asal bicara. Kamu tidak bisa menyamakan kami. Aku tidak seaneh itu. Lagi pula, kami tidak berkumpul bersama!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p064",
+      "kind": "text",
+      "source": "chapter005.xhtml#p64",
+      "text": "“Heh, aku setuju. Kita memang bukan teman... Aku sendirian, hee-hee!” Zaimokuza tersenyum sedih karena mencela dirinya sendiri. Oh, dia sudah kembali normal sekarang."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p065",
+      "kind": "text",
+      "source": "chapter005.xhtml#p65",
+      "text": "“Bukannya aku peduli, tapi bukankah temanmu ini punya urusan denganmu?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p066",
+      "kind": "text",
+      "source": "chapter005.xhtml#p66",
+      "text": "Kata-katanya membuatku hampir menangis. Kata teman tidak terdengar begitu menyedihkan sejak SMP. Tidak sejak Kaori-chan memberitahuku, Kamu baik, dan aku menyukaimu, tapi aku tidak tahu tentang berkencan… Ya, ayo berteman. Aku tidak butuh teman seperti itu.",
+      "emphasis": [
+        {
+          "start": 45,
+          "end": 50,
+          "style": "em"
+        },
+        {
+          "start": 135,
+          "end": 221,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p067",
+      "kind": "text",
+      "source": "chapter005.xhtml#p67",
+      "text": "“Mwa-ha-ha-ha-ha, aku hampir lupa! Kebetulan, Hachiman, apakah ini tempat pertemuan Klub Layanan?” Zaimokuza, yang kembali ke karakternya, menatapku sambil tertawa terbahak-bahak."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p068",
+      "kind": "text",
+      "source": "chapter005.xhtml#p68",
+      "text": "Ada apa dengan tawa itu? Ini pertama kalinya aku mendengarnya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p069",
+      "kind": "text",
+      "source": "chapter005.xhtml#p69",
+      "text": "“Ya, ini adalah Klub Layanan,” jawab Yukinoshita menggantikanku."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p070",
+      "kind": "text",
+      "source": "chapter005.xhtml#p70",
+      "text": "Zaimokuza meliriknya sesaat sebelum segera mengembalikan pandangannya padaku. Sungguh, kenapa orang-orang terus menatapku hari ini? “B-begitukah? Jika itu seperti yang disarankan oleh orang bijak Hiratsuka kepadaku, maka, Hachiman, kamu wajib mengabulkan permintaanku, bukan? Memikirkan bahwa kita masih akan menjadi tuan dan pelayan, bahkan setelah berabad-abad lamanya... Apakah ini bimbingan dari Bodhisattva Hachiman yang agung?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p071",
+      "kind": "text",
+      "source": "chapter005.xhtml#p71",
+      "text": "“Klub Layanan belum tentu mengabulkan keinginanmu. Kami hanya bisa membantumu mencapai tujuanmu sendiri,” oceh Yukinoshita."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p072",
+      "kind": "text",
+      "source": "chapter005.xhtml#p72",
+      "text": "“Heh. Mm-hmm... Kalau begitu berikan bantuanmu padaku, Hachiman. Heh-heh-heh... Ini mengingatkanku pada bagaimana kita pernah mencoba, sebagai kawan seperjuangan, untuk merebut tanah itu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p073",
+      "kind": "text",
+      "source": "chapter005.xhtml#p73",
+      "text": "“Apa yang terjadi dengan tuan dan pelayan? Dan kenapa kamu terus menatapku seperti itu?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p074",
+      "kind": "text",
+      "source": "chapter005.xhtml#p74",
+      "text": "“A-hem, a-hum! Antara kamu dan aku, detail sepele seperti itu tidak penting. Aku akan membuat pengecualian khusus dalam kasus ini.” Zaimokuza mengeluarkan suara-suara yang dibuat-buat untuk menutupi ketidakkonsistenannya dan menganggapku seperti sebelumnya. “Aku minta maaf. Tampaknya di era ini, hati manusia sudah rusak, dibandingkan dengan zaman dahulu kala. Aku merindukan kemurnian era Muromachi... Bukankah begitu, Hachiman?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p075",
+      "kind": "text",
+      "source": "chapter005.xhtml#p75",
+      "text": "“Tidak. Matilah.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p076",
+      "kind": "text",
+      "source": "chapter005.xhtml#p76",
+      "text": "“Heh-heh-heh. Aku tidak takut mati. Di sisi lain, aku hanya akan mengambil kerajaan surga untuk milikku sendiri.” Zaimokuza mengangkat tangannya tinggi-tinggi saat mantelnya berdesir dan berkibar."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p077",
+      "kind": "text",
+      "source": "chapter005.xhtml#p77",
+      "text": "Kata mati sepertinya tidak terlalu mengganggunya.",
+      "emphasis": [
+        {
+          "start": 5,
+          "end": 9,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p078",
+      "kind": "text",
+      "source": "chapter005.xhtml#p78",
+      "text": "Aku juga demikian. Jika kamu terbiasa dihina dan dianiaya, kamu akan pandai membalas, atau lebih tepatnya, memilah-milahnya. Keterampilan yang menyedihkan. Aku menangis sekarang."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p079",
+      "kind": "text",
+      "source": "chapter005.xhtml#p79",
+      "text": "“Whoa…” Yuigahama merasa ngeri, dan dia menjadi agak pucat."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p080",
+      "kind": "text",
+      "source": "chapter005.xhtml#p80",
+      "text": "“Hikigaya, ayo,” kata Yukinoshita sambil menarik lengan bajuku dan berbisik di telingaku. “Apa itu ‘Jenderal Ahli Pedang’?” Wajahnya yang imut dan baunya yang menyenangkan begitu dekat denganku, namun kata-katanya sama sekali tidak mengandung erotisme."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p081",
+      "kind": "text",
+      "source": "chapter005.xhtml#p81",
+      "text": "Satu kata sudah cukup untuk menjawab pertanyaannya. “Itu sindrom M-2. Sindrom M-2.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p082",
+      "kind": "text",
+      "source": "chapter005.xhtml#p82",
+      "text": "“Sindrom em-dua?” Yukinoshita memiringkan kepala menatapku. Bentuk bibirnya saat mengucapkan bunyi dua ternyata manis sekali. Penemuan yang aneh.",
+      "emphasis": [
+        {
+          "start": 99,
+          "end": 102,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p083",
+      "kind": "text",
+      "source": "chapter005.xhtml#p83",
+      "text": "Yuigahama, yang mendengarkan dengan seksama, ikut mengobrol. “Dia sakit?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p084",
+      "kind": "text",
+      "source": "chapter005.xhtml#p84",
+      "text": "“Dia sebenarnya tidak sakit. Itu hanya bahasa gaul.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p085",
+      "kind": "text",
+      "source": "chapter005.xhtml#p85",
+      "text": "Sederhananya, sindrom M-2 adalah sebutan untuk berbagai tingkah memalukan yang umum pada anak kelas dua SMP. Tapi bahkan di antara mereka, kasus Zaimokuza sudah terminal. Ini sudah sampai wilayah “mata iblis”.",
+      "emphasis": [
+        {
+          "start": 14,
+          "end": 25,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p086",
+      "kind": "text",
+      "source": "chapter005.xhtml#p86",
+      "text": "Dia mendambakan jenis kemampuan atau kekuatan khusus yang muncul di manga, anime, game, dan light novel, dan dia bertindak seolah-olah dia memilikinya. Tentu saja, setelah kamu memiliki kekuatan, kamu harus membuat premis di mana kamu adalah reinkarnasi dari prajurit legendaris atau dipilih oleh para dewa atau elit dinas rahasia untuk menjelaskan asal usul kekuatan tersebut. Dan kemudian kamu akan bertindak berdasarkan premis itu."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p087",
+      "kind": "text",
+      "source": "chapter005.xhtml#p87",
+      "text": "Lalu mengapa dia melakukan ini?"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p088",
+      "kind": "text",
+      "source": "chapter005.xhtml#p88",
+      "text": "Karena itu keren."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p089",
+      "kind": "text",
+      "source": "chapter005.xhtml#p89",
+      "text": "Aku pikir sebagian besar siswa sekolah menengah pernah berfantasi tentang hal semacam itu setidaknya sekali. kamu pernah berdiri di depan cermin sebelumnya dan berlatih mengatakan sesuatu seperti Semua hadirin yang menonton Countdown TV, selamat malam! Nah, malam ini aku sudah menulis lirik lagu ini dengan tema cinta yang jujur…kan?",
+      "emphasis": [
+        {
+          "start": 196,
+          "end": 329,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p090",
+      "kind": "text",
+      "source": "chapter005.xhtml#p90",
+      "text": "Singkatnya, sindrom M-2 adalah contoh ekstremnya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p091",
+      "kind": "text",
+      "source": "chapter005.xhtml#p91",
+      "text": "Aku menjelaskan penderitaannya secara singkat, dan Yukinoshita sepertinya mengerti. Aku selalu terkesan betapa cepatnya pikirannya bekerja. Seolah-olah jika kamu menjelaskan satu hal padanya, dia akan mengerti sampai sepuluh. Dia mempunyai bakat untuk memahami inti permasalahan dengan sedikit penjelasan."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p092",
+      "kind": "text",
+      "source": "chapter005.xhtml#p92",
+      "text": "“Aku tidak mengerti,” gumam Yuigahama. Berbeda dengan Yukinoshita, Yuigahama berdiri dengan mulut ternganga dengan tidak senang, seolah-olah dia berkata, Duuuuuh? Yah, bahkan aku pun tidak akan mengerti penjelasan singkat itu. Yukinoshita adalah orang aneh yang bisa menangkapnya dengan begitu cepat.",
+      "emphasis": [
+        {
+          "start": 154,
+          "end": 162,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p093",
+      "kind": "text",
+      "source": "chapter005.xhtml#p93",
+      "text": "“Hmph. Jadi pada dasarnya, seolah-olah dia sedang bermain peran dalam latar rancangannya sendiri.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p094",
+      "kind": "text",
+      "source": "chapter005.xhtml#p94",
+      "text": "“Pada dasarnya begitulah. Dia mendasarkan karakternya pada Yoshiteru Ashikaga, shogun ketigabelas di zaman Muromachi. Mungkin mudah baginya untuk melakukan itu karena mereka memiliki nama yang sama.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p095",
+      "kind": "text",
+      "source": "chapter005.xhtml#p95",
+      "text": "“Mengapa dia melihatmu sebagai sekutunya?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p096",
+      "kind": "text",
+      "source": "chapter005.xhtml#p96",
+      "text": "“Aku pikir dia hanya mengambil nama Hachiman dan memikirkan Bodhisattva Hachiman. Klan Seiwa Genji dengan penuh semangat memujanya sebagai dewa perang. kamu tahu tentang kuil Tsurugaoka Hachiman, kan? Yang ada di Kamakura?” Jawabku, dan Yukinoshita tiba-tiba terdiam. Saat aku meliriknya dengan pandangan bertanya, dia membuka matanya yang besar lebar-lebar dan memperhatikanku."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p097",
+      "kind": "text",
+      "source": "chapter005.xhtml#p97",
+      "text": "“Aku terkejut. kamu tahu banyak tentang hal itu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p098",
+      "kind": "text",
+      "source": "chapter005.xhtml#p98",
+      "text": "“Kukira.” Aku merasakan kenangan yang tidak menyenangkan muncul dalam diriku, jadi aku membuang muka dan menghindari topik pembicaraan saat aku sedang membahasnya. “Zaimokuza sangat analitis dalam hal kutipan dan fakta sejarah, tapi setidaknya fantasinya berdasarkan sejarah, jadi tidak seburuk yang seharusnya.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p099",
+      "kind": "text",
+      "source": "chapter005.xhtml#p99",
+      "text": "Yukinoshita menatap Zaimokuza dengan tatapan tajam, dan dengan ekspresi jijik, dia bertanya, “Ini lebih buruk dari itu?”",
+      "emphasis": [
+        {
+          "start": 115,
+          "end": 118,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p100",
+      "kind": "text",
+      "source": "chapter005.xhtml#p100",
+      "text": "“Ya.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p101",
+      "kind": "text",
+      "source": "chapter005.xhtml#p101",
+      "text": "“Hanya untuk referensiku sendiri, fantasi macam apa yang sedang kita bicarakan?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p102",
+      "kind": "text",
+      "source": "chapter005.xhtml#p102",
+      "text": "“Yah, pada awalnya ada tujuh dewa di dunia. Tiga dewa pencipta—Garan, Kaisar Bijak; Methika, Dewi Perang; Hearthia, Pelindung Jiwa—tiga dewa penghancur—Olto, Raja Bodoh; Villain dari Kuil yang Hilang; Lai-Lai si Paranoid—dan dewa yang lenyap selamanya, Dewa Tanpa Nama. Ketujuh dewa itu terus mengulangi siklus kejayaan dan keruntuhan. Sekarang sudah penciptaan dunia yang ketujuh, dan untuk mencegah kehancurannya kali ini, pemerintah Jepang mencari reinkarnasi para dewa itu. Yang paling penting di antara ketujuhnya adalah dewa yang lenyap selamanya, Dewa Tanpa Nama, yang kekuatannya masih misterius. Dan dewa yang lenyap itu adalah aku, Hiki… Hei, kamu pandai sekali memancing jawaban!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p103",
+      "kind": "text",
+      "source": "chapter005.xhtml#p103",
+      "text": "“Aku tidak meminta semua itu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p104",
+      "kind": "text",
+      "source": "chapter005.xhtml#p104",
+      "text": "“Sangat menyeramkan.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p105",
+      "kind": "text",
+      "source": "chapter005.xhtml#p105",
+      "text": "“Perhatikan perkataanmu, Yuigahama, atau aku mungkin akan bunuh diri secara tidak sengaja.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p106",
+      "kind": "text",
+      "source": "chapter005.xhtml#p106",
+      "text": "Yukinoshita menghela napas, ekspresi jijik terlihat di wajahnya saat dia kembali membandingkan aku dan Zaimokuza dan berkata, “Dengan kata lain, kamu dan itu berasal dari ras yang sama. Jadi itu sebabnya kamu tahu banyak tentang 'Jenderal Ahli Pedang' yang tidak masuk akal itu.”",
+      "emphasis": [
+        {
+          "start": 154,
+          "end": 157,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p107",
+      "kind": "text",
+      "source": "chapter005.xhtml#p107",
+      "text": "“Tidak, tidak, tidak. Apa yang kamu bicarakan, Yukinoshita? Tentu saja itu tidak benar. Aku hanya tahu banyak tentang hal itu karena hal lain, kamu tahu? Aku memilih untuk mengambil sejarah Jepang, oke? Aku memainkan Nobunaga's Ambition, oke?”",
+      "emphasis": [
+        {
+          "start": 217,
+          "end": 236,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p108",
+      "kind": "text",
+      "source": "chapter005.xhtml#p108",
+      "text": "“Mm-hmm?” Yukinoshita menatapku dan berkata, Bersalah sampai terbukti tidak bersalah.",
+      "emphasis": [
+        {
+          "start": 45,
+          "end": 85,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p109",
+      "kind": "text",
+      "source": "chapter005.xhtml#p109",
+      "text": "Tapi meski di bawah tatapannya, aku tidak akan goyah, karena aku tidak seperti Zaimokuza. Aku bisa dengan yakin membalas tatapan Yukinoshita, karena dia salah."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p110",
+      "kind": "text",
+      "source": "chapter005.xhtml#p110",
+      "text": "Aku tidak sama dengan Zaimokuza. Aku dulu sama dengan Zaimokuza.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 36,
+          "style": "em"
+        },
+        {
+          "start": 42,
+          "end": 64,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p111",
+      "kind": "text",
+      "source": "chapter005.xhtml#p111",
+      "text": "Hachiman adalah nama yang cukup langka, jadi aku mengalami fase di mana aku berpikir aku mungkin istimewa dalam beberapa hal. Menyukai anime dan manga sejak kecil, tak terhindarkan lagi aku akan menjadi korban khayalan seperti itu. Setiap orang, pada suatu saat, berbaring di tempat tidur pada malam hari dan membayangkan bahwa mereka memiliki semacam kekuatan tersembunyi dan suatu hari kekuatan itu akan tiba-tiba bangkit—menjerat mereka dalam pertempuran untuk menentukan nasib dunia—dan membuat Buku Harian Alam Surgawi sebagai persiapan menghadapi masa yang akan datang, dan menulis laporan triwulanan untuk pemerintah tentang hal itu, bukan? Kamu tidak?"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p112",
+      "kind": "text",
+      "source": "chapter005.xhtml#p112",
+      "text": "“Yah, kamu tahu. Mungkin aku seperti itu saat kecil, tapi sekarang tidak lagi.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p113",
+      "kind": "text",
+      "source": "chapter005.xhtml#p113",
+      "text": "“Aku tidak begitu yakin tentang itu.” Yukinoshita tersenyum nakal, meninggalkanku dan mendekati Zaimokuza."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p114",
+      "kind": "text",
+      "source": "chapter005.xhtml#p114",
+      "text": "Melihatnya pergi, pikiran itu tiba-tiba terlintas di benak aku: Apakah aku benar-benar berbeda dari dia?",
+      "emphasis": [
+        {
+          "start": 64,
+          "end": 104,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p115",
+      "kind": "text",
+      "source": "chapter005.xhtml#p115",
+      "text": "Jawabannya adalah ya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p116",
+      "kind": "text",
+      "source": "chapter005.xhtml#p116",
+      "text": "Aku sudah tidak punya khayalan bodoh itu. Tidak lagi menulis Buku Harian Alam Surgawi atau membuat laporan untuk pemerintah. Sekarang paling-paling aku menulis daftar orang yang kubenci, dan nama pertama di sana tentu saja Yukinoshita."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p117",
+      "kind": "text",
+      "source": "chapter005.xhtml#p117",
+      "text": "Aku tidak merakit model Gundam lalu memainkannya sambil menirukan suara pertempuran, atau menggabungkan jepitan baju menjadi robot terhebat. Aku juga sudah melewati masa berlatih dengan senjata bela diri dari karet gelang dan aluminium foil. Aku sudah berhenti bercosplay memakai mantel panjang Ayah dan syal bulu palsu Ibu."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p118",
+      "kind": "text",
+      "source": "chapter005.xhtml#p118",
+      "text": "Zaimokuza dan aku berbeda."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p119",
+      "kind": "text",
+      "source": "chapter005.xhtml#p119",
+      "text": "Sementara aku ragu-ragu sampai pada kesimpulan itu, Yukinoshita berdiri di depan Zaimokuza, dan Yuigahama berbisik, “Yukinoshita, lari!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p120",
+      "kind": "text",
+      "source": "chapter005.xhtml#p120",
+      "text": "Cukup menyedihkan, benar kan?"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p121",
+      "kind": "text",
+      "source": "chapter005.xhtml#p121",
+      "text": "“Aku rasa aku mengerti. Permintaan kamu adalah agar kami menyembuhkan penyakit mental kamu, bukan?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p122",
+      "kind": "text",
+      "source": "chapter005.xhtml#p122",
+      "text": "“Hachiman, aku datang ke tempat ini agar keinginanku bisa terkabul, sesuai kesepakatanku denganmu. Aku hanya punya satu permintaan padamu, meski itu adalah ambisi yang sangat mulia dan luhur.” Zaimokuza berpaling dari Yukinoshita untuk memanggilku secara langsung. Dia mencampuradukkan kata ganti orang kedua dan menambahkan hath sebagai tambahan. Betapa bingungnya orang ini?",
+      "emphasis": [
+        {
+          "start": 325,
+          "end": 329,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p123",
+      "kind": "text",
+      "source": "chapter005.xhtml#p123",
+      "text": "Saat itulah aku menyadari sesuatu. Setiap kali Yukinoshita berbicara dengannya, si bodoh itu akan berbalik ke arahku. Ya, aku mengerti alasannya. Jika aku tidak tahu seperti apa Yukinoshita sebenarnya, dia akan membuatku bingung setiap kali dia berbicara kepadaku, dan aku juga tidak akan bisa menatap matanya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p124",
+      "kind": "text",
+      "source": "chapter005.xhtml#p124",
+      "text": "Tapi Yukinoshita tidak punya empati seperti orang pada umumnya. Dia tidak akan memperlakukan pria dan perasaan polosnya dengan kepekaan apa pun. “Akulah yang berbicara di sini. Lihatlah aku ketika aku sedang berbicara denganmu,” katanya dingin, sambil meraih kerah Zaimokuza dan memaksanya untuk menghadap ke depan. Ya, meskipun dia sendiri kurang sopan santun, Yukinoshita sangat cerewet terhadap sopan santun orang lain. Begitu cerewetnya hingga aku bahkan mulai memberinya salam formal setiap kali aku masuk ke ruang klub."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p125",
+      "kind": "text",
+      "source": "chapter005.xhtml#p125",
+      "text": "Saat Yukinoshita melepaskan kerah bajunya, Zaimokuza langsung menjauh dan terbatuk-batuk. Tampaknya, ini bukan waktunya untuk berkarakter. “M-mwa...mwa-ha-ha-ha. Kamu menangkapku ketika aku sedang lengah!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p126",
+      "kind": "text",
+      "source": "chapter005.xhtml#p126",
+      "text": "“Dan berhentilah bicara seperti itu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p127",
+      "kind": "text",
+      "source": "chapter005.xhtml#p127",
+      "text": "Perlakuan dinginnya membuat Zaimokuza terdiam dan memeriksa sepatunya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p128",
+      "kind": "text",
+      "source": "chapter005.xhtml#p128",
+      "text": "“Kenapa kamu memakai jas panjang di musim seperti ini?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p129",
+      "kind": "text",
+      "source": "chapter005.xhtml#p129",
+      "text": "“Ahem-hem. Jubah ini adalah baju besi yang melindungi tubuhku dari racun dan merupakan salah satu dari dua belas harta suci yang selalu kumiliki. Dengan setiap reinkarnasiku, aku mengubahnya ke bentuk yang paling sesuai untuk tubuh itu. Fwa-ha-ha-ha-ha!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p130",
+      "kind": "text",
+      "source": "chapter005.xhtml#p130",
+      "text": "“Berhentilah bicara seperti itu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p131",
+      "kind": "text",
+      "source": "chapter005.xhtml#p131",
+      "text": "“Oh, oke…”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p132",
+      "kind": "text",
+      "source": "chapter005.xhtml#p132",
+      "text": "“Lalu sarung tangan tanpa jari itu apa? Apakah ada artinya? Ujung jarimu tidak terlindungi.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p133",
+      "kind": "text",
+      "source": "chapter005.xhtml#p133",
+      "text": "“Oh ya. Um... Aku mewarisi ini dari kehidupan masa laluku, dan itu adalah salah satu dari dua belas harta suci milikku, sarung tangan khusus yang dikenal sebagai Overamd, yang darinya aku menembakkan Diamond Shot-ku. 'Lebih mudah menggunakan keterampilan itu dengan ujung jariku yang bebas...dan itulah alasannya! Fwa-ha-ha-ha-ha!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p134",
+      "kind": "text",
+      "source": "chapter005.xhtml#p134",
+      "text": "“Berhenti.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p135",
+      "kind": "text",
+      "source": "chapter005.xhtml#p135",
+      "text": "“Ha-ha-ha! Ha-ha-ha...ha...” Tawanya, yang awalnya hangat, berubah menjadi sedikit sedih dan basah menjelang akhir. Setelah itu, dia terdiam."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p136",
+      "kind": "text",
+      "source": "chapter005.xhtml#p136",
+      "text": "Lalu, seakan mulai kasihan, sikap Yukinoshita berbalik seratus delapan puluh derajat dan wajahnya melembut. “Jadi, maksudmu kamu ingin kami menyembuhkan penyakitmu?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p137",
+      "kind": "text",
+      "source": "chapter005.xhtml#p137",
+      "text": "“Eh, tapi aku tidak sakit,” kata Zaimokuza dengan sangat pelan, sambil mengalihkan pandangan darinya. Dia menatapku dengan tidak nyaman. Sekarang dia sudah kembali normal. Tampaknya, Zaimokuza tidak memiliki kapasitas untuk mempertahankan karakternya karena Yukinoshita menatap lurus ke arahnya, matanya menyala-nyala."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p138",
+      "kind": "text",
+      "source": "chapter005.xhtml#p138",
+      "text": "Ah! Aku tidak tahan lagi menontonnya! Zaimokuza sungguh menyedihkan. Itu membuatku ingin melemparkannya tali atau semacamnya. Lagi pula, ketika aku mengambil langkah untuk memisahkan diri dari mereka berdua, aku mendengar sesuatu berdesir di kakiku. Itu adalah sumber badai salju kertas yang melanda ruangan itu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 37,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p139",
+      "kind": "text",
+      "source": "chapter005.xhtml#p139",
+      "text": "“Kertas ini…” Mengangkat mataku dari halaman itu, aku melihat sekeliling. Mereka dicetak dalam kotak tetap berukuran empat puluh dua kali tiga puluh dua karakter dan tersebar di mana-mana. Aku mengambilnya, satu per satu, dan mengurutkannya berdasarkan angka."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p140",
+      "kind": "text",
+      "source": "chapter005.xhtml#p140",
+      "text": "“Oh-ho, sudah kuduga, kamu mengerti tanpa penjelasan apa pun. Sepertinya kita tidak menanggung waktu yang mengerikan itu bersama-sama dengan sia-sia.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p141",
+      "kind": "text",
+      "source": "chapter005.xhtml#p141",
+      "text": "Benar-benar mengabaikan gumaman Zaimokuza yang dramatis, Yuigahama mengamati tumpukan di tanganku. “Apa itu?” Aku menyerahkan bungkusan kertas itu padanya, dan dia membalik-baliknya, memeriksanya. Sebuah tanda tanya melayang di atas dahinya ketika dia mencoba membacanya sebelum dia menghela napas dalam-dalam dan mengembalikan tumpukan itu kepadaku."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p142",
+      "kind": "text",
+      "source": "chapter005.xhtml#p142",
+      "text": "“Sepertinya ini draf novel.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p143",
+      "kind": "text",
+      "source": "chapter005.xhtml#p143",
+      "text": "Hal itu mendapat reaksi dari Zaimokuza, dan dia berdeham untuk mengembalikan kita ke topik yang sedang dibahas."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p144",
+      "kind": "text",
+      "source": "chapter005.xhtml#p144",
+      "text": "“Kecerdasanmu sungguh mengagumkan. Benar, ini draf light novel. Aku berpikir mengirimkannya ke lomba penulis pendatang baru, tapi karena tidak punya teman, tidak ada yang bisa kumintai saran. Tolong baca untukku.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p145",
+      "kind": "text",
+      "source": "chapter005.xhtml#p145",
+      "text": "“Aku merasa seperti baru saja mendengar sesuatu yang sangat menyedihkan disampaikan dengan sangat santai,” kata Yukinoshita."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p146",
+      "kind": "text",
+      "source": "chapter005.xhtml#p146",
+      "text": "Bisa dibilang mencoba menulis light novel adalah konsekuensi logis dari kasus sindrom M-2. Memang wajar jika kamu ingin mewujudkan hal-hal yang selama ini kamu dambakan. Wajar jika kita berpikir, Yah, aku sering melamun, jadi aku bisa menulis! Selain itu, jika kamu bisa mencari nafkah dengan melakukan apa yang kamu sukai, itu adalah hal yang sangat kebetulan. Jadi tidak ada yang misterius mengenai Zaimokuza yang menulis light novel. Misterinya adalah mengapa dia datang sejauh ini untuk menunjukkannya kepada kita.",
+      "emphasis": [
+        {
+          "start": 196,
+          "end": 243,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p147",
+      "kind": "text",
+      "source": "chapter005.xhtml#p147",
+      "text": "“Ada situs pengiriman, rangkaian pesan, dan sebagainya. Mengapa kamu tidak mempostingnya secara online saja?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p148",
+      "kind": "text",
+      "source": "chapter005.xhtml#p148",
+      "text": "“Aku tidak bisa! Orang-orang itu tidak punya belas kasihan. Jika aku menerima kritikan keras dari mereka, aku pikir aku akan mati.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p149",
+      "kind": "text",
+      "source": "chapter005.xhtml#p149",
+      "text": "Sungguh pengecut."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p150",
+      "kind": "text",
+      "source": "chapter005.xhtml#p150",
+      "text": "Namun memang benar bahwa orang-orang di Internet, yang wajahnya tidak dapat kamu lihat, bisa jadi sangat blak-blakan dan tidak pengertian, sedangkan teman-temannya akan bersikap baik dan lembut serta mengatakan hal-hal yang menenangkan. Kebanyakan orang yang mempunyai hubungan sepertiku dengan Zaimokuza akan merasa sulit untuk bersikap kasar. Ada sesuatu tentang menatap mata seseorang yang membuat mereka sulit memberikan kritik pedas. kamu mungkin akan mengatakannya sehalus mungkin. Artinya, kebanyakan orang akan melakukannya.",
+      "emphasis": [
+        {
+          "start": 497,
+          "end": 507,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p151",
+      "kind": "text",
+      "source": "chapter005.xhtml#p151",
+      "text": "“Tapi tahukah kamu…”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p152",
+      "kind": "text",
+      "source": "chapter005.xhtml#p152",
+      "text": "Aku menghela napas dan melirik ke samping. Ketika mata kami bertemu, Yukinoshita tampak bingung. “Menurutku Yukinoshita bakal lebih kejam daripada situs unggah naskah.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-Art_orn-2",
+      "kind": "separator",
+      "source": "chapter005.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p153",
+      "kind": "text",
+      "source": "chapter005.xhtml#p153",
+      "text": "Yukinoshita, Yuigahama, dan aku membawa pulang salinan draf yang diberikan Zaimokuza kepada kami dan memutuskan untuk menghabiskan malam itu membacanya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p154",
+      "kind": "text",
+      "source": "chapter005.xhtml#p154",
+      "text": "Jika aku mengkategorikan novel Zaimokuza ke dalam genre tertentu, aku akan menyebutnya sebagai cerita pahlawan super sekolah. Terletak di wilayah perkotaan tertentu di Jepang, terdapat organisasi rahasia, orang-orang dengan kekuatan super dan kenangan akan kehidupan masa lalu mereka, rencana jahat, dan kemudian karakter utama—tipe anak laki-laki normal yang biasa kamu lihat di mana pun—kekuatan tersembunyinya bangkit. Terakhir, ada tontonan besar dimana sang pahlawan mengalahkan penjahat demi penjahat."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p155",
+      "kind": "text",
+      "source": "chapter005.xhtml#p155",
+      "text": "Saat aku selesai membacanya, matahari sudah terbit, jadi aku akhirnya tertidur sepanjang kelasku keesokan harinya. Namun meski begitu, aku entah bagaimana melewati periode keenam yang lesu, menjalani kelas yang singkat, dan memutuskan untuk pergi ke ruang klub."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p156",
+      "kind": "text",
+      "source": "chapter005.xhtml#p156",
+      "text": "“Hei! Tunggu tunggu!” Saat aku memasuki gedung khusus, aku mendengar suara memanggil di belakangku. Saat aku menoleh, aku melihat Yuigahama berlari ke arahku dengan tas tipis di bahunya. Dia tampak sangat energik saat dia berjalan di sampingku. “Hikki, kamu terlihat lelah! Ada apa?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p157",
+      "kind": "text",
+      "source": "chapter005.xhtml#p157",
+      "text": "“Ayolah, tentu saja aku lelah setelah membaca batu bata itu! Aku mengantuk sekali. Sebenarnya, aku ingin tahu bagaimana kamu bisa membaca benda itu dan tetap punya energi keesokan harinya.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p158",
+      "kind": "text",
+      "source": "chapter005.xhtml#p158",
+      "text": "“Hah?” Yuigahama berkedip. “Oh, t-tentu saja. Sobat, aku begitu lelah.”",
+      "emphasis": [
+        {
+          "start": 57,
+          "end": 63,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p159",
+      "kind": "text",
+      "source": "chapter005.xhtml#p159",
+      "text": "“Kamu tidak membacanya, kan?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p160",
+      "kind": "text",
+      "source": "chapter005.xhtml#p160",
+      "text": "Yuigahama tidak menjawab pertanyaanku. Dia baru saja mulai menyenandungkan sesuatu sambil melihat ke luar jendela. Dia berusaha berpura-pura bodoh, tapi keringat mengucur di pipi dan belakang lehernya. Aku ingin melihat blusnya menjadi transparan…"
+    },
+    {
+      "id": "v1-bab-5-chapter005-Art_orn-3",
+      "kind": "separator",
+      "source": "chapter005.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p161",
+      "kind": "text",
+      "source": "chapter005.xhtml#p161",
+      "text": "Saat membuka pintu ruang klub, aku melihat sekilas Yukinoshita tertidur."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p162",
+      "kind": "text",
+      "source": "chapter005.xhtml#p162",
+      "text": "“Malam yang panjang, ya?” Aku berkomentar, tapi dia terus bernapas pelan dalam tidurnya. Dia hampir tersenyum, ekspresi yang sangat berbeda dari topeng tanpa cacat biasanya, dan melihat sisi baru dari dirinya membuat jantungku berdebar kencang."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p163",
+      "kind": "text",
+      "source": "chapter005.xhtml#p163",
+      "text": "Aku mulai merasa seolah-olah aku tidak keberatan melihat wajahnya yang lembut dan tertidur selamanya… rambut hitamnya yang berayun lembut… kulitnya yang halus, pucat, hampir tembus cahaya… matanya yang besar dan berkabut, dan bibir merah mudanya yang berbentuk bagus…"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p164",
+      "kind": "text",
+      "source": "chapter005.xhtml#p164",
+      "text": "“Kamu mengagetkanku. Wajahmu itu membangunkanku sepenuhnya.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p165",
+      "kind": "text",
+      "source": "chapter005.xhtml#p165",
+      "text": "Ack… Ucapan di sana membuatku terbangun juga. Aku hampir membiarkan penampilannya menipu aku dan kehilangan akal. Aku ingin mengirim gadis ini ke tidur abadi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 158,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p166",
+      "kind": "text",
+      "source": "chapter005.xhtml#p166",
+      "text": "Yukinoshita menguap lebar-lebar seperti seekor kucing, mengangkat kedua tangannya ke atas kepalanya dan meregangkan tubuhnya tinggi-tinggi."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p167",
+      "kind": "text",
+      "source": "chapter005.xhtml#p167",
+      "text": "“Dari kelihatannya, kamu juga mengalami malam yang cukup sulit.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p168",
+      "kind": "text",
+      "source": "chapter005.xhtml#p168",
+      "text": "“Ya, sudah lama sekali sejak terakhir kali aku begadang semalaman, dan aku belum pernah membaca hal seperti ini sebelumnya… Sepertinya aku tidak akan bisa masuk ke genre ini.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p169",
+      "kind": "text",
+      "source": "chapter005.xhtml#p169",
+      "text": "“Ya, aku juga,” kata Yuigahama."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p170",
+      "kind": "text",
+      "source": "chapter005.xhtml#p170",
+      "text": "“Kamu bahkan belum membacanya. Baca sekarang!” Didesak begitu, Yuigahama mengerang lalu mengeluarkan naskah dari tasnya. Masih mulus tanpa satu pun lipatan. Dia membalik halaman dengan kecepatan tidak wajar, membaca dengan wajah bosan setengah mati. Aku mengintip dari samping dan membuka mulut."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p171",
+      "kind": "text",
+      "source": "chapter005.xhtml#p171",
+      "text": "“Draf Zaimokuza tidak mewakili semua light novel. Ada banyak novel bagus,” kataku, mengakui sepenuhnya bahwa aku tidak terlalu mendukung Zaimokuza."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p172",
+      "kind": "text",
+      "source": "chapter005.xhtml#p172",
+      "text": "Yukinoshita memiringkan kepalanya dan mendengarkan. “Seperti yang kamu baca kemarin?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p173",
+      "kind": "text",
+      "source": "chapter005.xhtml#p173",
+      "text": "“Ya, itu menarik. Aku merekomendasikan Gaga—”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p174",
+      "kind": "text",
+      "source": "chapter005.xhtml#p174",
+      "text": "“Saat aku mendapat kesempatan.” Ada undang-undang yang mengatakan, Orang yang mengatakan hal itu tidak akan pernah benar-benar membacanya. Aku sangat merasakan bahwa undang-undang itu mulai berlaku tepat pada saat seseorang mengetuk pintu ruang klub dengan liar.",
+      "emphasis": [
+        {
+          "start": 67,
+          "end": 137,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p175",
+      "kind": "text",
+      "source": "chapter005.xhtml#p175",
+      "text": "“Selamat siang kiranya.” Zaimokuza masuk dengan sapaan kuno. “Sekarang, izinkan aku mendengar kesan kalian.” Dia menjatuhkan diri ke kursi, bersedekap angkuh. Wajahnya penuh rasa unggul dan kepercayaan diri."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p176",
+      "kind": "text",
+      "source": "chapter005.xhtml#p176",
+      "text": "Di seberangnya duduk Yukinoshita, terlihat sangat menyesal. “Aku minta maaf. Aku tidak begitu tahu banyak tentang hal semacam ini…,” kata pengantarnya."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p177",
+      "kind": "text",
+      "source": "chapter005.xhtml#p177",
+      "text": "Tanggapan Zaimokuza sangat baik. “Aku tidak peduli. Aku ingin menanyakan pendapat orang normal. Katakan sesukamu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p178",
+      "kind": "text",
+      "source": "chapter005.xhtml#p178",
+      "text": "Yukinoshita menjawab dengan singkat, “Tentu,” mengambil napas kecil, dan mempersiapkan diri."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p179",
+      "kind": "text",
+      "source": "chapter005.xhtml#p179",
+      "text": "“Membosankan. Sungguh menyakitkan untuk dibaca. Membosankan melebihi apa pun yang aku bayangkan.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p180",
+      "kind": "text",
+      "source": "chapter005.xhtml#p180",
+      "text": "“Gagh!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p181",
+      "kind": "text",
+      "source": "chapter005.xhtml#p181",
+      "text": "Dia menebas malang itu dalam satu serangan. Sambil gemetaran di kursinya, Zaimokuza terlempar kembali ke kursinya, tapi entah bagaimana dia berhasil bangkit kembali."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p182",
+      "kind": "text",
+      "source": "chapter005.xhtml#p182",
+      "text": "“Pertama-tama, tata bahasamu ada di mana-mana. Kenapa kamu terus-menerus menyusun kalimat dalam urutan terbalik? Apakah kamu tahu cara menggunakan tata bahasa? Apakah kamu tidak mempelajarinya di sekolah dasar?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p183",
+      "kind": "text",
+      "source": "chapter005.xhtml#p183",
+      "text": "“Nghh… Aku menggunakan gaya yang sederhana untuk memberikan kesan keakraban kepada pembaca…”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p184",
+      "kind": "text",
+      "source": "chapter005.xhtml#p184",
+      "text": "“Tidakkah kamu pikir kamu harus mampu menulis bahasa Jepang dasar sebelum kamu memikirkan hal itu? Ditambah lagi, ada begitu banyak kesalahan dalam pembacaan kanji yang kamu tempelkan di sana. Kamu tidak membaca karakter untuk 'kemampuan' sebagai 'kekuatan'. Dan bagaimana bisa sesuatu yang ditulis dengan karakter untuk 'kilat pedang merah ilusi' diucapkan sebagai 'pembasmi mimpi buruk berdarah'—dalam bahasa Inggris? Lagi pula, dari mana datangnya 'mimpi buruk' itu?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p185",
+      "kind": "text",
+      "source": "chapter005.xhtml#p185",
+      "text": "“Geh! U-ugh… Bukan! Belakangan kekuatan super memang diberi nama khusus begitu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p186",
+      "kind": "text",
+      "source": "chapter005.xhtml#p186",
+      "text": "“Ini hanyalah pemanjaan diri sendiri. Tak seorang pun kecuali kamu yang akan memahaminya. Apakah kamu ingin orang-orang benar-benar membaca ini? Oh ya, berbicara tentang membuat orang membacanya, sudah sangat jelas apa yang akan terjadi dalam buku ini sehingga tidak sedikit pun menegangkan. Dan mengapa pahlawan wanita itu melepas pakaiannya di bagian ini? Sama sekali tidak diperlukan dalam adegan itu, dan itu benar-benar membosankan.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p187",
+      "kind": "text",
+      "source": "chapter005.xhtml#p187",
+      "text": "“Ergh! T-tapi kamu memerlukan...elemen seperti itu untuk bisa menjual, um...”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p188",
+      "kind": "text",
+      "source": "chapter005.xhtml#p188",
+      "text": "“Dan kalimat-kalimat lainnya terlalu panjang, terlalu bertele-tele, memiliki terlalu banyak karakter, dan terlalu sulit untuk dibaca. Atau mungkin aku sebaiknya meminta kamu untuk tidak membuat orang membaca cerita yang tidak lengkap. Sebelum memperoleh keterampilan sastra, pertama-tama kamu harus memiliki akal sehat.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p189",
+      "kind": "text",
+      "source": "chapter005.xhtml#p189",
+      "text": "“Gyagh!” Zaimokuza merentangkan keempat anggota tubuhnya sambil menjerit. Bahunya berkedut-kedut. Matanya mendelik ke langit-langit, hanya memperlihatkan bagian putih. Reaksinya yang berlebihan mulai mengganggu. Kurasa sudah waktunya dia berhenti."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p190",
+      "kind": "text",
+      "source": "chapter005.xhtml#p190",
+      "text": "“Cukup,” kataku. “Meletakkan semua itu padanya sekaligus itu agak berlebihan.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p191",
+      "kind": "text",
+      "source": "chapter005.xhtml#p191",
+      "text": "“Aku masih belum selesai, tapi...baiklah kalau begitu. Jadi selanjutnya Yuigahama?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p192",
+      "kind": "text",
+      "source": "chapter005.xhtml#p192",
+      "text": "“Hah? A-aku?!” Yuigahama menjawab dengan terkejut. Zaimokuza menoleh ke arahnya dan memberinya tatapan memohon. Matanya buram karena air mata. Melihat ini, dan tentu saja merasa kasihan padanya, Yuigahama menatap ke angkasa dan mencoba mencari sesuatu untuk dipuji. “U-um… K-kamu tahu banyak kata-kata sulit, ya?” dia meremas."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p193",
+      "kind": "text",
+      "source": "chapter005.xhtml#p193",
+      "text": "“Sangat kejam—ngf!”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p194",
+      "kind": "text",
+      "source": "chapter005.xhtml#p194",
+      "text": "“Kamu tidak perlu menghabisinya di sana…”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p195",
+      "kind": "text",
+      "source": "chapter005.xhtml#p195",
+      "text": "Kata-kata itu bisa dibilang tabu bagi seorang calon penulis. Maksudku, mengatakan itu berarti tidak ada hal lain yang patut dipuji, kamu tahu? Itu adalah sesuatu yang sering diucapkan oleh orang-orang yang tidak terlalu banyak membaca light novel ketika diminta memberikan pendapatnya, tapi mengatakan itu pada dasarnya sama saja dengan mengatakan, Itu membosankan.",
+      "emphasis": [
+        {
+          "start": 349,
+          "end": 364,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p196",
+      "kind": "text",
+      "source": "chapter005.xhtml#p196",
+      "text": "“O-oke, selanjutnya kamu, Hikki.” Yuigahama berdiri dari tempat duduknya dan menawarkannya kepadaku seolah-olah dia ingin melarikan diri. Dia mendudukkanku tepat di hadapan Zaimokuza dan menempatkan dirinya dengan anggun di kursi di belakangku dan di samping."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p197",
+      "kind": "text",
+      "source": "chapter005.xhtml#p197",
+      "text": "Zaimokuza sudah kehabisan tenaga. Dia pucat pasi, dan aku tidak tahan menatap matanya. “G-gngh. H-Hachiman. Kamu mengerti, kan? Kamu memahami dunia yang aku ciptakan, cakrawala buku ini. Tak satu pun dari orang-orang bodoh ini yang bisa memahaminya, tapi kamu memahami kedalaman ceritaku, bukan?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p198",
+      "kind": "text",
+      "source": "chapter005.xhtml#p198",
+      "text": "Ya aku mengerti.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p199",
+      "kind": "text",
+      "source": "chapter005.xhtml#p199",
+      "text": "Aku mengangguk untuk menenangkannya. Mata Zaimokuza memberitahuku, Aku percaya padamu.",
+      "emphasis": [
+        {
+          "start": 67,
+          "end": 85,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p200",
+      "kind": "text",
+      "source": "chapter005.xhtml#p200",
+      "text": "Aku akan kurang jantan kalau tidak menjawab di sini. Aku menarik napas dalam-dalam lalu berkata dengan ramah, “Jadi, kamu menjiplak apa di sini?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005-p201",
+      "kind": "text",
+      "source": "chapter005.xhtml#p201",
+      "text": "“Bfft?! Gerk... eergh...” Zaimokuza berguling-guling di lantai, dan ketika dia menabrak dinding, dia berhenti dan berbaring diam tanpa bergerak sedikitpun. Matanya yang kosong menatap langit-langit, dan setetes air mata mengalir di pipinya. Pesannya tentang Oh, aku kira aku akan mati saja sangat jelas.",
+      "emphasis": [
+        {
+          "start": 258,
+          "end": 289,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p202",
+      "kind": "text",
+      "source": "chapter005.xhtml#p202",
+      "text": "“Kamu tidak kenal ampun. Itu bahkan lebih kejam dariku.” Yukinoshita sangat terkejut."
+    },
+    {
+      "id": "v1-bab-5-chapter005-p203",
+      "kind": "text",
+      "source": "chapter005.xhtml#p203",
+      "text": "“Hei…” Yuigahama menyodok sisi tubuhku dengan sikunya. Dia sepertinya berkata, Ada hal lain yang ingin kamu katakan, kan? Apa yang harus aku katakan…? Aku berpikir sejenak sebelum teringat bahwa aku lupa menyampaikan poin paling mendasar.",
+      "emphasis": [
+        {
+          "start": 79,
+          "end": 121,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005-p204",
+      "kind": "text",
+      "source": "chapter005.xhtml#p204",
+      "text": "“Nah, yang penting adalah ilustrasinya. Jangan terlalu khawatir dengan isinya.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_a-Art_P125",
+      "kind": "image",
+      "source": "chapter005_a.xhtml#Art_P125.jpg",
+      "src": "assets/chapters/volume-1/bab-5/Art_P125.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Zaimokuza berlutut sambil memegang naskah di hadapan anggota klub."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-Art_orn",
+      "kind": "separator",
+      "source": "chapter005_d.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p001",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p1",
+      "text": "Zaimokuza terengah-engah, melakukan beberapa teknik Lamaze untuk menenangkan dirinya sebelum mendorong dirinya berdiri, gemetar seperti bayi rusa yang baru lahir. Lalu dia membersihkan debu dari bajunya dan langsung menoleh ke arahku."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p002",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p2",
+      "text": "“Maukah kamu membaca karyaku lagi kapan-kapan?” Aku meragukan telingaku sejenak. Dia mengulangi ucapannya dengan suara yang lebih jelas dan kuat. “Maukah kamu membaca karyaku lagi kapan-kapan?” Dia memandangku dan Yukinoshita dengan penuh harap."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p003",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p3",
+      "text": "“Apakah kamu-”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p004",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p4",
+      "text": "“—seorang masokis?” Yuigahama, yang bersembunyi di balik bayanganku, melontarkan tatapan benci pada Zaimokuza. Seolah-olah dia berkata, Matilah, kamu mesum. Tidak, itu bukan masalahnya.",
+      "emphasis": [
+        {
+          "start": 136,
+          "end": 155,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p005",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p5",
+      "text": "“Kamu masih ingin melakukan itu setelah bukumu dikunyah seperti itu?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p006",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p6",
+      "text": "“Tentu saja. Kritikmu memang keras. Aku bahkan berpikir mungkin sebaiknya aku mati saja, karena sepertinya aku tidak bisa mendapatkan perempuan, dan lagi pula aku tidak punya teman. Sebenarnya aku berpikir bahwa semua orang kecuali aku sebaiknya mati saja.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p007",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p7",
+      "text": "“Ya, aku berani bertaruh. Jika seseorang mengatakan semua itu padaku, aku juga ingin mati.” Tapi setelah menerima semua serangan itu, Zaimokuza masih bisa berkata seperti itu."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p008",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p8",
+      "text": "“Tapi...tapi meski begitu, itu membuatku bahagia. Aku menulis itu karena aku ingin, dan aku senang bisa ada seseorang yang membacanya dan memberikan pendapatnya. Aku belum bisa mengatakan apa yang harus kusebutkan sebagai perasaan yang aku rasakan saat ini, tapi...memiliki seseorang yang membaca drafku memang membuatku senang,” katanya sambil tersenyum. Itu bukanlah senyuman dari Jenderal Ahli Pedang; itu adalah senyuman Yoshiteru Zaimokuza."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p009",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p9",
+      "text": "Oh, aku mengerti.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 17,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p010",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p10",
+      "text": "Dia bukan cuma mengidap sindrom M-2. Dia sudah parah terjangkit demam menulis. Ingin menulis karena memang ingin, karena ada yang ingin disampaikan… merasa bahagia ketika tulisanmu menggerakkan seseorang, lalu ingin terus menulis lagi… tetap melakukannya meski orang lain mencela… Mungkin itulah yang disebut kerasukan menulis."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p011",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p11",
+      "text": "Aku harus membacanya. Karena, maksud aku, inilah tujuannya: akibat dari sindrom M-2 yang dideritanya. Ini adalah pembenaran atas perjuangannya untuk mewujudkan fantasinya. Bahkan setelah diperlakukan seperti orang sakit, dikecam dan ditertawakan, dia tidak pernah menyerah dan tidak pernah menyerah.",
+      "emphasis": [
+        {
+          "start": 4,
+          "end": 9,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p012",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p12",
+      "text": "“Saat aku menulis sesuatu yang baru, aku akan membawanya ke sini.” Dia meninggalkan kata-kata itu dan berbalik dari kami, meninggalkan klub dengan langkah bermartabat. Pintu yang dia tutup setelahnya tampak sangat mempesona."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p013",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p13",
+      "text": "Sekalipun itu menyimpang, kekanak-kanakan, atau salah, jika kamu bisa berkomitmen, itu pasti benar. Jika memiliki seseorang yang menyangkal kemampuan kamu sudah cukup untuk membuat kamu berubah, maka itu bukanlah impian kamu, dan itu bukan kamu. Itu sebabnya Zaimokuza baik-baik saja."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p014",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p14",
+      "text": "Selain dari bagian yang menyeramkan."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-Art_orn-2",
+      "kind": "separator",
+      "source": "chapter005_d.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p015",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p15",
+      "text": "Beberapa hari berlalu setelah itu. Saat itu adalah periode keenam. Kelas terakhir hari itu adalah olahraga. Zaimokuza dan aku, seperti biasa, berpasangan. Itu bukanlah sesuatu yang luar biasa."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p016",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p16",
+      "text": "“Hachiman. Seniman berkemampuan dewa apa yang populer saat ini?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p017",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p17",
+      "text": "“Kamu terlalu terburu-buru. Pikirkan hal itu setelah kamu memenangkan kontes itu.”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p018",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p18",
+      "text": "“Hmm. Begitulah. Masalahnya adalah di mana aku harus melakukan debutku...”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p019",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p19",
+      "text": "“Mengapa kamu terus berasumsi bahwa kamu akan menang?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p020",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p20",
+      "text": "“Jika aku menjadi populer dan dijadikan anime, mungkin aku bisa menikah dengan pengisi suara?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p021",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p21",
+      "text": "“Ayo. Cukup. Pertama, tulis drafmu. Oke?”"
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p022",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p22",
+      "text": "Itu pada dasarnya adalah bagaimana Zaimokuza dan aku mulai berbicara selama kelas olahraga. Jika ada yang berubah, hanya sebatas itu saja. Bukannya kita membicarakan hal penting. Percakapan kami tidak terlalu menggembirakan, dan kami tidak tertawa terbahak-bahak seperti orang-orang di sekitar kami. Hal-hal yang kami bicarakan tidaklah modis dan tidak keren. Itu hanyalah omong kosong yang menyedihkan. Bahkan menurutku itu bodoh. Sejujurnya aku bertanya-tanya apa maksud dari percakapan ini."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p023",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p23",
+      "text": "Tapi, paling tidak, aku tidak lagi membenci kelas olahraga."
+    },
+    {
+      "id": "v1-bab-5-chapter005_d-p024",
+      "kind": "text",
+      "source": "chapter005_d.xhtml#p24",
+      "text": "Pada dasarnya itu saja."
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128",
+      "kind": "image",
+      "source": "chapter005_e.xhtml#Art_P128.jpg",
+      "src": "assets/chapters/volume-1/bab-5/Art_P128.webp",
+      "width": 1800,
+      "height": 1350,
+      "text": "Angket bimbingan Yoshiteru Zaimokuza beserta komentar Yukino dan Hachiman."
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128-text-01",
+      "kind": "heading",
+      "text": "Terjemahan angket dan dialog dalam ilustrasi",
+      "source": "chapter005_e.xhtml#Art_P128.jpg#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128-text-02",
+      "kind": "text",
+      "text": "Angket Bimbingan dan Konseling — SMA Soubu, kelas 2-C. Nama: Yoshiteru Zaimokuza. Laki-laki. Nomor absen: 12.",
+      "source": "chapter005_e.xhtml#Art_P128.jpg#text-companion"
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128-text-03",
+      "kind": "text",
+      "text": "Nilai yang dijunjung: aku adalah sebilah pedang, selalu siap bertempur.",
+      "source": "chapter005_e.xhtml#Art_P128.jpg#text-companion"
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128-text-04",
+      "kind": "text",
+      "text": "Cita-cita yang ditulis dalam buku kelulusan: SD → mangaka. SMP → novelis.",
+      "source": "chapter005_e.xhtml#Art_P128.jpg#text-companion"
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128-text-05",
+      "kind": "text",
+      "text": "Yang dilakukan sekarang untuk mempersiapkan masa depan: selalu memasang beban satu kilogram pada lengan agar siap menghadapi pertempuran yang akan datang.",
+      "source": "chapter005_e.xhtml#Art_P128.jpg#text-companion"
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128-text-06",
+      "kind": "text",
+      "text": "Komentar guru: kamu bertarung melawan siapa? Melepas beban itu pun tidak akan membangkitkan kekuatan tersembunyi. Apa kamu mengganti cita-cita dari mangaka menjadi novelis karena tidak bisa menggambar?",
+      "source": "chapter005_e.xhtml#Art_P128.jpg#text-companion"
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128-text-07",
+      "kind": "text",
+      "text": "Yukinoshita: ‘Zai… siapa pun namamu. Aku kasihan padamu… maksudku, pada otakmu.’",
+      "source": "chapter005_e.xhtml#Art_P128.jpg#text-companion"
+    },
+    {
+      "id": "v1-bab-5-chapter005_e-Art_P128-text-08",
+      "kind": "text",
+      "text": "Hikigaya: ‘Zaimokuza, kamu harus menyatukan kehidupan nyata dan permainan peranmu menjadi sesuatu yang masuk akal. Ayolah.’",
+      "source": "chapter005_e.xhtml#Art_P128.jpg#text-companion"
+    }
+  ]
+}

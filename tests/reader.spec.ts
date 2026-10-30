@@ -35,7 +35,7 @@ for (const width of [320, 360, 390, 430, 768, 1280])
       ),
     ).toBeTruthy();
     await expect(page.locator(".volume-card").first()).toContainText(
-      "Bab 1 tersedia · Draf",
+      "Bab 1–8 tersedia · Draf",
     );
     await page.locator(".volume-card a").first().click();
     await expect(
@@ -109,11 +109,9 @@ for (const width of [320, 360, 390, 430, 768, 1280])
         .join(""),
     );
     expect(illustrations).toBe(4);
-    await expect(page.locator("#next-chapter")).toHaveText(
-      "Kembali ke daftar bab →",
-    );
+    await expect(page.locator("#next-chapter")).toHaveText("Lanjut ke Bab 2 →");
     await page.locator("#next-chapter").click();
-    await expect(page).toHaveURL(/volume\/volume-1\//);
+    await expect(page).toHaveURL(/baca\/volume-1\/bab-2\//);
   });
 test("font, theme and logical progress survive reflow, refresh and history", async ({
   page,
@@ -566,12 +564,15 @@ test("opening cover controls still toggle; TOC lists only available sections", a
   });
   await expect(page.locator(".reader-top")).toBeVisible();
   await page.getByRole("button", { name: "Daftar bab", exact: true }).click();
-  await expect(page.locator("#toc a")).toHaveCount(2);
+  await expect(page.locator("#toc a")).toHaveCount(11);
   await expect(page.locator("#toc a").first()).toHaveAttribute(
     "href",
     /pembuka/,
   );
-  await expect(page.locator("#toc a").last()).toHaveAttribute("href", /bab-1/);
+  await expect(page.locator("#toc a").last()).toHaveAttribute(
+    "href",
+    /catatan-penerjemah/,
+  );
 });
 
 test("opening is readable without JavaScript and links to chapter one", async ({
@@ -590,4 +591,116 @@ test("opening is readable without JavaScript and links to chapter one", async ({
     .click();
   await expect(page.locator("#page h1")).toContainText("Bagaimanapun");
   await context.close();
+});
+
+const remainingSections = [
+  ["bab-2", "Bab 3"],
+  ["bab-3", "Bab 4"],
+  ["bab-4", "Bab 5"],
+  ["bab-5", "Bab 6"],
+  ["bab-6", "Bab 7"],
+  ["bab-7", "Bab 8"],
+  ["bab-8", "Kata Penutup"],
+  ["kata-penutup", "Catatan Penerjemah Edisi Inggris"],
+  ["catatan-penerjemah", null],
+] as const;
+for (const width of [320, 768])
+  for (const [slug, next] of remainingSections)
+    test(`complete volume section ${slug} at ${width}px`, async ({ page }) => {
+      await page.setViewportSize({ width, height: 844 });
+      await page.goto(`baca/volume-1/${slug}/`);
+      await ready(page);
+      const blocks = await page
+        .locator("#chapter-data")
+        .evaluate((el) => JSON.parse(el.textContent!));
+      const count = Number(
+        (await page.locator("#page-count").innerText()).split("/")[1],
+      );
+      const images: string[] = [];
+      let text = "",
+        emphasis = "";
+      for (let i = 0; i < count; i++) {
+        expect(
+          await page
+            .locator("#page")
+            .evaluate((el) => el.scrollHeight <= el.clientHeight + 2),
+        ).toBeTruthy();
+        text += await page
+          .locator("#page")
+          .evaluate((el) =>
+            [...el.querySelectorAll("h1,h2,p")]
+              .map((e) => e.textContent)
+              .join(""),
+          );
+        emphasis += await page
+          .locator("#page")
+          .evaluate((el) =>
+            [...el.querySelectorAll("em")].map((e) => e.textContent).join(""),
+          );
+        for (const img of await page.locator("#page img").all()) {
+          await img.evaluate((el: HTMLImageElement) => el.decode());
+          expect(
+            await img.evaluate((el) => getComputedStyle(el).objectFit),
+          ).toBe("contain");
+          images.push((await img.getAttribute("src"))!);
+        }
+        if (i < count - 1) await page.locator("#next").click();
+      }
+      expect(text).toBe(
+        blocks
+          .filter((b: any) => b.kind !== "image")
+          .map((b: any) => b.text)
+          .join(""),
+      );
+      expect(emphasis).toBe(
+        blocks
+          .flatMap((b: any) =>
+            (b.emphasis || [])
+              .filter((m: any) => ["em", "strong-em"].includes(m.style))
+              .map((m: any) => b.text.slice(m.start, m.end)),
+          )
+          .join(""),
+      );
+      expect(images).toEqual(
+        blocks.filter((b: any) => b.kind === "image").map((b: any) => b.src),
+      );
+      await expect(page.locator("#next-chapter")).toHaveText(
+        next ? `Lanjut ke ${next} →` : "Kembali ke daftar bab →",
+      );
+      if (next) {
+        await page.locator("#next").click();
+        await ready(page);
+        await page.locator("#prev").click();
+        await expect(page).toHaveURL(new RegExp(`${slug}/$`));
+        await expect(page.locator("#page-count")).toHaveText(
+          `${count} / ${count}`,
+        );
+      } else {
+        await expect(page.locator("#next")).toBeDisabled();
+        await page.locator("#next-chapter").click();
+        await expect(page).toHaveURL(/\/volume\/volume-1\/$/);
+      }
+    });
+
+test("whole volume detail lists eight chapters and separately named back matter", async ({
+  page,
+}) => {
+  await page.setViewportSize({ width: 320, height: 800 });
+  await page.goto("volume/volume-1/");
+  await expect(page.locator(".chapter-list a")).toHaveCount(11);
+  await expect(page.locator(".chapter-list")).not.toContainText("null");
+  await expect(page.locator(".chapter-list")).not.toContainText("Bab 9");
+  expect(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth <= innerWidth,
+    ),
+  ).toBeTruthy();
+  await page.locator('.chapter-list a[href$="/catatan-penerjemah/"]').click();
+  await ready(page);
+  await expect(page.locator(".reader-top")).toContainText(
+    "Catatan Penerjemah Edisi Inggris",
+  );
+  await page.getByRole("button", { name: "Daftar bab", exact: true }).click();
+  await expect(page.locator("#toc a")).toHaveCount(11);
+  await expect(page.locator("#toc")).not.toContainText("null");
 });

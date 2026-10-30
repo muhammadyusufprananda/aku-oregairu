@@ -30,7 +30,7 @@ const chapters = sectionsFor(volume.slug);
         <h1>Volume {volume.number}</h1>
         <p class="description">
           {chapters.length
-            ? "Mulai dari sampul dan halaman pembuka, lalu lanjutkan ke Bab 1. Terjemahan disusun dari edisi Inggris; perhatikan status editorial setiap bagian."
+            ? "Pembuka, Bab 1–8, kata penutup, dan catatan penerjemah tersedia sebagai draf. Terjemahan disusun dari edisi Inggris; perhatikan status editorial setiap bagian."
             : "Teks terjemahan belum tersedia untuk volume ini."}
         </p>
         {chapters.length > 0 && (
@@ -55,7 +55,9 @@ const chapters = sectionsFor(volume.slug);
                 <small>
                   {c.kind === "frontmatter"
                     ? "Awal"
-                    : String(c.number).padStart(2, "0")}
+                    : c.kind === "backmatter"
+                      ? "Akhir"
+                      : String(c.number).padStart(2, "0")}
                 </small>
                 <span>
                   {c.title}

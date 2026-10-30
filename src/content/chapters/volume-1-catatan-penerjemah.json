@@ -1,0 +1,1179 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "AI"
+  },
+  "blocks": [
+    {
+      "id": "v1-catatan-penerjemah-appendix001-h1",
+      "kind": "heading",
+      "source": "appendix001.xhtml#h1",
+      "text": "Catatan Penerjemah Edisi Inggris"
+    },
+    {
+      "id": "v1-catatan-penerjemah-attribution",
+      "kind": "text",
+      "text": "Catatan berikut diterjemahkan dari catatan penerjemah edisi Inggris (Jennifer Ward, Yen Press). Penjelasan dan rujukannya mengikuti edisi tersebut; ini bukan catatan penerjemah Indonesia.",
+      "source": "appendix001.xhtml#editorial-attribution"
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-Art_P223",
+      "kind": "image",
+      "source": "appendix001.xhtml#Art_P223.jpg",
+      "src": "assets/chapters/volume-1/catatan-penerjemah/Art_P223.webp",
+      "width": 485,
+      "height": 814,
+      "text": "Hachiman Hikigaya berdiri dengan seragam sekolah."
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p001",
+      "kind": "text",
+      "source": "appendix001.xhtml#p1",
+      "text": "Bab 1 … Bagaimanapun, Hachiman Hikigaya memang busuk.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 22,
+          "end": 39,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p002",
+      "kind": "text",
+      "source": "appendix001.xhtml#p2",
+      "text": "1 “Itu cocok untuk penembak jitu berhidung panjang. Kamu anggota Bajak Laut Topi Jerami atau apa?” Dalam manga One Piece karya Eiichiro Oda, Usopp, penembak jitu berhidung panjang, adalah pembohong kronis sekaligus anggota Bajak Laut Topi Jerami.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 98,
+          "style": "strong"
+        },
+        {
+          "start": 111,
+          "end": 120,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p003",
+      "kind": "text",
+      "source": "appendix001.xhtml#p3",
+      "text": "2 “Aku akan mulai mencari tubuh mekanis, lalu berakhir jadi baut.” Dalam manga Galaxy Express 999 karya Leiji Matsumoto, tokoh utamanya, Tetsuro Hoshino, ingin mengganti tubuh manusia dengan tubuh mesin yang abadi. Namun Ratu Promethium, penguasa kekaisaran mesin, berencana mengubahnya menjadi baut biasa.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 66,
+          "style": "strong"
+        },
+        {
+          "start": 79,
+          "end": 97,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p004",
+      "kind": "text",
+      "source": "appendix001.xhtml#p4",
+      "text": "3 “…seperti hewan-hewan yang menggigit Tomoko Matsushima.” Tomoko Matsushima, penyanyi dan aktris Jepang, diserang singa dan macan tutul dalam selang sepuluh hari saat syuting dokumenter di Kenya pada 1986.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 58,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p005",
+      "kind": "text",
+      "source": "appendix001.xhtml#p5",
+      "text": "4 “Ini kiamat perjudian!” Gambling Apocalypse Kaiji adalah manga karya Nobuyuki Fukumoto tentang perjuangan mengerikan Kaiji dalam perjudian. Kaiji adalah pemuda ceroboh yang kemiskinannya menyeretnya ke permainan untung-untungan yang makin berbahaya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 25,
+          "style": "strong"
+        },
+        {
+          "start": 26,
+          "end": 51,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p006",
+      "kind": "text",
+      "source": "appendix001.xhtml#p6",
+      "text": "5 “Bahkan tanpa murid SD berkacamata yang memberitahuku, ‘Hah? Ada yang tidak beres!’” Detective Conan, juga dikenal sebagai Case Closed, adalah serial manga misteri panjang karya Gosho Aoyama. Ceritanya mengikuti kasus-kasus Shinichi Kudo, detektif cemerlang yang berubah menjadi anak kecil karena reaksi aneh terhadap racun. Dalam wujud barunya, dia memecahkan kasus sebagai Conan Edogawa.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 86,
+          "style": "strong"
+        },
+        {
+          "start": 87,
+          "end": 102,
+          "style": "em"
+        },
+        {
+          "start": 125,
+          "end": 136,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p007",
+      "kind": "text",
+      "source": "appendix001.xhtml#p7",
+      "text": "6 “Lebih seperti Manusia Super Iblis.” Akuma Choujin, atau “Manusia Super Iblis”, merujuk pada kelompok penjahat dalam manga Kinnikuman karya Yoshinori Nakai dan Takashi Shimada.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 38,
+          "style": "strong"
+        },
+        {
+          "start": 39,
+          "end": 52,
+          "style": "em"
+        },
+        {
+          "start": 125,
+          "end": 135,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p008",
+      "kind": "text",
+      "source": "appendix001.xhtml#p8",
+      "text": "7 “‘Bintang Si Burung Malam’? Seberapa tidak terkenalnya itu?” “The Nighthawk’s Star” adalah cerita pendek Kenji Miyazawa tentang burung buruk rupa yang dirundung dan ditolak begitu parah hingga akhirnya mati dan menjadi bintang di langit malam.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 62,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p009",
+      "kind": "text",
+      "source": "appendix001.xhtml#p9",
+      "text": "8 “Satu-satunya orang lain yang terpikir olehku melakukan itu adalah seorang pangeran Saiyan.” Manga Dragon Ball karya Akira Toriyama menampilkan bangsa Saiyan. Pangerannya, Vegeta, terkenal sangat angkuh.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 94,
+          "style": "strong"
+        },
+        {
+          "start": 101,
+          "end": 112,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p010",
+      "kind": "text",
+      "source": "appendix001.xhtml#p10",
+      "text": "9 “Kamu Golgo atau apa?!” Golgo adalah tokoh utama manga Golgo 13 karya Takao Saito, serial panjang tentang pembunuh pendiam yang tak terkalahkan. Golgo tidak pernah lengah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 25,
+          "style": "strong"
+        },
+        {
+          "start": 57,
+          "end": 65,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p011",
+      "kind": "text",
+      "source": "appendix001.xhtml#p11",
+      "text": "10 “Anggap saja ini Ruang Waktu Hiperbolik.” Dalam manga Dragon Ball karya Akira Toriyama, Ruang Waktu Hiperbolik adalah ruang latihan tempat waktu berlalu lebih lambat, sehingga latihan bertahun-tahun bisa dilakukan dalam beberapa hari di dunia nyata. Dalam bahasa Jepang namanya Seishin to Toki no Heya, atau “Ruang Jiwa dan Waktu”.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 44,
+          "style": "strong"
+        },
+        {
+          "start": 57,
+          "end": 68,
+          "style": "em"
+        },
+        {
+          "start": 281,
+          "end": 304,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p012",
+      "kind": "text",
+      "source": "appendix001.xhtml#p12",
+      "text": "11 “Atau lebih mudah dipahami kalau kusebut Revolutionary Girl Utena?” Revolutionary Girl Utena adalah anime tahun 1997 yang disutradarai Kunihiko Ikuhara. Ceritanya melibatkan dewan siswa penuh rahasia yang berencana “memecahkan cangkang dunia”.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 43,
+          "style": "strong"
+        },
+        {
+          "start": 44,
+          "end": 68,
+          "style": "strong-em"
+        },
+        {
+          "start": 68,
+          "end": 70,
+          "style": "strong"
+        },
+        {
+          "start": 71,
+          "end": 95,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p013",
+      "kind": "text",
+      "source": "appendix001.xhtml#p13",
+      "text": "12 “Ini seperti Shonen Jump!” Weekly Shonen Jump adalah majalah serialisasi manga terpopuler di Jepang, memuat banyak judul petualangan, aksi, dan olahraga. Sasaran utamanya anak laki-laki, atau shonen. Banyak judulnya mengangkat “segitiga Jump”: persahabatan, persaingan, dan kerja keras. Umumnya tentang pahlawan klasik yang menyelamatkan dunia dan meraih impian.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 15,
+          "style": "strong"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "style": "strong-em"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "style": "strong"
+        },
+        {
+          "start": 30,
+          "end": 48,
+          "style": "em"
+        },
+        {
+          "start": 195,
+          "end": 201,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p014",
+      "kind": "text",
+      "source": "appendix001.xhtml#p14",
+      "text": "13 “Gundam Fight! Ready? Go!” Seri Mobile Fighter G Gundam menampilkan turnamen pertarungan antarmecha yang dimulai dengan kalimat ini. Seperti kesukaan Bu Hiratsuka lainnya, seri ini berasal dari 1990-an.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 29,
+          "style": "strong"
+        },
+        {
+          "start": 35,
+          "end": 58,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p015",
+      "kind": "text",
+      "source": "appendix001.xhtml#p15",
+      "text": "14 “Mungkin lebih mudah dipahami kalau kubilang ‘Robattle’, ya?” “Robattle” merujuk pada pertarungan robot dalam anime Medabots, yang jauh kurang terkenal daripada Gundam.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 64,
+          "style": "strong"
+        },
+        {
+          "start": 119,
+          "end": 127,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p016",
+      "kind": "text",
+      "source": "appendix001.xhtml#p16",
+      "text": "15 “Menganggap gadis nakal yang bikin naik darah itu tsundere…” Tsundere adalah istilah Jepang yang menggabungkan tsun-tsun (“ketus”) dan dere-dere (“malu-malu”). Istilah ini menunjuk tokoh yang dari luar ketus dan mudah marah, tetapi diam-diam sentimental.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 52,
+          "style": "strong"
+        },
+        {
+          "start": 53,
+          "end": 61,
+          "style": "strong-em"
+        },
+        {
+          "start": 61,
+          "end": 63,
+          "style": "strong"
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "style": "em"
+        },
+        {
+          "start": 114,
+          "end": 123,
+          "style": "em"
+        },
+        {
+          "start": 138,
+          "end": 147,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p017",
+      "kind": "text",
+      "source": "appendix001.xhtml#p17",
+      "text": "Bab 2 … Yukino Yukinoshita selalu teguh pada pendiriannya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 26,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p018",
+      "kind": "text",
+      "source": "appendix001.xhtml#p18",
+      "text": "1 “Beliau seperti keluar dari Alcatraz atau Cassandra. Kenapa Juru Selamat Akhir Abad tidak muncul sekarang juga?” Alcatraz adalah penjara terkenal, tetapi Cassandra juga—setidaknya dalam manga Fist of the North Star. Tokoh utamanya, Kenshiro, dikenal sebagai Juru Selamat Akhir Abad.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 114,
+          "style": "strong"
+        },
+        {
+          "start": 194,
+          "end": 216,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p019",
+      "kind": "text",
+      "source": "appendix001.xhtml#p19",
+      "text": "2 “Jangan-jangan saking terpelintirnya, aliran meridianmu sampai terbalik.” Rujukan lain pada Fist of the North Star, kali ini tentang Souther, penjahat yang organ dalamnya terletak terbalik seperti bayangan cermin dari anatomi normal. Salah satu proyek jahatnya adalah Mausoleum Salib Kaisar Suci, piramida yang dibangun dengan tenaga budak anak-anak.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 75,
+          "style": "strong"
+        },
+        {
+          "start": 94,
+          "end": 116,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p020",
+      "kind": "text",
+      "source": "appendix001.xhtml#p20",
+      "text": "3 “Kamu mengidap sindrom sok tahu kelas dua SMA.” Sindrom sok tahu kelas dua SMA (kounibyou, secara harfiah “penyakit kelas dua SMA”) adalah istilah yang diciptakan Bu Hiratsuka di sini untuk menggoda Hikigaya. Dasarnya istilah yang sudah ada, chuunibyou (secara harfiah “penyakit kelas dua SMP”, dalam buku ini diterjemahkan menjadi “sindrom M-2”).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 49,
+          "style": "strong"
+        },
+        {
+          "start": 50,
+          "end": 80,
+          "style": "em"
+        },
+        {
+          "start": 82,
+          "end": 91,
+          "style": "em"
+        },
+        {
+          "start": 244,
+          "end": 254,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p021",
+      "kind": "text",
+      "source": "appendix001.xhtml#p21",
+      "text": "4 “Kamu suka Keigo Higashino atau Koutarou Isaka?” Keigo Higashino dan Koutarou Isaka adalah penulis misteri terkenal.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 50,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p022",
+      "kind": "text",
+      "source": "appendix001.xhtml#p22",
+      "text": "5 “Gagaga dan Kodansha BOX.” Gagaga Bunko menerbitkan seri My Youth Romantic Comedy di Jepang, sedangkan Kodansha BOX menerbitkan seri Monogatari karya NisiOisiN.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 28,
+          "style": "strong"
+        },
+        {
+          "start": 59,
+          "end": 83,
+          "style": "em"
+        },
+        {
+          "start": 135,
+          "end": 145,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p023",
+      "kind": "text",
+      "source": "appendix001.xhtml#p23",
+      "text": "6 “…seolah dia baru saja berkata padaku, Menurutku kamu sebaiknya menyerah soal ‘Concrete Road’.” Dalam film Studio Ghibli tahun 1995, Whisper of the Heart, Seiji Amasawa berkata kepada tokoh utama Shizuku Tsukishima agar menyerah soal “Concrete Road”, lirik gubahannya dari lagu John Denver “Country Road”. Sebagai tanggapan, dia berulang kali mengatakan, “Dia menyebalkan!”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 40,
+          "style": "strong"
+        },
+        {
+          "start": 41,
+          "end": 96,
+          "style": "strong-em"
+        },
+        {
+          "start": 96,
+          "end": 97,
+          "style": "strong"
+        },
+        {
+          "start": 135,
+          "end": 155,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p024",
+      "kind": "text",
+      "source": "appendix001.xhtml#p24",
+      "text": "7 “Pelanggaran setingkat Tangan Tuhan Maradona.” Dalam semifinal Piala Dunia 1986, Argentina mengalahkan Inggris berkat gol terkenal Diego Maradona yang secara ilegal memakai tangan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 48,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p025",
+      "kind": "text",
+      "source": "appendix001.xhtml#p25",
+      "text": "8 “Kalau sekali bertemu berarti teman, dan setiap hari bertemu berarti saudara? Mi-Do-Fa-Do-Re-Si-So-La-O?” Lagu pembuka acara TV anak Do-Re-Mi-Fa Donuts menyatakan bahwa sekali bertemu berarti teman, dan setiap hari bertemu berarti saudara.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 107,
+          "style": "strong"
+        },
+        {
+          "start": 135,
+          "end": 153,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p026",
+      "kind": "text",
+      "source": "appendix001.xhtml#p26",
+      "text": "Bab 3 … Yui Yuigahama selalu mencuri-curi pandang ke sekeliling.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 21,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p027",
+      "kind": "text",
+      "source": "appendix001.xhtml#p27",
+      "text": "1 “Apa ini, novel Ryuu Murakami?” Ryuu Murakami adalah penulis fiksi sastra. Karya debutnya pada 1976, Almost Transparent Blue, mengisahkan hedonisme sekelompok remaja Jepang yang dipacu narkoba.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 33,
+          "style": "strong"
+        },
+        {
+          "start": 103,
+          "end": 126,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p028",
+      "kind": "text",
+      "source": "appendix001.xhtml#p28",
+      "text": "2 “Tidak mungkin adik perempuanku tidak kompeten seperti ini.” Kemungkinan besar rujukan pada light novel Tsukasa Fushimi Ore no Imouto ga Konna ni Kawaii Wake ga Nai (“Tidak Mungkin Adik Perempuanku Semanis Ini”).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 62,
+          "style": "strong"
+        },
+        {
+          "start": 122,
+          "end": 166,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p029",
+      "kind": "text",
+      "source": "appendix001.xhtml#p29",
+      "text": "3 “Apa warna toko kuemu?!” Yumeiro Patisserie (“Koki Pastri Berwarna Mimpi”) karya Natsumi Matsumoto mengikuti perjuangan Ichigo Amano, gadis ceroboh tetapi berbakat yang menyukai kue dan bermimpi menjadi profesional.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 26,
+          "style": "strong"
+        },
+        {
+          "start": 27,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p030",
+      "kind": "text",
+      "source": "appendix001.xhtml#p30",
+      "text": "4 “Ada ungkapan begini… Asalkan ada cinta… cinta pasti bisa!” Ini slogan acara memasak Apron of Love, tempat selebritas perempuan mencoba memasak dalam dapur penuh bahan tanpa label untuk dinilai panel selebritas laki-laki. Cinta sering kali tidak cukup untuk menjamin hasil yang bisa dimakan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 23,
+          "style": "strong"
+        },
+        {
+          "start": 24,
+          "end": 60,
+          "style": "strong-em"
+        },
+        {
+          "start": 60,
+          "end": 61,
+          "style": "strong"
+        },
+        {
+          "start": 87,
+          "end": 100,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p031",
+      "kind": "text",
+      "source": "appendix001.xhtml#p31",
+      "text": "Bab 4 … Meski begitu, kelas ini baik-baik saja.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p032",
+      "kind": "text",
+      "source": "appendix001.xhtml#p32",
+      "text": "1 “Maksudku, mereka yang membawa PSP untuk berburu bersama…” Rujukan pada seri gim Monster Hunter.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 60,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p033",
+      "kind": "text",
+      "source": "appendix001.xhtml#p33",
+      "text": "2 “Ini inkuisisi, dan Yuigahama dipaksa menginjak salib…” Ketika agama Kristen dilarang pada zaman Tokugawa, orang yang dicurigai Kristen dipaksa menginjak salib untuk membuktikan dirinya tidak bersalah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 57,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p034",
+      "kind": "text",
+      "source": "appendix001.xhtml#p34",
+      "text": "3 “Makan seharusnya lebih menyenangkan daripada ini. Setidaknya kalau mengikuti ideologi Lonely Gourmet.” Kodoku no Gurume (“Sang Penikmat Makanan Penyendiri”) adalah manga yang ditulis Masayuki Qusumi dan digambar Jiro Taniguchi. Ceritanya mengikuti kehidupan kuliner Goro Inogashira, pegawai kantoran yang kebahagiaan terbesarnya adalah menikmati makanan sendirian.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 105,
+          "style": "strong"
+        },
+        {
+          "start": 106,
+          "end": 122,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p035",
+      "kind": "text",
+      "source": "appendix001.xhtml#p35",
+      "text": "4 “Bahkan saat kita bermain Ojamajo Doremi…” Yuigahama merujuk pada anime gadis penyihir Ojamajo Doremi. Hazuki adalah tokoh utama yang paling pemalu dan pasif di antara mereka.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 27,
+          "style": "strong"
+        },
+        {
+          "start": 28,
+          "end": 43,
+          "style": "strong-em"
+        },
+        {
+          "start": 43,
+          "end": 44,
+          "style": "strong"
+        },
+        {
+          "start": 89,
+          "end": 103,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p036",
+      "kind": "text",
+      "source": "appendix001.xhtml#p36",
+      "text": "5 “Aku tidak akan lagi membaca light novel tentang dewa jahat di sekolah.” Seri light novel Jashin Oonuma (“Dewa Jahat Oonuma”) menceritakan petualangan anak laki-laki yang memutuskan menjadi dewa jahat dengan bantuan buku petunjuk dan paket pemula. Penerbitnya di Jepang adalah Gagaga Bunko—yang juga menerbitkan My Youth Romantic Comedy.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 74,
+          "style": "strong"
+        },
+        {
+          "start": 92,
+          "end": 105,
+          "style": "em"
+        },
+        {
+          "start": 314,
+          "end": 338,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p037",
+      "kind": "text",
+      "source": "appendix001.xhtml#p37",
+      "text": "Bab 5 … Dengan kata lain, Yoshiteru Zaimokuza agak menyimpang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 26,
+          "end": 45,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p038",
+      "kind": "text",
+      "source": "appendix001.xhtml#p38",
+      "text": "1 “Aku merindukan kemurnian era Muromachi…” Dalam sejarah Jepang, zaman Muromachi berlangsung dari pertengahan 1300-an hingga pertengahan 1500-an, ketika Jepang diperintah keshogunan Muromachi. Zaman itu berakhir saat Jepang terpecah menjadi faksi-faksi kecil dalam masa penuh kekerasan yang disebut Sengoku, atau “negara-negara berperang”, yang dirujuk Zaimokuza di sini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 43,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p039",
+      "kind": "text",
+      "source": "appendix001.xhtml#p39",
+      "text": "2 “Kurasa dia cuma mengaitkan nama Hachiman dengan Bodhisattva Hachiman.” Hachiman adalah dewa perang dalam tradisi Shinto. Ketika Buddhisme masuk ke Jepang, dia diintegrasikan ke dalam keyakinan itu sebagai bodhisattva, manusia yang telah mencapai Kebuddhaan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 73,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p040",
+      "kind": "text",
+      "source": "appendix001.xhtml#p40",
+      "text": "3 “Klan Seiwa Genji dengan penuh semangat memujanya sebagai dewa perang.” Seiwa Genji adalah garis keturunan kuat dari klan bangsawan Minamoto selama ratusan tahun, yang menelusuri leluhurnya hingga Kaisar Seiwa. Keshogunan Kamakura dan Ashikaga berasal dari Seiwa Genji, dan keshogunan Tokugawa juga mengaku memiliki garis keturunan itu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 73,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p041",
+      "kind": "text",
+      "source": "appendix001.xhtml#p41",
+      "text": "4 “Aku memainkan Nobunaga’s Ambition, oke?” Nobunaga’s Ambition adalah seri gim strategi berbasis giliran berlatar zaman Sengoku. Ceritanya mengikuti upaya Oda Nobunaga menyatukan Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "strong"
+        },
+        {
+          "start": 17,
+          "end": 36,
+          "style": "strong-em"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p042",
+      "kind": "text",
+      "source": "appendix001.xhtml#p42",
+      "text": "5 “Dicetak dalam kisi tetap empat puluh dua kali tiga puluh dua karakter…” Gagaga Bunko, label penerbit seri My Youth Romantic Comedy dan banyak judul lain, mensyaratkan naskah dengan format ini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 74,
+          "style": "strong"
+        },
+        {
+          "start": 109,
+          "end": 133,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p043",
+      "kind": "text",
+      "source": "appendix001.xhtml#p43",
+      "text": "Bab 6 … Namun, Saika Totsuka memilikinya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 15,
+          "end": 28,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p044",
+      "kind": "text",
+      "source": "appendix001.xhtml#p44",
+      "text": "1 “…yang konon dimandikan dengan kopi Max…” MAX Coffee adalah kopi ekstra manis dalam kaleng dan botol. Pada suatu masa pemasarannya hanya di Prefektur Chiba, Ibaraki, dan Tochigi di Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 43,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p045",
+      "kind": "text",
+      "source": "appendix001.xhtml#p45",
+      "text": "2 From the Northern Country adalah serial drama Jepang panjang berlatar kota Furano, Hokkaido, pulau paling utara Jepang.",
+      "emphasis": [
+        {
+          "start": 2,
+          "end": 27,
+          "style": "strong-em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p046",
+      "kind": "text",
+      "source": "appendix001.xhtml#p46",
+      "text": "3 Issei Fuubi Sepia adalah kelompok pertunjukan yang aktif pada 1980-an. Salah satu lagu terpopulernya berjudul “Zenryaku, Michi no Ue Yori” (“Pengantar: Dari Atas Jalan”), dengan seruan “Soiya!” yang diulang berkali-kali.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 19,
+          "style": "strong"
+        },
+        {
+          "start": 188,
+          "end": 194,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p047",
+      "kind": "text",
+      "source": "appendix001.xhtml#p47",
+      "text": "4 “Apa, kamu membeli hadiah untuk kantor?” Hachiman merujuk pada chuugen, masa pada bulan Juli ketika para pekerja membawa hadiah—biasanya makanan—untuk atasan sebagai tanda terima kasih.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "strong"
+        },
+        {
+          "start": 65,
+          "end": 72,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p048",
+      "kind": "text",
+      "source": "appendix001.xhtml#p48",
+      "text": "5 “…seperti mengatakan ‘si tukang ham’.” Rujukan pada iklan TV yang menampilkan paket hadiah ham merek Marudai sebagai hadiah chuugen yang bagus. Si tukang ham pertama diperankan aktor Tetsuya Bessho.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 40,
+          "style": "strong"
+        },
+        {
+          "start": 126,
+          "end": 133,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p049",
+      "kind": "text",
+      "source": "appendix001.xhtml#p49",
+      "text": "6 “Hikitani.” Kanji kedua dalam nama keluarga Hachiman Hikigaya berarti “lembah” dan dapat dibaca “tani”. Karena itulah Hayama salah membaca namanya menjadi “Hikitani”.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 13,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p050",
+      "kind": "text",
+      "source": "appendix001.xhtml#p50",
+      "text": "7 “Motoku adalah Aku tidak bisa meneruskan ini! seperti tiruan Korosuke…” Korosuke adalah tokoh dalam Kiteretsu Encyclopedia yang memiliki cara bicara sangat khas.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "strong"
+        },
+        {
+          "start": 17,
+          "end": 47,
+          "style": "strong-em"
+        },
+        {
+          "start": 48,
+          "end": 73,
+          "style": "strong"
+        },
+        {
+          "start": 102,
+          "end": 124,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p051",
+      "kind": "text",
+      "source": "appendix001.xhtml#p51",
+      "text": "8 “…dia bukan Dragon Quest, lebih seperti Raja Bonbii dari Momotetsu.” Dalam Dragon Quest klasik, semua tokoh berbaris mengikuti pemimpin. Momotetsu adalah seri gim panjang lain yang mirip permainan papan. Raja Bonbii adalah tokoh menyebalkan yang mengikuti dan mengganggu pemain.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 13,
+          "style": "strong"
+        },
+        {
+          "start": 14,
+          "end": 26,
+          "style": "strong-em"
+        },
+        {
+          "start": 26,
+          "end": 70,
+          "style": "strong"
+        },
+        {
+          "start": 77,
+          "end": 89,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p052",
+      "kind": "text",
+      "source": "appendix001.xhtml#p52",
+      "text": "Bab 7 … Terkadang, dewa-dewa komedi romantis berbaik hati.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 19,
+          "end": 44,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p053",
+      "kind": "text",
+      "source": "appendix001.xhtml#p53",
+      "text": "1 “Aku membaca seluruh serinya, dan bahkan menonton musikalnya.” Manga tenis populer Prince of Tennis memiliki adaptasi musikal panggung, yang mungkin dimaksud Zaimokuza.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 64,
+          "style": "strong"
+        },
+        {
+          "start": 85,
+          "end": 101,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p054",
+      "kind": "text",
+      "source": "appendix001.xhtml#p54",
+      "text": "2 “Dia Madame Butterfly atau apa?” Madame Butterfly adalah tokoh berambut sangat mengembang dalam Ace wo Nerae! (“Bidik Sang Ace!”), manga shoujo terkenal tentang tenis dari 1970-an.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 34,
+          "style": "strong"
+        },
+        {
+          "start": 98,
+          "end": 111,
+          "style": "em"
+        },
+        {
+          "start": 139,
+          "end": 145,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p055",
+      "kind": "text",
+      "source": "appendix001.xhtml#p55",
+      "text": "3 “Kamu Hiei atau apa?” Hiei adalah tokoh Yu Yu Hakusho yang serangan khusus Naga Hitamnya membuatnya tidak sadarkan diri seusai digunakan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 23,
+          "style": "strong"
+        },
+        {
+          "start": 42,
+          "end": 55,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p056",
+      "kind": "text",
+      "source": "appendix001.xhtml#p56",
+      "text": "Bab 8 … Lalu, Hikigaya merenung.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p057",
+      "kind": "text",
+      "source": "appendix001.xhtml#p57",
+      "text": "1 “Tokoh utama perempuannya bertubuh karet…” Rujukan pada tokoh utama One Piece, yang tubuhnya memiliki sifat karet.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 44,
+          "style": "strong"
+        },
+        {
+          "start": 70,
+          "end": 79,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p058",
+      "kind": "text",
+      "source": "appendix001.xhtml#p58",
+      "text": "2 “Ibu Gian atau apa?” Gian adalah tokoh perundung dalam manga terkenal Doraemon.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 22,
+          "style": "strong"
+        },
+        {
+          "start": 72,
+          "end": 80,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p059",
+      "kind": "text",
+      "source": "appendix001.xhtml#p59",
+      "text": "Kata Penutup",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 12,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v1-catatan-penerjemah-appendix001-p060",
+      "kind": "text",
+      "source": "appendix001.xhtml#p60",
+      "text": "1 “Masa muda yang sesungguhnya adalah ketika dua cowok mampir ke tempat makan cepat saji seperti Saizeriya sepulang sekolah lalu nongkrong sampai malam…” Saizeriya adalah jaringan restoran cepat saji Italia di Jepang. Menu murah dan suasananya yang santai membuatnya populer di kalangan pelajar dan keluarga.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 153,
+          "style": "strong"
+        }
+      ]
+    }
+  ]
+}

@@ -402,8 +402,13 @@ main.about {
   overflow-wrap: anywhere;
 }
 .page-area p {
+  text-align: left;
   line-height: inherit;
   margin: 0 0 1em;
+}
+.reader[data-alignment="justify"] .page-area p {
+  text-align: justify;
+  text-align-last: left;
 }
 .page-area h1 {
   font-size: 1.7em;

@@ -143,7 +143,7 @@ This is the most important engineering feature. Implement a **reliable paginated
 ### Settings and persistence
 
 - Theme: `Kertas`, `Putih`, `Gelap`.
-- Adjustable font size, Sans-serif/Serif font choice, and line spacing. Default: Sans-serif (Noto Sans), 18px, line spacing 1.8, Putih. Preserve older theme/size/spacing settings during migration.
+- Adjustable font size, Sans-serif/Serif font choice, line spacing, and text alignment (Rata kiri / Rata kiri-kanan). Alignment defaults to left; preserve it in version-2 settings. Default: Sans-serif (Noto Sans), 18px, line spacing 1.8, Putih. Preserve older theme/size/spacing settings during migration.
 - Persist settings and reading progress using `localStorage` with a versioned schema and defensive parsing.
 - Track volume/chapter and stable content anchor, with a safe fallback if content changes.
 - Do not require registration or external analytics.

@@ -4,6 +4,15 @@ async function ready(page: Page) {
   await expect(page.locator("#page-count")).toHaveText(/1 \/ \d+/);
   await page.waitForTimeout(200);
 }
+async function alignment(page: Page) {
+  return page.locator("#page").evaluate((el) => {
+    const paragraph = document.createElement("p");
+    el.append(paragraph);
+    const value = getComputedStyle(paragraph).textAlign;
+    paragraph.remove();
+    return value;
+  });
+}
 async function stored(page: Page) {
   return page.evaluate(() =>
     JSON.parse(localStorage.getItem("oregairu.progress")!),
@@ -126,6 +135,7 @@ test("font, theme and logical progress survive reflow, refresh and history", asy
   expect(before.chapter).toBe("bab-1");
   await page.getByRole("button", { name: "Pengaturan baca" }).click();
   await page.getByRole("button", { name: "Serif", exact: true }).click();
+  await page.getByRole("button", { name: "Rata kiri-kanan", exact: true }).click();
   await page.locator("#font-size").fill("24");
   await page.getByRole("button", { name: "Gelap", exact: true }).click();
   await page.getByRole("button", { name: "2.0×" }).click();
@@ -139,6 +149,8 @@ test("font, theme and logical progress survive reflow, refresh and history", asy
   expect(await stored(page)).toEqual(before);
   await expect(page.locator("#reader")).toHaveAttribute("data-theme", "gelap");
   await expect(page.locator("#reader")).toHaveAttribute("data-font", "serif");
+  await expect(page.locator("#reader")).toHaveAttribute("data-alignment", "justify");
+  expect(await alignment(page)).toBe("justify");
   expect(
     await page
       .locator("#page")
@@ -245,6 +257,7 @@ test("old settings migrate; demo progress is ignored", async ({ page }) => {
     version: 2,
     theme: "kertas",
     font: "sans",
+    alignment: "left",
     size: 22,
     leading: 2,
   });
@@ -818,3 +831,30 @@ test("Volume 2 catalog, available TOC and resume stay distinct from Volume 1", a
   await expect(page.locator("#toc")).toContainText("Prolog");
   await expect(page.locator('#toc a[href*="/bab-2/"]')).toHaveCount(0);
 });
+
+for (const width of [320, 390]) {
+  test(`alignment changes preserve position at ${width}px`, async ({ page }) => {
+    await page.setViewportSize({ width, height: 844 });
+    await page.goto(reader);
+    await ready(page);
+    expect(await alignment(page)).toBe('left');
+    for (let i = 0; i < 3; i++) await page.keyboard.press('ArrowRight');
+    const position = await stored(page);
+    await page.getByRole('button', { name: 'Pengaturan baca' }).click();
+    await page.getByRole('button', { name: 'Rata kiri-kanan', exact: true }).click();
+    await expect(page.getByRole('button', { name: 'Rata kiri-kanan', exact: true })).toHaveAttribute('aria-pressed', 'true');
+    await page.keyboard.press('Escape');
+    await page.waitForTimeout(350);
+    expect(await stored(page)).toEqual(position);
+    expect(await alignment(page)).toBe('justify');
+    await page.reload();
+    await expect(page.locator('#reader')).toHaveAttribute('data-alignment', 'justify');
+    expect(await stored(page)).toEqual(position);
+    await page.getByRole('button', { name: 'Pengaturan baca' }).click();
+    await page.getByRole('button', { name: 'Rata kiri', exact: true }).click();
+    await page.keyboard.press('Escape');
+    await page.waitForTimeout(350);
+    expect(await alignment(page)).toBe('left');
+    expect(await stored(page)).toEqual(position);
+  });
+}

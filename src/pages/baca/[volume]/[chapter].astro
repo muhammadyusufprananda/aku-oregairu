@@ -44,6 +44,7 @@ const previousChapter = volumeChapters[sectionIndex - 1];
     data-volume={chapter.volume}
     data-chapter={chapter.slug}
     data-font="sans"
+    data-alignment="left"
     data-theme="putih"
     data-next-section={nextChapter ? sectionUrl(nextChapter) : undefined}
     data-previous-section={
@@ -155,6 +156,13 @@ const previousChapter = volumeChapters[sectionIndex - 1];
               {f.label}
             </button>
           ))}
+        </div>
+      </div>
+      <div class="setting">
+        Perataan teks
+        <div class="choices">
+          <button data-alignment-value="left" aria-pressed="true">Rata kiri</button>
+          <button data-alignment-value="justify" aria-pressed="false">Rata kiri-kanan</button>
         </div>
       </div>
       <div class="setting">

@@ -249,12 +249,16 @@ async function paginate() {
 function applySettings() {
   root.dataset.theme = settings.theme;
   root.dataset.font = settings.font;
+  root.dataset.alignment = settings.alignment;
   root.style.setProperty("--size", `${settings.size}px`);
   root.style.setProperty("--leading", String(settings.leading));
   document.querySelector<HTMLInputElement>("#font-size")!.value = String(
     settings.size,
   );
   document.querySelector("#size-output")!.textContent = `${settings.size} px`;
+  root.querySelectorAll<HTMLButtonElement>("[data-alignment-value]").forEach((b) =>
+    b.setAttribute("aria-pressed", String(b.dataset.alignmentValue === settings.alignment)),
+  );
   root
     .querySelectorAll<HTMLButtonElement>("[data-theme-value]")
     .forEach((b) =>
@@ -347,6 +351,14 @@ root.querySelectorAll<HTMLButtonElement>("[data-font-value]").forEach(
       schedule();
     }),
 );
+root.querySelectorAll<HTMLButtonElement>("[data-alignment-value]").forEach((b) => {
+  b.onclick = () => {
+    settings.alignment = b.dataset.alignmentValue as typeof settings.alignment;
+    applySettings();
+    write("oregairu.settings", settings);
+    schedule();
+  };
+});
 document.querySelector<HTMLInputElement>("#font-size")!.oninput = (e) => {
   settings.size = Number((e.target as HTMLInputElement).value);
   applySettings();

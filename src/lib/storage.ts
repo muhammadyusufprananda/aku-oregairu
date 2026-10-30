@@ -3,6 +3,7 @@ export type Settings = {
   version: 2;
   theme: "kertas" | "putih" | "gelap";
   font: "sans" | "serif";
+  alignment: "left" | "justify";
   size: number;
   leading: number;
 };
@@ -17,6 +18,7 @@ export const defaults: Settings = {
   version: 2,
   theme: "putih",
   font: "sans",
+  alignment: "left",
   size: 18,
   leading: 1.8,
 };
@@ -45,6 +47,7 @@ export function readSettings(): Settings {
       ? (s.theme as Settings["theme"])
       : defaults.theme,
     font: s.version === 2 && s.font === "serif" ? "serif" : "sans",
+    alignment: s.alignment === "justify" ? "justify" : "left",
     size:
       typeof s.size === "number" && Number.isFinite(s.size)
         ? Math.min(28, Math.max(16, s.size))

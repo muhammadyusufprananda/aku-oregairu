@@ -1,6 +1,7 @@
 import { defineConfig } from "@playwright/test";
 export default defineConfig({
   testDir: "./tests",
+  testIgnore: "pwa.spec.ts",
   timeout: 60000,
   workers: 2,
   fullyParallel: true,

@@ -263,7 +263,7 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - Store chapter metadata/status in `src/content/chapters/index.json`; available statuses are `draft` and `reviewed`. Content uses stable block IDs and source references. Instructions and glossary live in `docs/editorial/`.
 - Hero credits: Wataru Watari (Penulis), Ponkan8 (Ilustrator).
 - Settings/progress use version 2. Preserve old settings; ignore demo progress. Sans-serif is the default, while serif remains available.
-- PWA/installability/offline caching are explicitly deferred by the owner; do not add them in this change.
+- Owner has now requested PWA support. Keep installation and offline caching static, scoped to the deployment base, and preserve reader settings/progress.
 
 ## 13. Volume opening reading flow
 
@@ -279,7 +279,7 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - Back matter uses `kind: backmatter`, `number: null`, orders 9/10, slugs `kata-penutup` and `catatan-penerjemah`; do not label it Chapters 9/10. Navigation crosses all eleven sections in source order.
 - New sources and 23 illustrations are mapped in `docs/editorial/volume-1-remaining-sources.json`. Seven profile/survey pages have translated companion text. Small inline music symbols remain inline; repeated ornaments have unique IDs.
 - Initial Chapters 2–6 and early Chapter 7 drafts used Google Translate with preliminary AI editing. Late Chapter 7, Chapter 8, back matter, and image companions were AI-translated. This is not a full semantic/literary review; maintain transparent method disclosures and draft labels. No translation service runs in production/CI.
-- Preserve existing Pembuka/Bab 1 anchors and storage schema 2. Do not introduce PWA work, other volumes, or unrelated reader redesign while revising this draft.
+- Preserve existing Pembuka/Bab 1 anchors and storage schema 2. Do not introduce other volumes or unrelated reader redesign while revising this draft. PWA support was subsequently requested separately by the owner.
 
 ## 15. Volume 2 continuation
 

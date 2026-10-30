@@ -75,6 +75,26 @@ const opening = getSection("volume-1", "pembuka")!;
       Tipografi Noto Sans, Literata, dan Nunito digunakan dengan lisensi SIL
       Open Font License; salinan lisensi disertakan dalam aset website.
     </p>
+    <h2>Pasang dan baca offline</h2>
+    <p>
+      Gunakan menu browser untuk memasang Aku Oregairu. Di iPhone atau iPad,
+      buka menu Bagikan di Safari lalu pilih Tambahkan ke Layar Utama.
+      Pada kunjungan pertama, situs mengunduh halaman, font, dan ilustrasi
+      yang tersedia untuk dibaca offline. Tetap terhubung sampai unduhan
+      selesai; statusnya muncul di bawah. Penyimpanan ini dapat dihapus oleh
+      browser ketika ruang perangkat terbatas. Pembaruan aplikasi aktif
+      setelah semua jendela situs dan aplikasi ditutup lalu dibuka kembali.
+    </p>
+    <p id="offline-status" role="status">Status offline belum tersedia.</p>
+    <script>
+      const status = document.getElementById("offline-status");
+      if (import.meta.env.PROD && "serviceWorker" in navigator && status) {
+        status.textContent = "Menyiapkan bacaan offline…";
+        navigator.serviceWorker.ready.then(() => {
+          status.textContent = "Bacaan offline siap di perangkat ini.";
+        });
+      }
+    </script>
     <h2>Privasi dan kontak</h2>
     <p>
       Pengaturan dan posisi membaca disimpan hanya di browser perangkatmu. Tidak

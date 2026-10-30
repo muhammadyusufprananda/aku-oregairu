@@ -31,6 +31,12 @@ const { title, reader = false } = Astro.props;
       content="Proyek independen Aku Oregairu. Pengalaman membaca yang tenang, dirancang untuk ponsel."
     />
     <title>{title} · Aku Oregairu</title>
+    <link rel="manifest" href={url("manifest.webmanifest")} />
+    <link rel="icon" href={url("favicon.ico")} sizes="any" />
+    <link rel="icon" type="image/png" href={url("icons/favicon-32.png")} sizes="32x32" />
+    <link rel="apple-touch-icon" href={url("icons/icon-180.png")} />
+    <meta name="theme-color" content="#ffffff" />
+    <meta name="apple-mobile-web-app-title" content="Aku Oregairu" />
   </head>
   <body class:list={[reader && "reader-body"]}>
     {!reader && (
@@ -45,6 +51,15 @@ const { title, reader = false } = Astro.props;
       </header>
     )}
     <slot />
+    <script>
+      if (import.meta.env.PROD && "serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          const base = import.meta.env.BASE_URL.replace(/\/$/, "") + "/";
+          navigator.serviceWorker.register(`${base}sw.js`, { scope: base })
+            .catch(() => { /* Situs tetap dapat dibaca jika cache tidak tersedia. */ });
+        });
+      }
+    </script>
     {!reader && (
       <footer class="site-footer">
         <span>Aku Oregairu</span>

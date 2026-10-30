@@ -181,6 +181,7 @@ test("illustrations, spread viewer, zoom, focus, tap and swipe", async ({
   await expect(page.locator("#zoom-reset")).toHaveText("150%");
   await page.keyboard.press("Escape");
   await expect(page.locator("#page [data-image]")).toBeFocused();
+  await page.goto("volume/volume-1/");
   await page.evaluate(() =>
     localStorage.setItem(
       "oregairu.progress",
@@ -193,7 +194,7 @@ test("illustrations, spread viewer, zoom, focus, tap and swipe", async ({
       }),
     ),
   );
-  await page.reload();
+  await page.goto(reader);
   await expect(page.locator("#page img")).toHaveAttribute(
     "src",
     /Art_P30.webp/,
@@ -514,6 +515,8 @@ test("opening progress resumes and existing chapter progress remains valid", asy
   await expect(page.locator("#resume")).toContainText("Pembuka Volume 1");
   await page.locator("#resume").click();
   expect(await stored(page)).toEqual(before);
+  // Seed a previous visit while no reader is actively saving its position.
+  await page.goto("volume/volume-1/");
   await page.evaluate(() =>
     localStorage.setItem(
       "oregairu.progress",
@@ -526,7 +529,7 @@ test("opening progress resumes and existing chapter progress remains valid", asy
       }),
     ),
   );
-  await page.goto("volume/volume-1/");
+  await page.reload();
   await expect(page.locator("#start-reading")).toHaveText(
     "Lanjutkan Membaca →",
   );

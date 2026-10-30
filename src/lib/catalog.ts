@@ -1,11 +1,13 @@
 import chapterRecords from "../content/chapters/index.json";
 export const url = (path = "") =>
   `${import.meta.env.BASE_URL.replace(/\/$/, "")}/${path.replace(/^\//, "")}`;
-export type Chapter = {
+export type ReadingSection = {
   id: string;
   volume: string;
   slug: string;
-  number: number;
+  number: number | null;
+  kind: "frontmatter" | "chapter";
+  order: number;
   title: string;
   editorialStatus: "draft" | "reviewed";
 };
@@ -49,34 +51,50 @@ export const volumes = [
   cover: url(`assets/covers/volume-${number.replace(".", "-")}-720.webp`),
   coverSmall: url(`assets/covers/volume-${number.replace(".", "-")}-360.webp`),
 }));
-export const chapters: Chapter[] = chapterRecords.map((c) => {
+export const sections: ReadingSection[] = chapterRecords.map((c) => {
   if (
     !volumes.some((v) => v.slug === c.volume) ||
     !c.title ||
     !c.slug ||
-    !Number.isInteger(c.number) ||
-    c.number < 1 ||
+    !["frontmatter", "chapter"].includes(c.kind) ||
+    !Number.isInteger(c.order) ||
+    c.order < 0 ||
+    (c.kind === "chapter"
+      ? !Number.isInteger(c.number) || c.number === null || c.number < 1
+      : c.number !== null) ||
     !["draft", "reviewed"].includes(c.editorialStatus)
   )
     throw Error("Metadata bab tidak valid");
   return {
     ...c,
-    editorialStatus: c.editorialStatus as Chapter["editorialStatus"],
+    kind: c.kind as ReadingSection["kind"],
+    editorialStatus: c.editorialStatus as ReadingSection["editorialStatus"],
   };
 });
 if (
-  new Set(chapters.map((c) => c.id)).size !== chapters.length ||
-  new Set(chapters.map((c) => `${c.volume}/${c.slug}`)).size !== chapters.length
+  new Set(sections.map((c) => c.id)).size !== sections.length ||
+  new Set(sections.map((c) => `${c.volume}/${c.slug}`)).size !== sections.length
 )
   throw Error("ID atau rute bab berulang");
-export const getChapter = (volume: string, slug: string) =>
-  chapters.find((c) => c.volume === volume && c.slug === slug);
+export const getSection = (volume: string, slug: string) =>
+  sections.find((c) => c.volume === volume && c.slug === slug);
+export const sectionsFor = (volume: string) =>
+  sections.filter((c) => c.volume === volume).sort((a, b) => a.order - b.order);
 export const chaptersFor = (volume: string) =>
-  chapters
-    .filter((c) => c.volume === volume)
-    .sort((a, b) => a.number - b.number);
-export const chapterUrl = (c: Chapter) => url(`baca/${c.volume}/${c.slug}/`);
-export const editorialLabel = (c: Chapter) =>
+  sectionsFor(volume).filter((c) => c.kind === "chapter");
+export const sectionIdentity = (c: ReadingSection) =>
+  c.kind === "frontmatter"
+    ? `Pembuka Volume ${Number(volumes.find((v) => v.slug === c.volume)!.number)}`
+    : `Volume ${volumes.find((v) => v.slug === c.volume)!.number} · Bab ${c.number}`;
+export const sectionUrl = (c: ReadingSection) =>
+  url(`baca/${c.volume}/${c.slug}/`);
+export const editorialLabel = (c: ReadingSection) =>
   c.editorialStatus === "draft"
     ? "Draf berbantuan AI—belum ditinjau manusia"
     : "Sudah ditinjau";
+
+if (
+  new Set(sections.map((c) => `${c.volume}/${c.order}`)).size !==
+  sections.length
+)
+  throw Error("Urutan bagian berulang");

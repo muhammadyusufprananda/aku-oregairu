@@ -69,15 +69,15 @@ import { volumes, url, chaptersFor } from "../lib/catalog";
 </Base>
 <script>
   import { readProgress } from "../lib/storage";
-  import { getChapter, chapterUrl } from "../lib/catalog";
+  import { getSection, sectionUrl, sectionIdentity } from "../lib/catalog";
   const progress = readProgress();
   const chapter = progress
-    ? getChapter(progress.volume, progress.chapter)
+    ? getSection(progress.volume, progress.chapter)
     : undefined;
   const resume = document.querySelector<HTMLAnchorElement>("#resume");
   if (chapter && resume) {
-    resume.href = chapterUrl(chapter);
+    resume.href = sectionUrl(chapter);
     resume.hidden = false;
-    resume.firstChild!.textContent = `Lanjutkan Membaca · Volume 01 Bab ${chapter.number} `;
+    resume.firstChild!.textContent = `Lanjutkan Membaca · ${sectionIdentity(chapter)} `;
   }
 </script>

@@ -1,0 +1,376 @@
+{
+  "blocks": [
+    {
+      "id": "v1-opening-cover",
+      "kind": "image",
+      "source": "OEBPS/Text/cover.xhtml#9781975359805.jpg",
+      "src": "assets/chapters/volume-1/pembuka/cover.webp",
+      "width": 1600,
+      "height": 2400,
+      "text": "Sampul Volume 1 dengan ilustrasi Yukino Yukinoshita dan Hachiman Hikigaya."
+    },
+    {
+      "id": "v1-opening-insert002",
+      "kind": "image",
+      "source": "OEBPS/Text/insert002.xhtml#Art_insert002.jpg",
+      "src": "assets/chapters/volume-1/pembuka/insert002.webp",
+      "width": 1196,
+      "height": 1800,
+      "text": "Daftar isi berwarna, dengan Yukino dan Yui versi chibi di bagian bawah."
+    },
+    {
+      "id": "v1-opening-insert002-text-01",
+      "kind": "heading",
+      "text": "Terjemahan daftar isi berwarna",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v1-opening-insert002-text-02",
+      "kind": "text",
+      "text": "1. Bagaimanapun, Hachiman Hikigaya memang busuk.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert002-text-03",
+      "kind": "text",
+      "text": "2. Yukino Yukinoshita selalu teguh pada pendiriannya.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert002-text-04",
+      "kind": "text",
+      "text": "3. Yui Yuigahama selalu mencuri-curi pandang ke sekeliling.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert002-text-05",
+      "kind": "text",
+      "text": "4. Meski begitu, kelas ini baik-baik saja.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert002-text-06",
+      "kind": "text",
+      "text": "5. Dengan kata lain, Yoshiteru Zaimokuza agak menyimpang.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert002-text-07",
+      "kind": "text",
+      "text": "6. Namun, Saika Totsuka memilikinya.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert002-text-08",
+      "kind": "text",
+      "text": "7. Terkadang, dewa-dewa komedi romantis berbaik hati.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert002-text-09",
+      "kind": "text",
+      "text": "8. Lalu, Hikigaya merenung.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert002-text-10",
+      "kind": "text",
+      "text": "Catatan penerjemahan.",
+      "source": "OEBPS/Text/insert002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert001",
+      "kind": "image",
+      "source": "OEBPS/Text/insert001.xhtml#Art_insert001.jpg",
+      "src": "assets/chapters/volume-1/pembuka/insert001.webp",
+      "width": 1205,
+      "height": 1800,
+      "text": "Ilustrasi sampul alternatif Volume 1: Yukino dan Hachiman."
+    },
+    {
+      "id": "v1-opening-insert003",
+      "kind": "image",
+      "source": "OEBPS/Text/insert003.xhtml#Art_insert003.jpg",
+      "src": "assets/chapters/volume-1/pembuka/insert003.webp",
+      "width": 1800,
+      "height": 939,
+      "text": "Ilustrasi bentang berwarna yang memperkenalkan enam tokoh beserta kutipan dialog mereka."
+    },
+    {
+      "id": "v1-opening-insert003-text-01",
+      "kind": "heading",
+      "text": "Teks dalam ilustrasi tokoh",
+      "source": "OEBPS/Text/insert003.xhtml#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v1-opening-insert003-text-02",
+      "kind": "text",
+      "text": "Shizuka Hiratsuka: “Jangan menipu diri dengan mengira kamu akan bisa lulus tepat waktu!”",
+      "source": "OEBPS/Text/insert003.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert003-text-03",
+      "kind": "text",
+      "text": "Saika Totsuka: “Menurutmu aku imut? Aku tersanjung… tapi sedikit malu.”",
+      "source": "OEBPS/Text/insert003.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert003-text-04",
+      "kind": "text",
+      "text": "Yoshiteru Zaimokuza: “Kau telah menyebut nama yang terukir pada jiwaku…”",
+      "source": "OEBPS/Text/insert003.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert003-text-05",
+      "kind": "text",
+      "text": "Yui Yuigahama: “Siapa yang kamu sebut pelacur? Aku masih pera—”",
+      "source": "OEBPS/Text/insert003.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert003-text-06",
+      "kind": "text",
+      "text": "Hachiman Hikigaya: “Matilah terbakar!”",
+      "source": "OEBPS/Text/insert003.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert003-text-07",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: “Oh? Aku mendapat kesan kamu menyukaiku.”",
+      "source": "OEBPS/Text/insert003.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-insert005",
+      "kind": "image",
+      "source": "OEBPS/Text/insert005.xhtml#Art_insert005.jpg",
+      "src": "assets/chapters/volume-1/pembuka/insert005.webp",
+      "width": 1197,
+      "height": 1800,
+      "text": "Ilustrasi berwarna Yukino Yukinoshita dan Yui Yuigahama."
+    },
+    {
+      "id": "v1-opening-titlepage",
+      "kind": "image",
+      "source": "OEBPS/Text/titlepage.xhtml#Art_tit.jpg",
+      "src": "assets/chapters/volume-1/pembuka/titlepage.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Halaman judul Volume 1, mencantumkan Wataru Watari dan Ponkan8."
+    },
+    {
+      "id": "v1-opening-copyright-text-01",
+      "kind": "heading",
+      "text": "Atribusi edisi sumber",
+      "source": "OEBPS/Text/copyright.xhtml#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v1-opening-copyright-text-02",
+      "kind": "text",
+      "text": "Volume 1 ditulis oleh Wataru Watari dan diilustrasikan Ponkan8. Terjemahan bahasa Inggris oleh Jennifer Ward, diterbitkan Yen On, lini penerbitan Yen Press.",
+      "source": "OEBPS/Text/copyright.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-copyright-text-03",
+      "kind": "text",
+      "text": "Edisi Jepang diterbitkan Shogakukan. Hak karya asli ©2011 Wataru Watari; terjemahan Inggris ©2016 Yen Press, LLC. Hak tetap berada pada pemegangnya masing-masing.",
+      "source": "OEBPS/Text/copyright.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-copyright-text-04",
+      "kind": "text",
+      "text": "Terjemahan Indonesia pada website ini merupakan draf berbantuan AI dari edisi Inggris dan belum ditinjau manusia. Atribusi edisi sumber bukan pernyataan afiliasi resmi.",
+      "source": "OEBPS/Text/copyright.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-01",
+      "kind": "heading",
+      "text": "Daftar isi edisi sumber",
+      "source": "OEBPS/Text/toc.xhtml#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v1-opening-toc-text-02",
+      "kind": "text",
+      "text": "Bagian awal: Sampul · Sisipan ilustrasi · Halaman judul · Hak cipta · Pengenalan tokoh.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-03",
+      "kind": "text",
+      "text": "1. Bagaimanapun, Hachiman Hikigaya memang busuk.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-04",
+      "kind": "text",
+      "text": "2. Yukino Yukinoshita selalu teguh pada pendiriannya.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-05",
+      "kind": "text",
+      "text": "3. Yui Yuigahama selalu mencuri-curi pandang ke sekeliling.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-06",
+      "kind": "text",
+      "text": "4. Meski begitu, kelas ini baik-baik saja.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-07",
+      "kind": "text",
+      "text": "5. Dengan kata lain, Yoshiteru Zaimokuza agak menyimpang.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-08",
+      "kind": "text",
+      "text": "6. Namun, Saika Totsuka memilikinya.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-09",
+      "kind": "text",
+      "text": "7. Terkadang, dewa-dewa komedi romantis berbaik hati.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-10",
+      "kind": "text",
+      "text": "8. Lalu, Hikigaya merenung.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-11",
+      "kind": "text",
+      "text": "Bagian akhir: Kata penutup · Catatan penerjemahan.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-toc-text-12",
+      "kind": "text",
+      "text": "Yang tersedia di website ini saat ini adalah Pembuka Volume 1 dan Bab 1. Bagian lain pada daftar isi sumber belum tersedia sebagai bacaan.",
+      "source": "OEBPS/Text/toc.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface001",
+      "kind": "image",
+      "source": "OEBPS/Text/preface001.xhtml#Art_P1.jpg",
+      "src": "assets/chapters/volume-1/pembuka/preface001.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Halaman pengenalan enam tokoh Volume 1."
+    },
+    {
+      "id": "v1-opening-preface001-text-01",
+      "kind": "heading",
+      "text": "Pengenalan tokoh",
+      "source": "OEBPS/Text/preface001.xhtml#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v1-opening-preface001-text-02",
+      "kind": "text",
+      "text": "Hachiman Hikigaya — Tokoh utama. Murid SMA tahun kedua. Kepribadiannya menyimpang.",
+      "source": "OEBPS/Text/preface001.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface001-text-03",
+      "kind": "text",
+      "text": "Yukino Yukinoshita — Ketua Klub Layanan. Sempurna dan cantik, tetapi kepribadiannya mengecewakan.",
+      "source": "OEBPS/Text/preface001.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface001-text-04",
+      "kind": "text",
+      "text": "Yui Yuigahama — Teman sekelas Hachiman. Cenderung mengkhawatirkan pendapat orang lain.",
+      "source": "OEBPS/Text/preface001.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface001-text-05",
+      "kind": "text",
+      "text": "Yoshiteru Zaimokuza — Kutu buku. Menganggap Hachiman sebagai sobatnya.",
+      "source": "OEBPS/Text/preface001.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface001-text-06",
+      "kind": "text",
+      "text": "Saika Totsuka — Anggota klub tenis. Sangat imut. Namun…",
+      "source": "OEBPS/Text/preface001.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface001-text-07",
+      "kind": "text",
+      "text": "Shizuka Hiratsuka — Guru bahasa Jepang. Guru bimbingan konseling.",
+      "source": "OEBPS/Text/preface001.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface002",
+      "kind": "image",
+      "source": "OEBPS/Text/preface002.xhtml#Art_P3.jpg",
+      "src": "assets/chapters/volume-1/pembuka/preface002.webp",
+      "width": 1800,
+      "height": 1348,
+      "text": "Ilustrasi bentang lembar karangan Hachiman Hikigaya tentang kehidupan SMA."
+    },
+    {
+      "id": "v1-opening-preface002-text-01",
+      "kind": "heading",
+      "text": "Merenungkan kehidupanku di SMA",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v1-opening-preface002-text-02",
+      "kind": "text",
+      "text": "Lembar karangan — Oleh Hachiman Hikigaya, kelas 2-F.",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface002-text-03",
+      "kind": "text",
+      "text": "Masa muda adalah kebohongan. Masa muda adalah kejahatan.",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface002-text-04",
+      "kind": "text",
+      "text": "Orang-orang yang tanpa henti merayakan masa remaja mereka sedang membohongi diri sendiri dan orang-orang di sekitar mereka. Orang-orang ini menafsirkan segala hal di lingkungan mereka sebagai pembenaran atas keyakinan mereka. Bahkan ketika membuat kesalahan yang berakibat fatal, mereka justru melihat kesalahan itu sebagai bukti berharganya pengalaman masa remaja, lalu mengenang semuanya sebagai bagian dari kenangan indah.",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface002-text-05",
+      "kind": "text",
+      "text": "Misalnya, ketika orang-orang seperti ini mengotori tangan dengan tindak kriminal seperti mengutil atau kekerasan berkelompok, mereka menyebutnya sekadar “kenakalan masa muda”. Ketika gagal ujian, mereka berkata bahwa sekolah bukan cuma soal belajar. Mereka akan memelintir akal sehat atau penafsiran wajar atas tindakan mereka atas nama masa muda. Di benak mereka, rahasia, kebohongan, dan bahkan kejahatan serta kegagalan hanyalah bumbu masa muda. Dan lewat kesalahan maupun kegagalan itu, mereka menemukan keunikan diri sendiri. Lalu mereka menyimpulkan bahwa kegagalan-kegagalan itu sepenuhnya bagian dari pengalaman remaja, tetapi kegagalan orang lain hanyalah kekalahan. Kalau kegagalan adalah bukti pengalaman remaja, bukankah orang yang gagal mendapatkan teman justru memiliki pengalaman remaja paling sempurna? Namun, orang-orang ini tidak akan pernah menerima kebenaran itu.",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface002-text-06",
+      "kind": "text",
+      "text": "Pernyataan mereka tidak lebih dari alasan. Prinsip mereka sepenuhnya didasarkan pada kenyamanan diri sendiri. Jadi, prinsip mereka adalah tipu daya. Kebohongan, penipuan, rahasia, dan kecurangan, semuanya perbuatan tercela.",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface002-text-07",
+      "kind": "text",
+      "text": "Orang-orang ini jahat. Dan itu berarti, secara paradoks, orang-orang yang tidak merayakan masa remaja mereka justru benar dan berbudi luhur.",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface002-text-08",
+      "kind": "text",
+      "text": "Kesimpulannya:",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion"
+    },
+    {
+      "id": "v1-opening-preface002-text-09",
+      "kind": "text",
+      "text": "KALIAN KAUM NORMAL, MATI SAJA TERBAKAR.",
+      "source": "OEBPS/Text/preface002.xhtml#text-companion"
+    }
+  ]
+}

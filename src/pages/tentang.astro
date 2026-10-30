@@ -1,7 +1,8 @@
 ---
 import Base from "../layouts/Base.astro";
-import { url, chaptersFor, editorialLabel } from "../lib/catalog";
+import { url, chaptersFor, getSection, editorialLabel } from "../lib/catalog";
 const chapter = chaptersFor("volume-1")[0];
+const opening = getSection("volume-1", "pembuka")!;
 ---
 
 <Base title="Tentang proyek">
@@ -27,6 +28,11 @@ const chapter = chaptersFor("volume-1")[0];
       <strong>{editorialLabel(chapter)}</strong>. Volume lain belum memiliki
       teks terjemahan di website ini. Katalog memakai sampul dari koleksi lokal
       pemilik proyek.
+    </p>
+    <p>
+      Pembuka Volume 1 juga tersedia, meliputi sampul, ilustrasi berwarna,
+      halaman judul, pengenalan tokoh, dan esai pembuka. Statusnya:{" "}
+      <strong>{editorialLabel(opening)}</strong>.
     </p>
     <h2>Proses editorial dan bantuan AI</h2>
     <p>

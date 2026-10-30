@@ -8,6 +8,19 @@ const blocks: Block[] = JSON.parse(
 );
 const chapter = root.dataset.chapter!;
 const volume = root.dataset.volume!;
+const nextSection = root.dataset.nextSection;
+const previousSection = root.dataset.previousSection;
+let enterAtEnd = new URL(location.href).searchParams.get("pos") === "akhir";
+function clearEndRequest() {
+  const target = new URL(location.href);
+  target.searchParams.delete("pos");
+  history.replaceState(
+    history.state,
+    "",
+    target.pathname + target.search + target.hash,
+  );
+  enterAtEnd = false;
+}
 const settings = readSettings();
 type Part = { block: string; start: number; end: number };
 let pages: Part[][] = [],
@@ -19,12 +32,27 @@ const previous = document.querySelector<HTMLButtonElement>("#prev")!,
 const count = document.querySelector("#page-count")!;
 let anchor = { block: blocks[0].id, offset: 0 };
 const saved = readProgress();
+const restored =
+  saved?.volume === volume && saved.chapter === chapter
+    ? saved
+    : history.state?.reader;
 if (
-  saved?.volume === volume &&
-  saved.chapter === chapter &&
-  blocks.some((b) => b.id === saved.block)
+  restored?.volume === volume &&
+  restored.chapter === chapter &&
+  Number.isSafeInteger(restored.offset) &&
+  restored.offset >= 0 &&
+  blocks.some((b) => b.id === restored.block)
 )
-  anchor = { block: saved.block, offset: saved.offset };
+  anchor = { block: restored.block, offset: restored.offset };
+function persistAnchor() {
+  const progress = { version: 2, volume, chapter, ...anchor };
+  write("oregairu.progress", progress);
+  history.replaceState(
+    { ...history.state, reader: progress },
+    "",
+    location.href,
+  );
+}
 function element(part: Part): HTMLElement {
   const b = blocks.find((b) => b.id === part.block)!;
   if (b.kind === "image") {
@@ -43,6 +71,7 @@ function element(part: Part): HTMLElement {
     const caption = document.createElement("figcaption");
     caption.textContent = b.text;
     figure.append(button, caption);
+    figure.dataset.block = b.id;
     return figure;
   }
   const el = document.createElement(
@@ -67,24 +96,20 @@ function element(part: Part): HTMLElement {
     } else node.textContent = segment.text;
     el.append(node);
   }
+  el.dataset.block = b.id;
   return el;
 }
 function remember() {
   if (!pages[current]?.length) return;
   const first = pages[current][0];
   anchor = { block: first.block, offset: first.start };
-  write("oregairu.progress", {
-    version: 2,
-    volume,
-    chapter,
-    ...anchor,
-  });
+  persistAnchor();
 }
 function render(save = true) {
   page.replaceChildren(...pages[current].map(element));
   count.textContent = `${current + 1} / ${pages.length}`;
-  previous.disabled = current === 0;
-  next.disabled = current === pages.length - 1;
+  previous.disabled = current === 0 && !previousSection;
+  next.disabled = current === pages.length - 1 && !nextSection;
   document.querySelector<HTMLElement>("#next-chapter")!.hidden =
     current !== pages.length - 1;
   page.classList.remove("turning");
@@ -103,6 +128,13 @@ function fallback() {
   previous.disabled = true;
   next.disabled = true;
   busy = false;
+  if (enterAtEnd) {
+    const last = blocks[blocks.length - 1];
+    anchor = { block: last.id, offset: last.text.length - 1 };
+    persistAnchor();
+    clearEndRequest();
+    page.lastElementChild?.scrollIntoView({ block: "end" });
+  }
 }
 async function paginate() {
   const token = ++generation;
@@ -198,14 +230,15 @@ async function paginate() {
         ),
       ),
     );
-    render(false);
-    anchor = target;
-    write("oregairu.progress", {
-      version: 2,
-      volume,
-      chapter,
-      ...anchor,
-    });
+    if (enterAtEnd) {
+      current = pages.length - 1;
+      clearEndRequest();
+      render();
+    } else {
+      render(false);
+      anchor = target;
+      persistAnchor();
+    }
     busy = false;
   } catch {
     if (token === generation) fallback();
@@ -257,6 +290,9 @@ void paginate();
 new ResizeObserver(schedule).observe(page);
 document.fonts.addEventListener("loadingdone", schedule);
 window.visualViewport?.addEventListener("resize", schedule);
+window.addEventListener("pageshow", (event) => {
+  if (event.persisted && pages.length && !busy) persistAnchor();
+});
 function turn(delta: number) {
   if (
     busy ||
@@ -265,6 +301,16 @@ function turn(delta: number) {
     window.getSelection()?.toString()
   )
     return;
+  if (delta > 0 && current === pages.length - 1 && nextSection) {
+    remember();
+    location.assign(nextSection);
+    return;
+  }
+  if (delta < 0 && current === 0 && previousSection) {
+    remember();
+    location.assign(previousSection);
+    return;
+  }
   const dest = Math.min(pages.length - 1, Math.max(0, current + delta));
   if (dest !== current) {
     current = dest;

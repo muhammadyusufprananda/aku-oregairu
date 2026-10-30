@@ -3,8 +3,9 @@ import type { Block } from "../lib/catalog";
 import { segmentsFor } from "../lib/prose";
 interface Props {
   block: Block;
+  eager?: boolean;
 }
-const { block } = Astro.props;
+const { block, eager = false } = Astro.props;
 const Tag =
   block.kind === "heading" ? (block.headingLevel === 2 ? "h2" : "h1") : "p";
 ---
@@ -17,7 +18,7 @@ const Tag =
         alt={block.text}
         width={block.width}
         height={block.height}
-        loading="lazy"
+        loading={eager ? "eager" : "lazy"}
         decoding="async"
       />
     </button>

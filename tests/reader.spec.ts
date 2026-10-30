@@ -48,7 +48,11 @@ for (const width of [320, 360, 390, 430, 768, 1280])
         })
         .first(),
     ).toBeVisible();
-    await page.locator("#start-reading").click();
+    await expect(page.locator("#start-reading")).toHaveAttribute(
+      "href",
+      /baca\/volume-1\/pembuka\//,
+    );
+    await page.locator('.chapter-list a[href$="/bab-1/"]').click();
     await ready(page);
     await expect(page).toHaveURL(/baca\/volume-1\/bab-1\//);
     await expect(page.locator(".reader-editorial")).toHaveText(
@@ -156,22 +160,18 @@ test("illustrations, spread viewer, zoom, focus, tap and swipe", async ({
   await ready(page);
   await page.locator("#page").click({ position: { x: 300, y: 150 } });
   await expect(page.locator("#page-count")).toHaveText(/^2 \/ /);
-  await page
-    .locator("#page")
-    .dispatchEvent("pointerdown", {
-      pointerId: 1,
-      isPrimary: true,
-      clientX: 300,
-      clientY: 200,
-    });
-  await page
-    .locator("#page")
-    .dispatchEvent("pointerup", {
-      pointerId: 1,
-      isPrimary: true,
-      clientX: 100,
-      clientY: 205,
-    });
+  await page.locator("#page").dispatchEvent("pointerdown", {
+    pointerId: 1,
+    isPrimary: true,
+    clientX: 300,
+    clientY: 200,
+  });
+  await page.locator("#page").dispatchEvent("pointerup", {
+    pointerId: 1,
+    isPrimary: true,
+    clientX: 100,
+    clientY: 205,
+  });
   await expect(page.locator("#page-count")).toHaveText(/^3 \/ /);
   for (let i = 0; i < 200 && !(await page.locator("#page img").count()); i++)
     await page.locator("#next").click();
@@ -401,6 +401,193 @@ for (const route of [
     await page.getByRole("link", { name: "Buka Volume 1 →" }).click();
     await expect(page.locator("#start-reading")).toHaveAttribute(
       "href",
-      /baca\/volume-1\/bab-1/,
+      /baca\/volume-1\/pembuka/,
     );
   });
+
+const opening = "baca/volume-1/pembuka/";
+for (const width of [320, 360, 390, 430, 768, 1280])
+  test(`complete opening in source order at ${width}px`, async ({ page }) => {
+    await page.setViewportSize({ width, height: 800 });
+    await page.goto("volume/volume-1/");
+    await page.locator("#start-reading").click();
+    await expect(page).toHaveURL(/pembuka\//);
+    await ready(page);
+    await expect(page.locator("#page img")).toHaveAttribute(
+      "src",
+      /pembuka\/cover.webp/,
+    );
+    await expect(page.locator(".reader-top")).toContainText("Pembuka Volume 1");
+    await expect(page.locator(".reader-top")).not.toContainText("Bab 0");
+    const blocks = await page
+      .locator("#chapter-data")
+      .evaluate((el) => JSON.parse(el.textContent!));
+    let text = "";
+    const images: string[] = [];
+    const total = Number(
+      (await page.locator("#page-count").innerText()).split("/")[1],
+    );
+    for (let i = 0; i < total; i++) {
+      expect(
+        await page
+          .locator("#page")
+          .evaluate((el) => el.scrollHeight <= el.clientHeight + 2),
+      ).toBeTruthy();
+      text += await page
+        .locator("#page")
+        .evaluate((el) =>
+          [...el.querySelectorAll("h1,h2,p")]
+            .map((e) => e.textContent)
+            .join(""),
+        );
+      if (await page.locator("#page img").count()) {
+        const img = page.locator("#page img");
+        await img.evaluate((el: HTMLImageElement) => el.decode());
+        expect(await img.evaluate((el) => getComputedStyle(el).objectFit)).toBe(
+          "contain",
+        );
+        images.push((await img.getAttribute("src"))!.split("/").pop()!);
+      }
+      if (i < total - 1) await page.locator("#next").click();
+    }
+    expect(images).toEqual([
+      "cover.webp",
+      "insert002.webp",
+      "insert001.webp",
+      "insert003.webp",
+      "insert005.webp",
+      "titlepage.webp",
+      "preface001.webp",
+      "preface002.webp",
+    ]);
+    expect(text).toBe(
+      blocks
+        .filter((b: any) => b.kind !== "image")
+        .map((b: any) => b.text)
+        .join(""),
+    );
+    await expect(page.locator("#next-chapter")).toHaveText("Lanjut ke Bab 1 →");
+    await page.locator("#next").click();
+    await expect(page).toHaveURL(/bab-1\//);
+    await ready(page);
+  });
+
+test("section boundary arrows, keyboard, browser history and last-page refresh", async ({
+  page,
+}) => {
+  await page.goto(opening + "?pos=akhir");
+  await expect(page.locator("#next-chapter")).toBeVisible();
+  await expect(page).toHaveURL(/pembuka\/$/);
+  const end = await page.locator("#page-count").innerText();
+  expect(end.split("/").map((n) => Number(n.trim()))[0]).toBe(
+    Number(end.split("/")[1]),
+  );
+  await page.reload();
+  await expect(page.locator("#page-count")).toHaveText(end);
+  await page.locator("#next").click();
+  await expect(page).toHaveURL(/bab-1\//);
+  await ready(page);
+  await page.locator("#prev").click();
+  await expect(page).toHaveURL(/pembuka\/$/);
+  await expect(page.locator("#page-count")).toHaveText(end);
+  await page.keyboard.press("ArrowRight");
+  await expect(page).toHaveURL(/bab-1\//);
+  await ready(page);
+  await page.goBack();
+  await expect(page).toHaveURL(/pembuka\/$/);
+  await expect(page.locator("#page-count")).toHaveText(end);
+  await page.goForward();
+  await expect(page).toHaveURL(/bab-1\//);
+  await expect(page.locator("#page-count")).toHaveText(/^1 \/ /);
+  await page.keyboard.press("ArrowLeft");
+  await expect(page).toHaveURL(/pembuka\/$/);
+  await expect(page.locator("#page-count")).toHaveText(end);
+});
+
+test("opening progress resumes and existing chapter progress remains valid", async ({
+  page,
+}) => {
+  await page.goto(opening);
+  await ready(page);
+  await page.locator("#next").click();
+  const before = await stored(page);
+  expect(before.chapter).toBe("pembuka");
+  await page.goto("");
+  await expect(page.locator("#resume")).toContainText("Pembuka Volume 1");
+  await page.locator("#resume").click();
+  expect(await stored(page)).toEqual(before);
+  await page.evaluate(() =>
+    localStorage.setItem(
+      "oregairu.progress",
+      JSON.stringify({
+        version: 2,
+        volume: "volume-1",
+        chapter: "bab-1",
+        block: "v1-b1-chapter001_d-p061",
+        offset: 0,
+      }),
+    ),
+  );
+  await page.goto("volume/volume-1/");
+  await expect(page.locator("#start-reading")).toHaveText(
+    "Lanjutkan Membaca →",
+  );
+  await expect(page.locator("#start-reading")).toHaveAttribute("href", /bab-1/);
+  await page.locator("#start-reading").click();
+  await expect(page.locator("#page")).toContainText("Tenang, Yukinoshita");
+});
+
+test("opening cover controls still toggle; TOC lists only available sections", async ({
+  page,
+}) => {
+  await page.goto(opening);
+  await ready(page);
+  await page.locator("#page").click({ position: { x: 300, y: 100 } });
+  await expect(page.locator("#viewer")).toBeVisible();
+  await page.locator("#zoom-in").click();
+  await expect(page.locator("#zoom-reset")).toHaveText("150%");
+  await page.keyboard.press("Escape");
+  await expect(page.locator("#page [data-image]")).toBeFocused();
+  await page.locator("#next").click();
+  await page.locator("#next").click();
+  await expect(page.locator("#page img")).toHaveCount(0);
+  await page.locator("#page").click({
+    position: {
+      x: Math.floor((await page.locator("#page").boundingBox())!.width / 2),
+      y: 30,
+    },
+  });
+  await expect(page.locator(".reader-top")).toBeHidden();
+  await page.locator("#page").click({
+    position: {
+      x: Math.floor((await page.locator("#page").boundingBox())!.width / 2),
+      y: 30,
+    },
+  });
+  await expect(page.locator(".reader-top")).toBeVisible();
+  await page.getByRole("button", { name: "Daftar bab", exact: true }).click();
+  await expect(page.locator("#toc a")).toHaveCount(2);
+  await expect(page.locator("#toc a").first()).toHaveAttribute(
+    "href",
+    /pembuka/,
+  );
+  await expect(page.locator("#toc a").last()).toHaveAttribute("href", /bab-1/);
+});
+
+test("opening is readable without JavaScript and links to chapter one", async ({
+  browser,
+}) => {
+  const context = await browser.newContext({ javaScriptEnabled: false });
+  const page = await context.newPage();
+  await page.goto("http://localhost:4321/aku-oregairu/" + opening);
+  await expect(page.locator("#page img")).toHaveCount(8);
+  await expect(page.locator(".reader-section-links")).toBeVisible();
+  await expect(page.locator("#page")).toContainText(
+    "Masa muda adalah kebohongan",
+  );
+  await page
+    .getByRole("link", { name: "Lanjut ke Bab 1 →", exact: true })
+    .click();
+  await expect(page.locator("#page h1")).toContainText("Bagaimanapun");
+  await context.close();
+});

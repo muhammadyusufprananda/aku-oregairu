@@ -1,10 +1,22 @@
 [
   {
+    "id": "volume-1-pembuka",
+    "volume": "volume-1",
+    "slug": "pembuka",
+    "kind": "frontmatter",
+    "order": 0,
+    "number": null,
+    "title": "Pembuka Volume 1",
+    "editorialStatus": "draft"
+  },
+  {
     "id": "volume-1-bab-1",
     "volume": "volume-1",
     "slug": "bab-1",
     "number": 1,
     "title": "Bagaimanapun, Hachiman Hikigaya memang busuk.",
-    "editorialStatus": "draft"
+    "editorialStatus": "draft",
+    "kind": "chapter",
+    "order": 1
   }
 ]

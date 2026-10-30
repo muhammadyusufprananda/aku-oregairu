@@ -264,3 +264,11 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - Hero credits: Wataru Watari (Penulis), Ponkan8 (Ilustrator).
 - Settings/progress use version 2. Preserve old settings; ignore demo progress. Sans-serif is the default, while serif remains available.
 - PWA/installability/offline caching are explicitly deferred by the owner; do not add them in this change.
+
+## 13. Volume opening reading flow
+
+- Volume 1 opens at `/baca/volume-1/pembuka/` when no valid progress exists. Include the eight illustrated front-matter pages in EPUB spine order, plus translated companion text; administrative pages are summarized as attribution. Do not publish links to unavailable chapters.
+- Metadata represents front matter as `kind: frontmatter`, `number: null`, `order: 0`; numbered chapters use `kind: chapter` and positive numbers. Never label the opening as Bab 0.
+- Previous/next navigation crosses section boundaries. Returning from the first page of Bab 1 opens the final page of Pembuka. Preserve existing version-2 progress for Bab 1; the opening has its own stable section/block IDs.
+- Center tap continues to toggle the existing reader controls, including the header. Do not make the header permanently visible.
+- Review status applies independently to Pembuka and Bab 1. Only mark a section reviewed after the owner confirms review of that section.

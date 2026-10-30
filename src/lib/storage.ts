@@ -1,4 +1,4 @@
-import { getChapter } from "./catalog";
+import { getSection } from "./catalog";
 export type Settings = {
   version: 2;
   theme: "kertas" | "putih" | "gelap";
@@ -64,7 +64,7 @@ export function readProgress(): Progress | null {
   return p.version === 2 &&
     typeof p.volume === "string" &&
     typeof p.chapter === "string" &&
-    getChapter(p.volume, p.chapter) &&
+    getSection(p.volume, p.chapter) &&
     typeof p.block === "string" &&
     p.block.length > 0 &&
     typeof p.offset === "number" &&

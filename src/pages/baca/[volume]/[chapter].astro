@@ -2,23 +2,26 @@
 import Base from "../../../layouts/Base.astro";
 import ReaderBlock from "../../../components/ReaderBlock.astro";
 import {
-  chapters,
-  chaptersFor,
-  chapterUrl,
+  sections,
+  sectionsFor,
+  sectionIdentity,
+  sectionUrl,
   editorialLabel,
   url,
 } from "../../../lib/catalog";
 import { blocksFor } from "../../../lib/content";
 export function getStaticPaths() {
-  return chapters.map((chapter) => ({
+  return sections.map((chapter) => ({
     params: { volume: chapter.volume, chapter: chapter.slug },
     props: { chapter },
   }));
 }
 const { chapter } = Astro.props;
 const blocks = blocksFor(chapter);
-const volumeChapters = chaptersFor(chapter.volume);
-const nextChapter = volumeChapters.find((c) => c.number > chapter.number);
+const volumeChapters = sectionsFor(chapter.volume);
+const sectionIndex = volumeChapters.findIndex((c) => c.id === chapter.id);
+const nextChapter = volumeChapters[sectionIndex + 1];
+const previousChapter = volumeChapters[sectionIndex - 1];
 ---
 
 <Base title={chapter.title} reader>
@@ -41,6 +44,10 @@ const nextChapter = volumeChapters.find((c) => c.number > chapter.number);
     data-chapter={chapter.slug}
     data-font="sans"
     data-theme="putih"
+    data-next-section={nextChapter ? sectionUrl(nextChapter) : undefined}
+    data-previous-section={
+      previousChapter ? `${sectionUrl(previousChapter)}?pos=akhir` : undefined
+    }
   >
     <header class="reader-top">
       <a
@@ -51,9 +58,11 @@ const nextChapter = volumeChapters.find((c) => c.number > chapter.number);
         ←
       </a>
       <span>
-        Volume 01 · Bab {chapter.number}
+        {sectionIdentity(chapter)}
         <br />
-        {chapter.title}
+        {chapter.kind === "frontmatter"
+          ? "Sampul dan halaman pembuka"
+          : chapter.title}
       </span>
       <button
         class="icon-button"
@@ -70,10 +79,29 @@ const nextChapter = volumeChapters.find((c) => c.number > chapter.number);
       {editorialLabel(chapter)}
     </aside>
     <article class="page-area" id="page" aria-label="Halaman bacaan">
-      {blocks.map((block) => (
-        <ReaderBlock block={block} />
+      {blocks.map((block, index) => (
+        <ReaderBlock block={block} eager={index === 0} />
       ))}
     </article>
+    <nav class="reader-section-links" aria-label="Navigasi bagian bacaan">
+      {previousChapter && (
+        <a href={`${sectionUrl(previousChapter)}?pos=akhir`}>
+          ← Kembali ke{" "}
+          {previousChapter.kind === "frontmatter"
+            ? "Pembuka"
+            : `Bab ${previousChapter.number}`}
+        </a>
+      )}
+      {nextChapter && (
+        <a href={sectionUrl(nextChapter)}>
+          Lanjut ke{" "}
+          {nextChapter.kind === "frontmatter"
+            ? "Pembuka"
+            : `Bab ${nextChapter.number}`}{" "}
+          →
+        </a>
+      )}
+    </nav>
     <footer class="reader-bottom">
       <button id="prev" class="icon-button" aria-label="Halaman sebelumnya">
         ←
@@ -83,12 +111,14 @@ const nextChapter = volumeChapters.find((c) => c.number > chapter.number);
           id="next-chapter"
           href={
             nextChapter
-              ? chapterUrl(nextChapter)
+              ? sectionUrl(nextChapter)
               : url(`volume/${chapter.volume}/`)
           }
           hidden
         >
-          {nextChapter ? "Bab berikutnya →" : "Kembali ke daftar bab →"}
+          {nextChapter
+            ? `Lanjut ke ${nextChapter.kind === "frontmatter" ? "Pembuka" : `Bab ${nextChapter.number}`} →`
+            : "Kembali ke daftar bab →"}
         </a>
         <span id="page-count" aria-live="polite">
           Mode baca bergulir
@@ -166,16 +196,19 @@ const nextChapter = volumeChapters.find((c) => c.number > chapter.number);
       </div>
       {volumeChapters.map((c) => (
         <a
-          href={chapterUrl(c)}
+          href={sectionUrl(c)}
           aria-current={c.id === chapter.id ? "page" : undefined}
         >
-          {String(c.number).padStart(2, "0")} · {c.title}
+          {c.kind === "frontmatter"
+            ? "Pembuka"
+            : String(c.number).padStart(2, "0")}{" "}
+          · {c.title}
         </a>
       ))}
     </dialog>
     <dialog id="viewer" class="viewer">
       <div class="dialog-heading">
-        <span>Ilustrasi Volume 01 · Bab {chapter.number}</span>
+        <span>Ilustrasi · {sectionIdentity(chapter)}</span>
         <button data-close class="icon-button" aria-label="Tutup ilustrasi">
           ×
         </button>

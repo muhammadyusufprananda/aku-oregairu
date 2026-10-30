@@ -1,0 +1,135 @@
+{
+  "sourceEpub": "My Youth Romantic Comedy Is Wrong, As I Expected v01 [Yen Press] [LuCaZ].epub",
+  "files": [
+    {
+      "source": "OEBPS/Text/cover.xhtml",
+      "fileHash": "6bfec9e7eb71153f0312139c6ec53b6b2104fb21bf69c216080a2dd959394693",
+      "images": [
+        {
+          "id": "v1-opening-cover",
+          "kind": "image",
+          "source": "OEBPS/Text/cover.xhtml#9781975359805.jpg",
+          "src": "assets/chapters/volume-1/pembuka/cover.webp",
+          "width": 1600,
+          "height": 2400,
+          "sourceHash": "04d10639918e9a989eb18ea3dc1b2404cbd2d24184a5b0c364e8b5d4c5cee438"
+        }
+      ]
+    },
+    {
+      "source": "OEBPS/Text/insert002.xhtml",
+      "fileHash": "3d2f7e59f567656665a07c2edd7302ab936a96b2e4ca3dc800731fa960066fd8",
+      "images": [
+        {
+          "id": "v1-opening-insert002",
+          "kind": "image",
+          "source": "OEBPS/Text/insert002.xhtml#Art_insert002.jpg",
+          "src": "assets/chapters/volume-1/pembuka/insert002.webp",
+          "width": 1196,
+          "height": 1800,
+          "sourceHash": "9ace9f0fb30a83e8052d4ef65a26690bc799cdd5b56a6e387f73e5f806182df7"
+        }
+      ]
+    },
+    {
+      "source": "OEBPS/Text/insert001.xhtml",
+      "fileHash": "cbfaf9b2c7bc93b083243cf4b134c40d8f4d746de8e73c86095142d5b2521e4c",
+      "images": [
+        {
+          "id": "v1-opening-insert001",
+          "kind": "image",
+          "source": "OEBPS/Text/insert001.xhtml#Art_insert001.jpg",
+          "src": "assets/chapters/volume-1/pembuka/insert001.webp",
+          "width": 1205,
+          "height": 1800,
+          "sourceHash": "df68e1afce6600499c18c3805619450e664bb0ba8bf012521436a18ab22e3dd5"
+        }
+      ]
+    },
+    {
+      "source": "OEBPS/Text/insert003.xhtml",
+      "fileHash": "f8f9e99e839054c1731fb0424b922d4c3b1e5e0722285187df48b22a51ba0ac8",
+      "images": [
+        {
+          "id": "v1-opening-insert003",
+          "kind": "image",
+          "source": "OEBPS/Text/insert003.xhtml#Art_insert003.jpg",
+          "src": "assets/chapters/volume-1/pembuka/insert003.webp",
+          "width": 1800,
+          "height": 939,
+          "sourceHash": "97aa57c43d4e6f83b7ed599a88572a53e39b427e9e773259d2fece0b278b0634"
+        }
+      ]
+    },
+    {
+      "source": "OEBPS/Text/insert005.xhtml",
+      "fileHash": "98c9751538e9506bd92da2f55e1eed3c4c5ff628b09defa1ad987af24020349f",
+      "images": [
+        {
+          "id": "v1-opening-insert005",
+          "kind": "image",
+          "source": "OEBPS/Text/insert005.xhtml#Art_insert005.jpg",
+          "src": "assets/chapters/volume-1/pembuka/insert005.webp",
+          "width": 1197,
+          "height": 1800,
+          "sourceHash": "191e9e545e0de693b2b5d280f9214f4997a0e49c818cd04540a1a60d5a951eb4"
+        }
+      ]
+    },
+    {
+      "source": "OEBPS/Text/titlepage.xhtml",
+      "fileHash": "e7c683ab7f095563ed17418a28b03e7f96de86097e06ec03c9528dbb5befce1b",
+      "images": [
+        {
+          "id": "v1-opening-titlepage",
+          "kind": "image",
+          "source": "OEBPS/Text/titlepage.xhtml#Art_tit.jpg",
+          "src": "assets/chapters/volume-1/pembuka/titlepage.webp",
+          "width": 1200,
+          "height": 1800,
+          "sourceHash": "01d3463c6e5e9893197aed82adeeab5a8fdc3527400519900567094df6ac5fe2"
+        }
+      ]
+    },
+    {
+      "source": "OEBPS/Text/copyright.xhtml",
+      "fileHash": "537069ae504f0d29cc7b3a1af8fea0e58bc28a0fa4d75158d0239ceab1ad3cd5",
+      "images": []
+    },
+    {
+      "source": "OEBPS/Text/toc.xhtml",
+      "fileHash": "6f9661b6b4906e245c9ee904a41164906efd7368c0a367b92f95700d8cb98184",
+      "images": []
+    },
+    {
+      "source": "OEBPS/Text/preface001.xhtml",
+      "fileHash": "3c2c2eab260f4f579eebb6dd5ff2946d7d59e8b224d4d4bb4a2e1e207d58c957",
+      "images": [
+        {
+          "id": "v1-opening-preface001",
+          "kind": "image",
+          "source": "OEBPS/Text/preface001.xhtml#Art_P1.jpg",
+          "src": "assets/chapters/volume-1/pembuka/preface001.webp",
+          "width": 1200,
+          "height": 1800,
+          "sourceHash": "11bfc6de48aba948dc39b6bf63e236a0edb680d2730b605a962d58d3d748bc9b"
+        }
+      ]
+    },
+    {
+      "source": "OEBPS/Text/preface002.xhtml",
+      "fileHash": "85cd3d735b1e2f7a7ffe41eb4620079e53a8c5ca48112efdf5f1ef19a6e2ecde",
+      "images": [
+        {
+          "id": "v1-opening-preface002",
+          "kind": "image",
+          "source": "OEBPS/Text/preface002.xhtml#Art_P3.jpg",
+          "src": "assets/chapters/volume-1/pembuka/preface002.webp",
+          "width": 1800,
+          "height": 1348,
+          "sourceHash": "8855efe151615dc5aba4597eb9528f7af3ffa2f7d35a9d1cd0aceefc42ead39f"
+        }
+      ]
+    }
+  ]
+}

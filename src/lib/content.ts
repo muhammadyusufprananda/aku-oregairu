@@ -1,10 +1,15 @@
 import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 import content from "../content/chapters/volume-1-bab-1.json";
+import opening from "../content/chapters/volume-1-pembuka.json";
+import openingProvenance from "../../docs/editorial/volume-1-pembuka-sources.json";
 import provenance from "../../docs/editorial/volume-1-bab-1-sources.json";
-import { chapters, url, type Block, type Chapter } from "./catalog";
-const data: Record<string, unknown> = { "volume-1-bab-1": content };
-export function blocksFor(chapter: Chapter): Block[] {
+import { sections, url, type Block, type ReadingSection } from "./catalog";
+const data: Record<string, unknown> = {
+  "volume-1-bab-1": content,
+  "volume-1-pembuka": opening,
+};
+export function blocksFor(chapter: ReadingSection): Block[] {
   const record = data[chapter.id] as { blocks?: Block[] } | undefined;
   if (!record?.blocks?.length)
     throw Error(`Isi bab tidak tersedia: ${chapter.id}`);
@@ -51,11 +56,24 @@ export function blocksFor(chapter: Chapter): Block[] {
     if (JSON.stringify(actual) !== JSON.stringify(expected))
       throw Error("Pemetaan sumber Bab 1 belum lengkap atau urutannya berubah");
   }
-  if (record.blocks[0].text !== chapter.title)
+  if (chapter.kind === "frontmatter") {
+    const expected = openingProvenance.files.flatMap((f) =>
+      f.images.map((i) => i.id),
+    );
+    const actual = record.blocks
+      .filter((b) => b.kind === "image")
+      .map((b) => b.id);
+    if (
+      JSON.stringify(actual) !== JSON.stringify(expected) ||
+      record.blocks[0].id !== "v1-opening-cover"
+    )
+      throw Error("Urutan ilustrasi pembuka berbeda dari spine sumber");
+  }
+  if (chapter.kind === "chapter" && record.blocks[0].text !== chapter.title)
     throw Error("Judul isi bab dan metadata berbeda");
   return record.blocks.map((b) => ({
     ...b,
     ...(b.src ? { src: url(b.src) } : {}),
   }));
 }
-for (const chapter of chapters) blocksFor(chapter);
+for (const chapter of sections) blocksFor(chapter);

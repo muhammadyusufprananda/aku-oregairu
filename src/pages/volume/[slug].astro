@@ -3,8 +3,8 @@ import Base from "../../layouts/Base.astro";
 import VolumeCover from "../../components/VolumeCover.astro";
 import {
   volumes,
-  chaptersFor,
-  chapterUrl,
+  sectionsFor,
+  sectionUrl,
   editorialLabel,
   url,
 } from "../../lib/catalog";
@@ -15,7 +15,7 @@ export function getStaticPaths() {
   }));
 }
 const { volume } = Astro.props;
-const chapters = chaptersFor(volume.slug);
+const chapters = sectionsFor(volume.slug);
 ---
 
 <Base title={`Volume ${volume.number}`}>
@@ -30,7 +30,7 @@ const chapters = chaptersFor(volume.slug);
         <h1>Volume {volume.number}</h1>
         <p class="description">
           {chapters.length
-            ? "Bab 1 tersedia dalam bahasa Indonesia, diterjemahkan dari edisi berbahasa Inggris. Baca label editorial sebelum mulai."
+            ? "Mulai dari sampul dan halaman pembuka, lalu lanjutkan ke Bab 1. Terjemahan disusun dari edisi Inggris; perhatikan status editorial setiap bagian."
             : "Teks terjemahan belum tersedia untuk volume ini."}
         </p>
         {chapters.length > 0 && (
@@ -38,7 +38,7 @@ const chapters = chaptersFor(volume.slug);
             class="primary"
             id="start-reading"
             data-volume={volume.slug}
-            href={chapterUrl(chapters[0])}
+            href={sectionUrl(chapters[0])}
           >
             Mulai Membaca →
           </a>
@@ -51,8 +51,12 @@ const chapters = chaptersFor(volume.slug);
         <ol class="chapter-list">
           {chapters.map((c) => (
             <li>
-              <a href={chapterUrl(c)}>
-                <small>{String(c.number).padStart(2, "0")}</small>
+              <a href={sectionUrl(c)}>
+                <small>
+                  {c.kind === "frontmatter"
+                    ? "Awal"
+                    : String(c.number).padStart(2, "0")}
+                </small>
                 <span>
                   {c.title}
                   <small class="chapter-status">{editorialLabel(c)}</small>
@@ -63,10 +67,9 @@ const chapters = chaptersFor(volume.slug);
           ))}
         </ol>
         <p class="notice">
-          {editorialLabel(chapters[0])}.{" "}
-          {chapters[0].editorialStatus === "draft"
-            ? "Terjemahan ini memerlukan peninjauan manusia untuk ketepatan makna, istilah, dan gaya bahasa."
-            : "Peninjauan manusia telah dikonfirmasi oleh pemilik proyek."}
+          Setiap bagian memiliki status editorial sendiri. Label “Draf”
+          menandakan terjemahan berbantuan AI yang belum ditinjau manusia untuk
+          ketepatan makna, istilah, dan gaya bahasa.
         </p>
       </section>
     ) : (
@@ -76,12 +79,12 @@ const chapters = chaptersFor(volume.slug);
 </Base>
 <script>
   import { readProgress } from "../../lib/storage";
-  import { getChapter, chapterUrl } from "../../lib/catalog";
+  import { getSection, sectionUrl } from "../../lib/catalog";
   const p = readProgress(),
     a = document.querySelector<HTMLAnchorElement>("#start-reading");
-  const c = p ? getChapter(p.volume, p.chapter) : undefined;
+  const c = p ? getSection(p.volume, p.chapter) : undefined;
   if (c && a && c.volume === a.dataset.volume) {
-    a.href = chapterUrl(c);
+    a.href = sectionUrl(c);
     a.textContent = "Lanjutkan Membaca →";
   }
 </script>

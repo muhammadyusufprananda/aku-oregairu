@@ -707,3 +707,114 @@ test("whole volume detail lists eight chapters and separately named back matter"
   await expect(page.locator("#toc a")).toHaveCount(11);
   await expect(page.locator("#toc")).not.toContainText("null");
 });
+
+const volumeTwoSections = [
+  ["pembuka", "Prolog", 7],
+  ["prolog", "Bab 1", 4],
+  ["bab-1", null, 3],
+] as const;
+for (const width of [320, 360, 390, 430, 768, 1280])
+  for (const [slug, next, expectedImages] of volumeTwoSections)
+    test(`Volume 2 ${slug} complete at ${width}px`, async ({ page }) => {
+      await page.setViewportSize({ width, height: 844 });
+      await page.goto(`baca/volume-2/${slug}/`);
+      await ready(page);
+      await expect(page.locator(".reader-top")).not.toContainText("Bab 0");
+      const blocks = await page
+        .locator("#chapter-data")
+        .evaluate((el) => JSON.parse(el.textContent!));
+      const total = Number(
+        (await page.locator("#page-count").innerText()).split("/")[1],
+      );
+      let text = "",
+        emphasis = "";
+      const images: string[] = [];
+      for (let i = 0; i < total; i++) {
+        expect(
+          await page
+            .locator("#page")
+            .evaluate((el) => el.scrollHeight <= el.clientHeight + 2),
+        ).toBeTruthy();
+        text += await page
+          .locator("#page")
+          .evaluate((el) =>
+            [...el.querySelectorAll("h1,h2,p")]
+              .map((e) => e.textContent)
+              .join(""),
+          );
+        emphasis += await page
+          .locator("#page")
+          .evaluate((el) =>
+            [...el.querySelectorAll("em")].map((e) => e.textContent).join(""),
+          );
+        for (const img of await page.locator("#page img").all()) {
+          await img.evaluate((el: HTMLImageElement) => el.decode());
+          expect(
+            await img.evaluate((el) => getComputedStyle(el).objectFit),
+          ).toBe("contain");
+          images.push((await img.getAttribute("src"))!);
+        }
+        if (i < total - 1) await page.locator("#next").click();
+      }
+      expect(text).toBe(
+        blocks
+          .filter((b: any) => b.kind !== "image")
+          .map((b: any) => b.text)
+          .join(""),
+      );
+      expect(emphasis).toBe(
+        blocks
+          .flatMap((b: any) =>
+            (b.emphasis || [])
+              .filter((m: any) => ["em", "strong-em"].includes(m.style))
+              .map((m: any) => b.text.slice(m.start, m.end)),
+          )
+          .join(""),
+      );
+      expect(images).toEqual(
+        blocks.filter((b: any) => b.kind === "image").map((b: any) => b.src),
+      );
+      expect(images.length).toBe(expectedImages);
+      await expect(page.locator("#next-chapter")).toHaveText(
+        next ? `Lanjut ke ${next} →` : "Kembali ke daftar bab →",
+      );
+      if (next) {
+        await page.locator("#next").click();
+        await ready(page);
+        await page.locator("#prev").click();
+        await expect(page).toHaveURL(new RegExp(`volume-2/${slug}/$`));
+        await expect(page.locator("#page-count")).toHaveText(
+          `${total} / ${total}`,
+        );
+      } else await expect(page.locator("#next")).toBeDisabled();
+    });
+
+test("Volume 2 catalog, available TOC and resume stay distinct from Volume 1", async ({
+  page,
+}) => {
+  await page.goto("");
+  await expect(page.locator(".volume-card").nth(1)).toContainText(
+    "Bab 1 tersedia · Draf",
+  );
+  await page.locator(".volume-card").nth(1).locator("a").click();
+  await expect(page.locator(".chapter-list a")).toHaveCount(3);
+  await expect(page.locator(".chapter-list")).not.toContainText("Bab 0");
+  await expect(page.locator("#start-reading")).toHaveAttribute(
+    "href",
+    /volume-2\/pembuka\//,
+  );
+  await page.locator('.chapter-list a[href$="/bab-1/"]').click();
+  await ready(page);
+  await page.locator("#next").click();
+  const before = await stored(page);
+  expect(before.volume).toBe("volume-2");
+  await page.goto("");
+  await expect(page.locator("#resume")).toContainText("Volume 02 · Bab 1");
+  await page.locator("#resume").click();
+  await expect(page.locator("#page-count")).toHaveText(/^2 \/ /);
+  expect(await stored(page)).toEqual(before);
+  await page.getByRole("button", { name: "Daftar bab", exact: true }).click();
+  await expect(page.locator("#toc a")).toHaveCount(3);
+  await expect(page.locator("#toc")).toContainText("Prolog");
+  await expect(page.locator('#toc a[href*="/bab-2/"]')).toHaveCount(0);
+});

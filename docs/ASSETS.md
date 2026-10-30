@@ -12,3 +12,5 @@ Berkas EPUB, ekstraksi prosa Inggris, dan gambar referensi antarmuka tidak masuk
 
 - Kelanjutan Volume 1 dipasang atas permintaan pemilik untuk menyelesaikan volume. `assets/chapters/volume-1/bab-{2..8}/` dan `catatan-penerjemah/` berisi 23 ilustrasi tambahan dari EPUB yang sama, dalam urutan spine. Pemetaan: `editorial/volume-1-remaining-sources.json`. Tujuh profil/angket bergambar diberi teks terjemahan pendamping. Tidak ada gambar yang diunduh dari situs pihak ketiga.
 - Metode draf mesin Google Translate dan penyuntingan awal AI dijelaskan terbuka di halaman Tentang serta panduan editorial. Kata penutup dan catatan penerjemah edisi Inggris bukan tulisan editorial asli proyek.
+
+- Volume 2 dimulai atas permintaan pemilik. `assets/chapters/volume-2/{pembuka,prolog,bab-1}/` memuat 14 gambar dari EPUB lokal, dalam urutan spine, dengan teks pendamping Indonesia pada halaman yang memuat dialog/profil/formulir. Pemetaan: `editorial/volume-2-sources.json`. Sumber tetap Wataru Watari/Ponkan8 dan edisi Inggris terjemahan Jennifer Ward.

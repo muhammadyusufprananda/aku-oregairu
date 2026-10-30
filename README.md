@@ -23,9 +23,11 @@ Volume 1 tersedia dari Pembuka sampai Bab 8, Kata Penutup, dan Catatan Penerjema
 
 Build memeriksa referensi volume, status, isi bab, rentang penekanan, urutan dan kelengkapan pemetaan sumber, serta aset. Pertahankan ID blok ketika memperbaiki terjemahan agar progres tetap bermakna. Pemeriksaan teknis tidak menggantikan peninjauan manusia. Bahasa Inggris sumber dan EPUB tidak ditambahkan sebagai prosa/file publik; `raw/` diabaikan Git.
 
+Volume 2 mulai tersedia: Pembuka, Prolog, dan Bab 1, sebagai draf terjemahan AI langsung dari edisi Inggris. Bab 2–5 dan bagian penutup belum tersedia; lihat [catatan editorial Volume 2](docs/editorial/volume-2.md).
+
 ## Reader
 
-Mulai Membaca membuka `/baca/volume-1/pembuka/` dari sampul bila belum ada progres. Pembuka memuat delapan gambar sesuai spine EPUB dan teks pendamping Indonesia. Daftar isi menyediakan Pembuka, delapan bab, dan dua bagian penutup. Navigasi maju/mundur melintasi seluruh bagian sesuai urutan sumber; mundur dari awal bagian membuka halaman terakhir bagian sebelumnya. Header tetap dapat disembunyikan/ditampilkan dengan ketuk tengah.
+Mulai Membaca membuka bagian pertama volume yang dipilih dari sampul bila belum ada progres untuk volume itu. Pembuka memuat delapan gambar sesuai spine EPUB dan teks pendamping Indonesia. Daftar isi menyediakan Pembuka, delapan bab, dan dua bagian penutup. Navigasi maju/mundur melintasi seluruh bagian sesuai urutan sumber; mundur dari awal bagian membuka halaman terakhir bagian sebelumnya. Header tetap dapat disembunyikan/ditampilkan dengan ketuk tengah.
 
 Metadata memakai `kind: frontmatter | chapter | backmatter`, `order`, serta `number: null` untuk Pembuka dan bagian penutup. Progres versi 2 tetap kompatibel; identitas bab lama tidak berubah. Posisi navigasi browser disimpan juga dalam history state. Permintaan lintas bagian `?pos=akhir` berlaku sekali dan dibersihkan dari URL agar refresh berikutnya memulihkan posisi tersimpan.
 
@@ -52,4 +54,4 @@ Workflow `.github/workflows/deploy.yml` memeriksa, menguji, dan membangun `dist/
 
 Lihat [catatan aset](docs/ASSETS.md). Noto Sans, Literata, dan Nunito di-host lokal dengan SIL Open Font License; salinan lisensi ada di `public/assets/`.
 
-Dengan EPUB lokal yang telah diizinkan dan Python + Pillow, `python3 tools/prepare_covers.py` menyiapkan sampul WebP. `python3 tools/prepare_chapter1.py` menyiapkan ilustrasi dan pemetaan Bab 1; `python3 tools/prepare_opening.py` menyiapkan delapan halaman pembuka sesuai spine; `python3 tools/prepare_volume1.py` menyiapkan sumber serta ilustrasi bagian tersisa; teks Inggris sementara hanya berada di `/tmp/`. Build/CI tidak membutuhkan EPUB, Python, atau Pillow.
+Dengan EPUB lokal yang telah diizinkan dan Python + Pillow, `python3 tools/prepare_covers.py` menyiapkan sampul WebP. `python3 tools/prepare_chapter1.py` menyiapkan ilustrasi dan pemetaan Bab 1; `python3 tools/prepare_opening.py` menyiapkan delapan halaman pembuka sesuai spine; `python3 tools/prepare_volume1.py` menyiapkan sumber serta ilustrasi bagian tersisa; `python3 tools/prepare_volume2.py` menyiapkan Pembuka/Prolog/Bab 1 Volume 2; teks Inggris sementara hanya berada di `/tmp/`. Build/CI tidak membutuhkan EPUB, Python, atau Pillow.

@@ -1,0 +1,248 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "AI"
+  },
+  "blocks": [
+    {
+      "id": "v2-pembuka-cover-9781975359812",
+      "kind": "image",
+      "source": "cover.xhtml#9781975359812.jpg",
+      "src": "assets/chapters/volume-2/pembuka/9781975359812.webp",
+      "width": 1600,
+      "height": 2400,
+      "text": "Sampul Volume 2 dengan Yui Yuigahama dan Yukino Yukinoshita."
+    },
+    {
+      "id": "v2-pembuka-insert001-Art_insert001",
+      "kind": "image",
+      "source": "insert001.xhtml#Art_insert001.jpg",
+      "src": "assets/chapters/volume-2/pembuka/Art_insert001.webp",
+      "width": 1192,
+      "height": 1800,
+      "text": "Sampul alternatif Volume 2 dengan Yui dan Yukino."
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002",
+      "kind": "image",
+      "source": "insert002.xhtml#Art_insert002.jpg",
+      "src": "assets/chapters/volume-2/pembuka/Art_insert002.webp",
+      "width": 1186,
+      "height": 1800,
+      "text": "Daftar isi berwarna Volume 2, dengan Saki dan Komachi versi chibi."
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-01",
+      "kind": "heading",
+      "text": "Terjemahan daftar isi dalam ilustrasi",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-02",
+      "kind": "text",
+      "text": "Prolog.",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-03",
+      "kind": "text",
+      "text": "1. Dan begitulah Yui Yuigahama memutuskan untuk belajar.",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-04",
+      "kind": "text",
+      "text": "2. Komachi Hikigaya akan menikahi kakaknya kalau sudah besar.",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-05",
+      "kind": "text",
+      "text": "3. Kehadiran Hayato Hayama selalu bersinar.",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-06",
+      "kind": "text",
+      "text": "4. Saki Kawasaki punya urusan sendiri, jadi dia merajuk.",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-07",
+      "kind": "text",
+      "text": "5. Hachiman Hikigaya kembali menempuh jalan yang dilaluinya.",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-08",
+      "kind": "text",
+      "text": "Catatan penerjemah.",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert002-Art_insert002-text-09",
+      "kind": "text",
+      "text": "Daftar ini mengikuti isi sumber. Bagian yang bisa dibaca tersedia melalui daftar bab website; Bab 2–5 dan bagian penutup belum diterbitkan di sini.",
+      "source": "insert002.xhtml#Art_insert002.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003",
+      "kind": "image",
+      "source": "insert003.xhtml#Art_insert003.jpg",
+      "src": "assets/chapters/volume-2/pembuka/Art_insert003.webp",
+      "width": 1800,
+      "height": 977,
+      "text": "Ilustrasi bentang berwarna delapan tokoh beserta kutipan dialog."
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-01",
+      "kind": "heading",
+      "text": "Terjemahan dialog dalam ilustrasi",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-02",
+      "kind": "text",
+      "text": "Komachi Hikigaya: “Hehe! Aduh, malu-malu sekali! ♪”",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-03",
+      "kind": "text",
+      "text": "Hachiman Hikigaya: “Ugh… diam…”",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-04",
+      "kind": "text",
+      "text": "Yoshiteru Zaimokuza: “Rupanya sudah tiba waktunya melepaskan segel ini…”",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-05",
+      "kind": "text",
+      "text": "Yui Yuigahama: “Tidak pandai belajar juga keunikan!”",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-06",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: “Kamu gagal dalam segala segi kehidupan SMA-mu.”",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-07",
+      "kind": "text",
+      "text": "Shizuka Hiratsuka: “Kamu menyedihkan, dan bukannya membaik malah makin parah.”",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-08",
+      "kind": "text",
+      "text": "Saika Totsuka: “Aku senang sekali! Baru pertama kali kamu memanggil nama depanku.”",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert003-Art_insert003-text-09",
+      "kind": "text",
+      "text": "Saki Kawasaki: “Kamu idiot.”",
+      "source": "insert003.xhtml#Art_insert003.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-insert004-Art_insert004",
+      "kind": "image",
+      "source": "insert004.xhtml#Art_insert004.jpg",
+      "src": "assets/chapters/volume-2/pembuka/Art_insert004.webp",
+      "width": 1190,
+      "height": 1800,
+      "text": "Ilustrasi berwarna Yukino dan Yui mengenakan pakaian pelayan."
+    },
+    {
+      "id": "v2-pembuka-titlepage-Art_tit",
+      "kind": "image",
+      "source": "titlepage.xhtml#Art_tit.jpg",
+      "src": "assets/chapters/volume-2/pembuka/Art_tit.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Halaman judul Volume 2."
+    },
+    {
+      "id": "v2-opening-attribution",
+      "kind": "text",
+      "text": "Volume 2 ditulis Wataru Watari dan diilustrasikan Ponkan8. Sumber Indonesia ini adalah edisi Inggris terjemahan Jennifer Ward, diterbitkan Yen Press/Yen On. Edisi sumber mencantumkan hak cipta karya asli 2011 Wataru Watari dan terjemahan Inggris 2017 Yen Press. Bagian administratif diringkas sebagai atribusi; berkas EPUB tidak dipublikasikan.",
+      "source": "copyright.xhtml#editorial-attribution"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1",
+      "kind": "image",
+      "source": "preface001.xhtml#Art_P1.jpg",
+      "src": "assets/chapters/volume-2/pembuka/Art_P1.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Daftar pengenalan sembilan tokoh dalam Volume 2."
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-01",
+      "kind": "heading",
+      "text": "Terjemahan pengenalan tokoh dalam ilustrasi",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion",
+      "headingLevel": 2
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-02",
+      "kind": "text",
+      "text": "Hachiman Hikigaya — Tokoh utama. Murid kelas dua SMA. Kepribadiannya menyimpang.",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-03",
+      "kind": "text",
+      "text": "Yukino Yukinoshita — Ketua Klub Layanan. Sempurna dan cantik, tetapi kepribadiannya mengecewakan.",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-04",
+      "kind": "text",
+      "text": "Yui Yuigahama — Teman sekelas Hachiman. Cenderung mencemaskan pendapat orang lain.",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-05",
+      "kind": "text",
+      "text": "Yoshiteru Zaimokuza — Otaku. Menganggap Hachiman sebagai sahabatnya.",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-06",
+      "kind": "text",
+      "text": "Saika Totsuka — Anggota klub tenis. Sangat manis, tetapi…",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-07",
+      "kind": "text",
+      "text": "Saki Kawasaki — Teman sekelas Hachiman. Mulai menjadi anak nakal?",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-08",
+      "kind": "text",
+      "text": "Shizuka Hiratsuka — Guru bahasa Jepang. Guru bimbingan dan konseling.",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-09",
+      "kind": "text",
+      "text": "Komachi Hikigaya — Adik perempuan Hachiman. Masih SMP.",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    },
+    {
+      "id": "v2-pembuka-preface001-Art_P1-text-10",
+      "kind": "text",
+      "text": "Taishi Kawasaki — Adik laki-laki Saki Kawasaki. Mengikuti bimbingan belajar yang sama dengan Komachi.",
+      "source": "preface001.xhtml#Art_P1.jpg#text-companion"
+    }
+  ]
+}

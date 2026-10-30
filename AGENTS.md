@@ -280,3 +280,11 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - New sources and 23 illustrations are mapped in `docs/editorial/volume-1-remaining-sources.json`. Seven profile/survey pages have translated companion text. Small inline music symbols remain inline; repeated ornaments have unique IDs.
 - Initial Chapters 2–6 and early Chapter 7 drafts used Google Translate with preliminary AI editing. Late Chapter 7, Chapter 8, back matter, and image companions were AI-translated. This is not a full semantic/literary review; maintain transparent method disclosures and draft labels. No translation service runs in production/CI.
 - Preserve existing Pembuka/Bab 1 anchors and storage schema 2. Do not introduce PWA work, other volumes, or unrelated reader redesign while revising this draft.
+
+## 15. Volume 2 continuation
+
+- Owner requested Volume 2 next. First installment is Pembuka, Prolog, and Chapter 1, all AI-translated drafts from the owner-provided English EPUB. Do not claim Volume 2 is complete; Chapters 2–5 and back matter are not published yet.
+- Prolog is a separate `frontmatter` section with null number/order 1; Pembuka order 0, Chapter 1 order 2. Never display Bab 0. Navigation and progress remain scoped to each volume.
+- `docs/editorial/volume-2-sources.json` validates all source blocks in order. Seven opening images, four prologue images, and three Chapter 1 images are accompanied by translated meaningful text. Inline stars/music remain inline.
+- `tools/prepare_volume2.py` defaults to these three sections. Do not publish unreferenced future-section assets or make links to untranslated chapters.
+- Volume 2 editorial guidance is in `docs/editorial/volume-2.md`. Initial Google/local-machine experiments are not used in its published prose. Preserve the shared reader, white theme, fonts, center-tap controls, and all existing Volume 1 anchors.

@@ -82,16 +82,16 @@ export const sectionsFor = (volume: string) =>
   sections.filter((c) => c.volume === volume).sort((a, b) => a.order - b.order);
 export const chaptersFor = (volume: string) =>
   sectionsFor(volume).filter((c) => c.kind === "chapter");
-export const sectionIdentity = (c: ReadingSection) =>
-  c.kind === "frontmatter"
-    ? `Pembuka Volume ${Number(volumes.find((v) => v.slug === c.volume)!.number)}`
-    : c.kind === "backmatter"
-      ? `Volume ${Number(volumes.find((v) => v.slug === c.volume)!.number)} · ${c.title}`
-      : `Volume ${volumes.find((v) => v.slug === c.volume)!.number} · Bab ${c.number}`;
+export const sectionIdentity = (c: ReadingSection) => {
+  const number = volumes.find((v) => v.slug === c.volume)!.number;
+  if (c.kind === "chapter") return `Volume ${number} · Bab ${c.number}`;
+  if (c.slug === "pembuka") return c.title;
+  return `Volume ${Number(number)} · ${c.title}`;
+};
 export const sectionName = (c: ReadingSection) =>
   c.kind === "chapter"
     ? `Bab ${c.number}`
-    : c.kind === "frontmatter"
+    : c.slug === "pembuka"
       ? "Pembuka"
       : c.title;
 export const sectionUrl = (c: ReadingSection) =>

@@ -58,7 +58,7 @@ import { volumes, url, chaptersFor } from "../lib/catalog";
             <h2>Volume {v.number}</h2>
             <p>
               {chaptersFor(v.slug).length
-                ? `Bab 1–${chaptersFor(v.slug).length} tersedia · ${chaptersFor(v.slug).every((c) => c.editorialStatus === "reviewed") ? "Sudah ditinjau" : "Draf"}`
+                ? `${chaptersFor(v.slug).length === 1 ? "Bab 1" : `Bab 1–${chaptersFor(v.slug).length}`} tersedia · ${chaptersFor(v.slug).every((c) => c.editorialStatus === "reviewed") ? "Sudah ditinjau" : "Draf"}`
                 : "Konten belum tersedia"}
             </p>
           </a>

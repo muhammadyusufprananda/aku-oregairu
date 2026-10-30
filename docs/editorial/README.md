@@ -84,3 +84,7 @@ Google dipakai hanya selama penyiapan draf, bukan saat website dibuka atau diban
 - Bab 8: lima huruf merujuk kata Inggris `youth`, bukan jumlah huruf “masa muda”. Permainan `youth/youse` dipertahankan dalam bentuk Inggris dan perlu dicari padanan editorial.
 - Catatan penerjemah adalah materi edisi Inggris, diberi atribusi terpisah. Sumber menyebut “semifinal” untuk Tangan Tuhan Maradona serta memberi definisi bodhisattva yang perlu verifikasi editorial; draf mengikuti sumber dan belum mengesahkan akurasinya.
 - Ucapan guru dan murid perlu diperiksa ulang menyeluruh agar saya/Ibu tidak tercampur dengan narasi aku; normalisasi istilah otomatis bukan pemeriksaan konteks.
+
+## Volume 2
+
+Kelanjutan diminta pemilik. Pembuka, Prolog, dan Bab 1 tersedia sebagai draf AI. Lihat [pemetaan dan perhatian peninjau Volume 2](volume-2.md). Status masing-masing tetap independen dari Volume 1.

@@ -3,9 +3,10 @@ import { resolve } from "node:path";
 import openingProvenance from "../../docs/editorial/volume-1-pembuka-sources.json";
 import provenance from "../../docs/editorial/volume-1-bab-1-sources.json";
 import remainingProvenance from "../../docs/editorial/volume-1-remaining-sources.json";
+import volume2Provenance from "../../docs/editorial/volume-2-sources.json";
 import { sections, url, type Block, type ReadingSection } from "./catalog";
 const imported = import.meta.glob<{ default: unknown }>(
-  "../content/chapters/volume-1-*.json",
+  "../content/chapters/volume-*-*.json",
   { eager: true },
 );
 const data: Record<string, unknown> = Object.fromEntries(
@@ -79,7 +80,23 @@ export function blocksFor(chapter: ReadingSection): Block[] {
         `Pemetaan sumber belum lengkap atau urutan berubah: ${chapter.id}`,
       );
   }
-  if (chapter.kind === "frontmatter") {
+  if (chapter.volume === "volume-2") {
+    const expected =
+      volume2Provenance.sections[
+        chapter.slug as keyof typeof volume2Provenance.sections
+      ]?.blocks;
+    if (!expected) throw Error(`Pemetaan sumber tidak tersedia: ${chapter.id}`);
+    const ids = new Set(expected.map((b) => b.id));
+    if (
+      JSON.stringify(
+        record.blocks.filter((b) => ids.has(b.id)).map((b) => b.id),
+      ) !== JSON.stringify(expected.map((b) => b.id))
+    )
+      throw Error(
+        `Pemetaan sumber Volume 2 tidak lengkap atau berubah: ${chapter.id}`,
+      );
+  }
+  if (chapter.volume === "volume-1" && chapter.kind === "frontmatter") {
     const expected = openingProvenance.files.flatMap((f) =>
       f.images.map((i) => i.id),
     );

@@ -35,3 +35,12 @@ Pedoman kerja untuk seluruh draf Volume 1. Perubahan istilah perlu diterapkan ko
 - `rally`: reli; `court`: lapangan; `serve`: servis; `backhand`, `slice`, `drop shot`, `deuce`: istilah tenis dipertahankan.
 - Nama produk/minuman dan judul karya pada sumber dipertahankan, bukan diganti menjadi produk Indonesia.
 - Catatan penerjemah di akhir volume berasal dari edisi Inggris. Penjelasan tersebut bukan klaim riset atau catatan asli penerjemah Indonesia.
+
+## Volume 2
+
+- Saki Kawasaki dan Taishi Kawasaki: nama mengikuti sumber; Taishi adalah adik laki-laki Saki. Komachi Hikigaya tetap adik Hachiman.
+- `Workplace Tour Application Form`: Formulir Permohonan Kunjungan Dunia Kerja. `Workplace tour`: kunjungan dunia kerja.
+- `scholarship` / `sukoraashippu`: beasiswa. Bunyi Jepang `sukoraashippu` dan `sukurappu` dipertahankan ketika menjadi bahan permainan kata.
+- `arts/sciences`: jalur humaniora/sains; bukan otomatis nama jurusan resmi sekolah Indonesia.
+- `Pro-D`: hari pengembangan profesi guru, sesuai penjelasan edisi Inggris.
+- Nama jurus S-CRY-ed tetap berbahasa Inggris; bukan judul bab. Referensi `homeroom/home/away`, `gloss`, `check out`, dan sapaan kuno tidak direkayasa sebagai istilah Jepang yang tidak ada pada sumber.

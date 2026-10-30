@@ -108,5 +108,35 @@
     "order": 10,
     "title": "Catatan Penerjemah Edisi Inggris",
     "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-pembuka",
+    "volume": "volume-2",
+    "slug": "pembuka",
+    "number": null,
+    "kind": "frontmatter",
+    "order": 0,
+    "title": "Pembuka Volume 2",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-prolog",
+    "volume": "volume-2",
+    "slug": "prolog",
+    "number": null,
+    "kind": "frontmatter",
+    "order": 1,
+    "title": "Prolog",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-bab-1",
+    "volume": "volume-2",
+    "slug": "bab-1",
+    "number": 1,
+    "kind": "chapter",
+    "order": 2,
+    "title": "Dan begitulah Yui Yuigahama memutuskan untuk belajar.",
+    "editorialStatus": "draft"
   }
 ]

@@ -61,11 +61,13 @@ const previousChapter = volumeChapters[sectionIndex - 1];
       <span>
         {sectionIdentity(chapter)}
         <br />
-        {chapter.kind === "frontmatter"
+        {chapter.slug === "pembuka"
           ? "Sampul dan halaman pembuka"
-          : chapter.kind === "backmatter"
-            ? "Bagian penutup volume"
-            : chapter.title}
+          : chapter.slug === "prolog"
+            ? "Bagian pembuka cerita"
+            : chapter.kind === "backmatter"
+              ? "Bagian penutup volume"
+              : chapter.title}
       </span>
       <button
         class="icon-button"
@@ -196,7 +198,7 @@ const previousChapter = volumeChapters[sectionIndex - 1];
           aria-current={c.id === chapter.id ? "page" : undefined}
         >
           {c.kind === "frontmatter"
-            ? "Pembuka"
+            ? sectionName(c)
             : c.kind === "backmatter"
               ? "Penutup"
               : String(c.number).padStart(2, "0")}{" "}

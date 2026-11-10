@@ -46,6 +46,9 @@ for (const section of sections) {
       const blocks: Block[] = await page
         .locator("#chapter-data")
         .evaluate((el) => JSON.parse(el.textContent!));
+      if (section.volume === "volume-6") {
+        expect(blocks.some(b => /\bBab 0\b/.test(b.text))).toBeFalsy();
+      }
       const total = Number(
         (await page.locator("#page-count").innerText()).split("/")[1],
       );

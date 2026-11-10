@@ -3,7 +3,9 @@
     "sourceLanguage": "en",
     "initialDraft": "Google Translate",
     "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
-    "aiEditedSourceBlocks": [],
+    "aiEditedSourceBlocks": [
+      "v6-catatan-penerjemah-appendix001-5"
+    ],
     "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
   },
   "blocks": [
@@ -126,16 +128,11 @@
       "id": "v6-catatan-penerjemah-appendix001-5",
       "kind": "text",
       "source": "OEBPS/Text/appendix001.xhtml#5",
-      "text": "Bab 0 … Musikal Hina Ebina adalah homoerotik, seperti yang diharapkan.",
+      "text": "Prolog · Musikal Hina Ebina memang homoerotis, seperti dugaanku.",
       "emphasis": [
         {
-          "start": 0,
-          "end": 5,
-          "style": "strong"
-        },
-        {
-          "start": 16,
-          "end": 70,
+          "start": 17,
+          "end": 27,
           "style": "strong"
         }
       ]

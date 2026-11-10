@@ -1,0 +1,12 @@
+---
+import Reader from "../../../../components/Reader.astro";
+import { englishSections } from "../../../../lib/catalog";
+export function getStaticPaths() {
+  return englishSections.map((chapter) => ({
+    params: { volume: chapter.volume, chapter: chapter.slug },
+    props: { chapter },
+  }));
+}
+---
+
+<Reader chapter={Astro.props.chapter} />

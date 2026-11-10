@@ -60,14 +60,14 @@ export function readSettings(): Settings {
   if (s.version === 1) write("oregairu.settings", settings);
   return settings;
 }
-export function readProgress(): Progress | null {
-  const value = read("oregairu.progress");
+export function readProgress(language = "id"): Progress | null {
+  const value = read(language === "en" ? "oregairu.progress.en" : "oregairu.progress");
   if (!value || typeof value !== "object") return null;
   const p = value as Record<string, unknown>;
   return p.version === 2 &&
     typeof p.volume === "string" &&
     typeof p.chapter === "string" &&
-    getSection(p.volume, p.chapter) &&
+    getSection(p.volume, p.chapter, language) &&
     typeof p.block === "string" &&
     p.block.length > 0 &&
     typeof p.offset === "number" &&

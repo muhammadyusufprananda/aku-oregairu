@@ -960,3 +960,8 @@ main.catalog {
 .fallback:has(.reader-section-links) .page-area {
   padding-bottom: 24px;
 }
+
+[hidden] { display: none !important; }
+.language-picker { display: flex; gap: 12px; margin: 24px 0; }
+.language-picker a, .setting .choices a { display: inline-flex; align-items: center; min-height: 44px; padding: 0 16px; border: 1px solid var(--line); border-radius: 8px; }
+.language-picker [aria-current] { font-weight: 700; border-color: currentColor; }

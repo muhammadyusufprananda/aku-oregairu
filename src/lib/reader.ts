@@ -31,7 +31,8 @@ const previous = document.querySelector<HTMLButtonElement>("#prev")!,
   next = document.querySelector<HTMLButtonElement>("#next")!;
 const count = document.querySelector("#page-count")!;
 let anchor = { block: blocks[0].id, offset: 0 };
-const saved = readProgress();
+const language = root.dataset.language || "id";
+const saved = readProgress(language);
 const restored =
   saved?.volume === volume && saved.chapter === chapter
     ? saved
@@ -46,7 +47,7 @@ if (
   anchor = { block: restored.block, offset: restored.offset };
 function persistAnchor() {
   const progress = { version: 2, volume, chapter, ...anchor };
-  write("oregairu.progress", progress);
+  write(language === "en" ? "oregairu.progress.en" : "oregairu.progress", progress);
   history.replaceState(
     { ...history.state, reader: progress },
     "",

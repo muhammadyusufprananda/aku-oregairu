@@ -259,7 +259,7 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 ## 12. Current editorial implementation
 
 - Demo prose and SVGs are retired. Old demo URLs display a short replacement notice linking to Volume 1. Do not restore demonstration content.
-- Volume 1 Bab 1 is translated from the owner-provided English EPUB, not directly from Japanese. Include all chapter001* spine sections before Chapter 2 and the four illustrations in order; do not bundle English prose extraction or EPUB files.
+- Volume 1 Bab 1 is translated from the owner-provided English EPUB, not directly from Japanese. Include all chapter001* spine sections before Chapter 2 and the four illustrations in order; English prose publication was subsequently authorized by the owner; never bundle EPUB files.
 - Store chapter metadata/status in `src/content/chapters/index.json`; available statuses are `draft` and `reviewed`. Content uses stable block IDs and source references. Instructions and glossary live in `docs/editorial/`.
 - Hero credits: Wataru Watari (Penulis), Ponkan8 (Ilustrator).
 - Settings/progress use version 2. Preserve old settings; ignore demo progress. Sans-serif is the default, while serif remains available.
@@ -288,3 +288,11 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - `docs/editorial/volume-2-sources.json` validates all source blocks in order. Seven opening images, four prologue images, and three Chapter 1 images are accompanied by translated meaningful text. Inline stars/music remain inline.
 - `tools/prepare_volume2.py` defaults to these three sections. Do not publish unreferenced future-section assets or make links to untranslated chapters.
 - Volume 2 editorial guidance is in `docs/editorial/volume-2.md`. Initial Google/local-machine experiments are not used in its published prose. Preserve the shared reader, white theme, fonts, center-tap controls, and all existing Volume 1 anchors.
+
+## 16. English reading edition
+
+- Owner authorized adding the complete English editions from all 18 provided EPUBs, with Indonesia / English selection. UI remains Indonesian.
+- English content lives in `src/content/english/`; regenerate with `python tools/prepare_english.py` (requires Pillow). EPUBs remain private in `raw/`.
+- English reader routes use `/baca/en/[volume]/[section]/`; Indonesian routes and anchors remain unchanged. English progress uses `oregairu.progress.en`; Indonesian progress retains its existing key and schema 2.
+- English text is source text, not an AI translation or a human-reviewed Indonesian draft. Preserve source emphasis and spine order.
+- English pages and illustrations cache when opened, rather than downloading all 18 volumes during PWA installation.

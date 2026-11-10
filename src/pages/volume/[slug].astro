@@ -16,6 +16,7 @@ export function getStaticPaths() {
 }
 const { volume } = Astro.props;
 const chapters = sectionsFor(volume.slug);
+const english = sectionsFor(volume.slug, "en");
 ---
 
 <Base title={`Volume ${volume.number}`}>
@@ -45,43 +46,105 @@ const chapters = sectionsFor(volume.slug);
         )}
       </div>
     </section>
-    {chapters.length ? (
-      <section>
-        <h2>Daftar bab</h2>
-        <ol class="chapter-list">
-          {chapters.map((c) => (
-            <li>
-              <a href={sectionUrl(c)}>
-                <small>
-                  {c.kind === "frontmatter"
-                    ? "Awal"
-                    : c.kind === "backmatter"
-                      ? "Akhir"
-                      : String(c.number).padStart(2, "0")}
-                </small>
-                <span>
-                  {c.title}
-                  <small class="chapter-status">{editorialLabel(c)}</small>
-                </span>
-                <span aria-hidden="true">→</span>
-              </a>
-            </li>
-          ))}
-        </ol>
-        <p class="notice">
-          Setiap bagian memiliki status editorial sendiri. Label “Draf”
-          menandakan terjemahan berbantuan AI yang belum ditinjau manusia untuk
-          ketepatan makna, istilah, dan gaya bahasa.
-        </p>
-      </section>
-    ) : (
-      <p class="notice">Konten belum tersedia.</p>
-    )}
+    <nav class="language-picker" aria-label="Bahasa bacaan">
+      <a href="?bahasa=id" data-language-choice="id">
+        Indonesia
+      </a>
+      <a href="?bahasa=en" data-language-choice="en">
+        English
+      </a>
+    </nav>
+    <section data-edition="en" hidden>
+      <h2>Daftar bagian · English</h2>
+      <p class="notice">
+        Teks edisi Inggris dari EPUB sumber. Pilihan bahasa memiliki progres
+        baca terpisah.
+      </p>
+      {english.length > 0 && (
+        <a class="primary" data-english-start href={sectionUrl(english[0])}>
+          Mulai Membaca →
+        </a>
+      )}
+      <ol class="chapter-list">
+        {english.map((c) => (
+          <li>
+            <a href={sectionUrl(c)}>
+              <span>{c.title}</span>
+              <span aria-hidden="true">→</span>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </section>
+    <div data-edition="id">
+      {chapters.length ? (
+        <section>
+          <h2>Daftar bab</h2>
+          <ol class="chapter-list">
+            {chapters.map((c) => (
+              <li>
+                <a href={sectionUrl(c)}>
+                  <small>
+                    {c.kind === "frontmatter"
+                      ? "Awal"
+                      : c.kind === "backmatter"
+                        ? "Akhir"
+                        : String(c.number).padStart(2, "0")}
+                  </small>
+                  <span>
+                    {c.title}
+                    <small class="chapter-status">{editorialLabel(c)}</small>
+                  </span>
+                  <span aria-hidden="true">→</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+          <p class="notice">
+            Setiap bagian memiliki status editorial sendiri. Label “Draf”
+            menandakan terjemahan berbantuan AI yang belum ditinjau manusia
+            untuk ketepatan makna, istilah, dan gaya bahasa.
+          </p>
+        </section>
+      ) : (
+        <p class="notice">Konten belum tersedia.</p>
+      )}
+    </div>
   </main>
 </Base>
 <script>
   import { readProgress } from "../../lib/storage";
   import { getSection, sectionUrl } from "../../lib/catalog";
+  const language =
+    new URL(location.href).searchParams.get("bahasa") === "en" ? "en" : "id";
+  document.querySelectorAll<HTMLElement>("[data-edition]").forEach((el) => {
+    el.hidden = el.dataset.edition !== language;
+  });
+  document
+    .querySelectorAll<HTMLAnchorElement>("[data-language-choice]")
+    .forEach((el) => {
+      if (el.dataset.languageChoice === language)
+        el.setAttribute("aria-current", "true");
+    });
+  if (language === "en") {
+    const intro = document.querySelector<HTMLElement>(".description");
+    if (intro)
+      intro.textContent =
+        "Baca edisi Inggris lengkap sesuai urutan EPUB sumber.";
+    const old = document.querySelector<HTMLElement>("#start-reading");
+    if (old) old.hidden = true;
+    const progress = readProgress("en");
+    const section = progress
+      ? getSection(progress.volume, progress.chapter, "en")
+      : undefined;
+    const link = document.querySelector<HTMLAnchorElement>(
+      "[data-english-start]",
+    );
+    if (link && section && link.href.includes(`/baca/en/${section.volume}/`)) {
+      link.href = sectionUrl(section);
+      link.textContent = "Lanjutkan Membaca →";
+    }
+  }
   const p = readProgress(),
     a = document.querySelector<HTMLAnchorElement>("#start-reading");
   const c = p ? getSection(p.volume, p.chapter) : undefined;

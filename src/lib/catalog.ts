@@ -1,7 +1,10 @@
 import chapterRecords from "../content/chapters/index.json";
+import englishRecords from "../content/english/index.json";
+export const englishSections = englishRecords as ReadingSection[];
 export const url = (path = "") =>
   `${import.meta.env.BASE_URL.replace(/\/$/, "")}/${path.replace(/^\//, "")}`;
 export type ReadingSection = {
+  language?: "id" | "en";
   id: string;
   volume: string;
   slug: string;
@@ -76,10 +79,10 @@ if (
   new Set(sections.map((c) => `${c.volume}/${c.slug}`)).size !== sections.length
 )
   throw Error("ID atau rute bab berulang");
-export const getSection = (volume: string, slug: string) =>
-  sections.find((c) => c.volume === volume && c.slug === slug);
-export const sectionsFor = (volume: string) =>
-  sections.filter((c) => c.volume === volume).sort((a, b) => a.order - b.order);
+export const getSection = (volume: string, slug: string, language = "id") =>
+  (language === "en" ? englishSections : sections).find((c) => c.volume === volume && c.slug === slug);
+export const sectionsFor = (volume: string, language = "id") =>
+  (language === "en" ? englishSections : sections).filter((c) => c.volume === volume).sort((a, b) => a.order - b.order);
 export const chaptersFor = (volume: string) =>
   sectionsFor(volume).filter((c) => c.kind === "chapter");
 export const sectionIdentity = (c: ReadingSection) => {
@@ -95,9 +98,9 @@ export const sectionName = (c: ReadingSection) =>
       ? "Pembuka"
       : c.title;
 export const sectionUrl = (c: ReadingSection) =>
-  url(`baca/${c.volume}/${c.slug}/`);
+  url(`baca/${c.language === "en" ? "en/" : ""}${c.volume}/${c.slug}/`);
 export const editorialLabel = (c: ReadingSection) =>
-  c.editorialStatus === "draft"
+  c.language === "en" ? "Edisi Inggris · teks sumber" : c.editorialStatus === "draft"
     ? "Draf berbantuan AI—belum ditinjau manusia"
     : "Sudah ditinjau";
 

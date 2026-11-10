@@ -25,7 +25,7 @@ async function walk(dir, prefix = '') {
 const files = await walk(root);
 const hash = createHash('sha256').update(base).update(await readFile(new URL(import.meta.url)));
 for (const file of files) hash.update(file).update(await readFile(new URL(file, root)));
-const urls = files.map(file => base + file.replace(/index\.html$/, ''));
+const urls = files.filter(file => !file.startsWith("baca/en/") && !file.startsWith("assets/english/")).map(file => base + file.replace(/index\.html$/, ''));
 const prefix = `aku-oregairu:${base}:`;
 const cache = prefix + hash.digest('hex').slice(0, 16);
 await writeFile(new URL('sw.js', root), `
@@ -65,7 +65,13 @@ self.addEventListener('fetch', event => {
     const key = request.mode === 'navigate' ? url.origin + url.pathname : request;
     const saved = await cache.match(key, { ignoreVary: true });
     if (saved) return saved;
-    try { return await fetch(request); }
+    try {
+      const response = await fetch(request);
+      if (response.ok && (url.pathname.startsWith(BASE + 'baca/en/') || url.pathname.startsWith(BASE + 'assets/english/'))) {
+        await cache.put(key, response.clone());
+      }
+      return response;
+    }
     catch {
       if (request.mode !== 'navigate') return Response.error();
       return new Response('<!doctype html><html lang="id"><meta name="viewport" content="width=device-width"><title>Belum tersedia offline</title><body><h1>Halaman belum tersedia offline</h1><p>Hubungkan perangkat ke internet untuk membuka halaman ini.</p><a href="' + BASE + '">Kembali ke katalog</a></body></html>', {status: 503, headers: {'Content-Type': 'text/html; charset=utf-8'}});

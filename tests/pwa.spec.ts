@@ -33,3 +33,17 @@ test('installs a scoped offline cache and reads chapters after offline reload', 
   await page.goto('belum-ada/');
   await expect(page.locator('h1')).toHaveText('Halaman belum tersedia offline');
 });
+
+test('English sections cache on visit and reload offline', async ({ page, context }) => {
+  await page.goto('');
+  await page.evaluate(async () => {
+    await navigator.serviceWorker.ready;
+    if (!navigator.serviceWorker.controller) await new Promise<void>(resolve => navigator.serviceWorker.addEventListener('controllerchange', () => resolve(), { once: true }));
+  });
+  await page.goto('baca/en/volume-1/bab-1/');
+  await expect(page.locator('#page-count')).toHaveText(/\d+ \/ \d+/);
+  await context.setOffline(true);
+  await page.reload();
+  await expect(page.locator('#reader')).toHaveAttribute('data-language', 'en');
+  await expect(page.locator('#page-count')).toHaveText(/\d+ \/ \d+/);
+});

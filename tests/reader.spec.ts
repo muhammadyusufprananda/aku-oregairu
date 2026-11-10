@@ -61,7 +61,7 @@ for (const width of [320, 360, 390, 430, 768, 1280])
       "href",
       /baca\/volume-1\/pembuka\//,
     );
-    await page.locator('.chapter-list a[href$="/bab-1/"]').click();
+    await page.locator('[data-edition=id] .chapter-list a[href$="/bab-1/"]').click();
     await ready(page);
     await expect(page).toHaveURL(/baca\/volume-1\/bab-1\//);
     await expect(page.locator(".reader-editorial")).toHaveText(
@@ -703,15 +703,15 @@ test("whole volume detail lists eight chapters and separately named back matter"
 }) => {
   await page.setViewportSize({ width: 320, height: 800 });
   await page.goto("volume/volume-1/");
-  await expect(page.locator(".chapter-list a")).toHaveCount(11);
-  await expect(page.locator(".chapter-list")).not.toContainText("null");
-  await expect(page.locator(".chapter-list")).not.toContainText("Bab 9");
+  await expect(page.locator("[data-edition=id] .chapter-list a")).toHaveCount(11);
+  await expect(page.locator("[data-edition=id] .chapter-list")).not.toContainText("null");
+  await expect(page.locator("[data-edition=id] .chapter-list")).not.toContainText("Bab 9");
   expect(
     await page.evaluate(
       () => document.documentElement.scrollWidth <= innerWidth,
     ),
   ).toBeTruthy();
-  await page.locator('.chapter-list a[href$="/catatan-penerjemah/"]').click();
+  await page.locator('[data-edition=id] .chapter-list a[href$="/catatan-penerjemah/"]').click();
   await ready(page);
   await expect(page.locator(".reader-top")).toContainText(
     "Catatan Penerjemah Edisi Inggris",
@@ -810,13 +810,13 @@ test("Volume 2 catalog, available TOC and resume stay distinct from Volume 1", a
     "Bab 1 tersedia · Draf",
   );
   await page.locator(".volume-card").nth(1).locator("a").click();
-  await expect(page.locator(".chapter-list a")).toHaveCount(3);
-  await expect(page.locator(".chapter-list")).not.toContainText("Bab 0");
+  await expect(page.locator("[data-edition=id] .chapter-list a")).toHaveCount(3);
+  await expect(page.locator("[data-edition=id] .chapter-list")).not.toContainText("Bab 0");
   await expect(page.locator("#start-reading")).toHaveAttribute(
     "href",
     /volume-2\/pembuka\//,
   );
-  await page.locator('.chapter-list a[href$="/bab-1/"]').click();
+  await page.locator('[data-edition=id] .chapter-list a[href$="/bab-1/"]').click();
   await ready(page);
   await page.locator("#next").click();
   const before = await stored(page);

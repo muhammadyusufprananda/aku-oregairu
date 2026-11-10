@@ -87,4 +87,4 @@ Google dipakai hanya selama penyiapan draf, bukan saat website dibuka atau diban
 
 ## Volume 2
 
-Kelanjutan diminta pemilik. Pembuka, Prolog, dan Bab 1 tersedia sebagai draf AI. Lihat [pemetaan dan perhatian peninjau Volume 2](volume-2.md). Status masing-masing tetap independen dari Volume 1.
+Kelanjutan diminta pemilik. Pembuka, Prolog, Bab 1–5, Kata Penutup, dan Catatan Penerjemah Edisi Inggris tersedia sebagai draf lengkap. Metode AI/mesin dan batas penyuntingan dijelaskan dalam panduan Volume 2. Lihat [pemetaan dan perhatian peninjau Volume 2](volume-2.md). Status masing-masing tetap independen dari Volume 1.

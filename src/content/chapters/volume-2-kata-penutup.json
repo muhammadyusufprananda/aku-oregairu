@@ -1,0 +1,184 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "AI",
+    "editing": "AI translation",
+    "aiEditedSourceBlocks": [
+      "v2-kata-penutup-afterword-h1",
+      "v2-kata-penutup-afterword-p001",
+      "v2-kata-penutup-afterword-p002",
+      "v2-kata-penutup-afterword-p003",
+      "v2-kata-penutup-afterword-p004",
+      "v2-kata-penutup-afterword-p005",
+      "v2-kata-penutup-afterword-p006",
+      "v2-kata-penutup-afterword-p007",
+      "v2-kata-penutup-afterword-p008",
+      "v2-kata-penutup-afterword-p009",
+      "v2-kata-penutup-afterword-p010",
+      "v2-kata-penutup-afterword-p011",
+      "v2-kata-penutup-afterword-p012",
+      "v2-kata-penutup-afterword-p013",
+      "v2-kata-penutup-afterword-p014",
+      "v2-kata-penutup-afterword-p015",
+      "v2-kata-penutup-afterword-p016",
+      "v2-kata-penutup-afterword-p017",
+      "v2-kata-penutup-afterword-p018",
+      "v2-kata-penutup-afterword-p019"
+    ],
+    "illustrationCompanions": "AI-transcribed and translated from source illustrations"
+  },
+  "blocks": [
+    {
+      "id": "v2-kata-penutup-afterword-h1",
+      "kind": "heading",
+      "source": "afterword.xhtml#h1",
+      "text": "Kata Penutup"
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p001",
+      "kind": "text",
+      "source": "afterword.xhtml#p1",
+      "text": "Halo, saya Wataru Watari."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p002",
+      "kind": "text",
+      "source": "afterword.xhtml#p2",
+      "text": "Belakangan ini saya mencoba mengenang masa muda, tetapi ingatannya begitu samar sampai saya kesulitan. Mungkin karena isinya hanya kenangan tidak menyenangkan dan saya sama sekali tidak ingin mengingatnya. Namun, barangkali juga karena kenangan itu masih terlalu dekat untuk direnungkan. Sudah bertahun-tahun sejak saya lulus SMA, jadi bukan dekat secara waktu, melainkan secara perasaan, menurut saya."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p003",
+      "kind": "text",
+      "source": "afterword.xhtml#p3",
+      "text": "Mari saya bandingkan diri saya dulu dan sekarang. Kira-kira begini:"
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p004",
+      "kind": "text",
+      "source": "afterword.xhtml#p4",
+      "text": "Semasa SMA: Terlambat 1.100 kali dalam tiga tahun. Saking seringnya terlambat, orang tua saya dipanggil ke sekolah untuk membicarakannya. Berpikir bahwa di masa depan saya ingin menikahi wanita cantik dan kaya, lalu hidup bermalas-malasan dalam kemewahan dan kebejatan. Sangat mungkin bolos saat hujan."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p005",
+      "kind": "text",
+      "source": "afterword.xhtml#p5",
+      "text": "Usia pertengahan dua puluhan: Saking seringnya terlambat, saya dipanggil di tempat kerja untuk membicarakannya. Berpikir bahwa di masa depan saya ingin menikahi wanita cantik dan kaya, lalu hidup bermalas-malasan dalam kemewahan dan kebejatan. Jangankan saat hujan; cuaca cerah pun tulisan saya tidak banyak maju."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p006",
+      "kind": "text",
+      "source": "afterword.xhtml#p6",
+      "text": "Wah, jiwa bocah saya benar-benar belum hilang. Hebat."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p007",
+      "kind": "text",
+      "source": "afterword.xhtml#p7",
+      "text": "Kalau dipikir-pikir, mungkin menjadi anak laki-laki itu berarti selalu bertingkah seolah masih berada di tengah masa muda. Jadi, rasanya saya bisa terus menyeret rasa canggung, iri, dan rendah diri dari masa SMA, sesekali mabuk oleh kepercayaan diri tanpa dasar, serta mempertahankan pertentangan yang sulit dipahami ini: Saya paling hebat dalam merasa rendah diri. Bisa dibilang, saya punya kompleks superioritas soal itu. Lalu terus menulis hal-hal yang sejak dulu ingin saya tulis, selamanya.",
+      "emphasis": [
+        {
+          "start": 322,
+          "end": 422,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p008",
+      "kind": "text",
+      "source": "afterword.xhtml#p8",
+      "text": "Namun, tetap ada hal-hal yang sudah pasti hilang dari jangkauan saya untuk selamanya… Saya ingin berkencan dengan gadis SMA yang mengenakan seragam…"
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p009",
+      "kind": "text",
+      "source": "afterword.xhtml#p9",
+      "text": "Sekarang, untuk ucapan terima kasih."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p010",
+      "kind": "text",
+      "source": "afterword.xhtml#p10",
+      "text": "Yang Suci Ponkan. Terima kasih banyak atas ilustrasi indah Anda untuk Volume 2 juga. Yui di sampul begitu manis sampai saya menarikan tarian Yui-nik untuk merayakannya. Saya akan mempersembahkan doa kepada Anda lima kali sehari."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-Art_1",
+      "kind": "separator",
+      "source": "afterword.xhtml#Art_1.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p011",
+      "kind": "text",
+      "source": "afterword.xhtml#p11",
+      "text": "Editor saya, Hoshino. Untuk Volume 2 pun saya sudah merepotkan Anda dengan bermacam-macam hal, tetapi entah bagaimana semuanya berhasil Anda tangani. Saya berencana akan terus merepotkan Anda, jadi teruslah bekerja keras. Terima kasih banyak."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p012",
+      "kind": "text",
+      "source": "afterword.xhtml#p12",
+      "text": "Manta Aisora. Anda menuliskan komentar pada obi buku ini meskipun belum mengenal saya, dan untuk itu saya berterima kasih. Terima kasih juga sudah mengirimkan cokelat. Penganan lezat itulah yang memungkinkan saya menulis buku ini."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p013",
+      "kind": "text",
+      "source": "afterword.xhtml#p13",
+      "text": "Keluarga saya, terutama ayah saya. Terima kasih atas kerja keras selama bertahun-tahun. Ayah yang bekerja membanting tulang telah memungkinkan saya menjadi penulis. Sekarang santai saja, nikmati hidup, dan panjang umurlah. Selain itu, rasanya kucing kami sama sekali tidak menyukai saya. Namun, mungkin hanya perasaan saya."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p014",
+      "kind": "text",
+      "source": "afterword.xhtml#p14",
+      "text": "Semua pembaca saya. Dukungan kalian terhadap My Youth Romantic Comedy Is Wrong, As I Expected—yang juga dikenal dengan singkatan Oregairu—adalah alasan saya bisa menerbitkan Volume 2. Saya sungguh bahagia. Terima kasih banyak. Saya akan berusaha sekuat tenaga menulis volume ketiga yang bisa kalian nikmati.",
+      "emphasis": [
+        {
+          "start": 45,
+          "end": 93,
+          "style": "em"
+        },
+        {
+          "start": 129,
+          "end": 137,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p015",
+      "kind": "text",
+      "source": "afterword.xhtml#p15",
+      "text": "Sekarang saya akan mengatakan sesuatu sebagai penutup, lalu meletakkan pena saya. Begitu mulai berlari, kita tidak bisa berhenti, karena kita sudah punya momentum! Hal yang sama berlaku pada komedi romantis remaja. Saya berharap kalian juga tetap menemani saya pada volume berikutnya."
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p016",
+      "kind": "text",
+      "source": "afterword.xhtml#p16",
+      "text": "Suatu hari di bulan Juni,"
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p017",
+      "kind": "text",
+      "source": "afterword.xhtml#p17",
+      "text": "Di suatu tempat di Chiba,"
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p018",
+      "kind": "text",
+      "source": "afterword.xhtml#p18",
+      "text": "Sambil lahap menikmati gelato Italia polos,"
+    },
+    {
+      "id": "v2-kata-penutup-afterword-p019",
+      "kind": "text",
+      "source": "afterword.xhtml#p19",
+      "text": "Wataru Watari",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 13,
+          "style": "strong"
+        }
+      ]
+    }
+  ]
+}

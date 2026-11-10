@@ -283,10 +283,10 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 
 ## 15. Volume 2 continuation
 
-- Owner requested Volume 2 next. First installment is Pembuka, Prolog, and Chapter 1, all AI-translated drafts from the owner-provided English EPUB. Do not claim Volume 2 is complete; Chapters 2–5 and back matter are not published yet.
+- Owner requested Volume 2 next. First installment is Pembuka, Prolog, and Chapter 1, all AI-translated drafts from the owner-provided English EPUB. That initial installment did not complete Volume 2; the later completion is documented in section 17.
 - Prolog is a separate `frontmatter` section with null number/order 1; Pembuka order 0, Chapter 1 order 2. Never display Bab 0. Navigation and progress remain scoped to each volume.
 - `docs/editorial/volume-2-sources.json` validates all source blocks in order. Seven opening images, four prologue images, and three Chapter 1 images are accompanied by translated meaningful text. Inline stars/music remain inline.
-- `tools/prepare_volume2.py` defaults to these three sections. Do not publish unreferenced future-section assets or make links to untranslated chapters.
+- `tools/prepare_volume2.py` initially defaulted to these three sections; it now defaults to all nine sections after the continuation in section 17. Do not publish unreferenced future-section assets or make links to untranslated chapters.
 - Volume 2 editorial guidance is in `docs/editorial/volume-2.md`. Initial Google/local-machine experiments are not used in its published prose. Preserve the shared reader, white theme, fonts, center-tap controls, and all existing Volume 1 anchors.
 
 ## 16. English reading edition
@@ -296,3 +296,10 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - English reader routes use `/baca/en/[volume]/[section]/`; Indonesian routes and anchors remain unchanged. English progress uses `oregairu.progress.en`; Indonesian progress retains its existing key and schema 2.
 - English text is source text, not an AI translation or a human-reviewed Indonesian draft. Preserve source emphasis and spine order.
 - English pages and illustrations cache when opened, rather than downloading all 18 volumes during PWA installation.
+
+## 17. Complete Volume 2 draft
+
+- Owner requested continuation from Chapter 2 through the end of Volume 2. All nine Indonesian sections are now present: Pembuka, Prolog, Chapters 1–5, Afterword, and English-edition Translation Notes. All remain independent drafts.
+- Chapters 2/5 and Afterword are AI-translated; Chapters 3/4 and Translation Notes started with Google Translate and received preliminary AI editing, not a complete semantic/literary review. Preserve transparent method disclosures.
+- Six new sections preserve 1,401 source blocks and 16 illustrations. Three email spreads have 20 translated companion blocks. See `docs/editorial/volume-2.md` and `volume-2-sources.json`.
+- `tools/prepare_volume2.py` defaults to all nine sections. Back matter uses null number, `kind: backmatter`, orders 7/8. Preserve existing V1, V2 Pembuka/Prolog/Bab 1 anchors, English editions, settings/progress version 2, and shared reader.

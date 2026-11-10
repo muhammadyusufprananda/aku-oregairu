@@ -1,0 +1,573 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "AI",
+    "editing": "AI translation",
+    "aiEditedSourceBlocks": [
+      "v2-bab-2-chapter002-h2",
+      "v2-bab-2-chapter002-p001",
+      "v2-bab-2-chapter002-p002",
+      "v2-bab-2-chapter002-p003",
+      "v2-bab-2-chapter002-p004",
+      "v2-bab-2-chapter002-p005",
+      "v2-bab-2-chapter002-p006",
+      "v2-bab-2-chapter002-p007",
+      "v2-bab-2-chapter002-p008",
+      "v2-bab-2-chapter002-p009",
+      "v2-bab-2-chapter002-p010",
+      "v2-bab-2-chapter002-p011",
+      "v2-bab-2-chapter002-p012",
+      "v2-bab-2-chapter002-p013",
+      "v2-bab-2-chapter002-p014",
+      "v2-bab-2-chapter002-p015",
+      "v2-bab-2-chapter002-p016",
+      "v2-bab-2-chapter002-p017",
+      "v2-bab-2-chapter002-p018",
+      "v2-bab-2-chapter002-p019",
+      "v2-bab-2-chapter002-p020",
+      "v2-bab-2-chapter002-p021",
+      "v2-bab-2-chapter002-p022",
+      "v2-bab-2-chapter002-p023",
+      "v2-bab-2-chapter002-p024",
+      "v2-bab-2-chapter002-p025",
+      "v2-bab-2-chapter002-p026",
+      "v2-bab-2-chapter002-p027",
+      "v2-bab-2-chapter002-p028",
+      "v2-bab-2-chapter002-p029",
+      "v2-bab-2-chapter002-p030",
+      "v2-bab-2-chapter002-p031",
+      "v2-bab-2-chapter002-p032",
+      "v2-bab-2-chapter002-p033",
+      "v2-bab-2-chapter002-p034",
+      "v2-bab-2-chapter002-p035",
+      "v2-bab-2-chapter002-p036",
+      "v2-bab-2-chapter002-p037",
+      "v2-bab-2-chapter002-p038",
+      "v2-bab-2-chapter002-p039",
+      "v2-bab-2-chapter002-p040",
+      "v2-bab-2-chapter002-p041",
+      "v2-bab-2-chapter002-p042",
+      "v2-bab-2-chapter002-p043",
+      "v2-bab-2-chapter002-p044",
+      "v2-bab-2-chapter002-p045",
+      "v2-bab-2-chapter002-p046",
+      "v2-bab-2-chapter002-p047",
+      "v2-bab-2-chapter002-p048",
+      "v2-bab-2-chapter002-p049",
+      "v2-bab-2-chapter002-p050",
+      "v2-bab-2-chapter002-p051",
+      "v2-bab-2-chapter002-p052",
+      "v2-bab-2-chapter002-p053",
+      "v2-bab-2-chapter002-p054",
+      "v2-bab-2-chapter002-p055"
+    ],
+    "illustrationCompanions": "AI-transcribed and translated from source illustrations"
+  },
+  "blocks": [
+    {
+      "id": "v2-bab-2-chapter002-h2",
+      "kind": "heading",
+      "source": "chapter002.xhtml#h2",
+      "text": "Komachi Hikigaya akan menikahi kakaknya saat dewasa nanti.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-Art_P41",
+      "kind": "image",
+      "source": "chapter002.xhtml#Art_P41.jpg",
+      "src": "assets/chapters/volume-2/bab-2/Art_P41.webp",
+      "width": 629,
+      "height": 489,
+      "text": "Komachi Hikigaya versi chibi dengan tulisan “(menurutku)”."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p001",
+      "kind": "text",
+      "source": "chapter002.xhtml#p1",
+      "text": "Dua minggu lagi ujian tengah semester dimulai. Anak SMA laki-laki yang baik akan mampir ke restoran keluarga untuk belajar dalam perjalanan pulang sekolah. Pelajaran yang berakhir lebih awal dan kegiatan klub yang ditiadakan karena hari pengembangan profesi guru membuat keadaan sangat ideal untuk belajar."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p002",
+      "kind": "text",
+      "source": "chapter002.xhtml#p2",
+      "text": "Aku memusatkan perhatian sepenuhnya pada pekerjaan sederhana menyalin kosakata bahasa Inggris. Bahkan, kau bisa menyamakanku dengan biksu agung zaman dahulu, Shinran. Omong-omong, Shinran mengajarkan agar kita membiarkan kekuatan yang lebih tinggi menopang diri kita, dan beliau orang yang sangat penting. Pemikirannya membekas dalam padaku, jadi aku pun berniat membiarkan seseorang menopang kehidupanku. Dari sudut pandang agama Buddha, aku ini praktis Shinran.",
+      "emphasis": [
+        {
+          "start": 210,
+          "end": 266,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p003",
+      "kind": "text",
+      "source": "chapter002.xhtml#p3",
+      "text": "Aku selesai menyalin daftar kosakata untuk ujian. Sambil mengulang kata-kata itu dengan menutupi artinya memakai lembaran merah, kurasa secangkir kakao akan terasa nikmat. Aku pun mengambil cangkirku dan berdiri. Saat itulah semuanya terjadi."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p004",
+      "kind": "text",
+      "source": "chapter002.xhtml#p4",
+      "text": "“Maaf kita bukan ke Saize, Yukinon. Lain kali kita makan pilaf ala Milan, ya? Oh, aku juga mau menyarankan steik hamburg ala Diavola, tapi…”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p005",
+      "kind": "text",
+      "source": "chapter002.xhtml#p5",
+      "text": "“Aku tidak terlalu peduli kita pergi ke mana. Bagaimanapun, yang akan kita lakukan tetap sama… Tunggu, steik hamburg itu makanan Italia?”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p006",
+      "kind": "text",
+      "source": "chapter002.xhtml#p6",
+      "text": "Suara-suara itu terasa tidak asing."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p007",
+      "kind": "text",
+      "source": "chapter002.xhtml#p7",
+      "text": "“Ah!”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p008",
+      "kind": "text",
+      "source": "chapter002.xhtml#p8",
+      "text": "“Oh.”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p009",
+      "kind": "text",
+      "source": "chapter002.xhtml#p9",
+      "text": "“Ugh.”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p010",
+      "kind": "text",
+      "source": "chapter002.xhtml#p10",
+      "text": "Begitu saling melihat, kami bertiga membeku. Oh, jadi kami ini ular, katak, dan siput telanjang, ya? Entah kenapa, rasanya akulah si siput telanjang dalam situasi ini."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p011",
+      "kind": "text",
+      "source": "chapter002.xhtml#p11",
+      "text": "Dua orang yang baru masuk itu adalah Yukino Yukinoshita dan Yui Yuigahama, masih memakai seragam. Sayangnya, mereka teman satu klubku. Sesama insan klub, kalau mau kusebut begitu—maksudnya anggota klub seni atau humaniora. Baru kali ini aku memakai istilah itu… Rasanya cocok.",
+      "emphasis": [
+        {
+          "start": 142,
+          "end": 152,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p012",
+      "kind": "text",
+      "source": "chapter002.xhtml#p12",
+      "text": "“Sedang apa di sini, Hikki?”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p013",
+      "kind": "text",
+      "source": "chapter002.xhtml#p13",
+      "text": "“Ya, belajar…”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p014",
+      "kind": "text",
+      "source": "chapter002.xhtml#p14",
+      "text": "“Ooh, kebetulan banget. Aku sama Yukinon juga datang ke sini buat belajar… J-jadi… mau belajar bareng?” tanya Yuigahama sambil melirik bergantian ke wajahku dan Yukinoshita."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p015",
+      "kind": "text",
+      "source": "chapter002.xhtml#p15",
+      "text": "“Kalau mau, boleh. Aku juga tetap akan belajar.”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p016",
+      "kind": "text",
+      "source": "chapter002.xhtml#p16",
+      "text": "“Benar. Tidak akan ada perubahan rencana.” Untuk sekali ini, aku dan Yukinoshita sepakat."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p017",
+      "kind": "text",
+      "source": "chapter002.xhtml#p17",
+      "text": "“Hmm?” Yuigahama tampak bingung sejenak mendapati kami sependapat. Namun, rupanya dia memutuskan untuk mengabaikannya, karena dia berseru riang, “Oke, sudah diputuskan!” lalu berjalan dengan langkah kecil ke mejaku."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p018",
+      "kind": "text",
+      "source": "chapter002.xhtml#p18",
+      "text": "Masing-masing memesan paket minuman bebas isi ulang. Saat Yukinoshita pergi mengambil minuman, dia menatap mesin dengan saksama. Tangan kanannya memegang cangkir dalam posisi siap, sementara entah kenapa tangan kirinya menggenggam uang receh. “Hikigaya. Uangnya dimasukkan ke mana?”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p019",
+      "kind": "text",
+      "source": "chapter002.xhtml#p19",
+      "text": "“Hah?” Serius? Kau tidak tahu minuman bebas isi ulang itu apa, Yukinoshita? Seberapa luar biasanya lingkungan kelas atas tempatmu dibesarkan? “Itu, tidak perlu bayar lagi. Ya, semacam… prasmanan? Seperti itu, tapi minuman.”",
+      "emphasis": [
+        {
+          "start": 7,
+          "end": 141,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p020",
+      "kind": "text",
+      "source": "chapter002.xhtml#p20",
+      "text": "“Jepang benar-benar negeri yang berlimpah,” katanya, seulas senyum samar yang agak muram melintas di wajahnya. Renungan filosofisnya tentang dispenser minuman membingungkanku, tetapi dia mempersilakanku lebih dulu. Wajahnya serius, tatapannya lekat mengamati saat aku mengambil minuman. Matanya berbinar ketika kutekan tombol, mesin berdengung, dan cangkirku terisi soda. Sekalian saja, untuk berjaga-jaga, kutaruh cangkir lain di bawah mesin espresso dan kutekan tombol kakao. Dia pun bergumam pelan, “Begitu rupanya…” Meski masih terlihat ragu, Yukinoshita berhasil mengambil minuman yang diinginkannya, lalu kami bertiga duduk. Akhirnya, kami siap memulai kegiatan belajar ini."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p021",
+      "kind": "text",
+      "source": "chapter002.xhtml#p21",
+      "text": "“Oke, ayo mulai.” Yuigahama memberi tanda dimulainya sesi belajar, dan Yukinoshita mengeluarkan headphone lalu memasangnya dengan bunyi klik. Sambil melirik mereka, aku pun menyelipkan earphone ke telinga."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p022",
+      "kind": "text",
+      "source": "chapter002.xhtml#p22",
+      "text": "Melihat kami, wajah Yuigahama berubah kaget. “Hah?! Kenapa kalian malah mendengarkan musik?!”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p023",
+      "kind": "text",
+      "source": "chapter002.xhtml#p23",
+      "text": "“Ya, kalau belajar memang sambil mendengarkan musik, kan? Supaya suara lain tidak mengganggu.”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p024",
+      "kind": "text",
+      "source": "chapter002.xhtml#p24",
+      "text": "“Benar. Saat kau tidak lagi menyadari musiknya, itu tandanya kau sudah berkonsentrasi. Cukup membangkitkan semangat.”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p025",
+      "kind": "text",
+      "source": "chapter002.xhtml#p25",
+      "text": "“Bukan begini! Ini bukan belajar bareng!” protes Yuigahama sambil menepuk meja."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p026",
+      "kind": "text",
+      "source": "chapter002.xhtml#p26",
+      "text": "Yukinoshita menaruh tangan di dagu, memasang sikap berpikir. “Kalau begitu, belajar bersama itu seperti apa?”",
+      "emphasis": [
+        {
+          "start": 96,
+          "end": 107,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p027",
+      "kind": "text",
+      "source": "chapter002.xhtml#p27",
+      "text": "“Anu… saling memastikan materi yang bakal keluar di ujian, bertanya soal yang tidak dimengerti… Oh, terus istirahat sebentar juga, lalu minta diajari, setelah itu saling bertukar informasi. Kadang-kadang… mengobrol juga, kurasa?”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p028",
+      "kind": "text",
+      "source": "chapter002.xhtml#p28",
+      "text": "“Itu semuanya cuma mengobrol.” Dia menyebutnya belajar bersama, tetapi tak ada kegiatan belajar yang sungguh-sungguh dilakukan. Semuanya justru menghambat belajar.",
+      "emphasis": [
+        {
+          "start": 47,
+          "end": 62,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p029",
+      "kind": "text",
+      "source": "chapter002.xhtml#p29",
+      "text": "“Belajar itu sebenarnya memang kegiatan yang dilakukan sendirian,” kata Yukinoshita seakan sangat memahami perkara itu."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p030",
+      "kind": "text",
+      "source": "chapter002.xhtml#p30",
+      "text": "Aku setuju dengannya. Intinya, dia mengatakan bahwa penyendiri pandai belajar. Hei, mestinya hal itu ditulis dalam manga iklan kursus belajar di rumah Shinkan Seminar."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p031",
+      "kind": "text",
+      "source": "chapter002.xhtml#p31",
+      "text": "Awalnya, wajah Yuigahama jelas menunjukkan bahwa dia sama sekali belum yakin. Namun, saat aku dan Yukinoshita terus tekun membenamkan diri dalam buku tanpa bicara, dia menyerah dengan helaan napas lalu ikut belajar. Lima menit, sepuluh menit, waktu terus berlalu seperti itu. Ketika kebetulan aku mengangkat pandangan lagi, Yuigahama tampak tersiksa, tangannya berhenti bergerak. Sebaliknya, Yukinoshita terus mengerjakan soal matematika dengan tenang. Mungkin Yuigahama enggan mengusik konsentrasi Yukinoshita, sebab dia berbalik kepadaku."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p032",
+      "kind": "text",
+      "source": "chapter002.xhtml#p32",
+      "text": "“A-anu… soal yang ini…?” tanya Yuigahama. Mungkin meminta bantuan kepadaku melukai harga dirinya, karena wajahnya terlihat sangat malu."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p033",
+      "kind": "text",
+      "source": "chapter002.xhtml#p33",
+      "text": "“Efek Doppler, ya…? Aku bahkan tidak berniat mengusahakan matematika dan sains, jadi tidak tahu. Kalau menjelaskan Grappler Baki, aku bisa. Bagaimana?”",
+      "emphasis": [
+        {
+          "start": 115,
+          "end": 128,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p034",
+      "kind": "text",
+      "source": "chapter002.xhtml#p34",
+      "text": "“Nggak mau! Yang sama cuma bagian ppler-nya!”",
+      "emphasis": [
+        {
+          "start": 34,
+          "end": 39,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p035",
+      "kind": "text",
+      "source": "chapter002.xhtml#p35",
+      "text": "Tetap tidak boleh, ya? Padahal, menurutku aku bisa menjelaskannya dengan cukup baik.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 22,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p036",
+      "kind": "text",
+      "source": "chapter002.xhtml#p36",
+      "text": "Seolah menyerah, Yuigahama menutup buku pelajaran dan buku catatannya lalu menyeruput es teh melalui sedotan. Dia mengambil gelasnya yang sudah kosong dan hendak berdiri ketika tiba-tiba tersentak, “Ah!” seperti baru menyadari sesuatu."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p037",
+      "kind": "text",
+      "source": "chapter002.xhtml#p37",
+      "text": "Tertarik oleh seruannya, aku menoleh ke arah pandangannya dan melihat seorang gadis luar biasa manis dan cantik dengan seragam sailor yang dipakai agak berantakan. “Itu adikku.” Adik perempuanku, Komachi, berdiri di depan kasir dengan senyum ceria. Di sampingnya ada seorang anak laki-laki berseragam gakuran. “Maaf, permisi,” kataku, lalu berdiri dan langsung mengejarnya. Namun, saat aku berhasil keluar dari restoran, mereka sudah tidak ada.",
+      "emphasis": [
+        {
+          "start": 301,
+          "end": 308,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p038",
+      "kind": "text",
+      "source": "chapter002.xhtml#p38",
+      "text": "Dengan enggan aku masuk lagi ke restoran, dan Yuigahama mulai menginterogasiku. “Eh, anu. Itu adikmu?”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p039",
+      "kind": "text",
+      "source": "chapter002.xhtml#p39",
+      "text": "“Iya. Kenapa dia datang ke restoran keluarga bersama cowok…?” Aku terguncang. Ini bukan waktunya belajar. Adik perempuanku tidak semestinya berada di restoran bersama laki-laki tak dikenal."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p040",
+      "kind": "text",
+      "source": "chapter002.xhtml#p40",
+      "text": "“Mungkin lagi kencan!”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p041",
+      "kind": "text",
+      "source": "chapter002.xhtml#p41",
+      "text": "“Omong kosong… mustahil…”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p042",
+      "kind": "text",
+      "source": "chapter002.xhtml#p42",
+      "text": "“Entahlah. Bukannya wajar kalau Komachi punya pacar yang manis?”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p043",
+      "kind": "text",
+      "source": "chapter002.xhtml#p43",
+      "text": "“Dia tidak boleh punya pacar kalau kakaknya belum punya pacar! Tidak ada adik perempuan yang boleh melampaui kakaknya!”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p044",
+      "kind": "text",
+      "source": "chapter002.xhtml#p44",
+      "text": "“Jangan sebodoh itu dengan suara sekeras itu. Bahkan dengan headphone pun aku bisa mendengarnya.” Yukinoshita melepas headphone yang dimaksud dan melotot kepadaku. Kabelnya teregang di kedua tangan. Kalau aku membuat keributan lagi, sepertinya dia akan mencekikku."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p045",
+      "kind": "text",
+      "source": "chapter002.xhtml#p45",
+      "text": "“Aku tidak sedang bodoh. Adikku diculik oleh seorang pria tak dikenal—”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p046",
+      "kind": "text",
+      "source": "chapter002.xhtml#p46",
+      "text": "“Dia jelas-jelas cuma anak SMP,” kata Yuigahama. “Aku mengerti kamu mengkhawatirkan Komachi, tapi kalau terlalu ikut campur, nanti dia malah nggak suka lagi sama kamu. Akhir-akhir ini papaku terus mengganggu dengan pertanyaan seperti ‘Kamu punya pacar?’ Menyebalkan banget.”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p047",
+      "kind": "text",
+      "source": "chapter002.xhtml#p47",
+      "text": "“Ha-ha-ha! Itu belum seberapa. Ayahku begitu yakin adikku tidak punya pacar sampai-sampai dia tidak pernah bertanya. Terus terang, melihatnya saja membuatku kasihan… Tunggu, kenapa kau tahu nama adikku?” Seingatku, aku belum pernah menyebut nama adikku kepada siapa pun. Rasanya bahkan tak ada yang tahu nama depanku sendiri, jadi mestinya lebih mustahil lagi ada yang tahu nama adikku.",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 10,
+          "style": "em"
+        },
+        {
+          "start": 317,
+          "end": 324,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p048",
+      "kind": "text",
+      "source": "chapter002.xhtml#p48",
+      "text": "“Hah?! Oh, anu, ya, itu… Seingatku… tertulis di ponselmu?” Entah kenapa Yuigahama mengalihkan pandangan."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p049",
+      "kind": "text",
+      "source": "chapter002.xhtml#p49",
+      "text": "Oh. Kalau dipikir-pikir, aku memang pernah menyerahkan ponselku kepadanya, ya? Mungkin dari salah satu pesan singkatku. “Cuma itu? Syukurlah. Kukira aku sudah berubah menjadi pria menyedihkan dengan kompleks adik separah itu sampai tanpa sadar menggumamkan namanya.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 3,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p050",
+      "kind": "text",
+      "source": "chapter002.xhtml#p50",
+      "text": "“Anu, sekarang kamu malah terdengar seperti punya kompleks adik,” kata Yuigahama, agak merinding."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p051",
+      "kind": "text",
+      "source": "chapter002.xhtml#p51",
+      "text": "“Omong kosong! Aku sama sekali tidak punya kompleks adik. Aku bahkan tidak melihatnya sebagai adik, melainkan sebagai seorang wanita… Hei, jelas aku sedang bercanda—jangan mulai mengeluarkan senjata!”"
+    },
+    {
+      "id": "v2-bab-2-chapter002-p052",
+      "kind": "text",
+      "source": "chapter002.xhtml#p52",
+      "text": "Yukinoshita menatap tajam kepadaku dengan campuran kaget dan takut. Aku berhenti bicara saat dia mengambil pisau dan garpu. Seandainya kuteruskan kalimat tadi, tak diragukan lagi dia akan mengulitiku hidup-hidup. “Kalau kau yang mengatakannya, itu tidak terdengar seperti lelucon. Mengerikan. Tapi, kalau hal ini begitu mengganggumu, kenapa tidak kautanyakan saja kepadanya di rumah?” Yukinoshita memberikan saran yang menuntaskan persoalan itu, lalu dia dan Yuigahama kembali belajar."
+    },
+    {
+      "id": "v2-bab-2-chapter002-p053",
+      "kind": "text",
+      "source": "chapter002.xhtml#p53",
+      "text": "Namun, setelah itu aku tidak lagi menyentuh catatanku. Aku mengenang Komachi yang berseru, Kak! sambil berlari-lari mengejarku, lalu berteriak, Kalau sudah besar, aku mau menikah dengan Kakak! Juga bagaimana setelah itu ayah mulai bersikap jauh lebih keras kepadaku.",
+      "emphasis": [
+        {
+          "start": 91,
+          "end": 95,
+          "style": "em"
+        },
+        {
+          "start": 144,
+          "end": 192,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p054",
+      "kind": "text",
+      "source": "chapter002.xhtml#p54",
+      "text": "Terserahlah. Siapa juga yang peduli pada adikku?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 48,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-2-chapter002-p055",
+      "kind": "text",
+      "source": "chapter002.xhtml#p55",
+      "text": "Itulah sebabnya, bahkan setelah sampai di rumah pun aku tidak menanyakan hal itu. B-bukan karena aku mendengar kalau terlalu ikut campur, nanti dia tidak suka lagi kepadaku!"
+    },
+    {
+      "id": "v2-bab-2-chapter002_a-Art_P48",
+      "kind": "image",
+      "source": "chapter002_a.xhtml#Art_P48.jpg",
+      "src": "assets/chapters/volume-2/bab-2/Art_P48.webp",
+      "width": 1800,
+      "height": 1350,
+      "text": "Percakapan surel Yui Yuigahama dan Yukino Yukinoshita."
+    },
+    {
+      "id": "v2-bab-2-chapter002_a-Art_P48-companion-1",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Percakapan surel Yui dan Yukino",
+      "source": "chapter002_a.xhtml#Art_P48.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-2-chapter002_a-Art_P48-companion-2",
+      "kind": "text",
+      "text": "Yui · 20:22 · Tanpa judul: Hari ini lama banget di sekolah, ya~! (melambaikan tangan) Makasih sudah jelasin rumus rekurensi ke aku, Yukinon ♪ Kapan-kapan ke Saize lagi, yuk!! Gelato susu Italia mereka enak banget! (bersorak) Hore!",
+      "source": "chapter002_a.xhtml#Art_P48.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-2-chapter002_a-Art_P48-companion-3",
+      "kind": "text",
+      "text": "Yukino · 21:36 · Re: Ya, aku menantikannya.",
+      "source": "chapter002_a.xhtml#Art_P48.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-2-chapter002_a-Art_P48-companion-4",
+      "kind": "text",
+      "text": "Yui · 21:37 · Re2: Tapi mungkin kalau ditambah jeli kopi jadi lebih untung (>w<*) Hei, lama banget balasnya!",
+      "source": "chapter002_a.xhtml#Art_P48.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-2-chapter002_a-Art_P48-companion-5",
+      "kind": "text",
+      "text": "Yukino · 21:47 · Re3: Aku belum terbiasa. Bukan berarti aku peduli, tapi gambar-gambar mirip hieroglif itu kau ketik sendiri?",
+      "source": "chapter002_a.xhtml#Art_P48.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-2-chapter002_a-Art_P48-companion-6",
+      "kind": "text",
+      "text": "Yui · 21:49 · Re4: Tuh, muncul lagi! Hiero-apalah itu. Σ(・□・) Itu masih dipakai sekarang? (・ω・)?",
+      "source": "chapter002_a.xhtml#Art_P48.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-2-chapter002_a-Art_P48-companion-7",
+      "kind": "text",
+      "text": "Yukino · 21:59 · Re5: Itu sudah ketinggalan zaman sekitar 1.900 tahun lalu.",
+      "source": "chapter002_a.xhtml#Art_P48.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

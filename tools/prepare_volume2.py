@@ -7,7 +7,7 @@ from io import BytesIO
 from zipfile import ZipFile
 import argparse, hashlib, json, re, xml.etree.ElementTree as ET
 parser=argparse.ArgumentParser(description=__doc__)
-parser.add_argument("--sections", nargs="+", default=["pembuka", "prolog", "bab-1"])
+parser.add_argument("--sections", nargs="+", default=["pembuka", "prolog", "bab-1", "bab-2", "bab-3", "bab-4", "bab-5", "kata-penutup", "catatan-penerjemah"])
 selected=set(parser.parse_args().sections)
 from PIL import Image, ImageOps
 ROOT=Path(__file__).resolve().parents[1]

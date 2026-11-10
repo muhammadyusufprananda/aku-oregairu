@@ -1,0 +1,458 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "AI",
+    "editing": "AI translation",
+    "aiEditedSourceBlocks": [
+      "v2-bab-5-chapter005-h2",
+      "v2-bab-5-chapter005-p001",
+      "v2-bab-5-chapter005-p002",
+      "v2-bab-5-chapter005-p003",
+      "v2-bab-5-chapter005-p004",
+      "v2-bab-5-chapter005-p005",
+      "v2-bab-5-chapter005-p006",
+      "v2-bab-5-chapter005-p007",
+      "v2-bab-5-chapter005-p008",
+      "v2-bab-5-chapter005-p009",
+      "v2-bab-5-chapter005-p010",
+      "v2-bab-5-chapter005-p011",
+      "v2-bab-5-chapter005-p012",
+      "v2-bab-5-chapter005-p013",
+      "v2-bab-5-chapter005-p014",
+      "v2-bab-5-chapter005-p015",
+      "v2-bab-5-chapter005-p016",
+      "v2-bab-5-chapter005-p017",
+      "v2-bab-5-chapter005-p018",
+      "v2-bab-5-chapter005-p019",
+      "v2-bab-5-chapter005-p020",
+      "v2-bab-5-chapter005-p021",
+      "v2-bab-5-chapter005-p022",
+      "v2-bab-5-chapter005-p023",
+      "v2-bab-5-chapter005-p024",
+      "v2-bab-5-chapter005-p025",
+      "v2-bab-5-chapter005-p026",
+      "v2-bab-5-chapter005-p027",
+      "v2-bab-5-chapter005-p028",
+      "v2-bab-5-chapter005-p029",
+      "v2-bab-5-chapter005-p030",
+      "v2-bab-5-chapter005-p031",
+      "v2-bab-5-chapter005-p032",
+      "v2-bab-5-chapter005-p033",
+      "v2-bab-5-chapter005-p034",
+      "v2-bab-5-chapter005-p035",
+      "v2-bab-5-chapter005-p036",
+      "v2-bab-5-chapter005-p037",
+      "v2-bab-5-chapter005-p038",
+      "v2-bab-5-chapter005-p039",
+      "v2-bab-5-chapter005-p040",
+      "v2-bab-5-chapter005-p041",
+      "v2-bab-5-chapter005-p042",
+      "v2-bab-5-chapter005-p043",
+      "v2-bab-5-chapter005-p044",
+      "v2-bab-5-chapter005-p045",
+      "v2-bab-5-chapter005-p046",
+      "v2-bab-5-chapter005-p047",
+      "v2-bab-5-chapter005-p048",
+      "v2-bab-5-chapter005-p049",
+      "v2-bab-5-chapter005-p050",
+      "v2-bab-5-chapter005-p051",
+      "v2-bab-5-chapter005-p052",
+      "v2-bab-5-chapter005-p053"
+    ],
+    "illustrationCompanions": "AI-transcribed and translated from source illustrations"
+  },
+  "blocks": [
+    {
+      "id": "v2-bab-5-chapter005-h2",
+      "kind": "heading",
+      "source": "chapter005.xhtml#h2",
+      "text": "Hachiman Hikigaya kembali menempuh jalan yang sama.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 8,
+          "style": "strong"
+        },
+        {
+          "start": 9,
+          "end": 17,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-5-chapter005-Art_P173",
+      "kind": "image",
+      "source": "chapter005.xhtml#Art_P173.jpg",
+      "src": "assets/chapters/volume-2/bab-5/Art_P173.webp",
+      "width": 244,
+      "height": 489,
+      "text": "Komachi Hikigaya versi chibi menggenggam boneka kecil."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p001",
+      "kind": "text",
+      "source": "chapter005.xhtml#p1",
+      "text": "Pekan ujian berakhir, akhir pekan berlalu, dan hari Senin pun tiba lagi. Hari ini hasil ujian akan dibagikan. Sepanjang pelajaran, kami hanya menerima kembali lembar ujian dan mendengarkan masing-masing guru membahas soal. Setiap satu mata pelajaran berakhir, Yuigahama mendatangi mejaku untuk melaporkan hasilnya. “Hikki! Nilai sejarah Jepangku naik! Ternyata belajar bareng itu memang hebat,” serunya, cukup bersemangat."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p002",
+      "kind": "text",
+      "source": "chapter005.xhtml#p2",
+      "text": "Namun, aku tidak terlalu bersemangat. “Baguslah.”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p003",
+      "kind": "text",
+      "source": "chapter005.xhtml#p3",
+      "text": "“Iya! Wah, ini semua berkat Yukinon! Kamu juga, Hikki,” kata Yuigahama. Padahal, terus terang aku tidak melakukan apa-apa. Mustahil satu kali belajar bersama langsung mendatangkan hasil. Belajar bersama seperti itu pada dasarnya tidak berguna. Jadi, kalau nilai Yuigahama meningkat, mungkin itu berkat usahanya sendiri."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p004",
+      "kind": "text",
+      "source": "chapter005.xhtml#p4",
+      "text": "Sedangkan hasil ujianku, seperti biasa aku mati-matian mempertahankan peringkat ketiga dalam bahasa Jepang. Matematika sembilan persen. Hei, rumus rekurensi itu apa? Kedengarannya seperti istilah teknis ngawur yang bakal dikarang Zaimokuza.",
+      "emphasis": [
+        {
+          "start": 136,
+          "end": 240,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-5-chapter005-p005",
+      "kind": "text",
+      "source": "chapter005.xhtml#p5",
+      "text": "Hari itu bukan hanya hari pembagian hasil ujian, melainkan juga hari kunjungan dunia kerja yang sudah lama menanti kami. Begitu jam makan siang tiba, seluruh murid diberangkatkan untuk mengunjungi tempat kerja pilihan mereka."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p006",
+      "kind": "text",
+      "source": "chapter005.xhtml#p6",
+      "text": "Tujuan kami adalah Stasiun Kaihin-Makuhari. Kawasan itu memiliki distrik perkantoran yang cukup besar dan, tak disangka, bahkan beberapa kantor pusat perusahaan. Daerah pertokoannya pun sama dengan yang kukenal beberapa malam sebelumnya. Bukan tanpa alasan tempat ini disebut Pusat Kota Baru Makuhari. Bahkan, bisa dibilang inilah ibu kota Chiba."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p007",
+      "kind": "text",
+      "source": "chapter005.xhtml#p7",
+      "text": "Aku sekelompok dengan Totsuka dan Hayama. Atau setidaknya, seharusnya begitu. Namun, begitu kami sampai di sana, banyak orang sudah berkerumun mengelilingi Hayama. Memangnya dia tuan tanah feodal?"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p008",
+      "kind": "text",
+      "source": "chapter005.xhtml#p8",
+      "text": "Yah, sejak awal aku juga tidak berniat pergi bersama Hayama. Jadi aku mencari Totsuka, membayangkan bisa berjalan-jalan dengannya sambil berpura-pura kami sedang berkencan. Namun, Totsuka juga memiliki rombongan kecil anak perempuan sendiri. Kerumunan itu begitu heboh sampai orang yang tidak tahu betapa pemalunya Totsuka mungkin akan mengira dia sedang dirundung."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p009",
+      "kind": "text",
+      "source": "chapter005.xhtml#p9",
+      "text": "Di sekitar Hayama ada tiga anak laki-laki yang seharusnya membentuk kelompok terpisah, juga kelompok Miura. Kulihat Yuigahama ada di antara mereka. Dari upayaku menghitung orang sesekali, kira-kira lima kelompok telah datang ke tempat kunjungan kami."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p010",
+      "kind": "text",
+      "source": "chapter005.xhtml#p10",
+      "text": "Aku kurang cocok dengan keramaian. Terkadang, saat keluar pada akhir pekan, aku jadi ingin pulang hanya karena ada banyak orang. Maka, wajar saja kalau akhirnya aku hanya membuntuti kelompok itu dari belakang. Hachiman yang dapat diandalkan, menjaga barisan belakang. Kalau aku jenderal pada zaman Sengoku, tindakan ini pantas mendapat medali kehormatan."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p011",
+      "kind": "text",
+      "source": "chapter005.xhtml#p11",
+      "text": "Kami—atau lebih tepatnya, Hayama—memilih perusahaan elektronik yang namanya terasa tidak asing. Tempatnya bukan hanya gedung kantor dan fasilitas penelitian; di sebelahnya juga ada museum. Perusahaan itu bahkan menyediakan daya tarik hiburan yang sempurna: di dalam museum ada teater dengan layar film penuh 360 derajat. Kalau Hayama memilih tempat ini secara acak, berarti dia sangat beruntung atau terlahir dengan intuisi luar biasa. Namun, kalau dia sengaja memilihnya karena sudah memperkirakan rombongan yang akan ikut menempel, aku kagum pada perhatiannya."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p012",
+      "kind": "text",
+      "source": "chapter005.xhtml#p12",
+      "text": "Namun, bagiku, yang paling menarik adalah pajangan bernuansa mecha, cocok sekali bagi penyendiri. Aku seperti anak kecil yang mendambakan trompet di balik kaca etalase. Cukup menempelkan diri ke kaca dan memandangi mesin-mesin yang bergerak berdengung saja sudah membuatku bersemangat."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p013",
+      "kind": "text",
+      "source": "chapter005.xhtml#p13",
+      "text": "Ungkapan kami bukan mesin mungkin awalnya dicetuskan orang-orang yang menentang kendali otoriter dan hukuman kerja paksa, tetapi ungkapan itu tetap sepenuhnya benar. Kami bukan mesin. Karena itulah, terkadang muncul roda gigi sepertiku: tidak cocok dengan komponen lain, dan kau pun tidak tahu harus menggunakannya untuk apa. Kalau ini mobil rakitan, aku pasti menghubungi Tamiya.",
+      "emphasis": [
+        {
+          "start": 9,
+          "end": 25,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-5-chapter005-p014",
+      "kind": "text",
+      "source": "chapter005.xhtml#p14",
+      "text": "Namun, sebenarnya komponen yang terkesan berlebih seperti itu juga ada pada mesin. Itulah yang biasa disebut kelonggaran—atau dalam bahasa Inggris, play. Misalnya, sedikit kelebihan panjang rantai atau rasio roda gigi yang berlebih. Hal-hal itu memberi mesin sedikit keluwesan dan, konon, memperpanjang masa pakainya. Salah satu peneliti mengatakan itu hari ini. Baik mesin maupun manusia sama-sama membutuhkan ruang untuk bermain.",
+      "emphasis": [
+        {
+          "start": 109,
+          "end": 120,
+          "style": "em"
+        },
+        {
+          "start": 148,
+          "end": 152,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-5-chapter005-p015",
+      "kind": "text",
+      "source": "chapter005.xhtml#p15",
+      "text": "Padahal, aku sendiri tidak pernah diajak bermain…"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p016",
+      "kind": "text",
+      "source": "chapter005.xhtml#p16",
+      "text": "Dengan menjaga jarak secukupnya dari rombongan, aku berjalan melihat-lihat mesin. Di depanku, anak laki-laki dan perempuan asyik mengobrol dan bercanda. Namun, kalau aku berbalik, tidak akan ada siapa pun di belakangku. Ruang kosong di belakangku begitu sunyi sampai terasa menyakitkan."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p017",
+      "kind": "text",
+      "source": "chapter005.xhtml#p17",
+      "text": "Namun, bunyi keras ketukan sepatu hak di lantai memecah kesunyian itu. “Hikigaya. Jadi kamu datang.” Tidak seperti biasanya, Bu Hiratsuka tidak mengenakan jas putihnya. Mungkin karena kalau dipakai di sini, dia tidak bisa dibedakan dari staf dan malah membingungkan orang."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p018",
+      "kind": "text",
+      "source": "chapter005.xhtml#p18",
+      "text": "“Sedang berpatroli, Bu?”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p019",
+      "kind": "text",
+      "source": "chapter005.xhtml#p19",
+      "text": "“Ya, semacam itu,” jawab sang guru. Namun, perhatiannya sama sekali tidak tertuju pada murid-murid. Seluruh perhatiannya dicurahkan pada mesin-mesin yang mirip mecha. “Wah… teknologi Jepang memang hebat, ya? Kira-kira mereka bisa membuat Gundam selagi Ibu masih hidup tidak, ya?”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p020",
+      "kind": "text",
+      "source": "chapter005.xhtml#p20",
+      "text": "Isi kepalanya benar-benar seperti anak laki-laki kecil. Matanya tampak terpikat saat memandangi badan baja itu, seakan sedang jatuh cinta. Ayolah, tolong jalin hubungan yang sungguhan, serius.",
+      "emphasis": [
+        {
+          "start": 139,
+          "end": 192,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-5-chapter005-p021",
+      "kind": "text",
+      "source": "chapter005.xhtml#p21",
+      "text": "Aku mulai berjalan, berpikir barangkali bisa meninggalkannya begitu saja. Namun, rupanya Bu Hiratsuka mendengar langkah kakiku, sebab dia melangkah ke sampingku dan menyamakan langkah. “Oh, jadi ingat, Hikigaya. Soal pertandingan itu…”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p022",
+      "kind": "text",
+      "source": "chapter005.xhtml#p22",
+      "text": "Pertandingan… Maksudnya persaingan di Klub Layanan antara aku dan Yukinoshita, siapa yang bisa membantu lebih banyak orang. Pemenangnya berhak menyuruh pihak yang kalah melakukan apa pun yang diinginkan."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p023",
+      "kind": "text",
+      "source": "chapter005.xhtml#p23",
+      "text": "Meskipun dia sendiri yang membuka topik itu, Bu Hiratsuka ragu-ragu. Lewat tatapan, kudorong dia untuk melanjutkan. Dia memantapkan diri lalu meneruskan. “Terlalu banyak campur tangan unsur yang berubah-ubah, dan kerangka yang sekarang tidak bisa ditangani. Jadi, Ibu berencana mengubah beberapa spesifikasinya.” Cara bicaranya terdengar seperti alasan yang diberikan pengembang gim. Namun, intinya, sang guru tampaknya kewalahan dan terlalu banyak menanggung urusan."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p024",
+      "kind": "text",
+      "source": "chapter005.xhtml#p24",
+      "text": "“Saya tidak keberatan.” Bagaimanapun, Bu Hiratsuka adalah buku peraturan untuk pertandingan ini. Aku bisa protes, tetapi peraturannya tetap akan berubah kalau memang mau diubah. Lagi pula, standar penilaiannya sewenang-wenang dan berat sebelah. Melawan percuma saja. “Sudah ada yang diputuskan secara konkret, Bu?”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p025",
+      "kind": "text",
+      "source": "chapter005.xhtml#p25",
+      "text": "“Belum… Hanya saja, ada satu anak yang agak sulit Ibu tangani,” katanya sambil menggaruk kepala."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p026",
+      "kind": "text",
+      "source": "chapter005.xhtml#p26",
+      "text": "Mendengar kata sulit ditangani, mendadak aku teringat Yuigahama. Semula, Klub Layanan hanya terdiri dari aku dan Yukinoshita. Yuigahama bergabung setelah itu. Keberadaannya bisa disebut di luar perkiraan. Tak diragukan lagi, dialah “unsur yang berubah-ubah” yang dimaksud Bu Hiratsuka. Dia bukan bagian dari rencana awal, tetapi sekarang justru berada di pusat Klub Layanan. Kalau begitu, mungkin pertandingannya sekarang menjadi persaingan antara kami bertiga: Yukinoshita, Yuigahama, dan aku.",
+      "emphasis": [
+        {
+          "start": 15,
+          "end": 30,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-5-chapter005-p027",
+      "kind": "text",
+      "source": "chapter005.xhtml#p27",
+      "text": "“Hm… rupanya Jalan Mecha Mecha berakhir di sini,” kata sang guru."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p028",
+      "kind": "text",
+      "source": "chapter005.xhtml#p28",
+      "text": "Apa-apaan itu Jalan Mecha Mecha?"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p029",
+      "kind": "text",
+      "source": "chapter005.xhtml#p29",
+      "text": "“Begitu spesifikasi barunya selesai, Ibu akan memberi tahu. Tenang saja, Ibu tidak akan menyabotase peluangmu,” goda Bu Hiratsuka sambil tersenyum cerah. Padahal, aku hanya pernah mendengar kalimat itu dari tokoh penjahat… Bu Hiratsuka pun kembali menyusuri Jalan Mecha Mecha ke arah kedatangannya. Aku memandanginya pergi, lalu menuju pintu keluar."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p030",
+      "kind": "text",
+      "source": "chapter005.xhtml#p30",
+      "text": "Bu Hiratsuka menahanku mengobrol terlalu lama. Hayama dan yang lain sudah pergi, dan rumpun bambu yang sepi bergoyang tertiup angin awal musim panas, gemerisiknya seperti banjir bisikan. Saat langit barat mulai menguning jingga, aku melihat-lihat area pintu masuk yang kosong dan menemukan cepol yang kukenal di sana. Sayangnya."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p031",
+      "kind": "text",
+      "source": "chapter005.xhtml#p31",
+      "text": "Dia duduk di atas batu besar berwarna hijau, lutut ditekuk mendekati tubuh, sesekali memainkan ponselnya. Sesaat, aku bertanya-tanya apakah sebaiknya menyapanya. Namun, ketika aku masih ragu, dia menyadari kehadiranku. “Oh, Hikki, lama banget! Yang lain sudah pergi!”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p032",
+      "kind": "text",
+      "source": "chapter005.xhtml#p32",
+      "text": "“Oh, iya. Maaf, jiwa robotku tadi terlalu bersemangat. Jadi, ‘yang lain’ itu pergi ke mana?”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p033",
+      "kind": "text",
+      "source": "chapter005.xhtml#p33",
+      "text": "“Saize.” Anak SMA di Chiba memang suka Saize, ya? Menurutku, mereka terlalu memihak tempat itu, sekalipun jaringan restoran keluarga tersebut memang berasal dari Chiba. Walaupun begitu, harganya luar biasa murah dan makanannya enak."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p034",
+      "kind": "text",
+      "source": "chapter005.xhtml#p34",
+      "text": "“Kau tidak ikut?”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p035",
+      "kind": "text",
+      "source": "chapter005.xhtml#p35",
+      "text": "“Hah?! Oh, ya, itu, aku semacam menunggumu, gitu. Anu… rasanya agak nggak enak kalau kamu sampai tertinggal…” Yuigahama melirikku sambil mempertemukan kedua ujung telunjuknya di depan dada."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p036",
+      "kind": "text",
+      "source": "chapter005.xhtml#p36",
+      "text": "Gerak-geriknya yang gelisah membuatku tersenyum. “Kau orang yang baik, Yuigahama.”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p037",
+      "kind": "text",
+      "source": "chapter005.xhtml#p37",
+      "text": "“Hah?! Eh, apa? N-nggak, nggak juga.” Matahari berada di sebelah barat; mungkin itu sebabnya wajah Yuigahama tampak merah saat dia melambaikan tangan dengan heboh untuk menyangkal."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p038",
+      "kind": "text",
+      "source": "chapter005.xhtml#p38",
+      "text": "Entah kenapa dia menyangkalnya. Menurutku, dia tetap baik. Aku menganggapnya orang baik. Karena itulah, kurasa aku perlu memberitahunya. “Dengar, kau tidak perlu mengkhawatirkanku. Aku menyelamatkan anjingmu itu cuma kebetulan. Kalaupun kecelakaan itu tidak terjadi, mungkin aku tetap akan jadi penyendiri di SMA. Kau sama sekali tidak perlu merasa canggung soal itu. Walaupun, ya, rasanya aku malah sedang menjelek-jelekkan diri sendiri.” Aku memang sedang menjelek-jelekkan diri sendiri, tetapi karena ini tentang diriku, akulah yang paling tahu. Mungkin aku tak akan pernah dikelilingi teman, sekalipun aku memulai masa SMA secara normal. Tidak, pasti tidak akan pernah."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p039",
+      "kind": "text",
+      "source": "chapter005.xhtml#p39",
+      "text": "“H-Hikki… Kamu… ingat?” Yuigahama membelalakkan mata besarnya, menatapku dengan wajah terkejut."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p040",
+      "kind": "text",
+      "source": "chapter005.xhtml#p40",
+      "text": "“Tidak, aku tidak ingat. Tapi aku dengar kau pernah datang ke rumah kami untuk berterima kasih. Komachi yang memberitahuku.”"
+    },
+    {
+      "id": "v2-bab-5-chapter005-p041",
+      "kind": "text",
+      "source": "chapter005.xhtml#p41",
+      "text": "“Oh… Komachi, ya…?” Dia tertawa kecil, kembali memasang senyum tipis itu sambil menunduk perlahan."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p042",
+      "kind": "text",
+      "source": "chapter005.xhtml#p42",
+      "text": "“Maaf. Rupanya aku justru membuatmu harus berhati-hati secara aneh di dekatku. Yah, mulai sekarang kau tidak perlu mengkhawatirkannya. Aku jadi penyendiri karena diriku sendiri, dan kecelakaan itu tidak ada hubungannya. Kau tidak perlu merasa berutang budi atau mengasihaniku… Kalau itu alasanmu bersikap baik kepadaku, berhentilah.” Aku sadar nada bicaraku mulai agak kasar. Ah, ini tidak bagus. Kenapa aku jadi begitu sensitif? Hal seperti ini sama sekali tidak penting. Aku menggaruk kepala untuk menyembunyikan kekesalanku. Kesunyian yang menekan mengalir di antara kami. Baru kali ini aku merasa tidak nyaman dengan keheningan. “Jadi, anu, maksudku…” Walaupun sudah telanjur membuka mulut, aku tidak menemukan kata-kata, dan tak ada sesuatu yang jelas keluar dari sana.",
+      "emphasis": [
+        {
+          "start": 376,
+          "end": 472,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-5-chapter005-p043",
+      "kind": "text",
+      "source": "chapter005.xhtml#p43",
+      "text": "Saat kami sama-sama kehilangan kata, Yuigahama tersenyum samar. “Y-ya, aku nggak tahu, tapi… sebenarnya bukan begitu. Lebih seperti… seperti… Pokoknya bukan begitu…” Masih tersenyum, dia menunduk dengan canggung. Wajahnya berpaling, dan aku tak bisa lagi melihat ekspresinya. Aku hanya mendengar suara lirihnya sedikit bergetar. “Bukan… itu… Bukan…” Suara Yuigahama memudar."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p044",
+      "kind": "text",
+      "source": "chapter005.xhtml#p44",
+      "text": "Yui Yuigahama selalu baik, dan mungkin dia akan tetap baik sampai akhir."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p045",
+      "kind": "text",
+      "source": "chapter005.xhtml#p45",
+      "text": "Kalau kebenaran itu kejam, kebohongan pastilah baik. Karena itulah, kebaikan adalah kebohongan."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p046",
+      "kind": "text",
+      "source": "chapter005.xhtml#p46",
+      "text": "“Ah, ya, itu,” aku mulai bicara, dan Yuigahama menatap tajam kepadaku. Ada air mata di matanya, tetapi tatapannya kuat dan tidak goyah. Akulah yang mengalihkan pandangan."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p047",
+      "kind": "text",
+      "source": "chapter005.xhtml#p47",
+      "text": "“Dasar bodoh.” Meninggalkan kata-kata itu, Yuigahama berlari pergi. Namun, setelah beberapa meter, langkahnya menjadi berat, seperti sedang menyeret kaki."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p048",
+      "kind": "text",
+      "source": "chapter005.xhtml#p48",
+      "text": "Aku memandanginya pergi, lalu kembali berbalik menjauhinya."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p049",
+      "kind": "text",
+      "source": "chapter005.xhtml#p49",
+      "text": "Mungkin Yuigahama pergi ke Saize, tempat semua temannya menunggu. Namun, itu tidak ada hubungannya denganku. Lagi pula, aku membenci keramaian. Aku juga membenci gadis yang baik. Mereka mengikutimu ke mana-mana, seperti bulan di langit malam, tetapi selalu tak terjangkau. Meski begitu, aku tidak bisa menjaga jarak dari mereka sebagaimana mestinya. Percakapan sederhana saja terus membekas dalam pikiranku. Kalau kami saling berkirim surel, hatiku gelisah. Kalau dia menelepon, aku terus memandangi riwayat panggilan sampai tanpa sadar wajahku menyeringai."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p050",
+      "kind": "text",
+      "source": "chapter005.xhtml#p50",
+      "text": "Namun, aku tahu… aku tahu mereka hanya sedang bersikap baik. Orang yang baik kepadaku juga baik kepada orang lain, dan rasanya aku bisa melupakan hal itu. Aku bukannya tidak peka. Justru aku cukup jeli. Bahkan sensitif. Dan itulah yang memicu reaksi alergi dalam diriku."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p051",
+      "kind": "text",
+      "source": "chapter005.xhtml#p51",
+      "text": "Aku pernah mengalami situasi seperti ini. Penyendiri berpengalaman tidak akan tertipu trik yang sama dua kali. Pernyataan cinta sebagai hukuman karena kalah suit tidak mempan terhadapku. Begitu juga surat cinta palsu dari seorang gadis yang ditulis anak-anak laki-laki. Aku veteran tangguh yang ditempa seratus pertempuran. Dalam urusan kalah, akulah yang terbaik."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p052",
+      "kind": "text",
+      "source": "chapter005.xhtml#p52",
+      "text": "Terus berharap seperti itu, terus salah paham, terus menaruh harapan… Aku sudah menyerah pada semua itu."
+    },
+    {
+      "id": "v2-bab-5-chapter005-p053",
+      "kind": "text",
+      "source": "chapter005.xhtml#p53",
+      "text": "Karena itulah, aku akan selalu membenci gadis yang baik."
+    }
+  ]
+}

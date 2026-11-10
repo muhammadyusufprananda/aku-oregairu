@@ -44,3 +44,12 @@ Pedoman kerja untuk seluruh draf Volume 1. Perubahan istilah perlu diterapkan ko
 - `arts/sciences`: jalur humaniora/sains; bukan otomatis nama jurusan resmi sekolah Indonesia.
 - `Pro-D`: hari pengembangan profesi guru, sesuai penjelasan edisi Inggris.
 - Nama jurus S-CRY-ed tetap berbahasa Inggris; bukan judul bab. Referensi `homeroom/home/away`, `gloss`, `check out`, dan sapaan kuno tidak direkayasa sebagai istilah Jepang yang tidak ada pada sumber.
+
+## Kelanjutan Volume 2
+
+- `cram school`: bimbingan belajar; bedakan dari sekolah reguler dan universitas. Saki kakak perempuan Taishi; jangan membalik hubungan kakak/adik.
+- `clubbian`: insan klub, padanan kerja untuk istilah rekaan narator tentang anggota klub seni/humaniora, perlu tinjauan.
+- `play` dalam mesin: kelonggaran; pertahankan hubungan lelucon dengan bermain. `recurrence formula`: rumus rekurensi.
+- `think tank`: dipertahankan sebagai istilah asing ketika menjadi bahan lelucon Yuigahama; jangan diterjemahkan menjadi “pikirkan tank”.
+- `maid café`: kafe pelayan; panggilan `Master` dapat dipertahankan dalam permainan peran, bukan “guru”. `no-waste ghost`: hantu anti-mubazir.
+- Judul karya, nama jurus, merek dan panggilan yang disengaja keliru (Hikitani, Perry/Harris) mengikuti sumber. Catatan penerjemah edisi Inggris diberi atribusi dan tidak diperlakukan sebagai hasil riset baru.

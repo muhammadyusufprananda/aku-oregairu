@@ -1,0 +1,3096 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v2-bab-3-chapter003-h2",
+      "v2-bab-3-chapter003-p001",
+      "v2-bab-3-chapter003-p002",
+      "v2-bab-3-chapter003-p003",
+      "v2-bab-3-chapter003-p004",
+      "v2-bab-3-chapter003-p009",
+      "v2-bab-3-chapter003-p010",
+      "v2-bab-3-chapter003-p011",
+      "v2-bab-3-chapter003-p015",
+      "v2-bab-3-chapter003-p016",
+      "v2-bab-3-chapter003-p018",
+      "v2-bab-3-chapter003-p019",
+      "v2-bab-3-chapter003-p020",
+      "v2-bab-3-chapter003-p024",
+      "v2-bab-3-chapter003-p025",
+      "v2-bab-3-chapter003-p027",
+      "v2-bab-3-chapter003-p028",
+      "v2-bab-3-chapter003-p031",
+      "v2-bab-3-chapter003-p033",
+      "v2-bab-3-chapter003-p036",
+      "v2-bab-3-chapter003-p041",
+      "v2-bab-3-chapter003_d-p002",
+      "v2-bab-3-chapter003_d-p004",
+      "v2-bab-3-chapter003_d-p006",
+      "v2-bab-3-chapter003_d-p007",
+      "v2-bab-3-chapter003_d-p008",
+      "v2-bab-3-chapter003_d-p013",
+      "v2-bab-3-chapter003_d-p014",
+      "v2-bab-3-chapter003_d-p017",
+      "v2-bab-3-chapter003_d-p018",
+      "v2-bab-3-chapter003_d-p020",
+      "v2-bab-3-chapter003_d-p025",
+      "v2-bab-3-chapter003_d-p037",
+      "v2-bab-3-chapter003_d-p048",
+      "v2-bab-3-chapter003_d-p050",
+      "v2-bab-3-chapter003_d-p062",
+      "v2-bab-3-chapter003_d-p075",
+      "v2-bab-3-chapter003_d-p093",
+      "v2-bab-3-chapter003_d-p096",
+      "v2-bab-3-chapter003_d-p099",
+      "v2-bab-3-chapter003_f-p043",
+      "v2-bab-3-chapter003_f-p119",
+      "v2-bab-3-chapter003_f-p148",
+      "v2-bab-3-chapter003_f-p200"
+    ],
+    "illustrationCompanions": "AI-transcribed and translated from source illustrations"
+  },
+  "blocks": [
+    {
+      "id": "v2-bab-3-chapter003-h2",
+      "kind": "heading",
+      "source": "chapter003.xhtml#h2",
+      "text": "Kehadiran Hayato Hayama selalu bersinar.",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 23,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-Art_P51",
+      "kind": "image",
+      "source": "chapter003.xhtml#Art_P51.jpg",
+      "src": "assets/chapters/volume-2/bab-3/Art_P51.webp",
+      "width": 272,
+      "height": 302,
+      "text": "Kipas bergambar wajah maskot."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p001",
+      "kind": "text",
+      "source": "chapter003.xhtml#p1",
+      "text": "Tak ada yang lebih membuat jiwa tidak tenang daripada jam istirahat sekolah."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p002",
+      "kind": "text",
+      "source": "chapter003.xhtml#p2",
+      "text": "Ruang kelas dipenuhi hiruk-pikuk percakapan. Semua orang terbebas dari penindasan bernama pelajaran dan mengobrol akrab dengan teman tentang rencana sepulang sekolah atau tayangan TV yang mereka tonton kemarin. Percakapan yang berseliweran di ruangan itu tak ubahnya bahasa asing; sekalipun sampai ke telingaku, semuanya tidak bermakna bagiku."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p003",
+      "kind": "text",
+      "source": "chapter003.xhtml#p3",
+      "text": "Suasananya bahkan lebih ramai daripada biasanya. Sebab, sehari sebelumnya wali kelas kami telah menjatuhkan kabar mengejutkan: seusai pelajaran hari ini, kami akan menentukan kelompok untuk kunjungan dunia kerja. Meskipun penentuan siapa pergi ke mana baru akan diputuskan pada jam wali kelas yang panjang beberapa hari lagi, semua orang sudah bersemangat membicarakannya."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p004",
+      "kind": "text",
+      "source": "chapter003.xhtml#p4",
+      "text": "Meskipun sejumlah percakapan yang melayang di ruangan berkisar pada pertanyaan Kau mau pergi ke mana?, sepertinya tidak ada yang menanyakan Kau pergi dengan siapa? Mungkin karena hampir semua orang di kelas sudah membentuk kelompok pergaulan masing-masing. Wajar saja. Lembaga bernama “sekolah” bukan sekadar tempat mengerjakan tugas pelajaran. Pada dasarnya, sekolah adalah masyarakat dalam skala kecil, seluruh umat manusia dipadatkan ke dalam diorama mungil. Perundungan ada di sekolah karena perang dan pertikaian ada di dunia, dan kasta sekolah mencerminkan masyarakat kita yang berlapis serta hierarkis. Karena kita hidup dalam demokrasi, tirani mayoritas pun tentu berlaku di sekolah. Mayoritas—dengan kata lain, mereka yang punya banyak teman—berada di atas.",
+      "emphasis": [
+        {
+          "start": 79,
+          "end": 101,
+          "style": "em"
+        },
+        {
+          "start": 140,
+          "end": 163,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p005",
+      "kind": "text",
+      "source": "chapter003.xhtml#p5",
+      "text": "Daguku bertumpu pada telapak tanganku dalam posisi setengah tertidur, aku mengamati teman-teman sekelasku dengan samar-samar. Aku cukup tidur pada malam sebelumnya dan tidak terlalu lelah, tapi setelah menghabiskan waktu istirahatku seperti ini begitu lama, tubuhku telah dikondisikan untuk tertidur. Saat aku tertidur, sebuah tangan kecil melayang melintasi bidang penglihatanku. Aku mengangkat kepalaku, berpikir, Hmm? Apa?",
+      "emphasis": [
+        {
+          "start": 416,
+          "end": 425,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p006",
+      "kind": "text",
+      "source": "chapter003.xhtml#p6",
+      "text": "Saika Totsuka sedang duduk di kursi di depanku. “Pagi!” dia terkikik sambil tersenyum, menyapaku sambil aku bergerak."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p007",
+      "kind": "text",
+      "source": "chapter003.xhtml#p7",
+      "text": "“Buatkan aku sup miso setiap pagi.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p008",
+      "kind": "text",
+      "source": "chapter003.xhtml#p8",
+      "text": "“H…hah?! A-apa yang kamu…?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p009",
+      "kind": "text",
+      "source": "chapter003.xhtml#p9",
+      "text": "“Oh, anu, bukan apa-apa. Aku cuma mengigau.” Astaga, aku melamarnya. Sial, kenapa kemanisan sebanyak ini malah disia-siakan padanya? Dia laki-laki! Atau justru karena dia laki-laki…? Sepertinya dia memang tidak akan membuatkan sup miso untukku setiap pagi… “Ada perlu apa?”",
+      "emphasis": [
+        {
+          "start": 45,
+          "end": 256,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p010",
+      "kind": "text",
+      "source": "chapter003.xhtml#p10",
+      "text": "“Tidak juga, tapi… kupikir mungkin kamu ada di sini, jadi… Apa sebaiknya aku… tidak datang?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p011",
+      "kind": "text",
+      "source": "chapter003.xhtml#p11",
+      "text": "“Tidak, tidak apa-apa. Bahkan sangat tidak apa-apa sampai aku ingin kau datang mengobrol denganku setiap saat.” Lebih tepatnya, aku ingin dia datang mengatakan menyukaiku sepanjang hari, setiap hari."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p012",
+      "kind": "text",
+      "source": "chapter003.xhtml#p12",
+      "text": "“Tapi kalau begitu aku harus bersamamu selamanya, bukan?” Totsuka menutup mulutnya dengan tangannya, menyeringai seolah dia menganggapnya lucu. Kemudian, sepertinya menyadari sesuatu, dia menyatukan kedua telapak tangannya dan bertepuk tangan kecil. “Apakah kamu sudah memutuskan di mana kamu akan melakukan kunjungan dunia kerjamu, Hikigaya?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p013",
+      "kind": "text",
+      "source": "chapter003.xhtml#p13",
+      "text": "“Yah, sepertinya aku sudah memutuskan, tapi juga belum,” aku mengakui, tapi sepertinya aku gagal menyampaikan maksudku dengan baik karena Totsuka memiringkan kepalanya, menatap wajahku. Gerakan itu memperlihatkan tulang selangka yang mengintip dari pakaian olahraganya, dan aku secara otomatis mengalihkan pandanganku. Kenapa kulitnya cantik sekali? Jenis sabun mandi apa yang dia gunakan?! “Oh, yang kubilang adalah, aku tidak terlalu peduli ke mana aku pergi. Kalau bukan rumahku, bagiku sama saja. Ke mana pun juga tidak ada gunanya.”",
+      "emphasis": [
+        {
+          "start": 319,
+          "end": 390,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p014",
+      "kind": "text",
+      "source": "chapter003.xhtml#p14",
+      "text": "“Hah… Kadang-kadang kamu mengatakan hal-hal sulit seperti itu, Hikigaya.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p015",
+      "kind": "text",
+      "source": "chapter003.xhtml#p15",
+      "text": "Seingatku, aku tidak mengatakan sesuatu yang begitu sulit dipahami, tetapi Totsuka terdengar terkesan. Rasanya aku bisa mendengar bunyi ting! ketika meteran rasa sukaku naik. Padahal, Totsuka memang tipe tokoh yang bisa memengaruhi meteran rasa suka, apa pun yang dikatakannya. Justru itu yang menakutkan. Rasanya aku terancam masuk ke rute tokoh yang sebaiknya tidak kutempuh.",
+      "emphasis": [
+        {
+          "start": 136,
+          "end": 141,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p016",
+      "kind": "text",
+      "source": "chapter003.xhtml#p16",
+      "text": "“Jadi… kamu mungkin… sudah memutuskan mau pergi dengan siapa?” Totsuka menatap mataku dengan sedikit ragu, tetapi niatnya terasa kuat. Kenapa dia mengatakannya seperti itu? Dia membuatnya terdengar seolah sungguh bermaksud Aku ingin pergi bersamamu, tapi kalau kamu sudah menentukan pilihan, sayang sekali. Serangannya menangkapku ketika sama sekali tidak siap. Dan serangan mendadak itu mengetuk pintu ingatanku segencar penjual koran.",
+      "emphasis": [
+        {
+          "start": 223,
+          "end": 305,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p017",
+      "kind": "text",
+      "source": "chapter003.xhtml#p17",
+      "text": "Aku merasa hal ini sudah pernah terjadi sebelumnya, dahulu kala…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 64,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p018",
+      "kind": "text",
+      "source": "chapter003.xhtml#p18",
+      "text": "Ya, saat aku baru memasuki kelas dua SMP. Aku mendapat undian sial dan terpilih menjadi perwakilan kelas laki-laki. Lalu seorang gadis manis mengajukan diri sebagai perwakilan kelas perempuan dan berkata malu-malu kepadaku, Aku berharap kita bisa bekerja sama dengan baik tahun ini.",
+      "emphasis": [
+        {
+          "start": 224,
+          "end": 281,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p019",
+      "kind": "text",
+      "source": "chapter003.xhtml#p19",
+      "text": "Uwaagh! Hampir saja! Sekali lagi, aku nyaris termakan ucapan yang sarat isyarat yang sama sekali tidak kupahami, lalu berakhir terluka parah. Aku pernah melihat kejadian seperti ini. Penyendiri berpengalaman tidak akan tertipu trik yang sama dua kali. Pernyataan cinta sebagai hukuman karena kalah suit tidak mempan terhadapku. Begitu pula surat cinta palsu dari seorang gadis yang ditulis anak-anak laki-laki atas namanya. Aku veteran tangguh yang ditempa seratus pertempuran. Dalam urusan kalah, akulah yang terbaik."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p020",
+      "kind": "text",
+      "source": "chapter003.xhtml#p20",
+      "text": "Baiklah, aku sudah tenang. Dalam keadaan seperti ini, tindakan paling aman adalah meniru langkah lawan. Dengan kata lain, Fearow pastilah penyendiri ulung. Karena itulah, aku memutuskan menjawab pertanyaannya dengan pertanyaan. “Kau sudah memutuskan mau pergi dengan siapa?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p021",
+      "kind": "text",
+      "source": "chapter003.xhtml#p21",
+      "text": "“A-aku…? Aku…sudah…memutuskan.” Bingung karena tiba-tiba granat ini dilemparkan ke arahnya, pipi Totsuka memerah. Dia mengalihkan pandangannya sedikit ke bawah, lalu mendongak lagi seolah memeriksa bagaimana reaksiku."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p022",
+      "kind": "text",
+      "source": "chapter003.xhtml#p22",
+      "text": "Tentu saja. Totsuka berada di klub tenis, jadi dengan kata lain, ada tempat untuknya di sana, tempat di komunitas spesialnya, dan persahabatan yang tak terelakkan yang bisa dia peroleh dari situ. Tentu saja dia akan punya teman di kelas."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p023",
+      "kind": "text",
+      "source": "chapter003.xhtml#p23",
+      "text": "Lalu ada aku. Aku berada di sebuah klub, tapi itu sebenarnya hanya sebuah bangsal isolasi yang mengumpulkan anak-anak yang gagal memenuhi ekspektasi sekolah. Aku jelas tidak akan berteman di sana. “Kalau dipikir-pikir—sebenarnya, aku bahkan tidak perlu memikirkannya—aku tidak punya teman laki-laki.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p024",
+      "kind": "text",
+      "source": "chapter003.xhtml#p24",
+      "text": "“A-anu… Hikigaya… Padahal… aku… laki-laki…” Totsuka menggumamkan sesuatu dengan sangat pelan, tetapi dia begitu manis sampai aku tidak bisa mendengarnya dengan benar."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p025",
+      "kind": "text",
+      "source": "chapter003.xhtml#p25",
+      "text": "Bagaimanapun, mengobrol dengan manusia lain di kelas terasa amat aneh. Sejak kejadian tenis beberapa hari sebelumnya, aku dan Totsuka mulai bertukar sesuatu yang bisa dianggap semacam basa-basi setiap kali bertemu. Benarkah ini persahabatan? Aku meragukannya. Kau bisa bercakap-cakap dengan sekadar kenalan—bahkan tidak, dengan orang yang belum sampai layak disebut kenalan sekalipun. Misalnya, ketika mengantre di Naritake Ramen, kau mungkin mengobrol dengan orang di sebelahmu, seperti, Ramai sekali, ya? atau Antreannya panjang lagi hari ini—merepotkan sekali! Namun, kau tidak akan menyebut orang itu teman. Teman itu lebih seperti…",
+      "emphasis": [
+        {
+          "start": 489,
+          "end": 506,
+          "style": "em"
+        },
+        {
+          "start": 512,
+          "end": 544,
+          "style": "em"
+        },
+        {
+          "start": 545,
+          "end": 563,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p026",
+      "kind": "text",
+      "source": "chapter003.xhtml#p26",
+      "text": "“Jadi, ke mana kamu memutuskan untuk pergi, Hayato?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p027",
+      "kind": "text",
+      "source": "chapter003.xhtml#p27",
+      "text": "“Aku ingin melihat sesuatu yang berkaitan dengan media massa, atau mungkin perusahaan asing.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p028",
+      "kind": "text",
+      "source": "chapter003.xhtml#p28",
+      "text": "“Wah, Hayato, kamu benar-benar memikirkan masa depan. Kamu memang mantap. Tapi, kita memang sudah di usia begitu, ya? Akhir-akhir ini aku salut abis sama orang tuaku.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p029",
+      "kind": "text",
+      "source": "chapter003.xhtml#p29",
+      "text": "“Semuanya menjadi urusan serius mulai sekarang!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p030",
+      "kind": "text",
+      "source": "chapter003.xhtml#p30",
+      "text": "“Wah! Tapi kamu tidak ingin kehilangan semangat kekanak-kanakanmu!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p031",
+      "kind": "text",
+      "source": "chapter003.xhtml#p31",
+      "text": "Kurasa teman itu seperti itu. Mungkin berbicara seperti mereka—seolah tiap obrolan remeh adalah puncak masa muda—itulah berteman. Aku tidak mungkin melakukannya; di tengah jalan aku pasti tertawa. Dan apa maksudnya, salut abis? Memangnya dia mengira dirinya penyanyi rap?",
+      "emphasis": [
+        {
+          "start": 216,
+          "end": 226,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p032",
+      "kind": "text",
+      "source": "chapter003.xhtml#p32",
+      "text": "Seperti biasa dan selalu, Hayato Hayama memasang senyum menawan di wajahnya dan dikelilingi oleh tiga pria. Semua orang dengan santai berkata, Hayato, Hayato, memanggilnya dengan nama depannya, dan Hayama dengan ramah membalas keakraban itu. Aku kira tampilan itu adalah sesuatu yang bisa kamu sebut dengan tepat sebagai “persahabatan.” Tapi bagi aku, itu hanya terlihat seperti orang-orang yang menggunakan nama depan untuk membuat mereka merasa seperti mereka adalah teman. Mereka melakukannya hanya karena itulah yang dilakukan orang-orang yang dikategorikan sebagai “teman” di acara TV, manga, dan anime. Bagaimana melakukan hal itu bisa membuat kamu lebih dekat?",
+      "emphasis": [
+        {
+          "start": 143,
+          "end": 157,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003-p033",
+      "kind": "text",
+      "source": "chapter003.xhtml#p33",
+      "text": "Tapi, hei, kenapa tidak dicoba? Apa pun itu, pengalaman langsung memang perlu. Aku tipe orang yang tidak akan mencela manga yang belum pernah benar-benar kubaca. Aku akan mencoba membacanya, tetapi kalau ternyata kacau balau, akan kucela habis-habisan tanpa ragu."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p034",
+      "kind": "text",
+      "source": "chapter003.xhtml#p34",
+      "text": "Eksperimen: Apakah penggunaan nama depan mengubah hubungan manusia?"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p035",
+      "kind": "text",
+      "source": "chapter003.xhtml#p35",
+      "text": "“Saika.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p036",
+      "kind": "text",
+      "source": "chapter003.xhtml#p36",
+      "text": "Saat kupanggil namanya, Totsuka membeku. Matanya yang besar berkedip sekali, dua kali, tiga kali, sementara mulutnya terbuka. Tuh, ternyata memang tidak membuat kami makin dekat, kan? Yah, wajar seseorang kesal kalau tiba-tiba dipanggil dengan nama depannya. Maksudku, saat Zaimokuza mulai memanggilku Hachiman, aku mengabaikannya habis-habisan. Pada dasarnya, urusan nama depan ini cuma kaum normal—haha—yang membohongi diri sendiri, menekan kekesalan, dan berpura-pura akrab."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p037",
+      "kind": "text",
+      "source": "chapter003.xhtml#p37",
+      "text": "Bagaimanapun, permintaan maaf kepada Totsuka mungkin adalah pilihan yang tepat. “Oh, maaf, aku hanya…”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p038",
+      "kind": "text",
+      "source": "chapter003.xhtml#p38",
+      "text": "“Aku senang sekali! Ini pertama kalinya kamu memanggilku dengan nama depanku.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p039",
+      "kind": "text",
+      "source": "chapter003.xhtml#p39",
+      "text": "“Apa…?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003-p040",
+      "kind": "text",
+      "source": "chapter003.xhtml#p40",
+      "text": "Totsuka tersenyum manis, matanya sedikit basah."
+    },
+    {
+      "id": "v2-bab-3-chapter003-p041",
+      "kind": "text",
+      "source": "chapter003.xhtml#p41",
+      "text": "Serius? Apa ini menandai akhir masa sendirian selamanya bagiku? Apa aku naik kelas dari pecundang penyendiri menjadi pecundang biasa? Menjadi kaum normal—salut, deh—memang luar biasa. Mataku benar-benar terbuka.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 211,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_a-Art_P56",
+      "kind": "image",
+      "source": "chapter003_a.xhtml#Art_P56.jpg",
+      "src": "assets/chapters/volume-2/bab-3/Art_P56.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Saika Totsuka berbicara dengan Hachiman di kelas."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p001",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p1",
+      "text": "“Jadi…,” Totsuka memulai, menatapku dengan mata anak anjingnya. “B-bolehkah aku…memanggilmu Hikki juga?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p002",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p2",
+      "text": "“Tidak.” Kenapa dia harus memilih panggilan yang itu, yang menyimpan segala makna memalukan dan suram? Daftar orang yang memanggilku begitu hanya berisi satu nama, dan aku tidak ingin menambahnya.",
+      "emphasis": [
+        {
+          "start": 44,
+          "end": 52,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p003",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p3",
+      "text": "Penolakan datarku sepertinya agak mengecewakan Totsuka, tapi dia berdeham dan mencoba lagi. “Lalu…Hachiman?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p004",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p4",
+      "text": "Jleb! Anak panah langsung menembus jantungku. “U-ucapkan tiga kali lagi!”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p005",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p5",
+      "text": "Totsuka menyeringai malu seolah permintaan gilaku membuatnya bingung. Dia sangat manis ketika dia merasa malu sehingga membuatku malu. “Hachiman,” katanya sambil menatapku seolah ingin mengukur reaksiku. “Hachiman?” Dia memiringkan kepalanya ke samping, ekspresi bingung. “Hachiman! Apakah kamu mendengarkan?!” Dia menggembungkan pipinya dengan sedikit cemberut."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p006",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p6",
+      "text": "Sedikit amarahnya menyadarkanku. Hachiman nakal, nakal. Dia terlalu manis, sampai-sampai tadi aku benar-benar terpesona sejenak. “O-oh, maaf. Tadi kita sedang membicarakan apa?” Aku berusaha menyembunyikan lamunanku sambil mencatat hasil percobaan dalam kepala.",
+      "emphasis": [
+        {
+          "start": 33,
+          "end": 55,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p007",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p7",
+      "text": "Kesimpulan: Totsuka terlihat manis saat dipanggil dengan nama depannya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-Art_orn",
+      "kind": "separator",
+      "source": "chapter003_d.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p008",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p8",
+      "text": "Keriuhan halaman sekolah mereda, dan cahaya matahari terbenam menyinari ruang klub. Semburat sinar terakhir matahari yang tenggelam di Teluk Tokyo mulai melebur ke dalam gelapnya langit jauh di sana."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p009",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p9",
+      "text": "“Hmm… Dan saat kegelapan pun dimulai…,” gumam anak laki-laki itu sambil mengepalkan tinjunya. Kulit dari sarung tangan kulit imitasi tanpa jari berderit saat dia menatap lekat-lekat pada beban seberat satu kilogram yang mengintip dari balik lengan bajunya dan menghela napas. “Sepertinya sudah tiba waktunya untuk melepas segel ini…”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p010",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p10",
+      "text": "Tidak ada yang menjawabnya…meskipun ada tiga orang lain di ruangan itu."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p011",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p11",
+      "text": "Orang yang menatap penuh harap ke arah kami seolah menunggu jawaban adalah Yoshiteru Zaimokuza. Gadis yang memancarkan rasa jijik dalam diam saat dia fokus sepenuhnya pada bukunya adalah Yukino Yukinoshita. Orang yang tergagap, “U-uh…,” dan meminta bantuan pada Yukinoshita dan aku adalah Yui Yuigahama."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p012",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p12",
+      "text": "“Zaimokuza… Apakah kamu…butuh sesuatu?” tanyaku."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p013",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p13",
+      "text": "Yukinoshita menghela napas panjang, lalu melempar tatapan setajam belati kepadaku, seolah berkata, Padahal aku sudah berusaha begitu keras mengabaikannya.",
+      "emphasis": [
+        {
+          "start": 99,
+          "end": 125,
+          "style": "em"
+        },
+        {
+          "start": 133,
+          "end": 154,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p014",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p14",
+      "text": "Hei, aku memang punya pilihan. Bukannya aku benar-benar ingin berbicara dengannya, tapi ini sudah berlangsung sekitar tiga puluh menit. Separah Haunted Housekeeper di Uptaten Towers dalam Dragon Quest V. Kalau tidak kuajak bicara sekarang, situasi ini akan berlarut-larut tanpa akhir.",
+      "emphasis": [
+        {
+          "start": 188,
+          "end": 202,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p015",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p15",
+      "text": "Zaimokuza mengusap ujung hidungnya seolah dia senang aku bertanya dan tertawa, Heh-heh. Menjengkelkan sekali. “Ya, maafkan aku. Sebuah kalimat bagus muncul begitu saja di benakku, jadi tanpa sadar aku menyuarakannya agar aku bisa memahami perasaan dan irama kata-katanya. Heh… Sepertinya aku adalah seorang penulis sampai ke inti tulangku… Aku memikirkan novel-novelku, saat bangun dan tidur. Pena adalah takdirku…”",
+      "emphasis": [
+        {
+          "start": 79,
+          "end": 86,
+          "style": "em"
+        },
+        {
+          "start": 272,
+          "end": 276,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p016",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p16",
+      "text": "Sayangnya, bakat Zaimokuza hanya sebatas bicara besar. Yuigahama dan aku bertukar pandangan kelelahan."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p017",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p17",
+      "text": "Yukinoshita menutup bukunya dengan tegas, dan Zaimokuza tersentak. “Kupikir penulis itu orang yang menciptakan sesuatu. Apa kau sudah menciptakan sesuatu?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p018",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p18",
+      "text": "“Ngaaagh!” Zaimokuza mendongakkan kepala seperti ada sesuatu yang tersangkut di tenggorokannya. Reaksinya yang berlebihan sungguh menyebalkan. Namun, hari itu dia tampak luar biasa percaya diri dan cepat pulih, lalu berdeham dengan bunyi ehem, ehem yang dibuat-buat. “Ehem. Kau tidak akan bisa berkata begitu lama-lama. Akhirnya, sudah kugenggam—jalan menuju El Dorado!”",
+      "emphasis": [
+        {
+          "start": 238,
+          "end": 248,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p019",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p19",
+      "text": "“Apa, apakah kamu sudah memenangkan hadiah?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p020",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p20",
+      "text": "“T-tidak, belum… T-tapi, begitu bukuku selesai, memenangkan penghargaan hanya tinggal menunggu waktu!” Entah kenapa, Zaimokuza bertingkah seakan kemenangannya sudah pasti."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p021",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p21",
+      "text": "Ayolah. Bagian mana dari ucapan itu yang patut dibanggakan? Jika dia akan menjadi seperti itu, maka ketika aku selesai dengan game yang aku kerjakan di RPG Maker, aku akan mengubah jalannya sejarah game Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 210,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p022",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p22",
+      "text": "Zaimokuza melemparkan kembali mantelnya dengan suara gemerisik dan berteriak keras seolah mencoba mengarahkan pembicaraan kembali ke jalurnya. “Ha-ha! Dengarkan dan kagumlah! Aku telah memutuskan untuk pergi ke penerbit untuk kunjungan dunia kerja yang akan datang! Dengan kata lain…kamu mengerti maksudku, kan?”",
+      "emphasis": [
+        {
+          "start": 144,
+          "end": 150,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p023",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p23",
+      "text": "“Tidak, aku tidak mengerti.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p024",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p24",
+      "text": "“Akalmu tumpul, Hachiman. Maksudku adalah kejeniusanku akhirnya akan ketahuan. Ini berarti aku akan punya koneksi!”",
+      "emphasis": [
+        {
+          "start": 106,
+          "end": 113,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p025",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p25",
+      "text": "“Ayolah, kau terlalu optimistis sampai tidak masuk akal. Lebih parah daripada anak kelas dua SMP yang membanggakan kenalannya, seorang kakak kelas berandal.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p026",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p26",
+      "text": "Tapi Zaimokuza tidak memperhatikan apapun yang aku katakan. Dia menatap ke arah yang berlawanan, menyeringai pada dirinya sendiri, dan bergumam: “Dan studionya akan…dan castingnya…” Menyeramkan."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p027",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p27",
+      "text": "Bagaimanapun, meskipun dia pergi ke penerbit, menurutku kualitasnya bervariasi. Namun jika dia sangat yakin bahwa masa depannya akan cerah, tidak ada yang bisa kukatakan padanya. Namun, ada satu hal yang tidak masuk akal. “Zaimokuza, aku terkejut ada orang yang mau mendengarkan tempat kerja yang kamu inginkan.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p028",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p28",
+      "text": "“Mengapa kamu harus berkata seperti itu? Kamu membuatku terdengar serendah semut… Tapi tidak masalah. Kebetulan ada dua orang yang disebut kutu buku yang sedang berlatih untuk ekspedisi yang akan datang. Aku tidak berkata apa-apa. Keduanya memutuskan kami akan tinggal di penerbit, pergi eek-eek-eh-heh-heh selama ini. Keduanya pastilah BL yang sedang populer akhir-akhir ini. Bahkan aku tidak berdaya di hadapan cinta mereka, jadi aku tetap diam agar tidak menyela mereka.”",
+      "emphasis": [
+        {
+          "start": 288,
+          "end": 306,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p029",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p29",
+      "text": "“Seharusnya kau bersikap baik pada orang-orang sepertimu...” Yukinoshita menghela napas, tanpa melihat ke arah Zaimokuza. Namun sarannya tidak akan pernah terwujud. Ada hal-hal yang tidak dapat dikompromikan oleh sebagian orang justru karena kedua belah pihak terpaku pada hal yang sama. Ini seperti perang suci."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p030",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p30",
+      "text": "“Begitu… Kunjungan dunia kerja ya…?” Yuigahama merenung, setiap kata-katanya penuh dengan perasaan. Aku mengintipnya dari sudut mataku, dan dia segera berbalik. Wajahnya merah, dan matanya bergerak cepat sehingga aku ingin memberinya papan untuk digunakan sebagai sasaran. Apakah dia sedang flu atau apa? “Hei, kamu mau pergi ke mana, Hikki?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p031",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p31",
+      "text": "“Rumahku.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p032",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p32",
+      "text": "“Ya, tidak. Itu tidak akan terjadi padamu,” kata Yuigahama dengan acuh, melambaikan tangannya ke depan dan ke belakang sebagai gerakan untuk tidak.",
+      "emphasis": [
+        {
+          "start": 141,
+          "end": 146,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p033",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p33",
+      "text": "Masih terlalu dini untuk menyerah, pikirku… Tapi karena aku tidak ingin Bu Hiratsuka memukulku, aku memutuskan untuk menyerah. Aku sudah menyerah, jadi permainan sudah selesai. “Hmm… Baiklah, aku kira aku akan pergi ke mana pun orang lain di grupku ingin pergi.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 33,
+          "style": "em"
+        },
+        {
+          "start": 127,
+          "end": 176,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p034",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p34",
+      "text": "“Kenapa begitu pasif?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p035",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p35",
+      "text": "“Yah… bagiku selalu sama. Aku terjebak dengan siapa pun yang tersisa pada akhirnya, jadi aku tidak punya hak suara.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p036",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p36",
+      "text": "“Ohhhh—o-oh…eh, maaf.” Seperti biasa, dia menginjak-injak ranjau pribadi aku. Aku yakin dia buruk dalam Minesweeper."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p037",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p37",
+      "text": "Ranjau yang satu itu ada karena, yah, membentuk kelompok bertiga ternyata jauh lebih mengerikan daripada berpasangan. Kalau hanya berdua, kalian bisa sama-sama menelan perasaan dan menerima keadaan dalam diam yang muram. Namun, dalam kelompok bertiga, dua orang akan akrab sendiri, dan orang ketiga yang cuma jadi penggenap bakal terasing sampai ke lubuk hati."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p038",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p38",
+      "text": "“Jadi, kamu tidak pernah memutuskan ke mana kamu akan pergi, kalau begitu,” gumam Yuigahama dengan hmm dan ekspresi jauh.",
+      "emphasis": [
+        {
+          "start": 99,
+          "end": 102,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p039",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p39",
+      "text": "“Apakah kamu sudah memutuskan kemana kamu akan pergi, Yuigahama?” tanya Yukinoshita."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p040",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p40",
+      "text": "“Ya. Aku akan pergi ke tempat yang paling dekat dengan sekolah.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p041",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p41",
+      "text": "“Idemu sama buruknya dengan ide Hikigaya.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p042",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p42",
+      "text": "“Hei, jangan samakan aku dengannya,” protesku. “Keputusan aku untuk tetap tinggal di rumah didasarkan pada cita-cita yang tinggi. Dan ke mana kamu akan pergi? Kantor polisi? Ruang sidang? Atau penjara?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p043",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p43",
+      "text": "“Salah. Sekarang aku cukup mengerti apa yang kamu pikirkan tentang aku.” Yukinoshita terkekeh, seringai di wajahnya sangat dingin."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p044",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p44",
+      "text": "Itulah yang aku bicarakan. Itu. Caramu tersenyum itu menakutkan, serius. Aku sudah memikirkan tujuan-tujuan potensial itu berdasarkan kesanku terhadap Yukinoshita sebagai orang yang intelektual, tapi sepertinya dia tidak tertarik pada salah satu tujuan tersebut. Aneh sekali... Aku tidak bermaksud mengatakan bahwa Yukinoshita itu dingin, kejam, tidak berperasaan, atau semacamnya. Eh-heh-heh. Kenapa dia membalasku dengan senyuman aneh itu?",
+      "emphasis": [
+        {
+          "start": 27,
+          "end": 72,
+          "style": "em"
+        },
+        {
+          "start": 382,
+          "end": 393,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p045",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p45",
+      "text": "“Mungkin…beberapa lembaga think tank atau fasilitas penelitian. Aku akan menentukan pilihanku nanti.” Rupanya, dia belum memutuskan, karena dia hanya memberi kami gambaran singkat tentang bidang umum yang dia tuju. Tapi, kalau dilihat dari kepribadiannya yang tenang dan serius, aku bisa dengan mudah membayangkan ke mana dia akan pergi."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p046",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p46",
+      "text": "Saat itu, aku merasakan seseorang menarik lengan blazerku. Apa ini, sejenis setan penarik lengan? Aku bertanya-tanya, dan saat aku menoleh, di sana ada Yuigahama. Dia diam-diam mendekatkan wajahnya ke wajahku, mendekatkan bibirnya ke telingaku. Bau manisnya yang tak ada gunanya dan rambutnya yang berkilau menyentuh bagian belakang leherku membuatku menggigil. Ini pertama kalinya aku merasakan dia sedekat ini. Darah mengalir deras ke hatiku dengan sangat deras hingga memekakkan telinga. “H-Hikki…” Nafas manis dari gumaman geli di telingaku membuatku merasa gatal. Kini setelah dia berada cukup dekat sehingga aku bisa merasakan napasnya di kulitku, aku hampir bisa mendengar detak jantung kami berdua.",
+      "emphasis": [
+        {
+          "start": 59,
+          "end": 97,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p047",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p47",
+      "text": "Bagaimana jika…mungkin…jantungku berdebar seperti ini karena…?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 62,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p048",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p48",
+      "text": "“A-apa itu think tank? Perusahaan tank?” Dia mengucapkan think tank seperti nenek-nenek.",
+      "emphasis": [
+        {
+          "start": 11,
+          "end": 21,
+          "style": "em"
+        },
+        {
+          "start": 57,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p049",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p49",
+      "text": "Tidak. Aku kira itu hanya aritmia."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p050",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p50",
+      "text": "“Yuigahama.” Yukinoshita menghela napas, terlihat jengkel, dan Yuigahama menjauh dariku. “Dengar, think tank itu…” Dia mulai menjelaskan, dan Yuigahama mendengarkan dengan antusias sambil bergumam hmm. Keduanya masuk ke suasana belajar santai.",
+      "emphasis": [
+        {
+          "start": 197,
+          "end": 200,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p051",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p51",
+      "text": "Mengamati mereka dengan pandangan sekilas, aku memfokuskan kembali perhatianku pada tugas penting membaca manga shoujo milikku.",
+      "emphasis": [
+        {
+          "start": 112,
+          "end": 118,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p052",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p52",
+      "text": "Sekitar lima belas menit berlalu setelah Yukinoshita selesai menjelaskan lembaga think tank dan hal-hal sepele terkait Yuigahama. Matahari terbenam sudah mendekati laut. Dari ruang klub di lantai empat, kamu dapat melihat pemandangan air yang bersinar dan berkilauan di kejauhan. Jika kamu melihat ke bawah, kamu akan melihat tim bisbol menyapu berlian, tim sepak bola membawa jaringnya, dan tim lari menyingkirkan rintangan dan matrasnya. Tampaknya waktu klub telah berakhir. Aku melirik jam di dinding, dan Yukinoshita secara bersamaan menutup bukunya. Ketika dia melakukannya, Zaimokuza tersentak. Ayolah, kamu terlalu gelisah saat berada di dekatnya.",
+      "emphasis": [
+        {
+          "start": 601,
+          "end": 654,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p053",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p53",
+      "text": "Aku tidak bisa mengatakan dengan pasti kapan peraturan ini dibuat, tapi Yukinoshita menutup bukunya telah menjadi sinyal bagi kami bahwa waktu klub telah berakhir. Yuigahama dan aku segera bersiap untuk keberangkatan kami."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p054",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p54",
+      "text": "Pada akhirnya, tidak ada seorang pun yang datang pada hari itu untuk berkonsultasi dengan kami. Kenapa hanya Zaimokuza yang muncul? Tidak ada yang menginginkan dia di sana. Kupikir aku akan makan ramen dalam perjalanan pulang dan kemudian pulang. Berpikir tentang makan malam, aku memutuskan untuk makan ringan di Houraiken. Ini adalah toko ramen bergaya Niigata, dan kuahnya yang ringan dan menyegarkan adalah yang terbaik. Itu juga merupakan toko yang Zaimokuza ceritakan kepadaku. Aduh, mulutku berair."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p055",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p55",
+      "text": "Saat itulah hal itu terjadi. Terdengar ketuk, ketuk yang berirama menyenangkan di pintu.",
+      "emphasis": [
+        {
+          "start": 39,
+          "end": 51,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p056",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p56",
+      "text": "“Sekarang?” Waktu makan ramenku yang menyenangkan terhenti, aku mendapati diriku berada dalam suasana hati yang buruk dan menatap jam. Seandainya aku berada di rumah, aku akan kembali ke kebiasaan berpura-pura tidak berada di sana. Aku menatap ke arah Yukinoshita seolah bertanya, Jadi apa yang harus kita lakukan? Tapi…",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 10,
+          "style": "em"
+        },
+        {
+          "start": 281,
+          "end": 314,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p057",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p57",
+      "text": "“Masuk.” Yukinoshita bereaksi terhadap ketukan di pintu tanpa melirikku sedikit pun. Meskipun tamu kami jelas-jelas kurang bijaksana, Yukinoshita tidak mau kalah dalam hal ini. Tidak, dia mungkin menang di sana."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p058",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p58",
+      "text": "“Permisi.” Suaranya sejuk dan menenangkan; laki-laki."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p059",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p59",
+      "text": "Siapa orang ini, yang menerobos masuk untuk menolak ramenku? Aku mengarahkan tatapan kesal ke pintu dan terkejut dengan siapa yang melangkah masuk. Itu adalah seseorang yang seharusnya tidak berada di sana."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-Art_orn-2",
+      "kind": "separator",
+      "source": "chapter003_d.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p060",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p60",
+      "text": "Dia pria yang cukup tampan. Saking parahnya, aku tidak tahu bagaimana mendeskripsikannya selain tampan. Rambutnya ditata menjadi bergelombang. Semacam bingkai bergaya cocok dengan kacamata trendinya, dan mata di belakangnya terlihat langsung. Ketika mereka bertemu denganku, dia menyeringai. Tanpa disadari, aku membalas senyuman yang dipaksakan. Dia sangat tampan sehingga aku secara naluriah mengenali inferioritas aku sendiri."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p061",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p61",
+      "text": "“Maaf datang jam segini. Aku ingin meminta bantuan kamu.” Dia meletakkan tas bahu Umbro-nya di lantai dan bertanya, “Apakah di sini baik-baik saja?” seolah-olah itu adalah hal yang paling wajar di dunia, sebelum melanjutkan dengan menarik kursi di depan Yukinoshita. Setiap gerakan membuatnya terlihat jauh lebih menarik. “Aku hanya belum bisa lolos dari latihan. Waktu klub dibatalkan selama seminggu sebelum ujian, jadi mereka ingin memastikan kita menyelesaikan setiap latihan hari ini. Maaf.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p062",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p62",
+      "text": "Kurasa begitulah rasanya dibutuhkan. Kalau aku pulang lebih awal dari klub, bukan hanya tak ada yang menghentikan, bahkan tak ada yang akan sadar aku pergi. Serius, aku ini ninja atau apa?",
+      "emphasis": [
+        {
+          "start": 157,
+          "end": 188,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p063",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p63",
+      "text": "Meskipun dia bilang dia sibuk dengan latihan, aku tidak mencium bau keringat di tubuhnya. Sebaliknya, aroma jeruk yang menyegarkan tercium darinya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p064",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p64",
+      "text": "“Cukup dengan kesombongannya.” Kata-kata Yukinoshita seperti sebuah tamparan di wajahnya yang ceria. Entah kenapa, dia tampak sedikit lebih kasar dari biasanya. “Kamu datang ke sini karena kamu menginginkan sesuatu. Benar kan, Hayato Hayama?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p065",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p65",
+      "text": "Meskipun nada suara Yukinoshita dingin, senyum Hayato Hayama tidak goyah. “Oh itu benar. Ini adalah Klub Layanan, kan? Bu Hiratsuka memberitahuku bahwa jika aku memerlukan bantuan untuk masalah apa pun, aku harus datang ke sini.” Saat dia berbicara, entah kenapa, angin segar bertiup dari jendela. Apakah dia mempunyai kekuatan angin mistis atau apa? “Maaf datang terlambat. Kalau Yui dan kalian semua punya rencana setelah ini, aku bisa datang lain kali.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p066",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p66",
+      "text": "Menanggapi ucapannya, Yuigahama menyeringai dengan cara yang dangkal dan familier. Rupanya, kebiasaannya dalam berinteraksi dengan kasta atas tidak begitu saja ditinggalkan:"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p067",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p67",
+      "text": "“O-oh, tidak, kamu tidak perlu melakukan itu! Lagipula kamu adalah yang akan segera menjadi kapten tim sepak bola. Kamu pasti akan terlambat.”",
+      "emphasis": [
+        {
+          "start": 60,
+          "end": 66,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p068",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p68",
+      "text": "Tapi Yuigahama mungkin satu-satunya yang merasakan hal itu. Yukinoshita tampak tegang, dan Zaimokuza diam-diam berusaha menunjukkan sikap tegas dan keras."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p069",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p69",
+      "text": "“Hei, maaf juga padamu, Zaimokuza.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p070",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p70",
+      "text": "“Eugh?! P-pfagh, uh, er, a-aku selesai di sini sekarang, um, aku baru saja pergi…” Getaran permusuhan yang Zaimokuza coba pancarkan menghilang begitu Hayama memanggilnya. Zaimokuza malah melakukan hal yang sebaliknya, dia mulai bertingkah seolah-olah dialah orang yang salah. Koff, koff, koff. “Hachiman! Selamat tinggal!” Zaimokuza terbelah sebelum kata-kata itu keluar dari mulutnya. Namun, dia tampak sangat pusing untuk seorang pria yang melarikan diri.",
+      "emphasis": [
+        {
+          "start": 276,
+          "end": 293,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p071",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p71",
+      "text": "Zaimokuza, aku paham perasaan itu sangat menyakitkan. Aku tidak tahu kenapa, tapi saat sampah seperti kami bertemu dengan anggota elit, kami mengerut. Kami menyingkir untuk mereka di lorong, dan jika salah satu dari mereka berkenan berbicara dengan kami, tingkat kegagapan kami akan mencapai sekitar 80 persen. kamu mungkin mengira hal ini akan membuat kita semakin kesal dan iri pada mereka, namun kenyataannya tidak demikian. Kami sebenarnya sedikit senang jika salah satu dari mereka mengingat nama kami.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 53,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p072",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p72",
+      "text": "Orang seperti Hayama mengetahui nama aku—mengenal aku. Pengakuan ini mengembalikan rasa harga diri aku.",
+      "emphasis": [
+        {
+          "start": 50,
+          "end": 54,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p073",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p73",
+      "text": "“…dan Hikitani juga. Maaf sudah datang jadi terlambat.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p074",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p74",
+      "text": "“…Tidak, tidak apa-apa.” Namaku adalah satu-satunya nama yang dia salah! Hei, harga diriku masih hilang. “Ngomong-ngomong, bukankah kamu datang ke sini karena suatu alasan?” Bukannya secara tidak sadar aku berusaha mempercepat hal ini karena aku benci dia karena salah menyebut namaku atau semacamnya… Jujur! Aku sangat tertarik dengan masalah Hayama. Sejujurnya aku hanya bingung dengan masalah apa yang mungkin dihadapi oleh seseorang yang berada pada tingkat sosial tertinggi di sekolah ini. Hal ini sama sekali tidak dimotivasi oleh keinginan untuk menemukan kelemahannya atau menggunakan informasi tersebut untuk pemerasan. Aku tidak mempunyai perasaan dasar seperti itu, tidak sama sekali."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p075",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p75",
+      "text": "“Oh, iya, soal itu,” kata Hayama sambil mendadak mengeluarkan ponselnya. Jari-jarinya bergerak cepat klik-klik di atas tombol, membuka layar surel, lalu menunjukkannya kepadaku.",
+      "emphasis": [
+        {
+          "start": 101,
+          "end": 110,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p076",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p76",
+      "text": "Yukinoshita dan Yuigahama mencondongkan tubuh untuk mengintip dari kedua sisi. Memiliki tiga orang di depan layar seukuran telapak tangan terasa ramai dan berbau terlalu harum serta membuat aku merasa tidak nyaman. Aku membiarkan mereka berdua mengambil tempatku, dan Yuigahama diam-diam berseru, “Oh…”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p077",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p77",
+      "text": "“Ada apa?” Aku bertanya, dan Yuigahama mengambil ponselnya dan menunjukkannya kepadaku. Ada pesan di dalamnya yang mirip dengan pesan Hayama."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p078",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p78",
+      "text": "Email tersebut mungkin disebut sebagai pencemaran nama baik secara anonim. Dan itu bukan hanya satu. Setiap kali jari Yuigahama bergerak, serangkaian pesan kebencian serupa bergulir ke bawah layar. Semuanya mungkin adalah akun kaus kaki, karena ada pesan fitnah dan pencemaran nama baik dari banyak pengirim. Hal-hal seperti Tobe adalah anggota geng jalanan di Inage dan menargetkan anak-anak dari SMA Nishi di arcade. Atau Yamato adalah SOB yang kotor dan sering melakukan tiga kali. Atau Ooka sengaja bermain kotor di pertandingan latihan dengan sekolah lain untuk menjatuhkan pemain bintang mereka. Pada dasarnya hal-hal seperti itu. Ada berton-ton sekali, dan tidak ada satupun yang bisa diverifikasi. Meskipun sebagian besar berasal dari kaus kaki, beberapa diteruskan dari orang-orang yang tampaknya adalah teman sekelasnya.",
+      "emphasis": [
+        {
+          "start": 325,
+          "end": 418,
+          "style": "em"
+        },
+        {
+          "start": 424,
+          "end": 484,
+          "style": "em"
+        },
+        {
+          "start": 490,
+          "end": 601,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p079",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p79",
+      "text": "“Hei, apa…?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p080",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p80",
+      "text": "Yuigahama mengangguk dalam diam. “Aku sudah memberitahumu sebelumnya, bukan? Tentang hal-hal yang terjadi di kelas kita.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p081",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p81",
+      "text": "“Email berantai, hmm?” Yukinoshita, yang selama ini hanya diam, berbicara."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p082",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p82",
+      "text": "E-mail berantai, seperti namanya, beredar berputar-putar seperti sebuah rantai. Biasanya, email tersebut dilengkapi dengan petunjuk di akhir seperti Tolong teruskan ini ke lima orang. Ini sangat mirip dengan ‘surat berantai’ di masa lalu, surat analog lama yang berbunyi, Jika kamu tidak mengirimkan surat ini ke lima orang dalam waktu tiga hari, kamu akan menemui kemalangan besar. kamu dapat menganggap email berantai sebagai pengulangan digital.",
+      "emphasis": [
+        {
+          "start": 149,
+          "end": 183,
+          "style": "em"
+        },
+        {
+          "start": 272,
+          "end": 382,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p083",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p83",
+      "text": "Melihat pesan itu lagi, Hayama meringis. “Sejak hal ini mulai beredar, banyak hal yang terasa tidak menyenangkan di kelas. Itu membuatku marah melihat hal-hal buruk ditulis tentang teman-temanku juga.” Hayama sama jengkelnya dengan penjahat anonim ini seperti yang dialami Yuigahama sebelumnya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p084",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p84",
+      "text": "Tidak ada yang lebih menakutkan daripada empedu yang terselubung. Jika seseorang muncul di depan kamu dan berbicara kasar, kamu dapat memukulnya atau membalasnya dengan menghina untuk melampiaskannya. Ada juga pilihan untuk menahan perasaan kesal kamu terhadap orang tersebut dan mengubah stres tersebut menjadi hal lain. Emosi gelap semacam itu diberkahi dengan banyak energi yang dapat kamu salurkan ke sesuatu yang positif. Tapi ketika kamu tidak punya musuh yang bisa dijadikan penerima semua kebencian, kecemburuan, dan rasa haus balas dendammu, semua itu hanya terasa samar dan tidak jelas."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p085",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p85",
+      "text": "“Aku ingin menghentikannya, tahu? Hal semacam ini tidak baik,” kata Hayama menegaskan, sambil menambahkan dengan riang, “Oh, tapi aku tidak bermaksud ingin menghentikan siapa pun yang berbuat aku ingin mencari cara untuk menyelesaikan masalah ini dengan damai. Apakah menurut kamu kamu dapat membantu aku?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p086",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p86",
+      "text": "Itu dia. Dia baru saja menggunakan jurus pamungkasnya: Zona.",
+      "emphasis": [
+        {
+          "start": 55,
+          "end": 60,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p087",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p87",
+      "text": "Biar aku jelaskan. Zona adalah keterampilan karakter yang hanya dimiliki oleh orang normal, dan karakteristiknya yang paling menonjol adalah bagaimana ia mengatur segalanya agar berjalan dengan baik. Tidak seperti orang normal biasa (LOL) yang mengungkap kebodohan mereka dengan sedikit pemikiran dan membuang seluruh waktunya untuk hiburan yang dangkal dan sia-sia, orang normal sejati dipenuhi dalam kehidupan nyata dengan cara yang nyata. Oleh karena itu, mereka tidak memandang rendah siapa pun; nyatanya, mereka baik terhadap orang yang dianggap remeh oleh orang lain. Standar untuk membedakan keduanya adalah Apakah mereka baik pada Hachiman Hikigaya? Menurutku Hayama cukup baik. Maksudku, dia akan benar-benar berbicara denganku—walaupun dia salah menyebut namaku.",
+      "emphasis": [
+        {
+          "start": 19,
+          "end": 23,
+          "style": "em"
+        },
+        {
+          "start": 615,
+          "end": 657,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p088",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p88",
+      "text": "Pada dasarnya, menurutku kamu bisa menyebut Zona sebagai suasana unik yang dimiliki oleh orang-orang baik dan karismatik. Sederhananya, Hayama adalah orang yang baik dan penuh perhatian. Sederhananya, dia tidak berguna dan penuh senyum kurang ajar. Dengan kata lain, dia adalah seorang pengecut. Tapi menurutku dia adalah pria yang baik.",
+      "emphasis": [
+        {
+          "start": 44,
+          "end": 48,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p089",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p89",
+      "text": "Dihadapkan pada kekuatan spesial Hayama, Yukinoshita tampak merenung sejenak sebelum membuka mulutnya. “Dengan kata lain, kamu ingin kami membuat rencana untuk menghadapi situasi ini?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p090",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p90",
+      "text": "“Ya, begitulah idenya.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p091",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p91",
+      "text": "“Kalau begitu kita harus menemukan pelakunya.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p092",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p92",
+      "text": "“Oke, bagus…hah?! Tunggu, kenapa kita harus melakukan itu?” Hayama jelas tidak memperhatikan ke mana arah pembicaraannya. Untuk sesaat, dia terlihat terkejut, tapi dia segera menenangkan diri sambil dengan tenang meminta Yukinoshita untuk menjelaskan lebih lanjut."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p093",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p93",
+      "text": "Berbeda dengan Hayama, wajah Yukinoshita sedingin es saat dia mulai berbicara pelan, memilih kata dengan hati-hati. “Menyebarkan surel berantai adalah perilaku manusia paling buruk, yang menginjak-injak martabat manusia. Mereka menyebarkan fitnah dan pencemaran nama baik semata-mata untuk menyakiti orang lain, sambil menyembunyikan identitas sendiri. Bagian paling kejamnya, orang yang meneruskan kejahatan itu belum tentu punya niat jahat. Rasa ingin tahu, bahkan terkadang niat baik, membuat mereka menyebarkannya lebih jauh, dan jaring kejahatan pun meluas. Kalau ingin menghentikannya, kau harus mencabutnya sampai ke akar. Kurang dari itu tidak akan berpengaruh. Sumber: aku.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p094",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p94",
+      "text": "“Jadi, kamu berbicara dari pengalaman pribadi, ya?” Aku berharap Yukinoshita berhenti mengekspos ladang ranjau pribadinya seperti itu. Nada suaranya tenang, tapi aku bisa melihat api gelap berkobar di punggungnya. Rasanya seperti adegan yang pantas mendapatkan efek suara yang tidak menyenangkan."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p095",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p95",
+      "text": "“Apa sih asyiknya menyebarkan konten yang merendahkan orang lain? Menurutku, hal itu sama sekali tidak menguntungkan Sagawa atau Shimoda.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p096",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p96",
+      "text": "“Jadi, kamu bahkan sampai tahu siapa pelakunya.” Yuigahama memaksakan senyum kaku dan canggung. Inilah sebabnya memusuhi orang berkemampuan tinggi itu menakutkan."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p097",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p97",
+      "text": "“Kalau begitu, sekolahmu pasti sangat canggih,” kataku. “Di sekolahku tidak ada hal seperti itu.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p098",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p98",
+      "text": "“Kau hanya berpikir seperti itu karena tidak ada seorang pun yang menanyakan e-mailmu,” tukas Yukinoshita."
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p099",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p99",
+      "text": "“Apa?! Hei! Dasar kurang ajar! Aku cuma menjaga kerahasiaan! Kau tidak pernah dengar Undang-Undang Perlindungan Informasi Pribadi?!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_d-p100",
+      "kind": "text",
+      "source": "chapter003_d.xhtml#p100",
+      "text": "“Itu adalah cara baru untuk menafsirkan undang-undang tersebut.” Sambil memutar matanya, Yukinoshita mengibaskan rambut di bahunya ke belakang."
+    },
+    {
+      "id": "v2-bab-3-chapter003_e-Art_P68",
+      "kind": "image",
+      "source": "chapter003_e.xhtml#Art_P68.jpg",
+      "src": "assets/chapters/volume-2/bab-3/Art_P68.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yukino Yukinoshita menoleh dengan rambut panjang tergerai."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p001",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p1",
+      "text": "Tapi itu mungkin adalah alasan mengapa aku tidak pernah terjebak dalam keruwetan email berantai seperti itu. Tak seorang pun akan menanyakan alamat email aku kepada aku. Inilah perbedaan antara Yukinoshita dan aku. Dia terkena semua hal buruk ini, tapi aku bahkan tidak layak untuk itu. Jika hal seperti itu terjadi padaku, bukan saja aku tidak akan pernah menemukan pelakunya, aku mungkin akan pulang ke rumah dan mengeluh pada diriku sendiri sambil membasahi bantalku dengan air mata.",
+      "emphasis": [
+        {
+          "start": 5,
+          "end": 8,
+          "style": "em"
+        },
+        {
+          "start": 165,
+          "end": 168,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p002",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p2",
+      "text": "“Bagaimanapun, siapa pun yang melakukan perilaku tercela seperti itu pasti akan dibawa ke kehancuran. Mata ganti mata, gigi ganti gigi, dan permusuhan sebagai respons terhadap permusuhan adalah milikku filsafat.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p003",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p3",
+      "text": "Yuigahama menjadi bersemangat. Rupanya, dia mengenali pepatah itu dari suatu tempat. “Oh! Kita mempelajarinya hari ini dalam sejarah dunia! Itu Magna Carta, kan?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p004",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p4",
+      "text": "“Itu adalah Kode Hammurabi,” jawab Yukinoshita dengan lembut sebelum beralih ke Hayama lagi. “Aku akan mencari pihak yang bersalah. Aku yakin beberapa kata pilihan akan cukup untuk menghentikan tindakan mereka. Apa yang terjadi setelah itu aku serahkan pada kebijaksanaan kamu. Apakah kamu setuju?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p005",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p5",
+      "text": "“Iya, tidak apa-apa,” kata Hayama, seolah pasrah."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p006",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p6",
+      "text": "Sebenarnya aku sependapat dengan Yukinoshita dalam hal ini. Bajingan ini sengaja menggunakan banyak akun berbeda untuk mengirim email tersebut, yang berarti mereka sengaja menyembunyikan identitasnya karena takut terekspos. Jika mereka diseret ke tempat terbuka, mereka mungkin akan berhenti. Pada dasarnya, menemukan pelanggar adalah cara tercepat untuk memperbaikinya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p007",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p7",
+      "text": "Yukinoshita menatap tajam ke ponsel yang Yuigahama tinggalkan di meja, meletakkan tangannya di dagunya dalam pose Pemikir semu. “Kapan email pertama kali dikirim?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p008",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p8",
+      "text": "“Akhir minggu lalu. Benar, Yui?” Hayama meminta verifikasi dari Yuigahama, yang mengangguk."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p009",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p9",
+      "text": "Tunggu sebentar… Jadi Hayama memanggil Yuigahama dengan nama depannya, ya? Aku merasa seperti…pria yang berada di peringkat teratas di sekolah tentu saja akan menggunakan nama depan perempuan. Aku pasti akan tergagap dan tersedak. Meskipun aku harus sedikit menghormatinya karena mampu melakukan sesuatu yang memalukan sambil tetap terlihat keren, aku juga agak…kesal. Sialan—apakah kamu orang Amerika atau apa?!",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 74,
+          "style": "em"
+        },
+        {
+          "start": 369,
+          "end": 412,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p010",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p10",
+      "text": "“Jadi tiba-tiba mereka mulai sekitar akhir minggu lalu, hmm?” renung Yukinoshita. “Yuigahama, Hayama, apa yang terjadi di kelas saat itu?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p011",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p11",
+      "text": "“Menurutku tidak ada sesuatu yang khusus,” kata Hayama."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p012",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p12",
+      "text": "“Ya…sama seperti biasanya, kan?” Yuigahama dan Hayama bertukar pandangan bingung."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p013",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p13",
+      "text": "“Aku mungkin juga bertanya padamu, Hikigaya. Bagaimana denganmu?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p014",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p14",
+      "text": "“Apa maksudmu ‘mungkin juga’?” Aku satu kelas dengan mereka! Yah, aku memang melihat segala sesuatunya dari sudut pandang yang berbeda dari sudut pandang mereka, jadi mungkin ada beberapa hal yang hanya bisa kuperhatikan. Sekitar akhir minggu lalu ya…? Dengan kata lain, itu adalah sesuatu yang baru. Aku mencoba memikirkan hal-hal yang terjadi baru-baru ini…baru-baru ini…tapi tidak ada satupun yang terlintas dalam pikiranku. Kurasa jika kamu mempertimbangkan sesuatu dari kemarin, saat itulah aku memanggil Totsuka dengan nama depannya untuk pertama kalinya, tapi hanya itu saja.",
+      "emphasis": [
+        {
+          "start": 475,
+          "end": 482,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p015",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p15",
+      "text": "Menemukan keberanian",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 20,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p016",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p16",
+      "text": "untuk memanggilmu Saika, aku ditemukan",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 38,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p017",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p17",
+      "text": "kamu sangat manis.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 18,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p018",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p18",
+      "text": "Jadi kemarin sekarang adalah",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 28,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p019",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p19",
+      "text": "Ulang Tahun kamu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 17,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p020",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p20",
+      "text": "Kalau dipikir-pikir, kenapa aku bicara lagi dengan Totsuka? Saat pikiran itu terlintas di benakku, aku tiba-tiba teringat. “Ada satu hal kemarin… Semua orang membicarakan tentang pembentukan kelompok untuk kunjungan dunia kerja.” Yup, kelucuan Totsuka terungkap dari percakapan itu."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p021",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p21",
+      "text": "Kesadaran ini memicu sesuatu di otak Yuigahama. “Ack! Itu dia! Itu karena kita dibagi menjadi beberapa kelompok!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p022",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p22",
+      "text": "“Hah? Itu sebabnya?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p023",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p23",
+      "text": "“Hah? Itu sebabnya?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p024",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p24",
+      "text": "Lihat itu, kami adalah klon komentar! Hayama menyeringai dan mengatakan “kutukan” atau semacamnya yang tidak kupedulikan."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p025",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p25",
+      "text": "Yang bisa kukatakan hanyalah “Y-ya…”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p026",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p26",
+      "text": "Tetapi jika Hayama dan aku adalah klon, itu berarti aku juga seorang normie. QED. Atau tidak."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p027",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p27",
+      "text": "Hayama memusatkan perhatiannya pada Yuigahama, dan dia merasa gugup saat dia menjelaskan lebih lanjut. “Yah...karena membagi menjadi beberapa kelompok untuk karyawisata besar seperti ini akan mempengaruhi hubungan kalian setelahnya. Beberapa orang menjadi sangat cemas tentang hal itu...” Ekspresi Yuigahama berubah menjadi gelap, dan Hayama serta Yukinoshita memandangnya seolah-olah bingung."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p028",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p28",
+      "text": "Itu mungkin bukan sesuatu yang harus Hayama hadapi, dan karena Yukinoshita tidak peduli dengan hal itu, kemungkinan besar dia tidak akan mengerti. itu. Tapi aku mengerti. Ini adalah Yuigahama, gadis yang selalu khawatir dengan apa yang orang lain pikirkan tentang dirinya, gadis yang selamat dari jaringan rumit dan misterius yang merupakan hubungan manusia, jadi kata-katanya mengandung bobot."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p029",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p29",
+      "text": "Yukinoshita berdehem seolah ingin mengalihkan pembicaraan. “Hayama, kamu bilang pesan-pesan ini tentang teman-temanmu, kan? Jadi kamu akan pergi dengan siapa untuk kunjungan kerja?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p030",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p30",
+      "text": "“O-oh, ya… Kalau kamu menyebutkannya, aku belum memutuskan. Sepertinya aku akan berakhir dengan beberapa pria dari kelompok threesome biasa.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p031",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p31",
+      "text": "“Sepertinya aku sudah mengetahui siapa orang itu…,” kata Yuigahama, ekspresinya agak sedih."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p032",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p32",
+      "text": "“Bisakah kamu menjelaskannya?” tanya Yukinoshita."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p033",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p33",
+      "text": "“Ya, pada dasarnya, dia punya sekelompok pria yang selalu bersamanya, tapi salah satu dari mereka akan ditinggalkan, kan? Satu dari empat pria itu tidak akan diikutsertakan. Menjadi satu-satunya yang digantung itu menyebalkan.” Dia mengatakan ini seolah-olah berbicara dari pengalaman pribadi. Semua orang terdiam."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p034",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p34",
+      "text": "Untuk menemukan penjahat, sebaiknya mulai dengan motifnya. Jika kamu dapat memikirkan seseorang yang akan mendapat manfaat dari tindakan tersebut, itulah jawabannya. Dalam situasi ini, motifnya tidak boleh diabaikan. Di kelas kami, Hayama adalah bagian dari kelompok empat anak laki-laki. Maka masuk akal jika mereka harus membentuk kelompok yang terdiri dari tiga orang, satu orang tidak akan berhasil masuk. Siapa pun yang tidak ingin menjadi orang yang tersingkir tidak punya pilihan selain memasukkan orang lain. Mungkin begitulah yang dilihat oleh penyerang dunia maya.",
+      "emphasis": [
+        {
+          "start": 194,
+          "end": 215,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p035",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p35",
+      "text": "“Kalau begitu, apakah benar jika kita berasumsi bahwa pelakunya adalah salah satu dari ketiga orang tersebut?” Yukinoshita menyimpulkan."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p036",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p36",
+      "text": "Hayama, yang jarang sekali meninggikan suaranya, kini melakukan hal yang sama. “T-tunggu sebentar! Aku tidak ingin berpikir salah satu dari mereka melakukan ini. Ditambah lagi, email-email ini mengecam semua orang di grup, kamu tahu? Bagaimana mungkin salah satu dari mereka melakukan itu?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p037",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p37",
+      "text": "“Ha! Apakah kamu bodoh?” aku bertanya. “Seberapa besar dirimu yang bermata polos? Apakah kamu seorang karakter anime atau apa? Pelakunya akan melakukannya untuk mengalihkan kecurigaan, huh. Meskipun jika itu aku, aku akan dengan sengaja memilih seseorang dan tidak mengatakan apa pun hanya untuk membuatnya terlihat seperti mereka yang melakukannya.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p038",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p38",
+      "text": "“Kamu orang yang buruk, Hikki.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p039",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p39",
+      "text": "Tolong panggil aku penjahat halus.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p040",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p40",
+      "text": "Hayama menggigit bibirnya karena frustrasi. Dia mungkin tidak pernah membayangkan hal seperti ini, bahwa ada kebencian yang begitu dekat, perasaan gelap muncul di balik senyuman yang memikat itu."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p041",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p41",
+      "text": "“Untuk saat ini, bisakah kamu memberi tahu kami tentang orang-orang ini?” Yukinoshita meminta."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p042",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p42",
+      "text": "Hayama mengangkat kepalanya seolah sudah bertekad. Ada keyakinan di matanya. Hal itu mungkin dimotivasi oleh keinginan mulia untuk membersihkan nama teman-temannya. “Tobe ada di klub sepak bola, seperti aku. Dia punya rambut pirang, dan dia terlihat seperti pria tangguh, tapi sebenarnya dia sangat pandai menciptakan suasana hati yang ceria. Dia melakukan yang terbaik untuk membantu festival budaya, atletik, dan sebagainya. Dia pria yang baik.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p043",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p43",
+      "text": "“Jadi, dia tipe tukang pesta yang sembrono, tanpa bakat selain membuat keributan?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p044",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p44",
+      "text": "Pernyataan Yukinoshita membuat Hayama terdiam."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p045",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p45",
+      "text": "“Hmm? Ada apa, Lanjutkan?” Yukinoshita mendesak Hayama, bingung dengan sikapnya yang tiba-tiba terdiam."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p046",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p46",
+      "text": "Hayama menenangkan diri dan melanjutkan ke profil karakter berikutnya. “Yamato anggota klub rugby. Dia berkepala dingin dan pendengar yang baik. Menurutku dia adalah tipe orang yang tenang, santai, dan pendiam, dan itu membuat orang merasa nyaman. Dia pemalu dan agak berhati-hati. Dia pria yang baik.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p047",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p47",
+      "text": "“Bodoh dan tidak tegas...”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p048",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p48",
+      "text": "Hayama terdiam dan memancarkan ketidaksetujuan. Lalu dia menghela napas dan melanjutkan. “Ooka ada di klub bisbol. Dia baik, ramah, dan selalu siap membantumu. Dia juga sopan dan penuh hormat. Dia pria yang baik.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p049",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p49",
+      "text": "“Hormat dan selalu khawatir dengan apa yang dipikirkan orang lain, hmm?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p050",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p50",
+      "text": "Hayama tidak satu-satunya yang kehilangan kata-kata. Yuigahama dan aku sama-sama menonton dengan ternganga. Yukinoshita, wah. Aku mulai berpikir bahwa pekerjaan idealnya adalah seorang jaksa."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p051",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p51",
+      "text": "Hal yang paling menakutkan adalah bahwa penilaiannya belum tentu salah. Perspektif dapat berdampak besar pada kesan kamu terhadap seseorang. Hayama selalu mengambil pandangan optimis, dan itu membuatnya menjadi bias. Di sisi lain, Yukinoshita menghindari semua itu sebisa mungkin, jadi kesannya tentu saja tidak masuk akal. Sangat asin. Kamu bisa mendalami pendapatnya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p052",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p52",
+      "text": "Yukinoshita hmm sambil menatap catatan yang dia buat. “Salah satu dari mereka bisa menjadi pelakunya…”",
+      "emphasis": [
+        {
+          "start": 12,
+          "end": 15,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p053",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p53",
+      "text": "“Yah, kemungkinan besar kamu adalah pelakunya di sini. Atau itu hanya imajinasi aku?” aku berkomentar. Beraninya dia menafsirkan orang dengan kasar? Bisa dibilang, dia bahkan lebih kejam dari siapapun yang menulis email tersebut."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p054",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p54",
+      "text": "Terlihat sangat tersinggung, Yukinoshita meletakkan tangannya di pinggulnya dan menatap tajam dengan marah. “Aku tidak akan pernah melakukan hal seperti itu. Aku akan menghancurkan seseorang secara langsung.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p055",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p55",
+      "text": "Apakah gadis ini tidak menyadari bahwa meskipun metode mereka berbeda, tujuannya untuk “menghancurkan” sama persis dengan tujuan dalang kita? Tapi ini adalah Yukinoshita, jadi aku tidak terkejut bahwa gagasan untuk berdamai bahkan tidak terlintas dalam pikirannya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p056",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p56",
+      "text": "Setelah begitu banyak pukulan dari Yukinoshita, Hayama memasang senyum canggung di wajahnya seolah dia tidak tahu apakah dia harus marah atau kesal. Yukinoshita adalah Yukinoshita, tapi Hayama juga Hayama. Pada akhirnya, yang ia miliki hanyalah informasi yang tidak berharga dan dangkal. Kupikir dia adalah pria yang baik, tapi sudut pandangnya sangat berbeda dari kita sehingga dia tidak cocok untuk mencari pelakunya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p057",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p57",
+      "text": "Mungkin Yukinoshita juga memikirkan hal yang sama, lalu dia berbalik untuk menanyakan pendapat kami. “Menurutku informasi Hayama tidak akan berguna. Yuigahama, Hikigaya. Apa pendapatmu tentang mereka?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p058",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p58",
+      "text": "“Hah? A-aku tidak tahu bagaimana menjawabnya...,” Yuigahama tergagap."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p059",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p59",
+      "text": "“Aku tidak begitu mengenal mereka.” Sebenarnya aku tidak begitu mengenal satupun siswa di sekolah ini. Aku tidak punya teman dan hanya punya beberapa kenalan lagi."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p060",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p60",
+      "text": "“Kalau begitu, bisakah kamu memeriksanya untuk aku? Grupnya akan diputuskan lusa, kan? kamu punya waktu satu hari penuh sampai saat itu.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p061",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p61",
+      "text": "“O-oke.” Yuigahama kelihatannya agak ragu untuk menurutinya. Yah, dia mencoba berteman dengan semua orang di kelas, jadi ini adalah hal yang dia enggan melakukannya. Memilih kesalahan orang lain akan menunjukkan kesalahan kamu sendiri. Ini adalah perilaku sosial yang cukup beresiko."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p062",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p62",
+      "text": "Rupanya, Yukinoshita juga memahami hal itu, dan dia perlahan mengalihkan pandangannya. “Maaf. Itu bukan hal yang baik untuk ditanyakan. Lupakan saja.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p063",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p63",
+      "text": "Sepertinya itu berarti tugas itu ada di tanganku, tapi itu sudah pasti. “Aku akan melakukannya. Lagipula, aku tidak peduli dengan apa yang kelas kita pikirkan tentangku,” kataku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 71,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p064",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p64",
+      "text": "Yukinoshita melirik ke arahku, lalu tersenyum sambil tertawa kecil. “Aku akan menunggu, tapi aku tidak akan berharap banyak.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p065",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p65",
+      "text": "“Serahkan pada aku. Menemukan kesalahan termasuk dalam beragam keterampilan aku.” Bakat apa lagi yang mungkin aku miliki, apakah kamu bertanya? Tempat tidur kucing dan sebagainya. Ya, aku pada dasarnya adalah Nobita."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p066",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p66",
+      "text": "“T-tunggu! Aku akan melakukannya juga! U-um, aku tidak bisa menyerahkan semuanya pada Hikki!” Dengan wajah memerah, suara Yuigahama memudar menjadi gumaman, tapi sesaat kemudian dia mengepalkan tangannya erat-erat. “P-plus! Kalau kamu yang bertanya, Yukinon, aku tidak bisa bilang tidak!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p067",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p67",
+      "text": "“Begitu,” jawab Yukinoshita, lalu memalingkan wajahnya. Pipinya tampak memerah. Mungkin dia malu, atau mungkin itu hanya cahaya matahari terbenam."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p068",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p68",
+      "text": "Eh, tapi seperti yang kubilang, aku juga melakukannya. Kenapa Yuigahama selalu mendapatkan perlakuan spesial?"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p069",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p69",
+      "text": "Hayama memasang senyuman indah dan sejuk di wajahnya saat dia melihat mereka berdua. “Kalian benar-benar teman yang baik.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p070",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p70",
+      "text": "“Hah? Oh, ya, benar,” jawab aku."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p071",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p71",
+      "text": "“Maksudku, kamu juga, Hikitani.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p072",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p72",
+      "text": "Apa yang dia bicarakan? Tidak ada seorang pun yang bernama Hikitani di klub ini."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-Art_orn",
+      "kind": "separator",
+      "source": "chapter003_f.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p073",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p73",
+      "text": "Di kelas keesokan harinya, Yuigahama sangat bersemangat. Saat itu jam makan siang, dan aku tidak pergi ke tempat biasanya. Saat aku mengulurkan tangan untuk mengambil kue dan Sportop yang kubeli, Yuigahama datang, dan pertemuan perencanaan matang kami dimulai."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p074",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p74",
+      "text": "“Aku akan bertanya-tanya dulu… J-agar kamu tidak perlu bunuh diri untuk mencoba, Hikki. Sebenarnya, kamu tidak perlu melakukan apa pun!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p075",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p75",
+      "text": "“O-oke. Terima kasih, sepertinya. Sepertinya kamu sangat menyukai ini…” Terus terang, itu membuatku aneh."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p076",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p76",
+      "text": "“A-Aku hanya, seperti, kamu tahu… Itu karena Yukinon yang mengajakku!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p077",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p77",
+      "text": "“O-oh, sungguh…” Jika dia benar-benar memuja Yukinoshita sekeras itu, maka aku akan merasa aneh. Tapi sudah sangat jelas bahwa meskipun Yuigahama terus berusaha, rasa sakitnya tidak akan membawa hasil apa pun. Hal ini sangat mengerikan. “Senang rasanya kamu begitu termotivasi, tapi apa sebenarnya yang akan kamu lakukan?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p078",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p78",
+      "text": "“Hmm… Aku akan mencoba bertanya pada gadis-gadis tentang hal itu. Merekalah yang paling tahu tentang hubungan kelas. Ditambah lagi, kadang-kadang ketika mereka berbicara tentang orang yang tidak mereka sukai, mereka terbawa suasana dan menceritakan banyak hal kepadamu.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p079",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p79",
+      "text": "“Wah, pembicaraan cewek adalah menakutkan. Wah.” Jadi itu adalah gagasan musuh-dari-musuh-aku-adalah-teman-aku. Taktik tingkat lanjut apa…"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p080",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p80",
+      "text": "“Tidak terlalu menakutkan! Ini hanya, seperti…mengeluh…atau bertukar informasi, ya?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p081",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p81",
+      "text": "“Aku kira itu sangat bergantung pada cara kamu menyampaikannya.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p082",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p82",
+      "text": "“Ngomong-ngomong! Kamu buruk dalam hal itu, kan? Aku akan menanganinya, jadi jangan khawatir.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p083",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p83",
+      "text": "Yuigahama benar sekali. Sejujurnya, aku tidak cocok untuk obrolan santai atau penyelidikan investigatif. Hanya aku yang naik ke atas untuk berbicara mungkin akan membuat orang curiga. Aku tidak akan menanyakan pertanyaan kepada mereka; mereka mungkin akan menanyakan pertanyaan aku, pertanyaan seperti Siapa kamu?",
+      "emphasis": [
+        {
+          "start": 278,
+          "end": 281,
+          "style": "em"
+        },
+        {
+          "start": 302,
+          "end": 313,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p084",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p84",
+      "text": "Posisi Yuigahama di kelas sangat cocok untuk tugas ini. Dia juga pandai bersosialisasi. Dia telah memoles ketakutannya terhadap pendapat orang lain sepanjang hidupnya, dan sekarang saatnya memanfaatkannya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p085",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p85",
+      "text": "“Ya…maaf, aku serahkan ini padamu. Lakukan saja.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p086",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p86",
+      "text": "“Oke!” Yuigahama menguatkan dirinya dan memotong kelompok Miura. Ini adalah gadis-gadis yang berteman dengan Hayama dan teman lelakinya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p087",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p87",
+      "text": "“Maaf aku lama sekali!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p088",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p88",
+      "text": "“Oh, Yui. Kamu lama sekali!” Miura dan gadis-gadis lain dari kelompok itu menyambutnya dengan apatis."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p089",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p89",
+      "text": "“Jadi, sepertinya, Tobecchi dan, sepertinya, Ooka dan, sepertinya, Yamato bertingkah agak aneh akhir-akhir ini, ya? Rasanya seperti…Entahlah, kamu tahu?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p090",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p90",
+      "text": "Pfft! Aku mendengus saat mendengar Yuigahama. Langsung ke intinya seperti bola baseball ke wajah. Itu adalah bola gyro berkecepatan 160 km/jam! Itu akan dengan mudah menjadi peringkat S di MLB Power Pros. Tapi kendalinya mendapat nilai F yang solid.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "em"
+        },
+        {
+          "start": 189,
+          "end": 204,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p091",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p91",
+      "text": "“Hah? Sejak kapan kamu menjadi orang yang berbicara seperti itu, Yui?” Ebina mundur selangkah. Aku pikir namanya adalah Ebina. Mungkin."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p092",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p92",
+      "text": "Mata Miura berkilauan, dan dia tidak membuang waktu untuk menyerang. “Dengar, Yui, itu tidak pantas, tahu? Itu berarti bergosip tentang temanmu!” Itu adalah hal yang menyenangkan untuk dikatakan, dan pernyataan Miura menempatkannya pada posisi yang jauh lebih unggul."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p093",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p93",
+      "text": "Sekarang Yuigahama-lah yang akan kehilangan tempatnya di grup. Apa yang dia lakukan?"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p094",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p94",
+      "text": "Tapi Yuigahama mundur dengan semua yang dia punya. “Tidak! Bukan itu maksudku! Um, aku hanya, seperti...agak tertarik...”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p095",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p95",
+      "text": "“Apa, apakah kamu naksir salah satu dari mereka?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p096",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p96",
+      "text": "“Bukan itu maksudku sama sekali! Maksudku, aku tertarik pada seseorang, tapi dia, seperti…kau tahu, jadi…,” Yuigahama terkesiap, raut wajahnya berkata, Oh tidak! Bibir Miura membentuk seringai.",
+      "emphasis": [
+        {
+          "start": 152,
+          "end": 161,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p097",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p97",
+      "text": "“Ohh? Yui…apa kamu naksir seseorang? Beritahu kami! Ayo, ayo. Kami akan membantumu!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p098",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p98",
+      "text": "“T-tidak, aku bilang bukan itu yang kumaksud! Ketiganya hanya ada di pikiranku akhir-akhir ini…atau mereka hubungan? sepertinya? Aku hanya merasa ada yang aneh akhir-akhir ini!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p099",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p99",
+      "text": "“Oh, itu saja tidak menyenangkan.” Miura jelas kehilangan minat. Dia membuka ponselnya dan mulai mengetuknya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p100",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p100",
+      "text": "Tapi Ebina menggigit. “Aku mengerti… Jadi kamu juga sudah memikirkannya, Yui… Sejujurnya, aku juga pernah.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p101",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p101",
+      "text": "“Ya, ya! Sepertinya semuanya menjadi tegang atau semacamnya!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p102",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p102",
+      "text": "“Yah, secara pribadi...” Ebina menghela napas, menatapnya dengan serius tatapan. “Menurutku Tobecchi benar-benar seorang uke! Dan Yamato adalah seme yang sombong. Oh, dan Ooka adalah uke yang menggoda. Pasti ada sesuatu yang terjadi dengan kelompok bertiga itu!”",
+      "emphasis": [
+        {
+          "start": 121,
+          "end": 124,
+          "style": "em"
+        },
+        {
+          "start": 144,
+          "end": 148,
+          "style": "em"
+        },
+        {
+          "start": 183,
+          "end": 186,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p103",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p103",
+      "text": "“Ya, aku tahu...apa?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p104",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p104",
+      "text": "“Tapi, sepertinya, mereka semua pasti mengincar Hayato! Hnnng! Sepertinya mereka semua menahan diri demi persahabatan mereka! Sungguh menggiurkan!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p105",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p105",
+      "text": "Wah, apa kamu bercanda? Siapa sangka Ebina begitu intens? Seperti… hidungnya berdarah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 86,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p106",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p106",
+      "text": "“Uhh…” Yuigahama tampak bingung, tapi Miura hanya menghela napas lelah."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p107",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p107",
+      "text": "“Itu dia: penyakit Ebina. Ebina, kamu lucu kalau tutup mulut, jadi setidaknya cobalah untuk berpura-pura menjadi normal. Dan bersihkan hidungmu.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p108",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p108",
+      "text": "“Ah…ah-ha-ha!” Yuigahama begitu kewalahan hingga dia tertawa untuk menghindari mengatakan apa pun. Saat dia menyadari aku memperhatikannya, dia diam-diam mengangkat tangannya untuk meminta maaf seolah berkata, Maaf, aku gagal!",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 13,
+          "style": "em"
+        },
+        {
+          "start": 210,
+          "end": 226,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p109",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p109",
+      "text": "Yah, banyak hal yang salah sejak awal. Bahkan tanpa Ebina di fotonya, itu akan membuat perut buncit. Jadi itu berarti giliranku. Tapi aku tidak bisa seenaknya mengobrol dengan teman sekelasku. Jadi bagaimana aku harus melakukan pengintaian terhadap orang-orang ini?"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p110",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p110",
+      "text": "Jawabannya sudah jelas. Aku hanya akan memperhatikannya dengan seksama. Jika aku tidak dapat berbicara dengan orang lain—tidak, justru karena aku tidak dapat berbicara dengan orang lain—aku dapat mengumpulkan informasi melalui cara lain. Dikatakan bahwa hanya sekitar 30 persen komunikasi manusia dilakukan melalui bahasa. 60 persen lainnya dikomunikasikan melalui gerak tubuh dan gerakan mata yang halus. Penting sekali ada pepatah mengenai hal ini: Mata mengatakan lebih dari sekedar mulut. Ini adalah sebuah paradoks yang hebat: orang-orang penyendiri yang tidak terlibat dalam percakapan sama sekali dapat mengatur sekitar 70 persen dari seluruh komunikasi. Benar?",
+      "emphasis": [
+        {
+          "start": 135,
+          "end": 141,
+          "style": "em"
+        },
+        {
+          "start": 451,
+          "end": 491,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p111",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p111",
+      "text": "Ya, tidak, ini omong kosong."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p112",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p112",
+      "text": "Sekarang, aku akan menunjukkan keahlian aku yang lain: observasi manusia. Aku juga jago menembak. Seperti yang aku katakan, aku pada dasarnya adalah Nobita."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p113",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p113",
+      "text": "Metode aku sangat sederhana."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p114",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p114",
+      "text": "1. Pasang ear bud tetapi jangan nyalakan musik apa pun. Dengarkan saja percakapan di sekitarmu."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p115",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p115",
+      "text": "2. Tataplah seperti sedang melakukan zonasi, namun sebenarnya tataplah orang-orang yang tergabung dalam kelompok Hayama dengan cermat untuk membaca wajah mereka."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p116",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p116",
+      "text": "Ini menyimpulkan penjelasannya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p117",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p117",
+      "text": "Hayama sedang berkemah di kursi dekat jendela. Dia bersandar di dinding, dengan Tobe, Yamato, dan Ooka mengelilinginya. Ini memberitahuku sesuatu yang sangat sederhana: bahwa Hayama adalah orang dengan peringkat tertinggi di grup. Dinding adalah sandaran utama, tempat kedudukan seorang raja. Meskipun keempat anak laki-laki itu mungkin tidak mengetahui hal ini, ketidaktahuan mereka membuktikan bahwa hal tersebut hanyalah sebuah naluri, perilaku yang penting."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p118",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p118",
+      "text": "Sepertinya masing-masing dari ketiga teman Hayama memiliki peran masing-masing."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p119",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p119",
+      "text": "“Jadi, begitulah. Pelatih kami mulai memukul bola untuk latihan menangkap, langsung ke arah klub rugbi! Kacau banget. Bola-bola itu keras!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p120",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p120",
+      "text": "“Tapi, kami tertawa terbahak-bahak! Tapi, sepertinya, para pemain rugby bertahan dengan baik. Astaga, sungguh gila! Bola-bola beterbangan ke arah kita dari luar! Itu adalah zona perang!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p121",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p121",
+      "text": "“Kami tertawa terbahak-bahak! Tapi, sepertinya, para pemain rugbi mampu bertahan. Tidak seperti tim sepak bola—kami berantakan. Wah, sungguh gila! Bola-bola beterbangan ke arah kami dari luar lapangan! Itu adalah zona perang di luar sana!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p122",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p122",
+      "text": "Ooka memulai percakapan, Yamato yes-man melakukannya, dan kemudian Tobe menjadi bersemangat karenanya. Itu seperti sebuah drama yang terorganisir dengan baik. Shakespeare mengatakan bahwa seluruh dunia adalah panggung, tapi menurut aku semua orang hanya memenuhi peran yang diberikan kepada mereka. Dan sutradara serta penonton pertunjukan ini adalah Hayama. Dia terkadang tertawa, terkadang mengganti topik pembicaraan, dan terkadang ikut bergabung.",
+      "emphasis": [
+        {
+          "start": 32,
+          "end": 39,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p123",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p123",
+      "text": "Aku mengamati beberapa hal dalam pengawasan aku."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p124",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p124",
+      "text": "Oh, pria itu hanya mendecakkan lidahnya pelan."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p125",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p125",
+      "text": "Yang ini tiba-tiba terdiam ketika pria di sebelahnya mulai berbicara…"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p126",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p126",
+      "text": "Dan yang satu lagi mengutak-atik ponselnya seperti sedang bosan. Dia benar-benar tidak menyukai hal ini."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p127",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p127",
+      "text": "Orang yang selalu tersenyum samar setiap kali membicarakan hal-hal kotor adalah seorang perawan. Tentu saja. Sumber: aku. Serius, aku tidak pernah tahu bagaimana harus bereaksi ketika pembicaraan berubah menjadi kotor. Aku akan berhenti sejenak lalu berkata, Aku sama sekali tidak terangsang akhir-akhir ini! seolah-olah aku ingin menyombongkannya. Aku bertanya-tanya mengapa aku melakukan itu?",
+      "emphasis": [
+        {
+          "start": 259,
+          "end": 308,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p128",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p128",
+      "text": "Aku merasa semua informasi aku tidak berguna. Mengira aku tidak akan melihat hasil apa pun, aku menghela napas, dan saat itulah hal itu terjadi."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p129",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p129",
+      "text": "“Maaf, permisi sebentar,” kata Hayama dan berdiri, lalu menuju ke arahku. Tampaknya, Hayama menyadari tatapanku. Dia mungkin akan berkata, Apa yang kamu lihat, brengsek? Kamu bersekolah di SMP mana? Jantungku berdebar kencang karena ketakutan.",
+      "emphasis": [
+        {
+          "start": 139,
+          "end": 198,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p130",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p130",
+      "text": "“Apa?” Kataku sambil menyembunyikan gemetarku."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p131",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p131",
+      "text": "Hayama tidak meledak marah atau menarik kerah bajuku dan meminta uang sakuku; dia hanya nyengir cerah. “Oh, aku hanya ingin tahu apakah kamu sudah menemukan jawabannya.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p132",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p132",
+      "text": "“Tidak juga, uh…” Yang kuketahui hanyalah bahwa Ebina adalah seorang fujoshi dan bahwa Ooka masih perawan. Saat aku meninjau temuanku, aku melihat ke arah Ooka dan yang lainnya, dan apa yang kulihat membuatku terkejut. Ketiga orang itu terlihat bosan, mengutak-atik ponsel mereka, dan sesekali melirik ke arah Hayama. Dan jawabannya tiba-tiba datang kepada aku. Itu adalah kilasan wawasan bagaikan obat penenang yang melesat ke belakang leher.",
+      "emphasis": [
+        {
+          "start": 69,
+          "end": 76,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p133",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p133",
+      "text": "“Apa itu?” Hayama bertanya dengan bingung."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p134",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p134",
+      "text": "Aku balas menyeringai padanya. “Misteri ini terpecahkan!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p135",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p135",
+      "text": "Tentu saja, aku akan menunjukkan kesimpulanku setelah iklan tersebut."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-Art_orn-2",
+      "kind": "separator",
+      "source": "chapter003_f.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p136",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p136",
+      "text": "Sepulang sekolah, Yukinoshita, Yuigahama, Hayama, dan aku semua berkumpul di ruang klub."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p137",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p137",
+      "text": "“Bagaimana hasilnya?” Yukinoshita menanyakan temuan kami."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p138",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p138",
+      "text": "Yuigahama kesal. “Maaf! Aku mencoba bertanya pada gadis-gadis itu, tapi mereka tidak tahu apa-apa!” Permintaan maafnya tulus."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p139",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p139",
+      "text": "Yah, mau bagaimana lagi. Setelah itu, Ebina terus mengoceh pada Yuigahama tentang semes dan ukes dan pembagian atau omong kosong lainnya, dan tidak mungkin Yuigahama bisa mengetahui apa pun setelah itu.",
+      "emphasis": [
+        {
+          "start": 82,
+          "end": 87,
+          "style": "em"
+        },
+        {
+          "start": 92,
+          "end": 96,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p140",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p140",
+      "text": "Kepala tertunduk, Yuigahama perlahan menatap wajah Yukinoshita."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p141",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p141",
+      "text": "Tapi Yukinoshita tidak terlihat terlalu marah. “Oh, baiklah, aku tidak terlalu keberatan.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p142",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p142",
+      "text": "“Hah? Kamu tidak?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p143",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p143",
+      "text": "“Bisa dibilang para gadis tidak terlibat dan tidak tertarik dalam hal ini. Masalahnya ada di antara para lelaki di kelompok Hayama. Yuigahama, kerja bagus.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p144",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p144",
+      "text": "“Y-Yukinon…” Mata Yuigahama berkaca-kaca karena emosi. Dia mencoba memeluk gadis lain, tapi Yukinoshita berhasil mengelak, dan dahi Yuigahama membentur dinding."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p145",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p145",
+      "text": "Yukinoshita, dengan jengkel, menepuk dahi Yuigahama yang terluka sambil menatapku. “Jadi bagaimana denganmu?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p146",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p146",
+      "text": "“Maaf, aku tidak menemukan petunjuk apa pun mengenai pelakunya.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p147",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p147",
+      "text": "“Aku mengerti.” Aku yakin dia akan mengejekku, tapi Yukinoshita hanya menghela napas dan melemparkan tatapan kasihan ke arahku. “Tidak ada yang mau bicara denganmu, hmm?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p148",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p148",
+      "text": "“Bukan karena itu.” Walaupun memang benar, kalau aku mencoba membuka percakapan, tak ada yang akan menyambutnya. Maksudku, berbicara dengan orang lain dan menjaga percakapan tetap berjalan saja menghabiskan banyak energi mentalku. MP yang terpakai kira-kira sebanyak Magic Burst, serius. “Aku tidak tahu siapa pelakunya, tapi aku menemukan satu hal,” kataku."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p149",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p149",
+      "text": "Yukinoshita, Yuigahama, dan Hayama mencondongkan tubuh ke depan untuk mendengarkan. Dihadapkan pada keraguan, harapan, dan rasa ingin tahu, aku berdeham."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p150",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p150",
+      "text": "Itu adalah isyarat bagi Yukinoshita untuk bertanya, “Apa yang kamu temukan?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p151",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p151",
+      "text": "“Aku mengetahui bahwa kelompok itu adalah kelompok Hayama.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p152",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p152",
+      "text": "“Hah? Kita sudah tahu itu, ya,” ejek Yuigahama. Seolah-olah matanya berkata, Apakah pria ini perawan atau apa? Suka Ooka?",
+      "emphasis": [
+        {
+          "start": 77,
+          "end": 121,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p153",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p153",
+      "text": "Hei, jauhkan Ooka dari ini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 26,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p154",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p154",
+      "text": "“Um…apa maksudmu, Hikitani?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p155",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p155",
+      "text": "“Oh, maaf aku tidak jelas. Menambahkan s di akhir menunjukkan kasus posesif. Dengan kata lain, itu berarti 'milik Hayama, untuk Hayama.'”",
+      "emphasis": [
+        {
+          "start": 39,
+          "end": 40,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p156",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p156",
+      "text": "“Eh, aku tidak merasa itu milikku, tapi,” kata Hayama, tapi dia tidak tahu apa-apa tentang situasinya. Tiga lainnya mungkin juga demikian."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p157",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p157",
+      "text": "Tetapi aku adalah orang luar yang melihat ke dalam, dan bagi aku segalanya sudah jelas. “Hayama, pernahkah kamu melihat ketiganya saat kamu tidak ada?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p158",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p158",
+      "text": "“Tidak, belum.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p159",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p159",
+      "text": "“Tentu saja belum. Bagaimana dia bisa melihat mereka jika dia tidak ada?” Yukinoshita mencibir dan menghela napas."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p160",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p160",
+      "text": "Aku mengangguk. “Itulah mengapa Hayama tidak menyadarinya. Orang luar bisa melihat bahwa saat mereka bertiga berduaan saja, mereka tidak akur sama sekali. Sederhananya: Mereka masing-masing melihat Hayama sebagai teman mereka, tapi mereka hanya melihat satu sama lain sebagai teman dari seorang teman.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p161",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p161",
+      "text": "Hanya Yuigahama yang bereaksi. “Oh, ohhh, aku tahu perasaan itu... Rasanya canggung ketika orang yang terus mengobrol pergi, tahu? Kamu tidak tahu apa yang harus dibicarakan, dan akhirnya kamu hanya bermain-main dengan ponselmu...” Kepalanya terkulai, tampaknya karena beban kenangan buruk.",
+      "emphasis": [
+        {
+          "start": 36,
+          "end": 40,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p162",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p162",
+      "text": "Yukinoshita berulang kali menarik lengan bajunya, bertanya pelan, “I-begitu?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p163",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p163",
+      "text": "Yuigahama melipat tangannya dan mengangguk setuju."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p164",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p164",
+      "text": "Tidak mengherankan jika Yukinoshita tidak mengetahui hal ini. Dia tidak pernah punya teman, jadi dia juga tidak pernah punya teman."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p165",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p165",
+      "text": "Hayama diam-diam mempertimbangkan apa yang aku katakan. Tapi tidak ada yang bisa dia lakukan. Bagi Hayama, mereka adalah temannya, tapi hubungan mereka yang lain adalah urusan mereka sendiri. Memiliki teman berarti menerima kesulitan yang datang bersamanya. Memiliki kelompok yang besar tidak selalu menguntungkan, dan Hayama menjadi contoh utama. Dengan kata lain, banyak teman berarti banyak orang di sekitar kamu. kamu tidak bisa lari. Dalam istilah Dragon Quest, itu berarti seluruh party akan mati. Tapi aku sudah tahu jalan keluarnya.",
+      "emphasis": [
+        {
+          "start": 453,
+          "end": 465,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p166",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p166",
+      "text": "“Bahkan jika apa yang kamu katakan itu benar, Hikigaya, itu hanyalah bukti yang menguatkan motif mereka. Bukankah ada cara untuk mengetahui siapa di antara mereka yang melakukan hal itu? Situasinya tidak akan terselesaikan sampai kita berhasil membunuh pelakunya. Kita harus segera menangkap ketiganya...” Yukinoshita meletakkan tangannya di rahangnya. pikirnya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p167",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p167",
+      "text": "Bicara santai tentang mengajak orang keluar, Yukinoshita, kamu membuatku takut. Apakah Sagawa dan Shimoda yang kamu sebutkan sebelumnya dibunuh? Gagasan tentang orang hilang di sekolah kami membuatku takut, jadi aku menyarankan pendekatan yang berbeda. “Tidak perlu mengeluarkan pelakunya. Itu masalah lain,” kataku, dan Yukinoshita memiringkan kepalanya dengan sebuah pertanyaan di wajahnya saat dia menatapku.",
+      "emphasis": [
+        {
+          "start": 136,
+          "end": 143,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p168",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p168",
+      "text": "Alasannya adalah Untuk menghentikan kejahatan, kamu harus menghentikan penjahatnya, dan itu tidak salah. Tapi ada cara lain. Perampokan permata tidak akan pernah berhasil jika tidak ada permata yang bisa dicuri. Jadi kamu hanya perlu mencurinya sebelum dicuri. Lagipula aku punya kemampuan ninja, jadi aku lebih cocok menjadi pencuri permata daripada detektif.",
+      "emphasis": [
+        {
+          "start": 17,
+          "end": 82,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p169",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p169",
+      "text": "“Hayama, aku bisa menyelesaikan masalah ini, jika kamu mau. Aku bisa melakukannya tanpa mengungkap pencurinya dan tanpa argumen apa pun. Dan mereka mungkin bisa menjadi teman.” Aku penasaran ekspresi apa yang kupakai. Paling tidak, menurutku itu adalah sebuah senyuman, dan senyuman yang begitu indah sehingga Yuigahama berkata “E-eugh…” dan mundur."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p170",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p170",
+      "text": "Aku merasa heh-heh-heh ala Zaimokuza mungkin akan keluar dari mulutku. Jika ada iblis yang memaksa manusia untuk melakukan tawar-menawar yang jahat, mereka mungkin terlihat sedikit mirip denganku.",
+      "emphasis": [
+        {
+          "start": 11,
+          "end": 22,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p171",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p171",
+      "text": "Anak domba yang menyedihkan, Hayama, mengangguk menyetujui usulan iblis."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-Art_orn-3",
+      "kind": "separator",
+      "source": "chapter003_f.xhtml#Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p172",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p172",
+      "text": "Itu adalah hari setelah Hayama membuat keputusan yang menentukan."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p173",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p173",
+      "text": "Nama teman sekelas kami tercantum di papan tulis di kelas. Setiap kelompok yang terdiri dari tiga nama mewakili kelompok untuk acara pengalaman kerja. Ketiga gadis yang duduk di sampingku mengobrol dan tersenyum satu sama lain. Rupanya, mereka sudah memutuskan sebelumnya, lalu mereka naik ke papan tulis dan mulai menuliskan nama mereka."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p174",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p174",
+      "text": "Sedangkan aku, aku tidak mendekati siapa pun. Aku hanya membuat zona dan menonton. Beginilah caraku membentuk kelompok."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p175",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p175",
+      "text": "Di saat seperti ini, penting untuk tidak melakukan apa pun. Seperti yang dikatakan Shingen Takeda: teguh seperti gunung. Dia benar sekali. Membolos secepat angin, tertidur di mejamu senyap di hutan, rasa iri membara seperti api, teguh seperti gunung. Aku akan menunggu sampai situasinya berubah dan wali kelas berkata, Ya, ya, aku paham kalian semua membenci Hikigaya, tapi tidak baik membiarkan orang lain di luar kelas! Kamu tidak bisa melakukan itu!",
+      "emphasis": [
+        {
+          "start": 99,
+          "end": 119,
+          "style": "em"
+        },
+        {
+          "start": 139,
+          "end": 250,
+          "style": "em"
+        },
+        {
+          "start": 319,
+          "end": 452,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p176",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p176",
+      "text": "Dasar Isehara, wali kelasku dari kelas empat… Aku tidak akan pernah memaafkanmu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 80,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p177",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p177",
+      "text": "Lagipula, mereka mengatakan bahwa semua hal baik datang kepada mereka yang menunggu, jadi jika aku berpura-pura menunggu, tertidur, lalu sebelum kau menyadarinya Hachiman si penyendiri akan bergabung dengan pasangan yang gagal menemukan orang lain dan menganggapku sebagai orang ketiga wajib mereka. Lalu kami menyatakan diri kami sebagai sebuah grup!"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p178",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p178",
+      "text": "Agh, aku mau tidur."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p179",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p179",
+      "text": "Aku memanfaatkan keahlianku yang lain: berpura-pura tidur. Ngomong-ngomong, salah satu dari aku yang lain menjadi salah satu orang baik selama alur cerita yang panjang. Pada dasarnya aku adalah Gian."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p180",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p180",
+      "text": "Kemudian seseorang dengan lembut mengguncang bahuku. Bahkan melalui pakaianku, aku bisa merasakan tangan yang lembut dan lembut. Sebuah suara memanggil namaku, seperti musik dari surga. Masih tertidur, melayang di atas awan, aku membuka mata."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p181",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p181",
+      "text": "“Pagi, Hachiman.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p182",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p182",
+      "text": "“Malaikat? Oh, itu Saika.” Fiuh, itu mengagetkanku. Dia sangat imut, aku berani bersumpah dia adalah seorang malaikat."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p183",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p183",
+      "text": "Totsuka terkikik dan menjatuhkan diri di sampingku, menggantikan gadis yang berada di sana beberapa saat yang lalu."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p184",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p184",
+      "text": "“Apakah ada yang salah?” Aku bertanya, dan Totsuka menggenggam manset seragam olahragaku saat dia terhuyung-huyung, matanya terangkat."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p185",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p185",
+      "text": "“K-kita…berpisah menjadi beberapa kelompok…”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p186",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p186",
+      "text": "“Hmm? Oh, benar. Mereka akan segera selesai mencari tahu.” Sepertinya aku ingat kalau Totsuka sudah memutuskan pilihannya. Itu sangat buruk. Aku melakukan peregangan seluruh tubuh dan melihat sekeliling kelas. Setelah sebagian besar kelas selesai memilih kelompoknya, tibalah waktunya bagi kami yang penyendiri untuk melakukan tugas kami dan menguatkan diri untuk membentuk kelompok sementara di antara kami sendiri. Aku lebih suka berakhir dengan tipe penyendiri lainnya; jika terlalu lama, aku akan terjebak dengan pasangan yang sudah berteman."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p187",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p187",
+      "text": "Itu terjadi ketika aku sedang memeriksa nama-nama yang tertulis di papan tulis, mencari penolakan lainnya. Ada sekelompok tiga orang yang sedang menulis nama mereka. Trio yang tampak familier."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p188",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p188",
+      "text": "Tobe, si pirang yang suka pesta.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 32,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p189",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p189",
+      "text": "Yamato yang bodoh dan bimbang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 30,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p190",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p190",
+      "text": "Mengasimilasi perawan Ooka.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 27,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p191",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p191",
+      "text": "Tiga untuk Membunuh: Generasi Berikutnya! Aku menjadi saksi terbentuknya kelompok baru. Karakter favoritku khususnya adalah mengasimilasi perawan Ooka. Setelah ketiganya meresmikan grup mereka, mereka saling memandang dan tersenyum sedikit malu-malu. Nama Hayato Hayama tidak ada di sana.",
+      "emphasis": [
+        {
+          "start": 124,
+          "end": 150,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p192",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p192",
+      "text": "Saat aku menonton, sebuah suara dari belakang membuatku tidak sadar. “Bolehkah aku duduk di sini?” Dia duduk di samping Totsuka tanpa menunggu jawabanku."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p193",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p193",
+      "text": "Dihadapan tamu yang tiba-tiba dan tak terduga ini, Totsuka bergumam, “U-um…” dan menatapku dengan cemas. Super imut."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p194",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p194",
+      "text": "“Semua ini berakhir dengan damai, terima kasih,” kata Hayato Hayama dengan seringai khasnya. “Terima kasih.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p195",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p195",
+      "text": "“Aku tidak melakukan apa pun.” Kenapa dia datang untuk berbicara denganku begitu saja? Apakah dia pria yang baik? Begitukah?"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p196",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p196",
+      "text": "“Tetapi kamu melakukannya. Jika kamu tidak memberitahuku apa yang sedang terjadi, mungkin masih ada pertikaian di antara mereka,” kata Hayama."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p197",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p197",
+      "text": "Tapi aku sebenarnya bukan orang suci. Aku hanya ingin mencoba menyeret Hayama ke jalur penyendiri. Alasan pertama mengapa mereka bermusuhan adalah karena ingin bersama Hayama. Jadi, kamu hanya perlu menghilangkan penyebab konflik mereka. Dengan kata lain, kamu harus mengecualikan dia."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p198",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p198",
+      "text": "Penyendiri seperti negara yang netral secara permanen. Ketidakhadiran kamu mencegah perselisihan, dan kamu tidak terseret ke dalam masalah. Jika semua orang di dunia ini hanya menyendiri, pasti tidak akan ada perang atau diskriminasi. kamu tahu, menurut aku sudah waktunya aku mendapatkan Hadiah Nobel Perdamaian."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p199",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p199",
+      "text": "“Aku selalu merasa harus berteman dengan semua orang, tapi terkadang aku bisa menjadi penyebab konflik, ya…?” Hayama bergumam, sedih."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p200",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p200",
+      "text": "Tak ada kata-kata yang bisa kuberikan kepadanya; aku hanya bisa mendengus bosan. Meskipun Hayama datang ke Klub Layanan mencari solusi, yang bisa kuberikan hanya pilihan untuk mengorbankan dirinya sendiri. Padahal dia orang baik, yang mau menyapaku dan mengingat nama Zaimokuza. Padahal dialah orang yang paling pandai menikmati kehidupan SMA sepenuhnya. Namun, meskipun begitu—bukan, justru karena itulah, Hayato Hayama berkata, “Mereka bertiga memang terkejut saat aku bilang tidak akan bergabung dengan siapa pun di antara mereka. Semoga ini membuat mereka benar-benar berteman.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p201",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p201",
+      "text": "“Ya...” Dengan sedikit bingung, aku memberikan respon yang tidak berkomitmen untuk menunjukkan bahwa aku mendengarkan. Sejujurnya, menurutku menjadi pria sebaik ini adalah semacam penyakit."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p202",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p202",
+      "text": "“Terima kasih. Kalau begitu, karena aku belum punya grup, bagaimana kalau kita buat sendiri?” Hayama mengulurkan tangan kanannya sambil tersenyum."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p203",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p203",
+      "text": "Hah? Jabat tangan? Mengapa orang normal selalu bersikap terlalu akrab? Astaga, dia pasti bercanda. Bisa dibilang dia orang Amerika. “Oh, okkei!” Dia orang Amerika banget, akhirnya aku membalasnya dalam bahasa Inggris.",
+      "emphasis": [
+        {
+          "start": 19,
+          "end": 131,
+          "style": "em"
+        },
+        {
+          "start": 137,
+          "end": 143,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p204",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p204",
+      "text": "Aku memukul tangannya dengan keras, dan Hayama berkata, “Aduh!” dan tersenyum lagi. Sekarang, karena dia adalah sesama penyendiri, mungkin dia dan aku sudah saling memahami. Nah, kalau kita punya satu orang lagi, maka pekerjaan itu akan selesai."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p205",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p205",
+      "text": "Dan tepat di samping kita ada makhluk lucu yang berkata “Mnghh!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p206",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p206",
+      "text": "“Ada apa, Totsuka?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p207",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p207",
+      "text": "Saat aku melihatnya, aku melihat air mata mengalir di matanya saat dia menggembungkan pipinya. Itu sangat lucu. “Hachiman…bagaimana denganku?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p208",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p208",
+      "text": "“Hah? Uh…apa? Tunggu, bukankah kamu bilang kamu sudah memutuskan grupnya?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p209",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p209",
+      "text": "“Dengarkan!” Totsuka menguatkan dirinya lalu meremas erat manset blazerku. “Aku sudah memutuskan sejak awal…bahwa aku akan bersamamu, Hachiman.”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p210",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p210",
+      "text": "“Itukah maksudmu?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p211",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p211",
+      "text": "Sungguh rumit cara untuk menjelaskannya. Orang yang penyendiri sangat bodoh dalam mengendus petunjuk bahwa mereka tidak diinginkan, jadi jika kamu tidak menyatakan dirimu secara eksplisit, kita tidak akan mendapatkan hal-hal ini."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p212",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p212",
+      "text": "Aku melihat ke arah Totsuka. Wajahnya merah dan tampak merajuk di lantai. Tanpa disadari, wajahku menjadi rileks. Saat aku tersenyum, Totsuka menatapku melalui bulu matanya dan terkikik."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p213",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p213",
+      "text": "Hayama menyeringai ke arah kami, melompat berdiri, dan berbalik menghadapku. “Kalau begitu ayo kita tulis nama kita. Bagaimana dengan tempat kerja?”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p214",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p214",
+      "text": "“Terserah kamu,” kataku, dan Totsuka mengangguk setuju."
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p215",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p215",
+      "text": "Hayama menulis nama kami di papan tulis. Hayama, Totsuka, Hikigaya. Oh-ho, dia menuliskan namaku dengan tepat. Bahkan hal kecil seperti itu membuatku cukup bahagia. Mungkinkah ini yang mereka sebut “persahabatan”? Selanjutnya, Hayama mulai menulis kemana kami ingin pergi. Tapi kemudian…",
+      "emphasis": [
+        {
+          "start": 41,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p216",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p216",
+      "text": "“Oh, aku akan memilih yang sama seperti Hayato!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p217",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p217",
+      "text": "“Tidak mungkin, Hayama akan pergi ke sana? Oh, kalau begitu aku ganti, aku ganti!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p218",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p218",
+      "text": "“Mungkin aku akan pergi ke sana juga...”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p219",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p219",
+      "text": "“Hayama yang terbaik. Dia hebat sekali!”"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p220",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p220",
+      "text": "Semua orang di kelas berkumpul di sekitar Hayama secara bersamaan sekali, dan kemudian saat aku sibuk menatap mereka semua memilih tempat kerja yang sama dengan Hayama dan menulis nama mereka dengan namanya. Sebelum aku menyadarinya, namaku telah terhapus, hilang di bawah semua nama yang ditambahkan oleh Hayama. Kehadiranku ikut menghilang, dan aku kembali menghilang ke latar belakang. Apa-apaan ini, apakah aku seorang ninja? Mungkin sebaiknya aku melakukan tur ini di Iga atau Kouga atau semacamnya.",
+      "emphasis": [
+        {
+          "start": 389,
+          "end": 504,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p221",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p221",
+      "text": "Dan kemudian ninja yang rendah hati ini dengan penuh hormat menyelinap pergi tanpa disadari dari ruang sekolah…"
+    },
+    {
+      "id": "v2-bab-3-chapter003_f-p222",
+      "kind": "text",
+      "source": "chapter003_f.xhtml#p222",
+      "text": "Tak perlu dikatakan lagi, persahabatan adalah hal lain yang bisa hilang tanpa disadari, kapan saja, di mana saja."
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88",
+      "kind": "image",
+      "source": "chapter003_g.xhtml#Art_P88.jpg",
+      "src": "assets/chapters/volume-2/bab-3/Art_P88.webp",
+      "width": 1800,
+      "height": 1354,
+      "text": "Percakapan surel Yoshiteru Zaimokuza dan Hachiman Hikigaya."
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88-companion-1",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Percakapan surel Zaimokuza dan Hachiman",
+      "source": "chapter003_g.xhtml#Art_P88.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88-companion-2",
+      "kind": "text",
+      "text": "Zaimokuza · 16:40 · Tanpa judul: Hachiman, ini aku, Zaimokuza. Apakah engkau tekun belajar? Omong-omong, soal yang sama sekali tidak berkaitan, sudikah engkau menuliskan di sini, bak wahyu dari para dewa, materi ujian matematika nanti?",
+      "source": "chapter003_g.xhtml#Art_P88.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88-companion-3",
+      "kind": "text",
+      "text": "Zaimokuza · 16:59 · Tanpa judul: Hachiman. Krr krr… Hachi… krr krr krrrr… Hngh, tampaknya partikel Minovsky di sekitar sini sangat pekat. Jawab, Hachim… krr krr… an, jawab. Krr krr…",
+      "source": "chapter003_g.xhtml#Art_P88.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88-companion-4",
+      "kind": "text",
+      "text": "Zaimokuza · 17:36 · Tanpa judul: Wahai Hachiman sang binatang, jawablah panggilanku! Ngh, bahkan ini pun gagal… Kalau begitu, tak ada pilihan selain merapal mantra itu… Kegelapan melampaui senja, merah tua melampaui darah yang mengalir… dan seterusnya.",
+      "source": "chapter003_g.xhtml#Art_P88.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88-companion-5",
+      "kind": "text",
+      "text": "Zaimokuza · 18:24 · Tanpa judul: Maaf, aku agak terbawa suasana. Beri tahu materi ujian matematika nanti.",
+      "source": "chapter003_g.xhtml#Art_P88.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88-companion-6",
+      "kind": "text",
+      "text": "Hachiman · 19:50 · Re: Maaf, tadi tidur. Ujiannya halaman 4–51 dan sampai bab 3 di buku latihan. Tunggu, dari mana kau tahu nomor ponselku?",
+      "source": "chapter003_g.xhtml#Art_P88.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88-companion-7",
+      "kind": "text",
+      "text": "Zaimokuza · 19:51 · Re2: Oh-ho… Tak akan kulupakan budi baik ini untuk selamanya… Kudoakan keberuntunganmu dalam pertempuran. Pertemuan kita berikutnya akan berlangsung di medan perang… (memasang gaya) Sampai jumpa!!",
+      "source": "chapter003_g.xhtml#Art_P88.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v2-bab-3-chapter003_g-Art_P88-companion-8",
+      "kind": "text",
+      "text": "Hachiman · 19:51 · Re3: …Hei.",
+      "source": "chapter003_g.xhtml#Art_P88.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

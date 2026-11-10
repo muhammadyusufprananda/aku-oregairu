@@ -724,10 +724,16 @@ test("whole volume detail lists eight chapters and separately named back matter"
 const volumeTwoSections = [
   ["pembuka", "Prolog", 7],
   ["prolog", "Bab 1", 4],
-  ["bab-1", null, 3],
+  ["bab-1", "Bab 2", 3],
+  ["bab-2", "Bab 3", 2],
+  ["bab-3", "Bab 4", 4],
+  ["bab-4", "Bab 5", 8],
+  ["bab-5", "Kata Penutup", 1],
+  ["kata-penutup", "Catatan Penerjemah Edisi Inggris", 0],
+  ["catatan-penerjemah", null, 1],
 ] as const;
 for (const width of [320, 360, 390, 430, 768, 1280])
-  for (const [slug, next, expectedImages] of volumeTwoSections)
+  for (const [slug, next, expectedImages] of volumeTwoSections.filter(([slug]) => ["pembuka", "prolog", "bab-1"].includes(slug) || [320, 768].includes(width)))
     test(`Volume 2 ${slug} complete at ${width}px`, async ({ page }) => {
       await page.setViewportSize({ width, height: 844 });
       await page.goto(`baca/volume-2/${slug}/`);
@@ -807,10 +813,10 @@ test("Volume 2 catalog, available TOC and resume stay distinct from Volume 1", a
 }) => {
   await page.goto("");
   await expect(page.locator(".volume-card").nth(1)).toContainText(
-    "Bab 1 tersedia · Draf",
+    "Bab 1–5 tersedia · Draf",
   );
   await page.locator(".volume-card").nth(1).locator("a").click();
-  await expect(page.locator("[data-edition=id] .chapter-list a")).toHaveCount(3);
+  await expect(page.locator("[data-edition=id] .chapter-list a")).toHaveCount(9);
   await expect(page.locator("[data-edition=id] .chapter-list")).not.toContainText("Bab 0");
   await expect(page.locator("#start-reading")).toHaveAttribute(
     "href",
@@ -827,9 +833,9 @@ test("Volume 2 catalog, available TOC and resume stay distinct from Volume 1", a
   await expect(page.locator("#page-count")).toHaveText(/^2 \/ /);
   expect(await stored(page)).toEqual(before);
   await page.getByRole("button", { name: "Daftar bab", exact: true }).click();
-  await expect(page.locator("#toc a")).toHaveCount(3);
+  await expect(page.locator("#toc a")).toHaveCount(9);
   await expect(page.locator("#toc")).toContainText("Prolog");
-  await expect(page.locator('#toc a[href*="/bab-2/"]')).toHaveCount(0);
+  await expect(page.locator('#toc a[href*="/bab-2/"]')).toHaveCount(1);
 });
 
 for (const width of [320, 390]) {

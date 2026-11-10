@@ -138,5 +138,65 @@
     "order": 2,
     "title": "Dan begitulah Yui Yuigahama memutuskan untuk belajar.",
     "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-bab-2",
+    "volume": "volume-2",
+    "slug": "bab-2",
+    "kind": "chapter",
+    "number": 2,
+    "order": 3,
+    "title": "Komachi Hikigaya akan menikahi kakaknya saat dewasa nanti.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-bab-3",
+    "volume": "volume-2",
+    "slug": "bab-3",
+    "kind": "chapter",
+    "number": 3,
+    "order": 4,
+    "title": "Kehadiran Hayato Hayama selalu bersinar.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-bab-4",
+    "volume": "volume-2",
+    "slug": "bab-4",
+    "kind": "chapter",
+    "number": 4,
+    "order": 5,
+    "title": "Saki Kawasaki punya masalah sendiri, jadi dia merajuk.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-bab-5",
+    "volume": "volume-2",
+    "slug": "bab-5",
+    "kind": "chapter",
+    "number": 5,
+    "order": 6,
+    "title": "Hachiman Hikigaya kembali menempuh jalan yang sama.",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-kata-penutup",
+    "volume": "volume-2",
+    "slug": "kata-penutup",
+    "kind": "backmatter",
+    "number": null,
+    "order": 7,
+    "title": "Kata Penutup",
+    "editorialStatus": "draft"
+  },
+  {
+    "id": "volume-2-catatan-penerjemah",
+    "volume": "volume-2",
+    "slug": "catatan-penerjemah",
+    "kind": "backmatter",
+    "number": null,
+    "order": 8,
+    "title": "Catatan Penerjemah Edisi Inggris",
+    "editorialStatus": "draft"
   }
 ]

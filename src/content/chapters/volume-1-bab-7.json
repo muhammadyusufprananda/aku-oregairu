@@ -1,7 +1,139 @@
 {
   "translation": {
     "sourceLanguage": "en",
-    "initialDraft": "Google Translate + AI"
+    "initialDraft": "Google Translate + AI",
+    "styleRevision": "AI editorial revision against the owner-provided English EPUB; human translation examples inform general readability only; not a human review",
+    "styleRevisionScope": "Selected paragraphs, dialogue register, narrative flow and contextual terminology; preserve source meaning",
+    "styleRevisedBlocks": [
+      "v1-bab-7-chapter007-p001",
+      "v1-bab-7-chapter007-p004",
+      "v1-bab-7-chapter007-p007",
+      "v1-bab-7-chapter007-p008",
+      "v1-bab-7-chapter007-p009",
+      "v1-bab-7-chapter007-p010",
+      "v1-bab-7-chapter007-p012",
+      "v1-bab-7-chapter007-p016",
+      "v1-bab-7-chapter007-p017",
+      "v1-bab-7-chapter007-p018",
+      "v1-bab-7-chapter007-p019",
+      "v1-bab-7-chapter007-p020",
+      "v1-bab-7-chapter007-p021",
+      "v1-bab-7-chapter007-p022",
+      "v1-bab-7-chapter007-p023",
+      "v1-bab-7-chapter007-p026",
+      "v1-bab-7-chapter007-p029",
+      "v1-bab-7-chapter007-p030",
+      "v1-bab-7-chapter007-p033",
+      "v1-bab-7-chapter007-p034",
+      "v1-bab-7-chapter007-p036",
+      "v1-bab-7-chapter007-p041",
+      "v1-bab-7-chapter007-p042",
+      "v1-bab-7-chapter007-p044",
+      "v1-bab-7-chapter007-p045",
+      "v1-bab-7-chapter007-p046",
+      "v1-bab-7-chapter007-p051",
+      "v1-bab-7-chapter007-p053",
+      "v1-bab-7-chapter007-p057",
+      "v1-bab-7-chapter007-p059",
+      "v1-bab-7-chapter007-p060",
+      "v1-bab-7-chapter007-p062",
+      "v1-bab-7-chapter007-p063",
+      "v1-bab-7-chapter007-p065",
+      "v1-bab-7-chapter007-p067",
+      "v1-bab-7-chapter007-p068",
+      "v1-bab-7-chapter007-p070",
+      "v1-bab-7-chapter007-p071",
+      "v1-bab-7-chapter007-p073",
+      "v1-bab-7-chapter007-p074",
+      "v1-bab-7-chapter007-p076",
+      "v1-bab-7-chapter007-p077",
+      "v1-bab-7-chapter007-p078",
+      "v1-bab-7-chapter007-p080",
+      "v1-bab-7-chapter007-p083",
+      "v1-bab-7-chapter007-p085",
+      "v1-bab-7-chapter007-p088",
+      "v1-bab-7-chapter007-p089",
+      "v1-bab-7-chapter007-p092",
+      "v1-bab-7-chapter007-p097",
+      "v1-bab-7-chapter007-p098",
+      "v1-bab-7-chapter007-p100",
+      "v1-bab-7-chapter007-p101",
+      "v1-bab-7-chapter007-p103",
+      "v1-bab-7-chapter007-p109",
+      "v1-bab-7-chapter007-p110",
+      "v1-bab-7-chapter007-p111",
+      "v1-bab-7-chapter007-p113",
+      "v1-bab-7-chapter007-p114",
+      "v1-bab-7-chapter007-p116",
+      "v1-bab-7-chapter007-p117",
+      "v1-bab-7-chapter007-p121",
+      "v1-bab-7-chapter007-p125",
+      "v1-bab-7-chapter007-p126",
+      "v1-bab-7-chapter007-p128",
+      "v1-bab-7-chapter007-p130",
+      "v1-bab-7-chapter007-p131",
+      "v1-bab-7-chapter007-p132",
+      "v1-bab-7-chapter007-p133",
+      "v1-bab-7-chapter007-p134",
+      "v1-bab-7-chapter007-p135",
+      "v1-bab-7-chapter007-p137",
+      "v1-bab-7-chapter007-p139",
+      "v1-bab-7-chapter007-p142",
+      "v1-bab-7-chapter007-p144",
+      "v1-bab-7-chapter007-p146",
+      "v1-bab-7-chapter007-p147",
+      "v1-bab-7-chapter007-p152",
+      "v1-bab-7-chapter007-p153",
+      "v1-bab-7-chapter007-p154",
+      "v1-bab-7-chapter007_b-p002",
+      "v1-bab-7-chapter007_b-p006",
+      "v1-bab-7-chapter007_b-p010",
+      "v1-bab-7-chapter007_b-p011",
+      "v1-bab-7-chapter007_b-p012",
+      "v1-bab-7-chapter007_b-p013",
+      "v1-bab-7-chapter007_b-p016",
+      "v1-bab-7-chapter007_b-p017",
+      "v1-bab-7-chapter007_b-p018",
+      "v1-bab-7-chapter007_b-p019",
+      "v1-bab-7-chapter007_b-p020",
+      "v1-bab-7-chapter007_b-p021",
+      "v1-bab-7-chapter007_b-p023",
+      "v1-bab-7-chapter007_b-p024",
+      "v1-bab-7-chapter007_b-p028",
+      "v1-bab-7-chapter007_b-p031",
+      "v1-bab-7-chapter007_b-p032",
+      "v1-bab-7-chapter007_b-p034",
+      "v1-bab-7-chapter007_b-p036",
+      "v1-bab-7-chapter007_b-p039",
+      "v1-bab-7-chapter007_b-p042",
+      "v1-bab-7-chapter007_b-p044",
+      "v1-bab-7-chapter007_b-p045",
+      "v1-bab-7-chapter007_b-p048",
+      "v1-bab-7-chapter007_b-p050",
+      "v1-bab-7-chapter007_b-p052",
+      "v1-bab-7-chapter007_b-p053",
+      "v1-bab-7-chapter007_b-p063",
+      "v1-bab-7-chapter007_b-p064",
+      "v1-bab-7-chapter007_b-p065",
+      "v1-bab-7-chapter007_b-p066",
+      "v1-bab-7-chapter007_b-p068",
+      "v1-bab-7-chapter007_b-p076",
+      "v1-bab-7-chapter007_b-p077",
+      "v1-bab-7-chapter007_b-p078",
+      "v1-bab-7-chapter007_b-p082",
+      "v1-bab-7-chapter007_d-p001",
+      "v1-bab-7-chapter007_d-p002",
+      "v1-bab-7-chapter007_d-p005",
+      "v1-bab-7-chapter007_d-p009",
+      "v1-bab-7-chapter007_d-p033",
+      "v1-bab-7-chapter007_d-p074",
+      "v1-bab-7-chapter007_d-p097",
+      "v1-bab-7-chapter007_d-p103",
+      "v1-bab-7-chapter007_d-p108",
+      "v1-bab-7-chapter007_d-p121",
+      "v1-bab-7-chapter007_d-p130",
+      "v1-bab-7-chapter007_d-p144"
+    ]
   },
   "blocks": [
     {
@@ -23,7 +155,7 @@
       "id": "v1-bab-7-chapter007-p001",
       "kind": "text",
       "source": "chapter007.xhtml#p1",
-      "text": "Hari-hari ini dan itu berlalu, dan program tenis kami memasuki fase kedua. Aku membuatnya terdengar keren saat itu juga, tetapi pada dasarnya, kami baru saja selesai melakukan latihan dasar dan akhirnya mulai berlatih dengan bola dan raket."
+      "text": "Hari demi hari berlalu, dan program tenis kami memasuki tahap kedua. Sengaja kubuat terdengar keren, padahal kami cuma selesai latihan dasar dan akhirnya mulai memakai bola serta raket."
     },
     {
       "id": "v1-bab-7-chapter007-p002",
@@ -48,11 +180,11 @@
       "id": "v1-bab-7-chapter007-p004",
       "kind": "text",
       "source": "chapter007.xhtml#p4",
-      "text": "Lalu ada Zaimokuza, yang sepenuhnya berniat mengembangkan serangan sihirnya. Agh, astaga, jangan membuang biji ek. Dan jangan menggali lapangan tanah liat dengan raket kamu juga.",
+      "text": "Sementara itu, Zaimokuza sibuk mengembangkan serangan sihirnya. Aduh, jangan melempar biji ek. Jangan menggali lapangan tanah liat dengan raket juga.",
       "emphasis": [
         {
-          "start": 77,
-          "end": 178,
+          "start": 64,
+          "end": 149,
           "style": "em"
         }
       ]
@@ -73,29 +205,29 @@
       "id": "v1-bab-7-chapter007-p007",
       "kind": "text",
       "source": "chapter007.xhtml#p7",
-      "text": "Tidak, sungguh, ini menyenangkan. Aku tidak tahu apa yang dipikirkan makhluk-makhluk kecil itu ketika mereka berlarian, tapi mereka menjalani gaya hidup yang sangat terburu-buru. Entahlah. Mungkin melihat ke bawah dari gedung perkantoran tinggi di Tokyo akan menimbulkan perasaan yang sama. Bentuk para pegawai berjas hitam, datang dan pergi, dan bentuk semut pekerja sepertinya satu dan sama. Pada akhirnya, aku akan menjadi seperti salah satu semut itu, setitik hitam yang terlihat dari atas. Aku bertanya-tanya bagaimana perasaan aku tentang kehidupan saat itu."
+      "text": "Sungguh, ini menyenangkan. Aku tidak tahu apa yang dipikirkan makhluk kecil yang berlarian itu, tapi hidup mereka tampak sibuk sekali. Mungkin begini rasanya memandang ke bawah dari gedung perkantoran tinggi di Tokyo. Pegawai berjas hitam yang datang dan pergi tampak sama saja dengan semut pekerja. Pada akhirnya, aku juga akan menjadi salah satu dari mereka: titik hitam kecil kalau dilihat dari atas. Saat itu nanti, bagaimana aku memandang hidupku sendiri?"
     },
     {
       "id": "v1-bab-7-chapter007-p008",
       "kind": "text",
       "source": "chapter007.xhtml#p8",
-      "text": "Aku tidak keberatan menjadi pegawai, dan sebenarnya, aku bahkan ingin menjadi pegawai. Ini adalah kehidupan yang cukup aman. Itu nomor dua dalam daftar hal-hal yang aku inginkan di masa depan setelah menjadi suami rumah tangga. Nomor tiga adalah mobil pemadam kebakaran. Ya, seperti aku akan menjadi mobil."
+      "text": "Aku tidak keberatan menjadi pegawai kantoran. Malah ingin. Hidupnya cukup terjamin. Itu cita-cita nomor dua setelah bapak rumah tangga. Nomor tiga, mobil pemadam kebakaran. Memangnya aku bisa jadi mobil?"
     },
     {
       "id": "v1-bab-7-chapter007-p009",
       "kind": "text",
       "source": "chapter007.xhtml#p9",
-      "text": "Tentu saja, aku tahu betul bahwa menjadi pegawai kantoran tidak selalu menyenangkan dan permainan. Saat aku melihat wajah ayahku setelah dia pulang kerja, dia kelelahan karena hidup, dan aku salut padanya atas hal itu. Menurutku, adalah suatu hal yang mulia untuk terus bekerja bahkan ketika hal buruk terjadi. Jadi tanpa sadar aku memproyeksikan ayahku ke semut-semut itu sambil menyemangati mereka secara mental."
+      "text": "Tentu aku tahu bekerja di kantor tidak selalu menyenangkan. Wajah Ayah setiap pulang kerja tampak lelah menghadapi hidup. Aku menghormatinya karena itu. Tetap bekerja meski hal buruk terjadi adalah sesuatu yang mulia. Tanpa sadar, aku membayangkan Ayah pada semut-semut itu dan menyemangati mereka dalam hati."
     },
     {
       "id": "v1-bab-7-chapter007-p010",
       "kind": "text",
       "source": "chapter007.xhtml#p10",
-      "text": "Kamu bisa melakukannya, Ayah. Jangan pernah menyerah Ayah, dan jangan pula menyerahkan folikel rambut Ayah. Aku berdoa dalam hati sambil memimpikan masa depanku dan mengkhawatirkan prospek garis rambutku di tahun-tahun mendatang. Barangkali doaku terkabul, karena semut itu sedang berjalan kembali menuju lubang tempat ia datang. Aku yakin itulah yang dilakukannya. Aku sangat tersentuh, aku terisak dan menyeka air mata.",
+      "text": "Semangat, Ayah. Jangan menyerah. Folikel rambut Ayah juga jangan menyerah. Aku berdoa dalam hati sambil membayangkan masa depan dan mencemaskan garis rambutku kelak. Mungkin doaku terkabul, karena semut itu berjalan kembali menuju sarangnya. Aku yakin itulah yang dilakukannya. Terharu, aku terisak dan menyeka air mata.",
       "emphasis": [
         {
           "start": 0,
-          "end": 107,
+          "end": 74,
           "style": "em"
         }
       ]
@@ -110,11 +242,11 @@
       "id": "v1-bab-7-chapter007-p012",
       "kind": "text",
       "source": "chapter007.xhtml#p12",
-      "text": "Hancurkan!!",
+      "text": "DEBUK!!",
       "emphasis": [
         {
           "start": 0,
-          "end": 11,
+          "end": 7,
           "style": "em"
         }
       ]
@@ -148,11 +280,11 @@
       "id": "v1-bab-7-chapter007-p016",
       "kind": "text",
       "source": "chapter007.xhtml#p16",
-      "text": "Jadi itu kamu, Zaimokuza… Kamulah yang melakukan ini pada ayahku (si semut)…tapi terserahlah. Itu hanya seekor semut. Aku mengatupkan kedua tanganku dalam doa ringan untuk almarhum.",
+      "text": "Jadi kamu, Zaimokuza… Kamu yang melakukan ini kepada ayahku si semut… Yah, sudahlah. Cuma semut. Kukatupkan tangan sebentar untuk mendoakan almarhum.",
       "emphasis": [
         {
           "start": 0,
-          "end": 117,
+          "end": 96,
           "style": "em"
         }
       ]
@@ -161,17 +293,17 @@
       "id": "v1-bab-7-chapter007-p017",
       "kind": "text",
       "source": "chapter007.xhtml#p17",
-      "text": "Sambil mengingat kembali teknik suksesnya, Zaimokuza memutar raketnya sebelum menyampirkannya di bahunya dan berpose. Sepertinya dia baru saja mendapatkan beberapa EXP."
+      "text": "Sambil mengingat keberhasilan jurusnya, Zaimokuza memutar raket, menyampirkannya di bahu, lalu berpose. Rupanya dia baru mendapat EXP."
     },
     {
       "id": "v1-bab-7-chapter007-p018",
       "kind": "text",
       "source": "chapter007.xhtml#p18",
-      "text": "Yah, aku tidak peduli tentang Zaimokuza atau semut itu. Sepertinya aku akan melihat Totsuka bersikap manis untuk menghabiskan waktu.",
+      "text": "Yah, persetan dengan Zaimokuza dan semut itu. Lebih baik kuhabiskan waktu memandangi Totsuka yang manis.",
       "emphasis": [
         {
-          "start": 56,
-          "end": 132,
+          "start": 46,
+          "end": 104,
           "style": "em"
         }
       ]
@@ -180,34 +312,34 @@
       "id": "v1-bab-7-chapter007-p019",
       "kind": "text",
       "source": "chapter007.xhtml#p19",
-      "text": "Aku bisa melihat Yuigahama, yang terbangun pada suatu saat, dengan susah payah menyeret kereta bola ke bawah arahan Yukinoshita. Dia melempar bola satu demi satu sementara Totsuka berusaha keras untuk memukul balik semuanya."
+      "text": "Yuigahama rupanya sudah bangun. Di bawah arahan Yukinoshita, dia susah payah menarik keranjang bola. Dia melemparkannya satu per satu, sementara Totsuka mati-matian berusaha membalas semua."
     },
     {
       "id": "v1-bab-7-chapter007-p020",
       "kind": "text",
       "source": "chapter007.xhtml#p20",
-      "text": "“Yuigahama, beri dia lemparan yang lebih sulit, seperti ke sana ke mari. Ini bukan latihan sebenarnya kecuali kamu melakukannya.”"
+      "text": "“Yuigahama, buat lemparannya lebih sulit. Arahkan ke sana kemari. Kalau tidak begitu, ini bukan latihan.”"
     },
     {
       "id": "v1-bab-7-chapter007-p021",
       "kind": "text",
       "source": "chapter007.xhtml#p21",
-      "text": "Totsuka menerima bola di dekat garis dan di dekat net, napasnya yang tidak teratur sangat kontras dengan suara tenang Yukinoshita. Yukinoshita serius. Brengsek yang serius."
+      "text": "Totsuka menerima bola di dekat garis, lalu dekat net. Napasnya terengah, sangat berbeda dari suara Yukinoshita yang tenang. Yukinoshita serius. Serius jadi orang menyebalkan."
     },
     {
       "id": "v1-bab-7-chapter007-p022",
       "kind": "text",
       "source": "chapter007.xhtml#p22",
-      "text": "Tidak, maksudku kamu serius melatihnya. Kamu membuatku takut, jadi jangan melihat ke arah sini… Bagaimana kamu tahu apa yang aku pikirkan?",
+      "text": "Bukan, maksudku serius melatih. Jangan lihat ke sini, menyeramkan… Kenapa kamu tahu pikiranku?",
       "emphasis": [
         {
           "start": 0,
-          "end": 94,
+          "end": 65,
           "style": "em"
         },
         {
-          "start": 96,
-          "end": 138,
+          "start": 67,
+          "end": 94,
           "style": "em"
         }
       ]
@@ -216,7 +348,7 @@
       "id": "v1-bab-7-chapter007-p023",
       "kind": "text",
       "source": "chapter007.xhtml#p23",
-      "text": "Lemparan Yuigahama tidak hanya memiliki bentuk yang buruk, bidikannya juga mengarah ke mana-mana, dan bola-bolanya melayang tak terduga. Totsuka mencoba mengejar mereka semua, tapi setelah sekitar bola kedua puluh, dia tergelincir dan terjatuh."
+      "text": "Cara melempar Yuigahama buruk, bidikannya juga kacau. Bola melayang tak menentu. Totsuka mencoba mengejar semuanya, tetapi sekitar lemparan kedua puluh, dia terpeleset dan jatuh."
     },
     {
       "id": "v1-bab-7-chapter007-p024",
@@ -234,7 +366,7 @@
       "id": "v1-bab-7-chapter007-p026",
       "kind": "text",
       "source": "chapter007.xhtml#p26",
-      "text": "Dia sangat berani. “Aku baik-baik saja, jadi lanjutkanlah.”"
+      "text": "Dia tabah sekali. “Aku tidak apa-apa. Lanjutkan saja.”"
     },
     {
       "id": "v1-bab-7-chapter007-p027",
@@ -252,13 +384,13 @@
       "id": "v1-bab-7-chapter007-p029",
       "kind": "text",
       "source": "chapter007.xhtml#p29",
-      "text": "“Aku mengerti. Kalau begitu ambillah dari sini, Yuigahama,” kata Yukinoshita dan berbalik, melangkah pergi untuk menghilang ke dalam gedung sekolah."
+      "text": "“Begitu. Kalau begitu, lanjutkan, Yuigahama.” Yukinoshita berbalik, lalu berjalan masuk ke gedung sekolah."
     },
     {
       "id": "v1-bab-7-chapter007-p030",
       "kind": "text",
       "source": "chapter007.xhtml#p30",
-      "text": "Totsuka memperhatikannya dengan gelisah dan bergumam, “A-apakah aku mungkin mengatakan sesuatu yang membuatnya marah?”"
+      "text": "Totsuka memandangnya gelisah. “A-apa tadi aku bilang sesuatu yang membuatnya marah?”"
     },
     {
       "id": "v1-bab-7-chapter007-p031",
@@ -276,11 +408,11 @@
       "id": "v1-bab-7-chapter007-p033",
       "kind": "text",
       "source": "chapter007.xhtml#p33",
-      "text": "Tidak, menurutku dia juga sering berbicara seperti itu padamu, Yuigahama. kamu hanya tidak menyadarinya.",
+      "text": "Rasanya kamu juga sering diajak bicara begitu, Yuigahama. Cuma tidak sadar.",
       "emphasis": [
         {
           "start": 0,
-          "end": 104,
+          "end": 75,
           "style": "em"
         }
       ]
@@ -289,7 +421,7 @@
       "id": "v1-bab-7-chapter007-p034",
       "kind": "text",
       "source": "chapter007.xhtml#p34",
-      "text": "“Mungkin…dia muak denganku… Tidak peduli seberapa sering kita melakukan ini, aku tidak pernah menjadi lebih baik, dan aku hanya bisa melakukan lima push-up…” Bahu Totsuka merosot saat dia melihat ke bawah. Yah, itu terdengar seperti pendapat Yukinoshita. Tetapi…"
+      "text": "“Mungkin… dia sudah muak padaku… Dilatih berkali-kali juga aku tidak bertambah jago. Push-up saja cuma bisa lima kali…” Bahu Totsuka merosot, matanya menunduk. Yah, masuk akal kalau Yukinoshita berpikir begitu. Tapi…"
     },
     {
       "id": "v1-bab-7-chapter007-p035",
@@ -301,7 +433,7 @@
       "id": "v1-bab-7-chapter007-p036",
       "kind": "text",
       "source": "chapter007.xhtml#p36",
-      "text": "“Ya, itu benar. Maksudku, dia bahkan membantumu memasak. Dia melakukan sejauh itu demi kamu, dan masih ada harapan untuk Totsuka, jadi dia tidak akan menyerah padanya.”"
+      "text": "“Iya. Memasakmu saja dia mau bantu. Kalau untukmu dia sampai berusaha begitu, apalagi Totsuka yang masih punya harapan. Tidak mungkin ditinggalkan.”"
     },
     {
       "id": "v1-bab-7-chapter007-p037",
@@ -338,11 +470,11 @@
       "id": "v1-bab-7-chapter007-p041",
       "kind": "text",
       "source": "chapter007.xhtml#p41",
-      "text": "Yuigahama yang menyerah duluan? Ayo.",
+      "text": "Justru Yuigahama yang menyerah duluan? Ayolah.",
       "emphasis": [
         {
           "start": 0,
-          "end": 36,
+          "end": 46,
           "style": "em"
         }
       ]
@@ -351,7 +483,7 @@
       "id": "v1-bab-7-chapter007-p042",
       "kind": "text",
       "source": "chapter007.xhtml#p42",
-      "text": "Yah, sepertinya aku tidak punya hal lain yang lebih baik untuk dilakukan. Yang kulakukan hanyalah pengamatan semut, dan semut itu telah dibunuh oleh Zaimokuza, membuatku bingung. Aku tidak ada hubungannya."
+      "text": "Yah, aku juga tidak punya kegiatan lain. Tadi cuma mengamati semut, dan semutnya sudah dibunuh Zaimokuza. Aku pun menganggur."
     },
     {
       "id": "v1-bab-7-chapter007-p043",
@@ -363,19 +495,19 @@
       "id": "v1-bab-7-chapter007-p044",
       "kind": "text",
       "source": "chapter007.xhtml#p44",
-      "text": "“Hore! Oh, tadi aku menyerah setelah lima lemparan, jadi hati-hati.”"
+      "text": "“Asyik! Oh, baru kali ini aku menyerah setelah lima lemparan, jadi hati-hati.”"
     },
     {
       "id": "v1-bab-7-chapter007-p045",
       "kind": "text",
       "source": "chapter007.xhtml#p45",
-      "text": "Lima lemparan? Itu terlalu cepat. Seberapa buruk daya tahannya? Aku bergerak untuk mengambil bola dari Yuigahama, tapi kemudian ekspresinya, yang tadinya merupakan senyuman ceria, menjadi suram."
+      "text": "Lima lemparan? Cepat sekali. Sejelek apa staminanya? Aku hendak mengambil bola dari Yuigahama saat senyum riangnya mendadak muram."
     },
     {
       "id": "v1-bab-7-chapter007-p046",
       "kind": "text",
       "source": "chapter007.xhtml#p46",
-      "text": "“Oh, mereka sedang bermain tenis! Tenis!” Aku mendengar pekikan suara cerewet dan menoleh untuk melihat kerumunan besar berjalan ke arah kami dengan Hayama dan Miura di tengahnya. Mereka baru saja melewati Zaimokuza dan rupanya memperhatikan Yuigahama dan aku."
+      "text": "“Oh, ada yang main tenis! Tenis!” Terdengar suara nyaring. Saat menoleh, kulihat rombongan besar mendekat, dengan Hayama dan Miura di tengah. Mereka baru melewati Zaimokuza dan rupanya melihatku bersama Yuigahama."
     },
     {
       "id": "v1-bab-7-chapter007-p047",
@@ -405,7 +537,7 @@
       "id": "v1-bab-7-chapter007-p051",
       "kind": "text",
       "source": "chapter007.xhtml#p51",
-      "text": "Miura sepertinya tidak bisa mendengar protes Totsuka yang terlalu pelan, dan jawaban Totsuka membungkamnya. Yah, jika dia memintaku mengulangi ucapannya seperti yang baru saja dia minta, aku juga akan terdiam. Dia sangat menakutkan."
+      "text": "Rupanya protes Totsuka terlalu lirih untuk terdengar. Balasan Miura membuatnya terdiam. Yah, kalau diminta mengulangi ucapan dengan cara begitu, aku juga akan diam. Menakutkan sekali."
     },
     {
       "id": "v1-bab-7-chapter007-p052",
@@ -417,7 +549,7 @@
       "id": "v1-bab-7-chapter007-p053",
       "kind": "text",
       "source": "chapter007.xhtml#p53",
-      "text": "Tapi ratu tidak peduli akan hal itu. “Hmph. Tapi, sepertinya, orang-orang ini bukan bagian dari klubmu. Jadi itu berarti bukan hanya klub tenis anak laki-laki yang menggunakan lapangannya sekarang, kan?”"
+      "text": "Tapi sang ratu tidak peduli. “Hmph. Mereka ini bukan anggota klubmu, kan? Berarti sekarang lapangannya bukan dipakai khusus klub tenis putra, dong?”"
     },
     {
       "id": "v1-bab-7-chapter007-p054",
@@ -441,7 +573,7 @@
       "id": "v1-bab-7-chapter007-p057",
       "kind": "text",
       "source": "chapter007.xhtml#p57",
-      "text": "Hah? Aku? Oh, baiklah, sepertinya hanya ada aku. Yukinoshita masih pergi entah ke mana, Yuigahama dengan canggung membuang muka, dan tidak ada seorang pun yang peduli pada Zaimokuza. Jadi yang tersisa hanyalah aku, ya?",
+      "text": "Hah? Aku? Yah, memang cuma aku. Yukinoshita entah ke mana, Yuigahama membuang muka dengan canggung, dan Zaimokuza tidak dianggap ada. Jadi tinggal aku, ya?",
       "emphasis": [
         {
           "start": 0,
@@ -460,13 +592,13 @@
       "id": "v1-bab-7-chapter007-p059",
       "kind": "text",
       "source": "chapter007.xhtml#p59",
-      "text": "“Hah? Seperti yang kubilang, kalian tidak berada di klub, tapi kalian menggunakannya.”"
+      "text": "“Hah? Kan sudah kubilang, kalian bukan anggota klub, tapi ikut pakai.”"
     },
     {
       "id": "v1-bab-7-chapter007-p060",
       "kind": "text",
       "source": "chapter007.xhtml#p60",
-      "text": "“Ya, tapi kami hanya membantu Totsuka dalam praktiknya. Ini seperti subkontrak atau outsourcing.”"
+      "text": "“Kami cuma membantu latihan Totsuka. Semacam subkontrak atau alih daya.”"
     },
     {
       "id": "v1-bab-7-chapter007-p061",
@@ -478,13 +610,13 @@
       "id": "v1-bab-7-chapter007-p062",
       "kind": "text",
       "source": "chapter007.xhtml#p62",
-      "text": "Wow, dia sama sekali tidak berniat mendengarkanku. Inilah kenapa aku benci pelacur idiot seperti dia. Jika kata-kata tidak sampai padanya, apakah dia masih dianggap sebagai primata? Aku bisa melakukan lebih banyak percakapan dengan seekor anjing."
+      "text": "Wah, dia sama sekali tidak berniat mendengarkan. Inilah sebabnya aku benci pelacur bodoh sepertinya. Kalau bahasa saja tidak dipahami, masih bisa disebut primata? Mengobrol dengan anjing lebih nyambung."
     },
     {
       "id": "v1-bab-7-chapter007-p063",
       "kind": "text",
       "source": "chapter007.xhtml#p63",
-      "text": "“Ayolah, jangan berkelahi.” Hayama datang di antara kami seolah-olah ingin memuluskan segalanya. “Dengar, semakin banyak semakin meriah. Tidak bisakah semua orang bermain?”"
+      "text": "“Sudahlah, jangan bertengkar.” Hayama menyela untuk meredakan keadaan. “Makin ramai makin seru, kan? Bagaimana kalau semuanya main?”"
     },
     {
       "id": "v1-bab-7-chapter007-p064",
@@ -496,21 +628,21 @@
       "id": "v1-bab-7-chapter007-p065",
       "kind": "text",
       "source": "chapter007.xhtml#p65",
-      "text": "“Siapa semuanya ini? Apakah semua orang ini sama dengan yang kamu ajak bicara saat kamu mengganggu ibumu untuk membelikanmu sesuatu dengan mengatakan, 'Semua punya satu!'? Siapa orang-orang ini? Aku tidak punya teman, jadi aku tidak pernah menggunakan taktik itu.”",
+      "text": "“Semuanya itu siapa? Sama seperti ‘semua orang sudah punya’ yang kamu bilang ke ibumu kalau minta dibelikan sesuatu? Memangnya siapa semua orang itu? Aku tidak punya teman, jadi tidak pernah pakai alasan itu.”",
       "emphasis": [
         {
-          "start": 7,
-          "end": 15,
+          "start": 1,
+          "end": 9,
           "style": "em"
         },
         {
-          "start": 28,
-          "end": 39,
+          "start": 35,
+          "end": 46,
           "style": "em"
         },
         {
-          "start": 152,
-          "end": 157,
+          "start": 133,
+          "end": 144,
           "style": "em"
         }
       ]
@@ -525,13 +657,13 @@
       "id": "v1-bab-7-chapter007-p067",
       "kind": "text",
       "source": "chapter007.xhtml#p67",
-      "text": "Bahkan Hayama terguncang oleh sindiranku. “Uh, baiklah, aku tidak bermaksud seperti itu. Hei, aku minta maaf. Um, jika kamu membutuhkan seseorang untuk diajak bicara, aku di sini, jika kamu mau.” Dia bergegas menghiburku dengan kecepatan yang mempesona."
+      "text": "Bahkan Hayama goyah mendengar sindiranku. “A-anu, bukan begitu maksudku. Maaf. Kalau perlu teman bicara, aku bersedia, kok.” Cepat sekali dia beralih menghiburku."
     },
     {
       "id": "v1-bab-7-chapter007-p068",
       "kind": "text",
       "source": "chapter007.xhtml#p68",
-      "text": "Hayama adalah pria yang baik. Aku hampir berkata, “Terima kasih…” atau sesuatu dengan air mata berlinang. Tetapi. Jika simpati kecil itu cukup untuk menyelamatkanku, kepribadianku tidak akan seburuk ini. Jika satu kalimat itu dapat menyelesaikan masalah seseorang, maka tidak akan ada seorang pun yang mempunyai masalah apa pun."
+      "text": "Hayama orang baik. Hampir saja aku menjawab, “Terima kasih…” dengan mata berair. Tapi kalau simpati sekecil itu bisa menyelamatkanku, kepribadianku tidak akan seburuk ini. Kalau satu kalimat bisa menyelesaikan masalah, tidak akan ada orang bermasalah."
     },
     {
       "id": "v1-bab-7-chapter007-p069",
@@ -555,17 +687,17 @@
       "id": "v1-bab-7-chapter007-p070",
       "kind": "text",
       "source": "chapter007.xhtml#p70",
-      "text": "“A-dari mana ini berasal?” Hayama tampak terguncang oleh sanjungan yang tiba-tiba itu."
+      "text": "“D-dari mana tiba-tiba…” Hayama goyah menghadapi pujian mendadak itu."
     },
     {
       "id": "v1-bab-7-chapter007-p071",
       "kind": "text",
       "source": "chapter007.xhtml#p71",
-      "text": "Hmph, teruslah berpikir kamu hebat. Aku yakin kamu tidak tahu. Menurut kamu mengapa orang saling memuji? Itu untuk mengangkat mereka lebih tinggi lagi sehingga lebih mudah untuk menjatuhkan kaki mereka dari bawah dan menyeret mereka turun dari alasnya! Ini dikenal sebagai kematian demi pujian.",
+      "text": "Hmph, teruslah merasa hebat. Kamu pasti tidak tahu kenapa orang memuji. Supaya lawannya terangkat makin tinggi, lalu lebih mudah dijegal dan diseret turun! Itulah membunuh dengan pujian.",
       "emphasis": [
         {
           "start": 0,
-          "end": 294,
+          "end": 186,
           "style": "em"
         }
       ]
@@ -580,13 +712,13 @@
       "id": "v1-bab-7-chapter007-p073",
       "kind": "text",
       "source": "chapter007.xhtml#p73",
-      "text": "“Dia mengatakan kebenaran! Apapun namamu Hayama! Tindakanmu adalah bentuk perilaku yang paling tercela dan merupakan pelanggaran etika! Ini adalah sebuah invasi! Hak untuk membalas dendam adalah milikku!” Pada suatu saat Zaimokuza mendatangi kami dan menyampaikan pidato dramatis."
+      "text": "“Benar! Hayama atau siapa pun namamu! Tindakanmu amat tercela dan melanggar etika! Ini penyerbuan! Aku berhak membalas!” Entah sejak kapan Zaimokuza sudah menghampiri kami dan berpidato dramatis."
     },
     {
       "id": "v1-bab-7-chapter007-p074",
       "kind": "text",
       "source": "chapter007.xhtml#p74",
-      "text": "“S-melihat kalian berdua bersama-sama itu dua kali lebih menyebalkan dan menyedihkan…” Yuigahama, di samping kami, kehilangan kata-kata."
+      "text": "“K-kalau kalian berdua bareng, menyebalkan dan menyedihkannya jadi dua kali lipat…” Yuigahama di samping kami sampai kehilangan kata-kata."
     },
     {
       "id": "v1-bab-7-chapter007-p075",
@@ -598,23 +730,23 @@
       "id": "v1-bab-7-chapter007-p076",
       "kind": "text",
       "source": "chapter007.xhtml#p76",
-      "text": "Senyuman jahat tersungging di bibirku. Itu saja. Hayama tidak suka menimbulkan masalah. Dan pada saat itu, pemain yang terlibat dalam adegan tersebut adalah aku sendiri, Zaimokuza, dan Hayama. Hayama berusaha menenangkan situasi saat dihadapkan pada jumlah yang lebih banyak."
+      "text": "Senyum jahat merekah di bibirku. Tepat sekali. Hayama tidak suka membuat masalah. Sekarang pihak yang terlibat cuma aku, Zaimokuza, dan Hayama. Karena kalah jumlah, Hayama berusaha menenangkan situasi."
     },
     {
       "id": "v1-bab-7-chapter007-p077",
       "kind": "text",
       "source": "chapter007.xhtml#p77",
-      "text": "“Hei, Hayato!” Suara yang terdengar bosan terdengar dari samping. “Kenapa lama sekali bersama orang-orang ini? Aku ingin bermain tenis.”"
+      "text": "“Hei, Hayato!” Suara bosan datang dari samping. “Kenapa lama banget ngurus mereka? Aku mau main tenis.”"
     },
     {
       "id": "v1-bab-7-chapter007-p078",
       "kind": "text",
       "source": "chapter007.xhtml#p78",
-      "text": "Agh, rambut ikal bodoh itu muncul lagi. Apakah sel-sel otakmu juga mengalami kelainan seperti itu? Ikuti terus topik yang ada. Orang seperti kamu menginjak pedal gas padahal mereka bermaksud menginjak rem.",
+      "text": "Aduh, si rambut ikal itu lagi. Sel otakmu ikut keriting juga? Ikuti pembicaraannya. Orang sepertimu bakal menginjak gas saat bermaksud mengerem.",
       "emphasis": [
         {
           "start": 0,
-          "end": 205,
+          "end": 144,
           "style": "em"
         }
       ]
@@ -629,7 +761,7 @@
       "id": "v1-bab-7-chapter007-p080",
       "kind": "text",
       "source": "chapter007.xhtml#p80",
-      "text": "Kata-katanya membuat Hayama berpikir sejenak. Dalam jeda singkat itu, pikirannya memutar kunci kontak. “Hmm. Baiklah kalau begitu, bagaimana dengan ini? Kami yang bukan anggota klub akan memainkan pertandingan, dan pemenangnya akan dapat menggunakan lapangan tenis saat makan siang mulai sekarang. Tentu saja, mereka akan membantu Totsuka dalam latihannya. Akan lebih baik baginya untuk berlatih dengan orang-orang yang lebih ahli dalam tenis. Dan semua orang bisa bersenang-senang.”"
+      "text": "Ucapan itu membuat Hayama berpikir sejenak. Dalam jeda singkat itu, pikirannya menyalakan mesin. “Hmm. Kalau begitu, bagaimana kalau begini? Kita yang bukan anggota klub bertanding. Pemenangnya boleh memakai lapangan saat makan siang mulai sekarang. Tentu sambil membantu latihan Totsuka. Lebih baik dia berlatih dengan orang yang lebih jago tenis. Semua juga bisa bersenang-senang.”"
     },
     {
       "id": "v1-bab-7-chapter007-p081",
@@ -654,7 +786,7 @@
       "id": "v1-bab-7-chapter007-p083",
       "kind": "text",
       "source": "chapter007.xhtml#p83",
-      "text": "Seketika, para pengikut mereka bersorak gembira. Saat itulah kita memasuki fase ketiga, tersapu oleh demam persaingan dalam antusiasme dan kekacauan yang liar. Aku membuatnya terdengar keren saat itu juga, tapi pada dasarnya, kami sedang bertanding dengan lapangan tenis sebagai taruhannya."
+      "text": "Para pengikut mereka langsung bersorak. Kami pun memasuki tahap ketiga, terseret demam persaingan dalam semangat dan kekacauan. Sengaja kubuat terdengar keren, padahal kami cuma akan bertanding memperebutkan lapangan tenis."
     },
     {
       "id": "v1-bab-7-chapter007-p084",
@@ -672,7 +804,7 @@
       "id": "v1-bab-7-chapter007-p085",
       "kind": "text",
       "source": "chapter007.xhtml#p85",
-      "text": "Aku agak bercanda ketika melontarkan ungkapan “antusiasme dan kekacauan yang liar”, namun begitulah yang terjadi. Lapangan tenis di pojok halaman sekolah ini kini ramai dan ramai. Seandainya aku repot-repot menghitung jumlah orang, aku yakin jumlahnya akan lebih dari dua ratus orang. Tentu saja, kelompok Hayama ada di sana, dan banyak orang lain yang telah mendengar rumor dari suatu tempat dan mendatangi kami. Mayoritas dari mereka adalah teman dan penggemar Hayama. Sebagian besar mereka adalah siswa kelas dua, tapi ada beberapa siswa kelas satu yang ikut serta, dan aku bisa melihat beberapa siswa kelas tiga juga ikut bergabung."
+      "text": "Tadi aku agak bercanda soal “semangat dan kekacauan”, tapi ternyata itulah yang terjadi. Lapangan tenis di sudut sekolah kini penuh sesak. Kalau dihitung, mungkin lebih dari dua ratus orang. Selain kelompok Hayama, banyak orang datang setelah mendengar kabarnya. Kebanyakan teman dan penggemar Hayama. Mayoritas siswa kelas dua, tetapi ada kelas satu dan beberapa kelas tiga juga."
     },
     {
       "id": "v1-bab-7-chapter007-p086",
@@ -702,13 +834,13 @@
       "id": "v1-bab-7-chapter007-p088",
       "kind": "text",
       "source": "chapter007.xhtml#p88",
-      "text": "Ini benar-benar seperti konser idola pop. Menurutku semua sorakan itu tidak sepenuhnya tulus. Mayoritas dari mereka hanya sekadar bersantai untuk melihat tontonan. Benar? Aku ingin mempercayai hal itu. Bagaimanapun, dari sudut pandang orang luar, antusiasme mereka tampak agak dingin, dan ada kesan religius di dalamnya. Benar-benar agama remaja yang menakutkan."
+      "text": "Benar-benar seperti konser idola. Rasanya tidak semua sorakan itu tulus. Kebanyakan cuma datang untuk menikmati tontonan. Benar, kan? Aku ingin percaya begitu. Bagaimanapun, dari luar, antusiasme mereka terasa agak dingin dan berbau agama. Agama masa muda yang mengerikan."
     },
     {
       "id": "v1-bab-7-chapter007-p089",
       "kind": "text",
       "source": "chapter007.xhtml#p89",
-      "text": "Di tengah kekacauan itu, Hayato dengan berani melangkah ke tengah lapangan. Bahkan dengan banyaknya penonton yang berkumpul, dia sama sekali tidak ragu-ragu. Dia mungkin sudah terbiasa dengan perhatian seperti itu. Yang mengelilinginya bukan hanya orang-orang biasa saja, tapi juga anak laki-laki dan perempuan dari kelas lain. Kami benar-benar diliputi oleh mereka. Tatapanku melayang kesana-kemari, ke mana-mana, dan ketika aku memejamkan mata, aku menjadi pusing karena keributan yang memekakkan telinga itu semua."
+      "text": "Di tengah keramaian, Hayato melangkah mantap ke lapangan. Dia tidak ragu sedikit pun menghadapi begitu banyak penonton. Mungkin sudah biasa jadi pusat perhatian. Yang mengelilinginya bukan hanya kelompok kaum normal itu, tetapi juga cowok-cewek dari kelas lain. Kami benar-benar kewalahan. Mataku bergerak ke sana kemari. Saat kupejamkan, keributan yang memekakkan telinga malah membuatku pusing."
     },
     {
       "id": "v1-bab-7-chapter007-p090",
@@ -726,7 +858,7 @@
       "id": "v1-bab-7-chapter007-p092",
       "kind": "text",
       "source": "chapter007.xhtml#p92",
-      "text": "“Kami tidak melakukan apa pun.” Aku melirik ke arah Totsuka. Dan berbicara tentang Totsuka, dia bertingkah seperti kelinci peliharaan yang ditinggalkan di rumah orang lain. Dia berjalan ke sisiku, dengan malu-malu."
+      "text": "“Kita tidak perlu berbuat apa-apa.” Kulirik Totsuka. Dia tampak seperti kelinci peliharaan yang dititipkan di rumah asing. Dengan malu-malu, ujung kaki mengarah ke dalam, dia mendekat ke sisiku."
     },
     {
       "id": "v1-bab-7-chapter007-p093",
@@ -773,16 +905,16 @@
       "id": "v1-bab-7-chapter007-p097",
       "kind": "text",
       "source": "chapter007.xhtml#p97",
-      "text": "“Aku bodoh karena bertanya padamu. Dan jika kamu berpikir cara yang buruk untuk mengatakan tenis, maka buatlah satu untuk musik juga.”",
+      "text": "“Bodoh sekali aku bertanya kepadamu. Dan kalau tenis diberi sebutan kuno begitu, musikal juga, dong.”",
       "emphasis": [
         {
-          "start": 91,
-          "end": 96,
+          "start": 47,
+          "end": 52,
           "style": "em"
         },
         {
-          "start": 122,
-          "end": 127,
+          "start": 81,
+          "end": 88,
           "style": "em"
         }
       ]
@@ -791,11 +923,11 @@
       "id": "v1-bab-7-chapter007-p098",
       "kind": "text",
       "source": "chapter007.xhtml#p98",
-      "text": "“Kalau begitu, tidak ada yang bisa kamu mainkan selain kamu, Hachiman. Lalu bagaimana aku mengatakan musikal dengan cara yang kuno?”",
+      "text": "“Kalau begitu, tinggal kau yang bisa bermain, Hachiman. Lalu, sebutan kuno untuk musikal itu apa?”",
       "emphasis": [
         {
-          "start": 101,
-          "end": 108,
+          "start": 81,
+          "end": 88,
           "style": "em"
         }
       ]
@@ -810,11 +942,11 @@
       "id": "v1-bab-7-chapter007-p100",
       "kind": "text",
       "source": "chapter007.xhtml#p100",
-      "text": "“Apakah kamu mempunyai peluang untuk menang? Dan apa istilah kuno untuk mengatakan musikal?!”",
+      "text": "“Ada peluang menang? Dan apa sebutan kuno untuk musikal?!”",
       "emphasis": [
         {
-          "start": 83,
-          "end": 90,
+          "start": 48,
+          "end": 55,
           "style": "em"
         }
       ]
@@ -823,7 +955,7 @@
       "id": "v1-bab-7-chapter007-p101",
       "kind": "text",
       "source": "chapter007.xhtml#p101",
-      "text": "“Tidak, aku tidak melakukannya. Dan diamlah. Jika kamu tidak dapat menemukan cara untuk mengubahnya menjadi sesuatu yang lain, maka ubahlah karakter yang kamu mainkan. Lagi pula, kamu sudah kehabisan karakter.”"
+      "text": "“Tidak ada. Dan diamlah. Kalau tidak bisa mengganti istilahnya, ganti saja karakter yang kamu mainkan. Lagi pula, dari tadi sudah keluar dari peran.”"
     },
     {
       "id": "v1-bab-7-chapter007-p102",
@@ -835,11 +967,11 @@
       "id": "v1-bab-7-chapter007-p103",
       "kind": "text",
       "source": "chapter007.xhtml#p103",
-      "text": "Ketika aku mulai kehabisan akal, seseorang melontarkan komentar kasar dan jengkel kepadaku. “Hei, bisakah kamu mempercepatnya?” Aku mengangkat kepalaku, berpikir, Diam, pelacur, dan di sanalah Miura, memegang raketnya seolah sedang memeriksanya.",
+      "text": "Saat aku kehabisan akal, terdengar komentar kasar penuh kejengkelan. “Hei, bisa cepetan?” Aku mendongak sambil berpikir, Diam, pelacur. Di sana Miura sedang memeriksa raketnya.",
       "emphasis": [
         {
-          "start": 163,
-          "end": 176,
+          "start": 121,
+          "end": 134,
           "style": "em"
         }
       ]
@@ -904,13 +1036,13 @@
       "id": "v1-bab-7-chapter007-p109",
       "kind": "text",
       "source": "chapter007.xhtml#p109",
-      "text": "“Hachiman. Ini mengerikan. Kamu tidak punya teman wanita. Dan jika kamu mencoba bertanya pada gadis yang tidak kamu kenal, tidak ada satupun dari mereka yang mau membantu bajingan kesepian dan biasa-biasa saja seperti kamu. Apa yang akan kamu lakukan?”"
+      "text": "“Hachiman, ini gawat. Kau tidak punya teman perempuan. Kalaupun meminta gadis yang tidak dikenal, siapa yang mau membantu penyendiri biasa sepertimu? Apa yang akan kaulakukan?”"
     },
     {
       "id": "v1-bab-7-chapter007-p110",
       "kind": "text",
       "source": "chapter007.xhtml#p110",
-      "text": "Diam, Zaimokuza. Tapi dia sepenuhnya benar, jadi aku tidak bisa menyuruhnya untuk mengambilnya kembali.",
+      "text": "Diam, Zaimokuza. Tapi semuanya benar, jadi aku tidak bisa membantah.",
       "emphasis": [
         {
           "start": 0,
@@ -923,11 +1055,11 @@
       "id": "v1-bab-7-chapter007-p111",
       "kind": "text",
       "source": "chapter007.xhtml#p111",
-      "text": "Sudah terlambat untuk mengatakan, Maaf, lupakan semua hal yang aku katakan! pada tahap permainan ini. Aku melirik ke arah Zaimokuza, bertanya-tanya apa yang harus kulakukan, dan dia membuang muka dengan canggung, menghindari tatapanku sambil bersiul tanpa suara. Saat aku menghela napas, Yuigahama dan Totsuka mengikuti seperti bagian dari reaksi berantai.",
+      "text": "Sekarang sudah terlambat untuk berkata, Maaf, lupakan ucapanku tadi! Aku melirik Zaimokuza, mencari jalan keluar. Dia membuang muka canggung, menghindari tatapanku sambil bersiul tanpa suara. Aku menghela napas. Yuigahama dan Totsuka menyusul, seperti reaksi berantai.",
       "emphasis": [
         {
-          "start": 34,
-          "end": 75,
+          "start": 40,
+          "end": 68,
           "style": "em"
         }
       ]
@@ -948,13 +1080,13 @@
       "id": "v1-bab-7-chapter007-p113",
       "kind": "text",
       "source": "chapter007.xhtml#p113",
-      "text": "Itu benar. Aku bertanya-tanya mengapa dia bukan perempuan. Dia sangat manis. “Jangan khawatir tentang itu.” Aku menyimpan pikiranku untuk diriku sendiri dan menepuk kepala Totsuka. “Dan...jangan khawatir tentang itu juga. Kamu punya tempat yang pantas untuk kamu tinggali, jadi kamu harus menjaganya tetap aman,” kataku, dan bahu Yuigahama bergerak-gerak saat dia menggigit bibirnya dengan nada meminta maaf."
+      "text": "Benar. Kenapa dia bukan perempuan? Padahal semanis ini. “Jangan dipikirkan.” Kusimpan pikiran itu dan kutepuk kepala Totsuka. “Dan… yang itu juga jangan dipikirkan. Kalau punya tempatmu sendiri, jagalah baik-baik,” kataku. Bahu Yuigahama bergerak, lalu dia menggigit bibir dengan wajah merasa bersalah."
     },
     {
       "id": "v1-bab-7-chapter007-p114",
       "kind": "text",
       "source": "chapter007.xhtml#p114",
-      "text": "Yuigahama mempunyai posisi di kelas. Tidak seperti aku, dia mampu membentuk hubungan antarmanusia yang baik. Dia sebenarnya masih ingin berteman dengan Miura dan kelompoknya. Meski aku memang penyendiri, bukan berarti aku iri pada orang banyak yang bersahabat satu sama lain. Bukannya aku berdoa untuk kemalangan mereka… Aku tidak berbohong, oke? Benar-benar."
+      "text": "Yuigahama punya tempat di kelas. Berbeda denganku, dia bisa membangun hubungan yang baik. Dia masih ingin berteman dengan Miura dan kelompoknya. Aku memang penyendiri, tapi bukan berarti iri pada orang-orang yang akrab. Bukan berarti aku mendoakan kemalangan mereka… Aku tidak bohong. Serius."
     },
     {
       "id": "v1-bab-7-chapter007-p115",
@@ -966,13 +1098,13 @@
       "id": "v1-bab-7-chapter007-p116",
       "kind": "text",
       "source": "chapter007.xhtml#p116",
-      "text": "Aku hanya ingin membuktikan satu hal ini: bahwa penyendiri bukanlah orang yang menyedihkan, dan menjadi penyendiri tidak membuat kamu rendah diri. Aku sepenuhnya tercerahkan oleh pengetahuan bahwa ini murni demi ego aku sendiri. Aku sangat tercerahkan. Begitu tercerahkan sehingga aku bisa berteleportasi dan menghirup api dan sebagainya."
+      "text": "Aku cuma ingin membuktikan satu hal: penyendiri bukan orang menyedihkan, dan menyendiri tidak membuatmu lebih rendah. Aku sadar sepenuhnya bahwa ini murni demi egoku. Sadar sekali. Begitu tercerahkan sampai mungkin bisa berteleportasi dan menyemburkan api."
     },
     {
       "id": "v1-bab-7-chapter007-p117",
       "kind": "text",
       "source": "chapter007.xhtml#p117",
-      "text": "Namun aku tidak ingin mengingkari keabsahan siapa aku saat itu atau siapa aku di masa lalu. Aku tidak akan pernah mengatakan bahwa waktu yang aku habiskan sendirian adalah sebuah dosa atau bahwa menyendiri itu jahat. Dan itulah mengapa aku akan berjuang untuk membuktikan kebenaran keadilan aku."
+      "text": "Tapi aku tidak mau menyangkal diriku sekarang ataupun diriku yang dulu. Tidak akan pernah kukatakan bahwa waktu yang kuhabiskan sendiri itu dosa, atau bahwa menyendiri itu salah. Karena itu, aku akan berjuang membuktikan kebenaran pendirianku."
     },
     {
       "id": "v1-bab-7-chapter007-p118",
@@ -996,7 +1128,7 @@
       "id": "v1-bab-7-chapter007-p121",
       "kind": "text",
       "source": "chapter007.xhtml#p121",
-      "text": "“Kubilang aku akan melakukannya!” Mengerang pelan, wajah Yuigahama menjadi merah padam."
+      "text": "“Kubilang aku yang main!” Wajah Yuigahama memerah saat memaksakan kata-kata itu keluar."
     },
     {
       "id": "v1-bab-7-chapter007-p122",
@@ -1020,11 +1152,11 @@
       "id": "v1-bab-7-chapter007-p125",
       "kind": "text",
       "source": "chapter007.xhtml#p125",
-      "text": "“A...apa? Kamu bodoh dan bicara omong kosong. Kamu bodoh sekali!” Ekspresi wajahnya yang mengerikan dan mengancam, Yuigahama berteriak, “Bodoh, bodoh” kepadaku berulang kali, begitu marah hingga wajahnya memerah. Dia mencuri raket dariku dan mengayunkannya dengan keras.",
+      "text": "“A… apa? Kamu bodoh, ngomong sembarangan! Bodoh banget!” Dengan wajah garang, Yuigahama terus memaki, “Bodoh, bodoh!” Pipinya merah karena marah. Dia merampas raketku dan mengayunkannya keras-keras.",
       "emphasis": [
         {
-          "start": 137,
-          "end": 149,
+          "start": 103,
+          "end": 115,
           "style": "em"
         }
       ]
@@ -1033,11 +1165,11 @@
       "id": "v1-bab-7-chapter007-p126",
       "kind": "text",
       "source": "chapter007.xhtml#p126",
-      "text": "“M-m-maaf!” Sambil entah bagaimana berhasil menghindari gesekannya, aku segera meminta maaf. Suara mendesing yang terdengar di telingaku sungguh menakutkan. Saat aku meminta maaf, aku bertanya Kenapa? dengan mataku.",
+      "text": "“M-m-maaf!” Sambil susah payah menghindari ayunannya, aku segera meminta maaf. Bunyi desing di dekat telinga menyeramkan sekali. Sambil meminta maaf, kutanyakan Kenapa? lewat tatapan.",
       "emphasis": [
         {
-          "start": 193,
-          "end": 200,
+          "start": 161,
+          "end": 168,
           "style": "em"
         }
       ]
@@ -1052,7 +1184,7 @@
       "id": "v1-bab-7-chapter007-p128",
       "kind": "text",
       "source": "chapter007.xhtml#p128",
-      "text": "“Yah...seperti...kamu tahu? Aku juga anggota Klub Layanan...jadi wajar kalau aku melakukan ini, kan? Itu...tempat dimana aku seharusnya berada dan sebagainya.”"
+      "text": "“Soalnya… itu, kan? Aku juga anggota Klub Layanan… Jadi wajar kalau ikut. Itu… tempatku juga.”"
     },
     {
       "id": "v1-bab-7-chapter007-p129",
@@ -1064,17 +1196,17 @@
       "id": "v1-bab-7-chapter007-p130",
       "kind": "text",
       "source": "chapter007.xhtml#p130",
-      "text": "“Hah? Sebenarnya nyata?” Dengan wajah berkedut, Yuigahama melirik ke arah tempat Hayama dan yang lainnya berdiri. Lehernya berputar begitu tersentak-sentak, kamu hampir bisa mendengarnya berderit. Itu sangat tidak wajar, aku ingin memberitahunya untuk menaruh WD-40 di atasnya."
+      "text": "“Hah? Serius?” Wajahnya berkedut saat melirik ke arah Hayama dan yang lain. Lehernya bergerak patah-patah sampai rasanya bisa terdengar berderit. Kaku sekali. Ingin kusuruh dia mengoleskan WD-40."
     },
     {
       "id": "v1-bab-7-chapter007-p131",
       "kind": "text",
       "source": "chapter007.xhtml#p131",
-      "text": "Gadis-gadis di kelompok Hayama, dengan Miura sebagai kepala mereka, menyilangkan tangan mereka dan menatap tajam ke arah kami. Tentu saja mereka akan melakukannya. kamu membuat pernyataan yang begitu keras, mereka jelas dapat mendengar kamu.",
+      "text": "Kelompok gadis yang dipimpin Miura bersedekap dan menatap kami tajam. Tentu saja. Kamu mengatakannya sekeras itu, jelas mereka mendengar.",
       "emphasis": [
         {
-          "start": 127,
-          "end": 241,
+          "start": 70,
+          "end": 137,
           "style": "em"
         }
       ]
@@ -1083,25 +1215,25 @@
       "id": "v1-bab-7-chapter007-p132",
       "kind": "text",
       "source": "chapter007.xhtml#p132",
-      "text": "Mata Miura yang besar dan tidak wajar, berwarna hitam pekat dengan maskara dan eyeliner, dipenuhi dengan permusuhan, dan rambut pirangnya, yang digulung seperti bor, bergoyang karena ketidaksenangan. Apakah dia Madame Butterfly atau apa?"
+      "text": "Mata Miura yang dibesarkan secara tidak alami dengan maskara dan eyeliner hitam penuh permusuhan. Rambut pirang ikalnya, seperti bor, bergoyang kesal. Kamu Madame Butterfly?"
     },
     {
       "id": "v1-bab-7-chapter007-p133",
       "kind": "text",
       "source": "chapter007.xhtml#p133",
-      "text": "“Seperti, Yui, jika kamu tetap bersama orang-orang itu, itu berarti kamu akan melawan kami. Apakah kamu setuju dengan itu?” Miura yang seperti ratu melipat tangannya dan menghentakkan kakinya ke tanah. Itu adalah pose kemarahan kerajaan."
+      "text": "“Yui, kalau sama mereka, berarti kamu melawan kami. Yakin enggak apa-apa?” Miura bersedekap dan menghentakkan kaki. Pose murka seorang ratu."
     },
     {
       "id": "v1-bab-7-chapter007-p134",
       "kind": "text",
       "source": "chapter007.xhtml#p134",
-      "text": "Karena dikuasai, Yuigahama dengan lembut menutup matanya. Jari-jarinya mencengkeram ujung roknya, dan rasa gugup membuatnya gemetar. Para penonton yang melirik saling berbisik. Ini tidak berbeda dengan eksekusi di depan umum. Tapi Yuigahama mengangkat kepalanya dan bersiap melawan gadis lainnya."
+      "text": "Terintimidasi, Yuigahama memejamkan mata pelan. Jemarinya mencengkeram ujung rok, tubuhnya gemetar gugup. Penonton saling pandang dan berbisik. Tak ada bedanya dengan eksekusi di depan umum. Tapi Yuigahama mendongak dan bersiap menghadapi Miura."
     },
     {
       "id": "v1-bab-7-chapter007-p135",
       "kind": "text",
       "source": "chapter007.xhtml#p135",
-      "text": "“I-Bukan itu maksudku... Maksudku, memang seperti itu, tapi... Tapi...klubku juga penting bagiku! Jadi aku akan melakukannya.”"
+      "text": "“B-bukan begitu… Maksudku, memang iya, tapi… klubku juga penting buatku! Jadi aku akan main.”"
     },
     {
       "id": "v1-bab-7-chapter007-p136",
@@ -1125,7 +1257,7 @@
       "id": "v1-bab-7-chapter007-p137",
       "kind": "text",
       "source": "chapter007.xhtml#p137",
-      "text": "Yuigahama mengikutinya, ekspresinya kaku, dan semua orang di sekitarnya mengeluarkan ekspresi kasihan saat dia berjalan pergi."
+      "text": "Yuigahama mengikutinya dengan wajah tegang. Orang-orang memandangnya iba saat dia menjauh."
     },
     {
       "id": "v1-bab-7-chapter007-p138",
@@ -1137,7 +1269,7 @@
       "id": "v1-bab-7-chapter007-p139",
       "kind": "text",
       "source": "chapter007.xhtml#p139",
-      "text": "“Hei, Hikitani.” Hayama berbicara kepadaku saat aku mengatupkan kedua tanganku dalam doa. Dia pasti memiliki keterampilan komunikasi yang cukup kuat jika dia berbicara dengan aku. Meski dia salah menyebut namaku."
+      "text": "“Hei, Hikitani.” Hayama mengajakku bicara saat aku sedang mengatupkan tangan untuk berdoa. Tinggi juga kemampuan bergaulnya, sampai mau mengajak orang sepertiku bicara. Meski namaku salah."
     },
     {
       "id": "v1-bab-7-chapter007-p140",
@@ -1155,7 +1287,7 @@
       "id": "v1-bab-7-chapter007-p142",
       "kind": "text",
       "source": "chapter007.xhtml#p142",
-      "text": "“Nah, ini tenis amatir. Kami hanya memukulnya bolak-balik dan mencatat skor, kan? Seperti di bola voli.”"
+      "text": "“Namanya juga tenis amatir. Tinggal saling membalas bola dan menghitung poin, kan? Seperti voli.”"
     },
     {
       "id": "v1-bab-7-chapter007-p143",
@@ -1167,7 +1299,7 @@
       "id": "v1-bab-7-chapter007-p144",
       "kind": "text",
       "source": "chapter007.xhtml#p144",
-      "text": "Saat kami melakukannya, mitra kami kembali. Wajah Yuigahama menjadi merah saat dia mendekat, berusaha sekuat tenaga untuk menarik kelimannya hingga menutupi kakinya. Dia mengenakan seragam seperti kemeja polo dengan skort. “Seperti… pakaian tenis ini memalukan… Bukankah skort ini agak pendek?”"
+      "text": "Tak lama, pasangan kami kembali. Yuigahama mendekat dengan wajah merah, mati-matian menarik ujung pakaiannya untuk menutupi kaki. Dia memakai atasan mirip kaus polo dan rok celana. “Pakaian tenis ini… malu-maluin… Rok celananya enggak kependekan?”"
     },
     {
       "id": "v1-bab-7-chapter007-p145",
@@ -1179,13 +1311,13 @@
       "id": "v1-bab-7-chapter007-p146",
       "kind": "text",
       "source": "chapter007.xhtml#p146",
-      "text": "“Apa?! Apa maksudmu?! Y-maksudmu kamu selalu melihat?! Itu menyeramkan, sangat menyeramkan! Kamu benar-benar merinding!” Yuigahama memelototiku dengan marah dan mengangkat raketnya."
+      "text": "“Hah?! Maksudmu apa?! B-berarti kamu selalu lihat?! Seram, seram banget! Dasar mesum!” Yuigahama memelototiku sambil mengangkat raket."
     },
     {
       "id": "v1-bab-7-chapter007-p147",
       "kind": "text",
       "source": "chapter007.xhtml#p147",
-      "text": "“Tidak apa-apa! Aku tidak melihat sama sekali! Aku bahkan tidak menyadarinya! Tenang! Dan jangan pukul aku!”"
+      "text": "“Bukan! Aku sama sekali tidak lihat! Tidak memperhatikan! Tenang, dan jangan pukul aku!”"
     },
     {
       "id": "v1-bab-7-chapter007-p148",
@@ -1215,19 +1347,19 @@
       "id": "v1-bab-7-chapter007-p152",
       "kind": "text",
       "source": "chapter007.xhtml#p152",
-      "text": "Aku mengamati Madame Butterfly yang dikenal sebagai Yumiko. Itu benar. Pendiriannya tampak sah, dan gerakannya sangat ringan."
+      "text": "Kuamati Madame Butterfly yang bernama Yumiko itu. Benar juga. Sikap siapnya meyakinkan, gerakannya ringan."
     },
     {
       "id": "v1-bab-7-chapter007-p153",
       "kind": "text",
       "source": "chapter007.xhtml#p153",
-      "text": "Melihatnya, Zaimokuza bergumam, “Heh, jadi sosis ikal miliknya itu bukan hanya untuk pamer, ya?”"
+      "text": "Melihatnya, Zaimokuza bergumam, “Heh, jadi ikal sosisnya itu bukan hiasan belaka.”"
     },
     {
       "id": "v1-bab-7-chapter007-p154",
       "kind": "text",
       "source": "chapter007.xhtml#p154",
-      "text": "“Tapi mereka lebih seperti gelombang lepas,” kata Yuigahama."
+      "text": "“Tapi rambutnya lebih mirip ikal longgar,” kata Yuigahama."
     },
     {
       "id": "v1-bab-7-chapter007-p155",
@@ -1267,7 +1399,7 @@
       "id": "v1-bab-7-chapter007_b-p002",
       "kind": "text",
       "source": "chapter007_b.xhtml#p2",
-      "text": "Pada awalnya, ada teriakan yang terus-menerus, penuh semangat, dan sorak-sorai yang melengking dari para penonton, namun seiring dengan berlanjutnya pertandingan yang sangat ketat itu, semakin banyak mereka yang hanya mengikuti kami dengan mata mereka dan kemudian menghembuskan napas dan bersorak dengan penuh semangat ketika ada poin yang berhasil kami peroleh. Itu seperti pertandingan profesional di TV."
+      "text": "Awalnya penonton terus berteriak dan bersorak nyaring. Namun, seiring ketatnya pertandingan, makin banyak yang hanya mengikuti bola dengan mata. Begitu poin tercipta, barulah mereka mengembuskan napas dan bersorak. Seperti pertandingan profesional di televisi."
     },
     {
       "id": "v1-bab-7-chapter007_b-p003",
@@ -1305,7 +1437,7 @@
       "id": "v1-bab-7-chapter007_b-p006",
       "kind": "text",
       "source": "chapter007_b.xhtml#p6",
-      "text": "Aku akan langsung ke intinya. Madame Butterfly adalah pemain dengan level yang cukup tinggi. “Dia sungguh baik,” gumamku."
+      "text": "Langsung saja: Madame Butterfly ternyata pemain tingkat tinggi. “Dia jago sekali,” gumamku."
     },
     {
       "id": "v1-bab-7-chapter007_b-p007",
@@ -1336,17 +1468,17 @@
       "id": "v1-bab-7-chapter007_b-p010",
       "kind": "text",
       "source": "chapter007_b.xhtml#p10",
-      "text": "“Mengapa kamu ada di sini jika kamu belum pernah bermain tenis?”"
+      "text": "“Kalau belum pernah main, kenapa ikut?”"
     },
     {
       "id": "v1-bab-7-chapter007_b-p011",
       "kind": "text",
       "source": "chapter007_b.xhtml#p11",
-      "text": "“Ngh! Baiklah, sungguhmaaf!”",
+      "text": "“Ngh! Iya, iya, maaf banget!”",
       "emphasis": [
         {
-          "start": 22,
-          "end": 26,
+          "start": 16,
+          "end": 20,
           "style": "em"
         }
       ]
@@ -1355,11 +1487,11 @@
       "id": "v1-bab-7-chapter007_b-p012",
       "kind": "text",
       "source": "chapter007_b.xhtml#p12",
-      "text": "Dasar bodoh, kamu melakukannya secara terbalik. Aku seharusnya minta maaf. Seberapa baikkah kamu? Kamu bahkan belum pernah memainkan game ini, tapi kamu masih mengatakan kamu akan memainkan pertandingan di depan banyak orang demi Totsuka. Tidak banyak orang yang bisa melakukan itu. Jika dia benar-benar pandai bermain tenis, itu akan sangat keren, tapi, yah, segalanya tidak selalu berjalan baik, dan itulah hidup, menurutku.",
+      "text": "Bodoh, terbalik. Mestinya aku yang minta maaf. Baik sekali kamu. Belum pernah bermain, tapi tetap bersedia bertanding di depan orang sebanyak ini demi Totsuka. Tidak banyak yang bisa begitu. Kalau ternyata dia jago tenis, pasti keren sekali. Sayangnya, tidak semua berjalan mulus. Begitulah hidup.",
       "emphasis": [
         {
-          "start": 48,
-          "end": 51,
+          "start": 26,
+          "end": 29,
           "style": "em"
         }
       ]
@@ -1368,7 +1500,7 @@
       "id": "v1-bab-7-chapter007_b-p013",
       "kind": "text",
       "source": "chapter007_b.xhtml#p13",
-      "text": "Pada awalnya, ini adalah pertarungan yang cukup seimbang antara akurasi servis aku yang tak tertandingi dan penerimaan sempurna Miura, namun saat kami semakin dekat dengan paruh kedua pertandingan, jarak di antara kami perlahan melebar. Yah, itu karena pasangan lawan sedang berkonsentrasi mengincar Yuigahama. Mungkin terkejut dengan rangkaian permainan aku yang sangat bagus, mereka telah mengubah target mereka. Ada juga kemungkinan bahwa mereka mengabaikan aku sepenuhnya."
+      "text": "Awalnya, akurasi servisku dan pengembalian Miura yang sempurna membuat permainan cukup seimbang. Tapi memasuki paruh akhir, selisih poin perlahan melebar. Soalnya, lawan mulai mengincar Yuigahama. Mungkin mereka terkejut melihat permainan hebatku lalu beralih sasaran. Atau mungkin aku cuma diabaikan."
     },
     {
       "id": "v1-bab-7-chapter007_b-p014",
@@ -1386,37 +1518,37 @@
       "id": "v1-bab-7-chapter007_b-p016",
       "kind": "text",
       "source": "chapter007_b.xhtml#p16",
-      "text": "Kami mengkonfirmasi rencana dasar kami, dan aku menetap di posisi yang aku tentukan."
+      "text": "Setelah menyepakati rencana sederhana itu, aku menempati posisi."
     },
     {
       "id": "v1-bab-7-chapter007_b-p017",
       "kind": "text",
       "source": "chapter007_b.xhtml#p17",
-      "text": "Servis Hayama datang dengan cepat dan keras. Bola itu mengenai titik terjauh, sudut lapangan, dengan sangat akurat, dan memantul lebih jauh lagi. Tapi aku melompat ke samping dan mati-matian meraih bola. Aku merentangkan raket aku sejauh mungkin, dan ketika menyentuh bola, aku mengayunkannya dengan sekuat tenaga. Bola kembali ke sisi lapangan lawan kami, namun Madame Butterfly membalasnya dengan bidikan yang hati-hati."
+      "text": "Servis Hayama datang cepat dan keras, tepat ke sudut terjauh lapangan, lalu memantul makin jauh. Aku melompat ke samping, mati-matian menggapainya. Raket kuulurkan sejauh mungkin. Begitu menyentuh bola, kuayun sekuat tenaga. Bola kembali ke lapangan lawan, tetapi Madame Butterfly membalas dengan bidikan terarah."
     },
     {
       "id": "v1-bab-7-chapter007_b-p018",
       "kind": "text",
       "source": "chapter007_b.xhtml#p18",
-      "text": "Aku bahkan tidak melihat; Aku hanya berguling berdiri dan berlari dengan kecepatan penuh ke tempat yang aku pikir dia mungkin mengarahkannya."
+      "text": "Tanpa sempat melihat, aku berguling bangkit dan langsung berlari ke tempat yang kuduga menjadi sasarannya."
     },
     {
       "id": "v1-bab-7-chapter007_b-p019",
       "kind": "text",
       "source": "chapter007_b.xhtml#p19",
-      "text": "Aku dengan panik memerintahkan kakiku ke depan, dan entah bagaimana, mereka masih mendengarkanku. Aku berlari melewati bola dan tiba di titik turun, dan ketika bola mengenai raket aku, aku membidik ke tepi lapangan yang paling sempit dan memukulnya dengan kuat."
+      "text": "Kupaksa kakiku maju, dan entah bagaimana masih menurut. Aku mendahului bola ke titik jatuhnya. Begitu bola menyentuh raket, kubidik celah sempit di tepi lapangan dan kuhantam keras."
     },
     {
       "id": "v1-bab-7-chapter007_b-p020",
       "kind": "text",
       "source": "chapter007_b.xhtml#p20",
-      "text": "Tapi rupanya, Hayama sudah mengantisipasi hal itu, karena dia sedang menunggu di sana, dan dengan sebuah gesekan, dia melepaskan drop shot tepat di antara Yuigahama dan aku, seolah-olah sedang menguji kami."
+      "text": "Tapi Hayama rupanya sudah menduga. Dia menunggu di sana, lalu menyapu bola menjadi drop shot di antara Yuigahama dan aku, seolah menguji kami."
     },
     {
       "id": "v1-bab-7-chapter007_b-p021",
       "kind": "text",
       "source": "chapter007_b.xhtml#p21",
-      "text": "Aku kehilangan keseimbangan pada ayunan terakhir dan tidak mungkin sampai di sana tepat waktu. Aku menatap Yuigahama dengan pandangan memohon, dan dia berlari ke tempat bola itu jatuh dan mengembalikannya. Tapi pukulan sekilas adalah yang terbaik yang bisa dia lakukan, dan bola melonjak tinggi, jatuh tepat di depan Madame Butterfly."
+      "text": "Ayunan terakhir membuatku kehilangan keseimbangan. Tak mungkin aku sampai tepat waktu. Kutatap Yuigahama memohon. Dia berlari ke titik jatuh bola dan membalas, tetapi hanya bisa menyentuhnya tipis. Bola melambung tinggi dan jatuh tepat di depan Madame Butterfly."
     },
     {
       "id": "v1-bab-7-chapter007_b-p022",
@@ -1428,13 +1560,13 @@
       "id": "v1-bab-7-chapter007_b-p023",
       "kind": "text",
       "source": "chapter007_b.xhtml#p23",
-      "text": "“Apakah kamu baik-baik saja?” Aku memanggil Yuigahama yang tadi dia menjatuhkan diri ke lapangan dan bukannya mengambil bola."
+      "text": "“Kamu tidak apa-apa?” Alih-alih mengejar bola, aku memanggil Yuigahama yang terduduk di lapangan."
     },
     {
       "id": "v1-bab-7-chapter007_b-p024",
       "kind": "text",
       "source": "chapter007_b.xhtml#p24",
-      "text": "“Itu sangat menakutkan…,” Yuigahama bergumam, matanya hampir tenggelam."
+      "text": "“Seram banget…” gumamnya, nyaris menangis."
     },
     {
       "id": "v1-bab-7-chapter007_b-p025",
@@ -1458,7 +1590,7 @@
       "id": "v1-bab-7-chapter007_b-p028",
       "kind": "text",
       "source": "chapter007_b.xhtml#p28",
-      "text": "“Oh, jadi kamu sadis kalau begitu.” Tawa menyusul saat Hayama dan Madame Butterfly saling menggoda. Seolah patuh, para penonton pun ikut ikut."
+      "text": "“Oh, jadi kamu sadis.” Hayama dan Madame Butterfly saling menggoda sambil tertawa. Penonton ikut tertawa seolah menurut perintah."
     },
     {
       "id": "v1-bab-7-chapter007_b-p029",
@@ -1476,11 +1608,11 @@
       "id": "v1-bab-7-chapter007_b-p031",
       "kind": "text",
       "source": "chapter007_b.xhtml#p31",
-      "text": "“Maaf. Sepertinya aku telah menarik sesuatu.” Dia berkata tee-hee, dengan senyum malu-malu di wajahnya. Dalam sekejap, matanya berlinang air mata. “Jika kita kalah, Sai-chan akan mendapat masalah, ya...? Ah, kawan... Ini bisa menjadi buruk... Kita tidak bisa memperbaikinya hanya dengan meminta maaf, ya? Ah, astaga!” Yuigahama menggigit bibirnya karena frustrasi.",
+      "text": "“Maaf. Kayaknya ada yang tertarik.” Dia terkikik, “Hehe,” dengan malu-malu. Sesaat kemudian, matanya berair. “Kalau kalah, Sai-chan bakal kesulitan, kan…? Aduh… ini gawat… Minta maaf saja enggak akan cukup, ya? Duh!” Yuigahama menggigit bibir frustrasi.",
       "emphasis": [
         {
-          "start": 58,
-          "end": 65,
+          "start": 51,
+          "end": 55,
           "style": "em"
         }
       ]
@@ -1489,7 +1621,7 @@
       "id": "v1-bab-7-chapter007_b-p032",
       "kind": "text",
       "source": "chapter007_b.xhtml#p32",
-      "text": "“Yah, entah bagaimana semuanya akan berhasil. Yang lebih buruk lagi, kita akan mengenakan Zaimokuza dalam seragam perempuan.”"
+      "text": "“Yah, nanti pasti ada jalan. Kalau terpaksa, kita pakaikan seragam perempuan kepada Zaimokuza.”"
     },
     {
       "id": "v1-bab-7-chapter007_b-p033",
@@ -1501,7 +1633,7 @@
       "id": "v1-bab-7-chapter007_b-p034",
       "kind": "text",
       "source": "chapter007_b.xhtml#p34",
-      "text": "“Aku kira. Kalau begitu mari kita lakukan ini: kamu tetap berada di tengah lapangan. Aku akan menangani sisanya, entah bagaimana caranya.”"
+      "text": "“Iya juga. Kalau begitu, kamu di tengah lapangan saja. Sisanya akan kuurus sebisaku.”"
     },
     {
       "id": "v1-bab-7-chapter007_b-p035",
@@ -1513,11 +1645,11 @@
       "id": "v1-bab-7-chapter007_b-p036",
       "kind": "text",
       "source": "chapter007_b.xhtml#p36",
-      "text": "“Sejak zaman dahulu, ada gerakan terlarang dalam tenis. Ini dikenal sebagai Ups, raket aku berubah menjadi roket!”",
+      "text": "“Sejak dulu, tenis punya jurus terlarang. Namanya, Ups, raketku jadi roket!”",
       "emphasis": [
         {
-          "start": 76,
-          "end": 113,
+          "start": 51,
+          "end": 75,
           "style": "em"
         }
       ]
@@ -1538,7 +1670,7 @@
       "id": "v1-bab-7-chapter007_b-p039",
       "kind": "text",
       "source": "chapter007_b.xhtml#p39",
-      "text": "“Itu hal yang aneh dan perlu diseriusi…” Yuigahama menghela napas dengan jengkel, lalu terkikik. Mungkin karena lukanya, atau mungkin dia baru saja tertawa terbahak-bahak hingga sekarang dia menangis, tapi saat dia menatapku, matanya basah dan merah."
+      "text": "“Kok malah hal begitu yang diseriusi…” Yuigahama mendesah jengkel, lalu terkikik. Entah karena cedera atau tertawa sampai menangis, saat menatapku matanya sudah merah dan basah."
     },
     {
       "id": "v1-bab-7-chapter007_b-p040",
@@ -1556,7 +1688,7 @@
       "id": "v1-bab-7-chapter007_b-p042",
       "kind": "text",
       "source": "chapter007_b.xhtml#p42",
-      "text": "Yuigahama memotongku. “Aku hanya merasa aku tidak bisa mengimbangimu,” katanya, terpesona. Dia menyampaikannya seperti ucapan perpisahan sambil membalikkan badannya ke arahku dan berjalan pergi. Dia menerobos kerumunan orang yang kebingungan itu sambil berkata, “Hei, hei, kamu menghalangi. Kamu menghalangi!” dan kemudian menghilang."
+      "text": "Yuigahama memotong. “Rasanya aku enggak bisa menandingimu,” katanya dengan kagum. Dia mengatakannya seperti salam perpisahan, lalu berbalik meninggalkanku. Sambil berseru, “Minggir, minggir!” dia menerobos penonton yang kebingungan dan menghilang."
     },
     {
       "id": "v1-bab-7-chapter007_b-p043",
@@ -1568,16 +1700,16 @@
       "id": "v1-bab-7-chapter007_b-p044",
       "kind": "text",
       "source": "chapter007_b.xhtml#p44",
-      "text": "“Ada apa? Punya masalah kecil dengan temanmu? Apakah dia meninggalkan kamu?”",
+      "text": "“Kenapa? Bertengkar sama temanmu? Kamu ditinggal?”",
       "emphasis": [
         {
-          "start": 37,
-          "end": 42,
+          "start": 25,
+          "end": 30,
           "style": "em"
         },
         {
-          "start": 57,
-          "end": 69,
+          "start": 39,
+          "end": 48,
           "style": "em"
         }
       ]
@@ -1586,7 +1718,7 @@
       "id": "v1-bab-7-chapter007_b-p045",
       "kind": "text",
       "source": "chapter007_b.xhtml#p45",
-      "text": "“Jangan bodoh. Kita belum pernah bertengkar sekali pun. Kita tidak cukup dekat untuk terlibat perkelahian.”"
+      "text": "“Jangan bodoh. Kami belum pernah bertengkar. Tidak cukup dekat untuk itu.”"
     },
     {
       "id": "v1-bab-7-chapter007_b-p046",
@@ -1604,11 +1736,11 @@
       "id": "v1-bab-7-chapter007_b-p048",
       "kind": "text",
       "source": "chapter007_b.xhtml#p48",
-      "text": "Oh, aku mengerti. Aku kira kamu memerlukan tingkat keintiman tertentu dengan kebanyakan orang sebelum kamu dapat membuat lelucon yang mencela diri sendiri dengan mereka, ya? Jika tidak, mereka akan merasa aneh.",
+      "text": "Oh, begitu. Rupanya, dengan kebanyakan orang, harus cukup akrab dulu sebelum boleh melontarkan lelucon yang merendahkan diri. Kalau tidak, mereka malah canggung.",
       "emphasis": [
         {
           "start": 0,
-          "end": 210,
+          "end": 161,
           "style": "em"
         }
       ]
@@ -1623,7 +1755,7 @@
       "id": "v1-bab-7-chapter007_b-p050",
       "kind": "text",
       "source": "chapter007_b.xhtml#p50",
-      "text": "Ekspresinya menjadi murung, Totsuka menatapku dengan sedih."
+      "text": "Totsuka menatapku dengan wajah muram dan sedih."
     },
     {
       "id": "v1-bab-7-chapter007_b-p051",
@@ -1642,13 +1774,13 @@
       "id": "v1-bab-7-chapter007_b-p052",
       "kind": "text",
       "source": "chapter007_b.xhtml#p52",
-      "text": "Sendirian di lapangan tenis, aku merasa sangat tidak berdaya hingga tak tertahankan lagi, atau mungkin aku hanya bisa mengatakan bahwa aku terjebak dalam suasana yang sangat canggung. Tiba-tiba, kerumunan itu mulai bergumam."
+      "text": "Sendirian di lapangan tenis, aku merasa tak berdaya sampai tak tahan lagi. Atau mungkin, suasananya saja yang terlalu canggung. Tiba-tiba kerumunan mulai bergumam."
     },
     {
       "id": "v1-bab-7-chapter007_b-p053",
       "kind": "text",
       "source": "chapter007_b.xhtml#p53",
-      "text": "Dan kemudian ia berpisah dengan sendirinya."
+      "text": "Lalu orang-orang menyibak dengan sendirinya."
     },
     {
       "id": "v1-bab-7-chapter007_b-p054",
@@ -1722,28 +1854,28 @@
       "id": "v1-bab-7-chapter007_b-p063",
       "kind": "text",
       "source": "chapter007_b.xhtml#p63",
-      "text": "“Apakah kamu biasanya meminta temanmu untuk menangani masalahmu? Aku merasa kamu hanya memanfaatkanku dengan nyaman.”"
+      "text": "“Biasanya orang meminta teman membereskan masalahnya? Rasanya kamu cuma memanfaatkanku sesukamu.”"
     },
     {
       "id": "v1-bab-7-chapter007_b-p064",
       "kind": "text",
       "source": "chapter007_b.xhtml#p64",
-      "text": "“Hah? Aku tidak akan bertanya kalau kamu bukan temanku. Aku tidak bisa meminta seseorang yang tidak kupedulikan untuk melakukan sesuatu yang penting,” Yuigahama menyatakan dengan acuh tak acuh, seolah-olah itu sudah sangat jelas."
+      "text": "“Hah? Kalau bukan teman, aku enggak bakal minta. Mana mungkin aku meminta orang yang enggak kupedulikan melakukan hal penting?” kata Yuigahama santai, seolah jawabannya sudah jelas."
     },
     {
       "id": "v1-bab-7-chapter007_b-p065",
       "kind": "text",
       "source": "chapter007_b.xhtml#p65",
-      "text": "Oh-ho, jadi begitulah cara kerjanya… Aku pernah dimanipulasi untuk melakukan tugas bersih-bersih sebelumnya dengan kalimat kita berteman, kan? jadi aku tidak mendapat kesan seperti itu sama sekali. Begitu… Jadi aku dan orang-orang itu sebenarnya adalah teman baik. Ya, tidak mungkin.",
+      "text": "Oh, begitu cara kerjanya… Aku pernah dibujuk mengerjakan tugas piket dengan alasan kita teman, kan? Jadi kesanku sama sekali berbeda. Begitu… Berarti mereka dan aku sebenarnya teman baik. Ya, mana mungkin.",
       "emphasis": [
         {
           "start": 0,
-          "end": 36,
+          "end": 25,
           "style": "em"
         },
         {
-          "start": 123,
-          "end": 142,
+          "start": 83,
+          "end": 99,
           "style": "em"
         }
       ]
@@ -1752,7 +1884,7 @@
       "id": "v1-bab-7-chapter007_b-p066",
       "kind": "text",
       "source": "chapter007_b.xhtml#p66",
-      "text": "Yukinoshita pasti merasakan hal yang sama seperti yang aku rasakan saat itu. Dia dengan lembut menekankan tangan ke bibirnya dan merenung dalam diam. Keraguannya beralasan. Aku juga tidak akan menerima hal itu dengan mudah. Tapi Yui Yuigahama adalah kasus spesial. Maksudku, dia idiot."
+      "text": "Yukinoshita pasti merasakan hal serupa. Dia menempelkan tangan ke bibir dan merenung. Wajar kalau ragu. Aku juga tidak akan langsung percaya. Tapi Yui Yuigahama berbeda. Soalnya dia bodoh."
     },
     {
       "id": "v1-bab-7-chapter007_b-p067",
@@ -1764,7 +1896,7 @@
       "id": "v1-bab-7-chapter007_b-p068",
       "kind": "text",
       "source": "chapter007_b.xhtml#p68",
-      "text": "Yukinoshita melunak ketika mendengar ucapanku. Dia tersenyum dengan senyum pantang menyerahnya yang biasa dan menyisir rambut yang jatuh di bahunya. “Jangan remehkan aku. Mungkin kamu akan terkejut mendengarnya, tapi percayalah aku adalah penilai karakter yang baik. Tidak mungkin seseorang yang bisa bersikap baik pada kita berdua bisa menjadi orang jahat.”"
+      "text": "Mendengarnya, sikap Yukinoshita melunak. Senyum pantang menyerahnya kembali saat dia menyibak rambut di bahu. “Jangan meremehkanku. Mungkin sulit dipercaya, tapi aku cukup pandai menilai orang. Tidak mungkin orang yang bisa bersikap baik kepada kita berdua itu jahat.”"
     },
     {
       "id": "v1-bab-7-chapter007_b-p069",
@@ -1812,19 +1944,19 @@
       "id": "v1-bab-7-chapter007_b-p076",
       "kind": "text",
       "source": "chapter007_b.xhtml#p76",
-      "text": "“B-bagaimana kamu tahu itu?! Ah! Tidak mungkin, apakah kamu membaca daftar orang yang aku benci?!” Omong kosong. Itu adalah buku harian yang berisi semua hinaan yang mungkin bisa kulontarkan pada Yukinoshita."
+      "text": "“B-bagaimana kamu tahu?! Ah! Jangan-jangan kamu baca daftar orang yang kubenci?!” Gawat. Buku harian itu penuh segala hinaan yang bisa kutujukan kepada Yukinoshita."
     },
     {
       "id": "v1-bab-7-chapter007_b-p077",
       "kind": "text",
       "source": "chapter007_b.xhtml#p77",
-      "text": "“Aku kaget. Kamu benar-benar memanggilku seperti itu? Yah, aku tidak peduli dengan apa yang orang pikirkan tentangku,” katanya sambil menoleh ke arah kami. Tapi sikapnya tidak tenang seperti biasanya, dan ada sedikit nada bingung. Awalnya suaranya terdengar kuat, namun semakin pelan hingga akhirnya dia mengalihkan pandangannya. “Jadi… aku tidak begitu… keberatan jika kamu… menganggapku sebagai… teman.”"
+      "text": "“Aku terkejut. Jadi kamu benar-benar memanggilku begitu? Yah, aku tidak peduli pendapat orang tentangku,” katanya sambil menoleh kepada kami. Tapi dia tidak setenang biasanya, ada sedikit kegugupan dalam suaranya. Awalnya tegas, lalu makin pelan sampai akhirnya dia membuang muka. “Jadi… aku tidak… terlalu keberatan kalau kamu… menganggapku… teman.”"
     },
     {
       "id": "v1-bab-7-chapter007_b-p078",
       "kind": "text",
       "source": "chapter007_b.xhtml#p78",
-      "text": "Pipi Yukinoshita menjadi sangat merah hingga kamu bisa mendengar suara rona merahnya. Dia memegang raket yang dia terima dari Yuigahama dan berdiri dengan kepala tertunduk, melirik ke arah gadis lain. Tampilan keimutannya yang luar biasa membuatnya mendapat pelukan tiba-tiba."
+      "text": "Pipi Yukinoshita memerah begitu hebat sampai rasanya bisa terdengar. Dia memegang raket pemberian Yuigahama dengan kepala tertunduk, sesekali melirik gadis itu. Penampilan luar biasa manis itu langsung dibalas pelukan."
     },
     {
       "id": "v1-bab-7-chapter007_b-p079",
@@ -1848,11 +1980,11 @@
       "id": "v1-bab-7-chapter007_b-p082",
       "kind": "text",
       "source": "chapter007_b.xhtml#p82",
-      "text": "Hah? Kalau begitu, ini bukan bagian di mana aku seharusnya masuk? Dia selalu tersipu-sipu saat berada di dekat Yuigahama, bukan? Begitukah? Apakah ini rom-com cowok-cowok cewek-cewek atau apa? Apakah semua dewa komedi romantis benar-benar idiot?",
+      "text": "Hah? Bukannya ini bagian untukku? Kenapa dia selalu tersipu di dekat Yuigahama? Begitukah? Ini komedi romantis cowok dengan cowok, cewek dengan cewek? Apa dewa-dewa komedi romantis semuanya bodoh?",
       "emphasis": [
         {
           "start": 0,
-          "end": 245,
+          "end": 196,
           "style": "em"
         }
       ]
@@ -1870,13 +2002,13 @@
       "id": "v1-bab-7-chapter007_d-p001",
       "kind": "text",
       "source": "chapter007_d.xhtml#p1",
-      "text": "Dia entah bagaimana berhasil menyingkirkan Yuigahama dan kemudian berdeham sebelum berbicara. “Tapi aku sangat enggan bermain ganda dengan anak itu. Tapi aku tidak punya pilihan, bukan? Aku akan menerima permintaanmu. Aku hanya harus memenangkan pertandingan ini, kan?”"
+      "text": "Setelah susah payah melepaskan diri dari Yuigahama, dia berdeham. “Meski aku sangat enggan bermain ganda dengan anak itu, apa boleh buat. Permintaanmu kuterima. Aku hanya perlu memenangkan pertandingan ini, kan?”"
     },
     {
       "id": "v1-bab-7-chapter007_d-p002",
       "kind": "text",
       "source": "chapter007_d.xhtml#p2",
-      "text": "“Ya! Yah, Hikki tidak bisa menang jika aku sebagai partner, jadi.”"
+      "text": "“Iya! Soalnya kalau pasangannya aku, Hikki enggak bakal menang.”"
     },
     {
       "id": "v1-bab-7-chapter007_d-p003",
@@ -1894,11 +2026,11 @@
       "id": "v1-bab-7-chapter007_d-p005",
       "kind": "text",
       "source": "chapter007_d.xhtml#p5",
-      "text": "“Ha-ha-ha! Sekali lagi dengan kalimat tsundere!” Ya ampun. Ya ampun. Ha ha ha ha! Tidak, tidak, kamu tidak lagi mendengar klise seperti itu, tahu?",
+      "text": "“Ha-ha-ha! Kalimat tsundere lagi!” Astaga. Ha-ha-ha! Klise begitu sudah jarang terdengar sekarang.",
       "emphasis": [
         {
-          "start": 38,
-          "end": 46,
+          "start": 19,
+          "end": 27,
           "style": "em"
         }
       ]
@@ -1939,7 +2071,7 @@
       "id": "v1-bab-7-chapter007_d-p009",
       "kind": "text",
       "source": "chapter007_d.xhtml#p9",
-      "text": "Itu tidak berarti dia tidak menyukaiku, jadi aku setuju saja. Ya."
+      "text": "Itu belum tentu berarti dia tidak menyukaiku. Jadi, aku tidak keberatan. Ya."
     },
     {
       "id": "v1-bab-7-chapter007_d-p010",
@@ -2124,7 +2256,7 @@
       "id": "v1-bab-7-chapter007_d-p033",
       "kind": "text",
       "source": "chapter007_d.xhtml#p33",
-      "text": "Membangkitkan harapan penonton, giliran servis Yukinoshita datang lagi. Dia menggenggam bola lalu melambungkannya tinggi. Bola melayang ke tengah lapangan seakan akan tersedot langit biru, jelas jauh dari tempatnya berdiri. Semua orang mengira dia salah lempar."
+      "text": "Saat penonton makin berharap, giliran servis Yukinoshita kembali tiba. Dia menggenggam bola, lalu melambungkannya tinggi. Bola seolah tersedot langit biru, melayang ke tengah lapangan, jauh dari tempatnya berdiri. Semua orang mengira dia salah melambungkan bola."
     },
     {
       "id": "v1-bab-7-chapter007_d-p034",
@@ -2470,7 +2602,7 @@
       "id": "v1-bab-7-chapter007_d-p074",
       "kind": "text",
       "source": "chapter007_d.xhtml#p74",
-      "text": "Pukulanku lembut dan lambat, seakan melayang naik. Kulihat Miura melompat maju dengan gembira. Hayama segera bergerak mendukungnya. Penonton tampak kecewa. Di sudut pandanganku, Totsuka perlahan menutup mata. Kepalan tangan Zaimokuza terabaikan. Mataku bertemu Yuigahama, yang tampaknya sedang berdoa. Lalu mataku menangkap senyum kemenangan Yukinoshita."
+      "text": "Servisku lembut dan lambat, seolah melayang naik. Miura melompat maju dengan gembira, sementara Hayama segera bergerak mendukung. Penonton tampak kecewa. Dari sudut mata, kulihat Totsuka perlahan memejam. Kepalan tangan Zaimokuza tak disambut siapa pun. Mataku bertemu Yuigahama yang tampak berdoa, lalu menangkap senyum kemenangan Yukinoshita."
     },
     {
       "id": "v1-bab-7-chapter007_d-p075",
@@ -2669,7 +2801,7 @@
       "id": "v1-bab-7-chapter007_d-p097",
       "kind": "text",
       "source": "chapter007_d.xhtml#p97",
-      "text": "Kamu tahu betapa beratnya bersepeda pulang-pergi sekolah seperti orang bodoh di tengah panas musim panas, atau saat musim dingin sampai jari terasa mau lepas? Kalian berbohong, menipu, dan mengalihkan perhatian dengan mengoceh Panas banget dan Dingin banget serta Gila bersama teman, tapi aku menahannya sendiri. Kalian tidak mungkin paham. Kalian tidak tahu betapa menakutkannya menghadapi ujian tanpa punya orang untuk ditanyai materi apa yang keluar; cuma belajar diam-diam lalu menghadapi hasilnya langsung. Kalian berkumpul, membandingkan jawaban, menunjukkan nilai, saling menyebut bodoh dan kutu buku, lalu lari dari kenyataan. Tapi aku selalu menerimanya tepat di wajah.",
+      "text": "Kalian tahu beratnya bersepeda pulang-pergi sekolah seperti orang bodoh di tengah panas musim panas, atau saat musim dingin sampai jari terasa mau lepas? Kalian bisa berbohong, menipu, dan mengalihkan perhatian dengan mengoceh Panas banget dan Dingin banget serta Gila bersama teman. Aku menahannya sendiri. Kalian tidak mungkin paham. Kalian tidak tahu takutnya menghadapi ujian tanpa bisa bertanya kepada siapa pun tentang materi yang akan keluar. Cuma belajar diam-diam, lalu menerima hasilnya langsung. Kalian berkumpul, membandingkan jawaban, menunjukkan nilai, saling menyebut bodoh dan kutu buku, lalu lari dari kenyataan. Tapi aku selalu menerimanya telak di muka.",
       "emphasis": [
         {
           "start": 0,
@@ -2688,7 +2820,7 @@
         },
         {
           "start": 269,
-          "end": 678,
+          "end": 672,
           "style": "em"
         }
       ]
@@ -2734,11 +2866,11 @@
       "id": "v1-bab-7-chapter007_d-p103",
       "kind": "text",
       "source": "chapter007_d.xhtml#p103",
-      "text": "Bola tepat mengenai bingkai raket, menimbulkan bunyi tok, lalu tersedot langit biru pucat. Bola terus naik hingga tinggal titik kecil di kejauhan, lebih kecil dari sebutir beras. Mungkin itu bolanya.",
+      "text": "Bola tepat mengenai bingkai raket dengan bunyi tok, lalu tersedot ke langit biru pucat. Terus naik hingga tinggal titik kecil di kejauhan, lebih kecil dari sebutir beras. Mungkin itulah bolanya.",
       "emphasis": [
         {
-          "start": 53,
-          "end": 56,
+          "start": 47,
+          "end": 50,
           "style": "em"
         }
       ]
@@ -2795,7 +2927,7 @@
       "id": "v1-bab-7-chapter007_d-p108",
       "kind": "text",
       "source": "chapter007_d.xhtml#p108",
-      "text": "Kalau kutangkap, berarti out. Kalau gagal menangkap lalu mengambilnya setelah satu pantulan, berarti pukulan aman ke base. Kalau kupukul jauh sekali, kuhitung sebagai home run. Kelemahannya, kalau terlalu memihak sisi penyerang atau bertahan, permainannya jadi berat sebelah. Pikiran harus sejernih saat bermain batu-gunting-kertas dengan diri sendiri."
+      "text": "Kalau tertangkap, berarti out. Kalau gagal ditangkap dan baru kuambil setelah satu pantulan, berarti pukulan aman ke base. Kalau kupukul jauh sekali, kuhitung sebagai home run. Kelemahannya, kalau terlalu memihak penyerang atau penjaga, permainan jadi berat sebelah. Pikiran harus sejernih saat suit melawan diri sendiri."
     },
     {
       "id": "v1-bab-7-chapter007_d-p109",
@@ -2887,7 +3019,7 @@
       "id": "v1-bab-7-chapter007_d-p121",
       "kind": "text",
       "source": "chapter007_d.xhtml#p121",
-      "text": "Sesaat hening. Terdengar seseorang menelan ludah. Mungkin justru tenggorokanku. Lalu debu menyingkir dan memperlihatkan mereka. Hayama menyandarkan punggung ke pagar, merangkul Miura untuk melindunginya dari benturan. Dengan wajah merah, Miura memegangnya malu-malu, meringkuk di dadanya."
+      "text": "Sesaat sunyi. Terdengar seseorang menelan ludah. Mungkin aku sendiri. Lalu debu menyingkir dan memperlihatkan mereka. Punggung Hayama bersandar ke pagar, lengannya merangkul Miura untuk melindunginya dari benturan. Wajah Miura merah. Dia memegang Hayama dengan malu-malu, meringkuk di dadanya."
     },
     {
       "id": "v1-bab-7-chapter007_d-p122",
@@ -2966,7 +3098,7 @@
       "id": "v1-bab-7-chapter007_d-p130",
       "kind": "text",
       "source": "chapter007_d.xhtml#p130",
-      "text": "“Jangan bodoh. Sejak awal kami dan mereka tidak pernah berada dalam pertandingan yang sama.” Para pemuja masa muda selalu mendapat peran utama."
+      "text": "“Jangan bodoh. Sejak awal kita dan mereka tidak pernah berada dalam pertandingan yang sama.” Para pemuja masa muda selalu mendapat peran utama."
     },
     {
       "id": "v1-bab-7-chapter007_d-p131",
@@ -3057,7 +3189,7 @@
       "id": "v1-bab-7-chapter007_d-p144",
       "kind": "text",
       "source": "chapter007_d.xhtml#p144",
-      "text": "Skenario komedi romantis ini salah, dan jenis kelamin Totsuka juga salah. Kebetulan, orang yang dia beri ucapan terima kasih pun salah."
+      "text": "Skenario komedi romantis ini salah, jenis kelamin Totsuka juga salah. Kebetulan, orang yang dia ucapkan terima kasih pun salah."
     },
     {
       "id": "v1-bab-7-chapter007_d-p145",

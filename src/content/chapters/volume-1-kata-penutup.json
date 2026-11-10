@@ -1,7 +1,18 @@
 {
   "translation": {
     "sourceLanguage": "en",
-    "initialDraft": "AI"
+    "initialDraft": "AI",
+    "styleRevision": "AI editorial revision against the owner-provided English EPUB; human translation examples inform general readability only; not a human review",
+    "styleRevisionScope": "Selected paragraphs, dialogue register, narrative flow and contextual terminology; preserve source meaning",
+    "styleRevisedBlocks": [
+      "v1-kata-penutup-afterword-p002",
+      "v1-kata-penutup-afterword-p003",
+      "v1-kata-penutup-afterword-p006",
+      "v1-kata-penutup-afterword-p009",
+      "v1-kata-penutup-afterword-p011",
+      "v1-kata-penutup-afterword-p014",
+      "v1-kata-penutup-afterword-p015"
+    ]
   },
   "blocks": [
     {
@@ -20,11 +31,11 @@
       "id": "v1-kata-penutup-afterword-p002",
       "kind": "text",
       "source": "afterword.xhtml#p2",
-      "text": "Mungkin mendadak, tetapi masa muda yang biasa dibicarakan masyarakat itu salah semua. Semuanya bohong belaka. Berkencan ke mal besar seperti LaLaport dengan seragam sekolah bersama pacar yang manis, atau dikenalkan kepada gadis dari sekolah lain lewat teman lalu pergi makan bersama… Semua itu tidak pernah terjadi. Fiksi.",
+      "text": "Mungkin mendadak, tetapi gambaran masa muda yang biasa dibicarakan orang itu salah semua. Semuanya bohong. Berkencan di mal besar seperti LaLaport, masih berseragam sekolah, bersama pacar yang manis. Dikenalkan teman kepada gadis dari sekolah lain, lalu pergi makan bersama… Semua itu tidak pernah terjadi. Fiksi.",
       "emphasis": [
         {
-          "start": 25,
-          "end": 34,
+          "start": 34,
+          "end": 43,
           "style": "em"
         }
       ]
@@ -33,11 +44,11 @@
       "id": "v1-kata-penutup-afterword-p003",
       "kind": "text",
       "source": "afterword.xhtml#p3",
-      "text": "Dalam komedi romantis remaja, ada kalimat ini di akhir, bukan? Ini karya fiksi dan tidak berhubungan dengan kejadian, orang, atau kelompok nyata. Dengan kata lain, komedi romantis remaja semacam itu cuma kumpulan kebohongan. Semua orang sedang ditipu.",
+      "text": "Di akhir komedi romantis remaja biasanya ada kalimat begini, bukan? Karya ini fiksi dan tidak berhubungan dengan kejadian, orang, atau kelompok nyata. Berarti komedi romantis remaja semacam itu cuma kumpulan kebohongan. Semua orang sudah ditipu.",
       "emphasis": [
         {
-          "start": 63,
-          "end": 145,
+          "start": 68,
+          "end": 150,
           "style": "em"
         }
       ]
@@ -58,7 +69,7 @@
       "id": "v1-kata-penutup-afterword-p006",
       "kind": "text",
       "source": "afterword.xhtml#p6",
-      "text": "Mencampur soda melon dan jus jeruk lalu menamainya melonge dan bersemangat karenanya, pergi karyawisata dan bermain mahjong dalam suasana brutal bersama tiga cowok lain, melihat gadis yang saya sukai bersama pacarnya lalu mendadak terdiam… Sekarang semuanya saya anggap kenangan indah."
+      "text": "Mencampur soda melon dan jus jeruk, menamainya melonge, lalu heboh sendiri. Bermain mahjong dalam suasana brutal bersama tiga cowok lain saat karyawisata. Mendadak terdiam karena melihat gadis yang saya sukai bersama pacarnya… Sekarang semua itu saya anggap kenangan indah."
     },
     {
       "id": "v1-kata-penutup-afterword-p007",
@@ -76,7 +87,7 @@
       "id": "v1-kata-penutup-afterword-p009",
       "kind": "text",
       "source": "afterword.xhtml#p9",
-      "text": "Untuk pengelola saya, Hoshino-sama: kalau semua perasaan saya tuliskan, jadinya satu buku, jadi saya singkat saja. Anda membantu dalam segala hal, besar maupun kecil. Terima kasih banyak."
+      "text": "Untuk editor saya, Hoshino-sama: kalau semua perasaan saya tuliskan, bisa jadi satu buku, jadi saya singkat saja. Anda sudah membantu dalam segala hal, besar maupun kecil. Terima kasih banyak."
     },
     {
       "id": "v1-kata-penutup-afterword-p010",
@@ -94,7 +105,7 @@
       "id": "v1-kata-penutup-afterword-p011",
       "kind": "text",
       "source": "afterword.xhtml#p11",
-      "text": "Meski sama sekali tidak mengenal saya, Yomi Hirasaka-sama menulis komentar promosi untuk saya. Saat rasanya akan remuk oleh cemas dan khawatir, komentar Hirasaka memberi saya keberanian. Terima kasih banyak."
+      "text": "Meski sama sekali tidak mengenal saya, Yomi Hirasaka-sama bersedia menulis komentar promosi. Saat kecemasan nyaris meremukkan saya, komentar itu memberi keberanian. Terima kasih banyak."
     },
     {
       "id": "v1-kata-penutup-afterword-p012",
@@ -112,11 +123,11 @@
       "id": "v1-kata-penutup-afterword-p014",
       "kind": "text",
       "source": "afterword.xhtml#p14",
-      "text": "Dan terakhir, untuk diriku semasa SMA: karya ini lahir justru karena dahulu kamu begitu getir, selalu mengatakan Membosankan sekali; bodoh sekali. Banggalah. Masa mudamu memang serba salah, tapi saya yakin itu sepenuhnya benar. Terima kasih.",
+      "text": "Dan terakhir, untuk diriku semasa SMA: karya ini lahir justru karena dahulu kamu begitu getir, terus berkata, Membosankan; bodoh sekali. Banggalah. Masa mudamu memang serba salah, tetapi saya yakin itu sepenuhnya benar. Terima kasih.",
       "emphasis": [
         {
-          "start": 113,
-          "end": 145,
+          "start": 110,
+          "end": 135,
           "style": "em"
         }
       ]
@@ -125,7 +136,7 @@
       "id": "v1-kata-penutup-afterword-p015",
       "kind": "text",
       "source": "afterword.xhtml#p15",
-      "text": "Sekarang, soal kelanjutan cerita. Berlanjut atau tidaknya bergantung pada beberapa hal, tetapi saya percaya kita akan bertemu lagi. Sambil memoles alur berikutnya, saya rasa tulisan ini saya akhiri sampai di sini."
+      "text": "Sekarang, soal kelanjutannya. Berlanjut atau tidak memang bergantung pada beberapa hal, tetapi saya percaya kita akan bertemu lagi. Sambil memoles alur berikutnya, saya akhiri tulisan ini sampai di sini."
     },
     {
       "id": "v1-kata-penutup-afterword-p016",

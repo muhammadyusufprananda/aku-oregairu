@@ -1,7 +1,183 @@
 {
   "translation": {
     "sourceLanguage": "en",
-    "initialDraft": "Google Translate + AI"
+    "initialDraft": "Google Translate + AI",
+    "styleRevision": "AI editorial revision against the owner-provided English EPUB; human translation examples inform general readability only; not a human review",
+    "styleRevisionScope": "Selected paragraphs, dialogue register, narrative flow and contextual terminology; preserve source meaning",
+    "styleRevisedBlocks": [
+      "v1-bab-3-chapter003-p006",
+      "v1-bab-3-chapter003-p013",
+      "v1-bab-3-chapter003-p016",
+      "v1-bab-3-chapter003-p022",
+      "v1-bab-3-chapter003-p023",
+      "v1-bab-3-chapter003-p024",
+      "v1-bab-3-chapter003-p026",
+      "v1-bab-3-chapter003-p027",
+      "v1-bab-3-chapter003-p030",
+      "v1-bab-3-chapter003-p031",
+      "v1-bab-3-chapter003-p033",
+      "v1-bab-3-chapter003-p034",
+      "v1-bab-3-chapter003-p035",
+      "v1-bab-3-chapter003-p037",
+      "v1-bab-3-chapter003-p038",
+      "v1-bab-3-chapter003-p041",
+      "v1-bab-3-chapter003-p042",
+      "v1-bab-3-chapter003-p044",
+      "v1-bab-3-chapter003-p045",
+      "v1-bab-3-chapter003-p047",
+      "v1-bab-3-chapter003-p050",
+      "v1-bab-3-chapter003-p053",
+      "v1-bab-3-chapter003-p054",
+      "v1-bab-3-chapter003-p055",
+      "v1-bab-3-chapter003-p057",
+      "v1-bab-3-chapter003-p059",
+      "v1-bab-3-chapter003-p062",
+      "v1-bab-3-chapter003-p063",
+      "v1-bab-3-chapter003-p066",
+      "v1-bab-3-chapter003-p070",
+      "v1-bab-3-chapter003-p074",
+      "v1-bab-3-chapter003-p075",
+      "v1-bab-3-chapter003-p077",
+      "v1-bab-3-chapter003-p078",
+      "v1-bab-3-chapter003-p079",
+      "v1-bab-3-chapter003-p080",
+      "v1-bab-3-chapter003-p088",
+      "v1-bab-3-chapter003-p096",
+      "v1-bab-3-chapter003-p098",
+      "v1-bab-3-chapter003_d-p002",
+      "v1-bab-3-chapter003_d-p003",
+      "v1-bab-3-chapter003_d-p004",
+      "v1-bab-3-chapter003_d-p007",
+      "v1-bab-3-chapter003_d-p008",
+      "v1-bab-3-chapter003_d-p010",
+      "v1-bab-3-chapter003_d-p011",
+      "v1-bab-3-chapter003_d-p013",
+      "v1-bab-3-chapter003_d-p016",
+      "v1-bab-3-chapter003_d-p018",
+      "v1-bab-3-chapter003_d-p021",
+      "v1-bab-3-chapter003_d-p023",
+      "v1-bab-3-chapter003_d-p024",
+      "v1-bab-3-chapter003_d-p025",
+      "v1-bab-3-chapter003_d-p027",
+      "v1-bab-3-chapter003_d-p028",
+      "v1-bab-3-chapter003_d-p035",
+      "v1-bab-3-chapter003_d-p042",
+      "v1-bab-3-chapter003_d-p049",
+      "v1-bab-3-chapter003_d-p050",
+      "v1-bab-3-chapter003_d-p052",
+      "v1-bab-3-chapter003_d-p056",
+      "v1-bab-3-chapter003_d-p059",
+      "v1-bab-3-chapter003_d-p060",
+      "v1-bab-3-chapter003_d-p063",
+      "v1-bab-3-chapter003_d-p065",
+      "v1-bab-3-chapter003_d-p069",
+      "v1-bab-3-chapter003_d-p070",
+      "v1-bab-3-chapter003_d-p075",
+      "v1-bab-3-chapter003_d-p079",
+      "v1-bab-3-chapter003_d-p084",
+      "v1-bab-3-chapter003_d-p086",
+      "v1-bab-3-chapter003_d-p088",
+      "v1-bab-3-chapter003_d-p092",
+      "v1-bab-3-chapter003_d-p099",
+      "v1-bab-3-chapter003_d-p100",
+      "v1-bab-3-chapter003_d-p101",
+      "v1-bab-3-chapter003_d-p102",
+      "v1-bab-3-chapter003_d-p103",
+      "v1-bab-3-chapter003_d-p105",
+      "v1-bab-3-chapter003_d-p107",
+      "v1-bab-3-chapter003_d-p108",
+      "v1-bab-3-chapter003_d-p110",
+      "v1-bab-3-chapter003_d-p111",
+      "v1-bab-3-chapter003_d-p112",
+      "v1-bab-3-chapter003_f-p004",
+      "v1-bab-3-chapter003_f-p007",
+      "v1-bab-3-chapter003_f-p008",
+      "v1-bab-3-chapter003_f-p009",
+      "v1-bab-3-chapter003_f-p010",
+      "v1-bab-3-chapter003_f-p011",
+      "v1-bab-3-chapter003_f-p013",
+      "v1-bab-3-chapter003_f-p014",
+      "v1-bab-3-chapter003_f-p015",
+      "v1-bab-3-chapter003_f-p016",
+      "v1-bab-3-chapter003_f-p019",
+      "v1-bab-3-chapter003_f-p023",
+      "v1-bab-3-chapter003_f-p024",
+      "v1-bab-3-chapter003_f-p025",
+      "v1-bab-3-chapter003_f-p028",
+      "v1-bab-3-chapter003_f-p030",
+      "v1-bab-3-chapter003_f-p031",
+      "v1-bab-3-chapter003_f-p033",
+      "v1-bab-3-chapter003_f-p035",
+      "v1-bab-3-chapter003_f-p036",
+      "v1-bab-3-chapter003_f-p037",
+      "v1-bab-3-chapter003_f-p040",
+      "v1-bab-3-chapter003_f-p041",
+      "v1-bab-3-chapter003_f-p042",
+      "v1-bab-3-chapter003_f-p044",
+      "v1-bab-3-chapter003_f-p045",
+      "v1-bab-3-chapter003_f-p048",
+      "v1-bab-3-chapter003_f-p049",
+      "v1-bab-3-chapter003_f-p051",
+      "v1-bab-3-chapter003_f-p054",
+      "v1-bab-3-chapter003_f-p055",
+      "v1-bab-3-chapter003_f-p059",
+      "v1-bab-3-chapter003_f-p060",
+      "v1-bab-3-chapter003_f-p062",
+      "v1-bab-3-chapter003_f-p064",
+      "v1-bab-3-chapter003_f-p065",
+      "v1-bab-3-chapter003_f-p067",
+      "v1-bab-3-chapter003_f-p070",
+      "v1-bab-3-chapter003_f-p074",
+      "v1-bab-3-chapter003_f-p075",
+      "v1-bab-3-chapter003_f-p079",
+      "v1-bab-3-chapter003_f-p080",
+      "v1-bab-3-chapter003_f-p081",
+      "v1-bab-3-chapter003_f-p082",
+      "v1-bab-3-chapter003_f-p084",
+      "v1-bab-3-chapter003_f-p086",
+      "v1-bab-3-chapter003_f-p089",
+      "v1-bab-3-chapter003_f-p092",
+      "v1-bab-3-chapter003_f-p099",
+      "v1-bab-3-chapter003_f-p100",
+      "v1-bab-3-chapter003_f-p104",
+      "v1-bab-3-chapter003_f-p108",
+      "v1-bab-3-chapter003_f-p109",
+      "v1-bab-3-chapter003_f-p113",
+      "v1-bab-3-chapter003_f-p115",
+      "v1-bab-3-chapter003_f-p117",
+      "v1-bab-3-chapter003_f-p118",
+      "v1-bab-3-chapter003_f-p119",
+      "v1-bab-3-chapter003_f-p120",
+      "v1-bab-3-chapter003_f-p122",
+      "v1-bab-3-chapter003_f-p123",
+      "v1-bab-3-chapter003_f-p140",
+      "v1-bab-3-chapter003_f-p144",
+      "v1-bab-3-chapter003_f-p146",
+      "v1-bab-3-chapter003_f-p147",
+      "v1-bab-3-chapter003_f-p149",
+      "v1-bab-3-chapter003_f-p157",
+      "v1-bab-3-chapter003_f-p161",
+      "v1-bab-3-chapter003_f-p162",
+      "v1-bab-3-chapter003_f-p166",
+      "v1-bab-3-chapter003_f-p168",
+      "v1-bab-3-chapter003_f-p171",
+      "v1-bab-3-chapter003_f-p172",
+      "v1-bab-3-chapter003_f-p176",
+      "v1-bab-3-chapter003_f-p177",
+      "v1-bab-3-chapter003_f-p179",
+      "v1-bab-3-chapter003_f-p180",
+      "v1-bab-3-chapter003_f-p181",
+      "v1-bab-3-chapter003_f-p183",
+      "v1-bab-3-chapter003_f-p184",
+      "v1-bab-3-chapter003_f-p185",
+      "v1-bab-3-chapter003_f-p188",
+      "v1-bab-3-chapter003_f-p189",
+      "v1-bab-3-chapter003_f-p190",
+      "v1-bab-3-chapter003_f-p191",
+      "v1-bab-3-chapter003_f-p193",
+      "v1-bab-3-chapter003_f-p194",
+      "v1-bab-3-chapter003_f-p196"
+    ]
   },
   "blocks": [
     {
@@ -60,7 +236,7 @@
       "id": "v1-bab-3-chapter003-p006",
       "kind": "text",
       "source": "chapter003.xhtml#p6",
-      "text": "“Ibu tidak mengerti maksud dari alasan itu, Hikigaya. Apakah aktivitas kelompok itu menyakitkan bagimu? Atau apakah tidak ada satu pun kelompok yang mengizinkanmu bergabung?” Bu Hiratsuka mengamati ekspresiku dengan rasa khawatir yang tulus."
+      "text": "“Ibu tidak paham maksud alasanmu, Hikigaya. Kegiatan kelompok itu menyakitkan buatmu? Atau tidak ada kelompok yang mau menerimamu?” Bu Hiratsuka mengamati wajahku, sungguh-sungguh khawatir."
     },
     {
       "id": "v1-bab-3-chapter003-p007",
@@ -149,7 +325,7 @@
       "id": "v1-bab-3-chapter003-p013",
       "kind": "text",
       "source": "chapter003.xhtml#p13",
-      "text": "“Kamu bisa saja 'Cara membuat kari yang enak'. Masalahnya ada di bagian setelahnya. 'Pertama-tama iris bawang bombay menjadi irisan. Kamu mengirisnya tipis-tipis lalu membumbuinya. Sama seperti semakin dangkal seseorang, semakin mudah mereka terpengaruh oleh lingkungannya—semakin tipis kamu mengiris bawang, semakin banyak rasa yang meresap ke dalamnya.' Siapa yang menyuruhmu membuatnya begitu asin? Kamu merusak hidangannya!”"
+      "text": "“Bagian ‘Cara Membuat Kari yang Enak’ masih bisa diterima. Masalahnya setelah itu. ‘Pertama, iris tipis bawang bombai, lalu bumbui. Sama seperti orang dangkal yang mudah terpengaruh lingkungan, makin tipis irisan bawang, makin mudah rasanya meresap.’ Siapa yang menyuruhmu membuat tulisan seasin ini? Masakannya malah rusak!”"
     },
     {
       "id": "v1-bab-3-chapter003-p014",
@@ -167,11 +343,11 @@
       "id": "v1-bab-3-chapter003-p016",
       "kind": "text",
       "source": "chapter003.xhtml#p16",
-      "text": "“Bisakah kamu memasak?” Bu Hiratsuka bertanya padaku sambil membalik-balik laporan. Raut wajahnya menunjukkan bahwa dia mengira jawabannya adalah tidak. Itu tidak adil. Setidaknya anak-anak sekolah menengah sekarang bisa membuat kari.",
+      "text": "“Kamu bisa memasak?” Bu Hiratsuka membalik-balik laporanku sambil bertanya. Wajahnya jelas menduga jawabannya tidak. Tidak adil. Anak SMP zaman sekarang juga sudah bisa membuat kari.",
       "emphasis": [
         {
-          "start": 146,
-          "end": 151,
+          "start": 110,
+          "end": 115,
           "style": "em"
         }
       ]
@@ -217,19 +393,19 @@
       "id": "v1-bab-3-chapter003-p022",
       "kind": "text",
       "source": "chapter003.xhtml#p22",
-      "text": "Mata besar Bu Hiratsuka, dengan sedikit pinggiran maskara, berkedip dua, tiga kali. “Kamu ingin menjadi suami yang tinggal di rumah?”"
+      "text": "Mata Bu Hiratsuka yang dibingkai sedikit maskara berkedip dua, tiga kali. “Kamu ingin menjadi bapak rumah tangga?”"
     },
     {
       "id": "v1-bab-3-chapter003-p023",
       "kind": "text",
       "source": "chapter003.xhtml#p23",
-      "text": "“saya melihatnya sebagai salah satu pilihan masa depan saya.”"
+      "text": "“Saya menganggapnya salah satu pilihan masa depan.”"
     },
     {
       "id": "v1-bab-3-chapter003-p024",
       "kind": "text",
       "source": "chapter003.xhtml#p24",
-      "text": "“Jangan menatapku dengan tatapan busuk saat kamu berbicara tentang impianmu untuk masa depan. Setidaknya matamu harusnya berbinar-binar. Sekadar pengetahuanku, apa sebenarnya rencanamu untuk masa depan?”"
+      "text": "“Jangan membicarakan cita-cita dengan mata sebusuk itu. Setidaknya berbinar sedikit. Ibu mau tahu, sebenarnya apa rencanamu untuk masa depan?”"
     },
     {
       "id": "v1-bab-3-chapter003-p025",
@@ -253,13 +429,13 @@
       "id": "v1-bab-3-chapter003-p026",
       "kind": "text",
       "source": "chapter003.xhtml#p26",
-      "text": "Bu Hiratsuka mengangguk dan membuat suara mendengarkan. “Mm-hmm. Bagaimana dengan kariermu setelah itu?”"
+      "text": "Bu Hiratsuka mengangguk sambil menyimak. “Hmm. Lalu pekerjaanmu setelah itu?”"
     },
     {
       "id": "v1-bab-3-chapter003-p027",
       "kind": "text",
       "source": "chapter003.xhtml#p27",
-      "text": "“saya akan memilih seorang gadis cantik dan berbakat dan menikahinya dengan tujuan agar dia mendukung saya pada akhirnya.”"
+      "text": "“Saya akan memilih perempuan cantik dan berbakat, lalu menikahinya supaya nanti dia menafkahi saya.”"
     },
     {
       "id": "v1-bab-3-chapter003-p028",
@@ -291,13 +467,13 @@
       "id": "v1-bab-3-chapter003-p030",
       "kind": "text",
       "source": "chapter003.xhtml#p30",
-      "text": "“Itu hanya membuatmu menjadi lintah! Dan itu adalah cara hidup yang benar-benar buruk. Laki-laki seperti itu menggantungkan pernikahan di depan wanita seperti umpan, dan sebelum kamu menyadarinya, mereka telah menyusup ke rumahmu dan bahkan membuat kunci duplikat, dan tak lama kemudian mereka mulai membawa barang-barang mereka, dan begitu kita putus, orang tak berguna itu bahkan mengambil perabotanku!” Kata-kata kasar Bu Hiratsuka berisi terlalu banyak hal spesifik. Dia begitu terlibat, dia kehabisan napas, air mata mengalir di matanya."
+      "text": "“Itu namanya benalu! Dan cara hidup begitu buruk sekali. Laki-laki macam itu menjadikan pernikahan sebagai umpan. Tahu-tahu sudah menyusup ke rumahmu, membuat kunci duplikat, lalu mulai membawa barang-barangnya. Begitu putus, orang tak berguna itu bahkan membawa pergi perabotanku!” Keluhan Bu Hiratsuka kelewat terperinci. Saking terbawanya, napasnya sampai habis dan matanya berkaca-kaca."
     },
     {
       "id": "v1-bab-3-chapter003-p031",
       "kind": "text",
       "source": "chapter003.xhtml#p31",
-      "text": "Sedih sekali… Dia terlihat sangat menyedihkan, aku hanya perlu mengatakan sesuatu untuk membuatnya merasa lebih baik."
+      "text": "Sedih sekali… Melihatnya sekasihan itu, aku merasa harus mengatakan sesuatu untuk menghiburnya."
     },
     {
       "id": "v1-bab-3-chapter003-p032",
@@ -309,23 +485,23 @@
       "id": "v1-bab-3-chapter003-p033",
       "kind": "text",
       "source": "chapter003.xhtml#p33",
-      "text": "“Logika lintah super macam apa itu?!”"
+      "text": "“Logika benalu super macam apa itu?!”"
     },
     {
       "id": "v1-bab-3-chapter003-p034",
       "kind": "text",
       "source": "chapter003.xhtml#p34",
-      "text": "Cita-citaku untuk masa depan ditolak, aku terpaksa berdiri di persimpangan jalan hidupku. Di ambang mimpiku hancur total, aku mencari argumen yang bagus untuk mempersenjatai diriku. “Kedengarannya buruk kalau disebut lintah, tapi menurutku menjadi suami yang tinggal di rumah bukanlah keputusan yang buruk.”"
+      "text": "Cita-citaku ditolak. Mendadak aku berdiri di persimpangan hidup. Sebelum mimpiku hancur total, kucari argumen untuk membela diri. “Kedengarannya memang buruk kalau disebut benalu. Tapi menurut saya, menjadi bapak rumah tangga bukan pilihan yang buruk.”"
     },
     {
       "id": "v1-bab-3-chapter003-p035",
       "kind": "text",
       "source": "chapter003.xhtml#p35",
-      "text": "“Mm-hmm?” Bu Hiratsuka menggeser kursinya, membuatnya berderit, dan memelototiku. Postur tubuhnya berkata, Saya mendengarkan. Coba saya.",
+      "text": "“Hmm?” Bu Hiratsuka menggeser kursi hingga berderit, lalu memelototiku. Sikapnya berkata, Ibu dengarkan. Coba saja.",
       "emphasis": [
         {
-          "start": 107,
-          "end": 136,
+          "start": 90,
+          "end": 115,
           "style": "em"
         }
       ]
@@ -340,13 +516,13 @@
       "id": "v1-bab-3-chapter003-p037",
       "kind": "text",
       "source": "chapter003.xhtml#p37",
-      "text": "“Yah, itu benar.” Sepertinya dia sudah menerima sebanyak itu. Sekarang saya bisa mengambil langkah lebih jauh."
+      "text": "“Yah, memang.” Setidaknya bagian itu diterimanya. Sekarang aku bisa maju selangkah."
     },
     {
       "id": "v1-bab-3-chapter003-p038",
       "kind": "text",
       "source": "chapter003.xhtml#p38",
-      "text": "“Tetapi sekarang karena banyaknya perempuan yang memasuki angkatan kerja, masuk akal jika jumlah laki-laki yang sama akan tersingkir. Di waktu dan tempat tertentu, jumlah pekerjaan selalu terbatas, bukan?”"
+      "text": "“Tapi kalau makin banyak perempuan masuk dunia kerja, masuk akal kalau laki-laki dalam jumlah yang sama tersingkir. Pada waktu dan tempat tertentu, jumlah pekerjaan kan terbatas?”"
     },
     {
       "id": "v1-bab-3-chapter003-p039",
@@ -364,17 +540,17 @@
       "id": "v1-bab-3-chapter003-p041",
       "kind": "text",
       "source": "chapter003.xhtml#p41",
-      "text": "Pada saat itu, Bu Hiratsuka meletakkan tangannya di dagunya, mengambil posisi berpikir. “Melanjutkan.”"
+      "text": "Bu Hiratsuka menaruh tangan di dagu dan berpikir. “Lanjutkan.”"
     },
     {
       "id": "v1-bab-3-chapter003-p042",
       "kind": "text",
       "source": "chapter003.xhtml#p42",
-      "text": "“Ada juga fakta bahwa perusahaan tidak memerlukan banyak personel seperti di masa lalu. Dengan penyebaran komputer dan perkembangan Internet, kita menjadi lebih efisien, dan produktivitas satu individu telah meningkat pesat. Faktanya, dari sudut pandang masyarakat, Ibu mulai mendapat pesan bahwa Ya, saya tahu Ibu sangat ingin bekerja, tetapi kami tidak dapat mengelolanya. Lihatlah hal-hal seperti pembagian kerja.”",
+      "text": "“Lagi pula, perusahaan tidak membutuhkan pegawai sebanyak dulu. Komputer makin umum dan Internet berkembang. Pekerjaan jadi lebih efisien, dan produktivitas tiap orang naik pesat. Dari masyarakat sendiri justru mulai muncul pesan, Ya, kami tahu kalian ingin bekerja, tapi kami tak sanggup menyediakan tempat. Lihat saja gagasan berbagi pekerjaan.”",
       "emphasis": [
         {
-          "start": 297,
-          "end": 373,
+          "start": 231,
+          "end": 307,
           "style": "em"
         }
       ]
@@ -389,13 +565,13 @@
       "id": "v1-bab-3-chapter003-p044",
       "kind": "text",
       "source": "chapter003.xhtml#p44",
-      "text": "“Ditambah lagi, dengan perkembangan luar biasa dalam produk elektronik konsumen, siapa pun dapat melakukan pekerjaan yang sama dan menghasilkan tingkat kualitas yang standar. Laki-laki dapat melakukan pekerjaan rumah tangga.”"
+      "text": "“Ditambah lagi, peralatan rumah tangga berkembang luar biasa. Siapa saja bisa mengerjakan pekerjaan yang sama dengan hasil yang cukup baik. Laki-laki pun bisa mengurus rumah.”"
     },
     {
       "id": "v1-bab-3-chapter003-p045",
       "kind": "text",
       "source": "chapter003.xhtml#p45",
-      "text": "“Tunggu, tunggu sebentar,” katanya, menyela perdebatan sengitku. Dia berdeham pelan dan menatap wajahku. “I-Hal-hal itu bisa jadi sangat sulit untuk digunakan… Laki-laki belum tentu bisa melakukannya, lho.”"
+      "text": "“Tunggu, sebentar,” potongnya di tengah argumenku yang menggebu. Dia berdeham pelan, lalu menatapku. “A-alat begitu kadang sulit dipakai… Belum tentu laki-laki bisa, lho.”"
     },
     {
       "id": "v1-bab-3-chapter003-p046",
@@ -407,11 +583,11 @@
       "id": "v1-bab-3-chapter003-p047",
       "kind": "text",
       "source": "chapter003.xhtml#p47",
-      "text": "“Apa itu tadi?” Memutar kursinya, dia menendang tulang keringku. Ini sangat menyakitkan. Aku melanjutkan alasanku, berharap dia melupakan bagian terakhir itu.",
+      "text": "“Apa tadi?” Dia memutar kursinya lalu menendang tulang keringku. Sakit sekali. Aku segera melanjutkan penjelasan, berharap bagian barusan terlupakan.",
       "emphasis": [
         {
-          "start": 69,
-          "end": 75,
+          "start": 71,
+          "end": 77,
           "style": "em"
         }
       ]
@@ -432,7 +608,7 @@
       "id": "v1-bab-3-chapter003-p050",
       "kind": "text",
       "source": "chapter003.xhtml#p50",
-      "text": "“Aaagh. Kau masih busuk sampai ke inti.” Guru itu melepaskan bebannya dengan menghela napas panjang tetapi kemudian menyeringai seolah dia memikirkan sesuatu. “Jika seorang gadis memasak untukmu sekali saja, mungkin kamu akan berpikir berbeda,” katanya sambil berdiri dan mendorongku dari belakang, mendorongku keluar dari ruang guru."
+      "text": "“Aaagh. Kamu memang busuk sampai ke dalam.” Bu Hiratsuka menghela napas panjang, lalu menyeringai seperti mendapat ide. “Mungkin pikiranmu berubah kalau sekali saja ada gadis yang memasak untukmu.” Beliau berdiri, mendorong punggungku, lalu menggiringku keluar dari ruang guru."
     },
     {
       "id": "v1-bab-3-chapter003-p051",
@@ -457,11 +633,11 @@
       "id": "v1-bab-3-chapter003-p053",
       "kind": "text",
       "source": "chapter003.xhtml#p53",
-      "text": "Aku berbalik untuk menyuarakan protes Untuk apa itu? atau semacamnya, hanya untuk menemukan pintu dibanting menutup dengan kejam di depan wajahku. Itu adalah penolakan terhadap segala “argumen, ketidaksepakatan, keberatan, pertanyaan, atau omongan balik.”",
+      "text": "Aku berbalik, hendak memprotes, Untuk apa tadi? Namun, pintu keburu dibanting di depan wajahku. Penolakan mutlak terhadap segala perdebatan, ketidaksetujuan, keberatan, pertanyaan, dan bantahan.",
       "emphasis": [
         {
-          "start": 38,
-          "end": 52,
+          "start": 32,
+          "end": 47,
           "style": "em"
         }
       ]
@@ -470,13 +646,13 @@
       "id": "v1-bab-3-chapter003-p054",
       "kind": "text",
       "source": "chapter003.xhtml#p54",
-      "text": "Aku mempertimbangkan sejenak mungkin akan melewatkan waktu klub, tapi saat pikiran itu terlintas di pikiranku, bahu yang baru saja dia remas terasa sakit. Dia mungkin akan memukulku lagi jika aku melarikan diri. Aku tidak percaya dia berhasil menanamkan penderitaan yang tertunda itu di tubuhku dalam jangka waktu sesingkat itu. Wanita yang menakutkan."
+      "text": "Sempat terpikir untuk membolos kegiatan klub. Tapi baru terpikir begitu, bahu yang tadi diremasnya langsung nyeri. Kalau kabur, aku mungkin dipukul lagi. Secepat itu dia berhasil menanamkan rasa sakit yang bisa muncul belakangan. Perempuan menakutkan."
     },
     {
       "id": "v1-bab-3-chapter003-p055",
       "kind": "text",
       "source": "chapter003.xhtml#p55",
-      "text": "Aku memutuskan untuk muncul di klub misteri yang baru-baru ini aku terpaksa bergabung—Klub Layanan atau apa pun namanya. Itu namanya, tapi aku tidak tahu apa yang sebenarnya kami lakukan. Aku semakin dibuat bingung oleh ketua klub. Apa masalahnya?"
+      "text": "Akhirnya kuputuskan datang ke klub misterius yang baru-baru ini terpaksa kuikuti. Klub Layanan, atau apalah namanya. Namanya memang begitu, tapi aku masih tak tahu kegiatannya. Ketuanya lebih membingungkan lagi. Sebenarnya dia kenapa?"
     },
     {
       "id": "v1-bab-3-chapter003-Art_orn",
@@ -494,7 +670,7 @@
       "id": "v1-bab-3-chapter003-p057",
       "kind": "text",
       "source": "chapter003.xhtml#p57",
-      "text": "Jadi pada akhirnya, apa yang sebenarnya harus kami lakukan di klub ini? Kemana perginya semua pembicaraan tentang kompetisi? Jawaban atas pertanyaan aku tiba-tiba datang dalam bentuk ketukan pelan pengunjung."
+      "text": "Jadi, sebenarnya apa yang harus kami lakukan di klub ini? Ke mana pembicaraan tentang pertandingan tadi? Jawabannya datang mendadak, berupa ketukan pelan di pintu."
     },
     {
       "id": "v1-bab-3-chapter003-p058",
@@ -506,7 +682,7 @@
       "id": "v1-bab-3-chapter003-p059",
       "kind": "text",
       "source": "chapter003.xhtml#p59",
-      "text": "“T-maafkan aku!” terdengar suara gugup. Pintunya bergeser ke samping dengan sedikit gesekan, terbuka hanya beberapa inci. Seorang gadis masuk, hampir menerobos ke samping. Cara dia bergerak, sepertinya dia tidak ingin terlihat. Rambut coklat kastanyenya tergerai hingga ke bahunya dalam gelombang longgar, dan setiap langkah yang diambilnya, rambutnya bergoyang. Matanya melirik ke sana kemari seolah-olah dia sedang mengamati area tersebut, tatapannya tidak pernah berhenti untuk beristirahat, dan ketika matanya bertemu dengan mataku, dia menjerit kecil."
+      "text": "“P-permisi!” Suara gugup terdengar. Pintu digeser dengan bunyi gesekan kecil, terbuka hanya beberapa senti. Seorang gadis menyelinap lewat celahnya, seolah tak ingin terlihat. Rambut cokelat kastanyenya bergelombang longgar sampai bahu, bergoyang tiap dia melangkah. Matanya terus bergerak ke sana kemari, mengamati ruangan tanpa pernah berhenti. Begitu bertemu mataku, dia memekik kecil."
     },
     {
       "id": "v1-bab-3-chapter003-p060",
@@ -524,11 +700,11 @@
       "id": "v1-bab-3-chapter003-p062",
       "kind": "text",
       "source": "chapter003.xhtml#p62",
-      "text": "“Uh, aku di klub ini.” Dan tunggu, apakah “Hikki” yang dimaksud adalah aku? Sebenarnya siapa gadis ini? Sejujurnya, aku tidak ingat sama sekali tentang dia.",
+      "text": "“Anu, aku anggota klub ini.” Tunggu, Hikki itu maksudnya aku? Sebenarnya siapa gadis ini? Terus terang, aku sama sekali tidak ingat.",
       "emphasis": [
         {
-          "start": 23,
-          "end": 156,
+          "start": 29,
+          "end": 132,
           "style": "em"
         }
       ]
@@ -537,7 +713,7 @@
       "id": "v1-bab-3-chapter003-p063",
       "kind": "text",
       "source": "chapter003.xhtml#p63",
-      "text": "Aku tidak mengingatnya karena dia adalah seorang gadis SMA yang stereotipnya modern. Aku melihatnya sejenisnya sepanjang waktu. Pada dasarnya, dia adalah salah satu gadis remaja yang modis. Semua pakaiannya secara terang-terangan mengabaikan aturan berpakaian sekolah: rok pendek, tiga kancing terbuka di blusnya, kalung berkilauan di dada yang mengintip dari blus tersebut, pesona hati, dan rambut kuning kecoklatan yang diputihkan cerah."
+      "text": "Mungkin karena dia persis gambaran gadis SMA modern yang sering kulihat. Singkatnya, gadis remaja yang modis. Pakaiannya terang-terangan mengabaikan aturan sekolah: rok pendek, tiga kancing blus dibiarkan terbuka, kalung berkilau dengan bandul hati di dada yang mengintip dari sana, serta rambut yang diwarnai cokelat kekuningan terang."
     },
     {
       "id": "v1-bab-3-chapter003-p064",
@@ -562,7 +738,7 @@
       "id": "v1-bab-3-chapter003-p066",
       "kind": "text",
       "source": "chapter003.xhtml#p66",
-      "text": "“Baiklah, duduklah.” Dengan santai aku menarik kursi dan mempersilakannya duduk. Aku tidak bersikap sopan untuk menyamarkan niatku yang tidak murni. Aku ingin menekankan bahwa semua ini tentu saja karena kebaikan yang tulus."
+      "text": "“Silakan duduk.” Dengan santai kutarik kursi untuknya. Bukan karena ingin menutupi niat tak murni dengan sopan santun. Perlu kutegaskan, ini murni kebaikan hati."
     },
     {
       "id": "v1-bab-3-chapter003-p067",
@@ -586,7 +762,7 @@
       "id": "v1-bab-3-chapter003-p070",
       "kind": "text",
       "source": "chapter003.xhtml#p70",
-      "text": "“K-kamu kenal aku?” Mendengar namanya sendiri, ekspresi Yui Yuigahama tiba-tiba berubah cerah. Sepertinya dia menganggap pengakuan Yukinoshita sebagai tanda status."
+      "text": "“K-kamu kenal aku?” Begitu mendengar namanya disebut, wajah Yui Yuigahama langsung cerah. Rupanya dikenal Yukinoshita saja sudah dianggap semacam pengakuan."
     },
     {
       "id": "v1-bab-3-chapter003-p071",
@@ -610,13 +786,13 @@
       "id": "v1-bab-3-chapter003-p074",
       "kind": "text",
       "source": "chapter003.xhtml#p74",
-      "text": "“Tak ada yang perlu dikhawatirkan. Seharusnya aku melakukannya. Aku hanya tidak melakukannya karena aku tidak tertarik pada karakter kerdilmu. Aku punya keinginan bawah sadar yang kuat untuk mengalihkan pandanganku darimu, tapi itu adalah kelemahan dan kesalahanku.”"
+      "text": "“Tak perlu dipikirkan. Memang seharusnya aku mengenalmu. Aku tidak tahu karena tidak tertarik pada sosokmu yang kecil. Tanpa sadar aku sangat ingin mengalihkan pandangan darimu. Tapi itu kelemahan dan kesalahanku.”"
     },
     {
       "id": "v1-bab-3-chapter003-p075",
       "kind": "text",
       "source": "chapter003.xhtml#p75",
-      "text": "“Hei, apakah itu seharusnya membuatku merasa lebih baik? Itu cara yang sangat buruk untuk menghibur seseorang. Bagian terakhir itu pada dasarnya menjadikan semuanya salahku!”"
+      "text": "“Hei, itu maksudnya menghibur? Caranya buruk sekali. Bagian terakhir itu malah menyalahkanku!”"
     },
     {
       "id": "v1-bab-3-chapter003-p076",
@@ -628,23 +804,23 @@
       "id": "v1-bab-3-chapter003-p077",
       "kind": "text",
       "source": "chapter003.xhtml#p77",
-      "text": "“Klub ini sepertinya…menyenangkan.” Yuigahama mengamati interaksi kami dengan kilatan cahaya di matanya. Mungkin ada beberapa sekrup yang lepas."
+      "text": "“Klub ini kelihatannya… seru.” Mata Yuigahama berbinar saat mengamati kami. Mungkin ada beberapa sekrup yang lepas di kepalanya."
     },
     {
       "id": "v1-bab-3-chapter003-p078",
       "kind": "text",
       "source": "chapter003.xhtml#p78",
-      "text": "“Pengalaman ini tidak terlalu menyenangkan bagiku… Faktanya, asumsimu itu sangat tidak menyenangkan.” Yukinoshita menatap tajam ke arahnya."
+      "text": "“Bagiku tidak terlalu menyenangkan… Malah anggapanmu itu sendiri sangat tidak menyenangkan.” Yukinoshita menatapnya tajam."
     },
     {
       "id": "v1-bab-3-chapter003-p079",
       "kind": "text",
       "source": "chapter003.xhtml#p79",
-      "text": "Ketika pandangan itu mengenai Yuigahama, dia menjadi bingung, gelisah dan menjabat tangannya dengan liar di depannya. “Oh! Yah, um, seperti… Aku hanya berpikir kalian terlihat sangat natural satu sama lain. Kalian tahu, um… Akting Hikki benar-benar berbeda dari biasanya di kelas, jadi aku seperti, Wow, dia berbicara!”",
+      "text": "Terkena tatapan itu, Yuigahama langsung salah tingkah dan melambaikan kedua tangan di depan tubuhnya. “Oh! Anu, maksudku… Kalian kelihatan santai banget satu sama lain. Hikki juga beda dari biasanya di kelas, jadi aku sampai mikir, Wah, dia bisa ngomong!”",
       "emphasis": [
         {
-          "start": 299,
-          "end": 318,
+          "start": 232,
+          "end": 254,
           "style": "em"
         }
       ]
@@ -653,16 +829,16 @@
       "id": "v1-bab-3-chapter003-p080",
       "kind": "text",
       "source": "chapter003.xhtml#p80",
-      "text": "“Tentu saja aku bicara.” Apakah aku merasa kurang dalam keterampilan komunikasi?",
+      "text": "“Ya, jelas aku bisa bicara.” Memangnya kemampuan komunikasiku terlihat separah itu?",
       "emphasis": [
         {
-          "start": 25,
-          "end": 42,
+          "start": 29,
+          "end": 38,
           "style": "em"
         },
         {
-          "start": 43,
-          "end": 80,
+          "start": 39,
+          "end": 83,
           "style": "em"
         }
       ]
@@ -727,11 +903,11 @@
       "id": "v1-bab-3-chapter003-p088",
       "kind": "text",
       "source": "chapter003.xhtml#p88",
-      "text": "Oh, tatapan merendahkan itu begitu familiar. Memang ada seorang gadis di kelasku yang terkadang menatapku seperti kamu melihat sesuatu yang kotor. Dia adalah bagian dari kelompok yang sering bergaul dengan klub sepak bola atau siapa pun. Oh, begitu. Dia musuhku, ya? Pertimbanganku terbuang percuma padanya.",
+      "text": "Oh, tatapan merendahkan itu tak asing. Memang ada gadis di kelasku yang kadang menatapku seperti melihat sesuatu yang kotor. Dia bagian dari kelompok yang suka berkumpul dengan anak-anak klub sepak bola dan sejenisnya. Oh, begitu. Musuhku, ya? Sia-sia tadi aku menjaga perasaannya.",
       "emphasis": [
         {
-          "start": 238,
-          "end": 266,
+          "start": 219,
+          "end": 243,
           "style": "em"
         }
       ]
@@ -803,21 +979,21 @@
       "id": "v1-bab-3-chapter003-p096",
       "kind": "text",
       "source": "chapter003.xhtml#p96",
-      "text": "“Aku menyebutmu pelacur tidak ada hubungannya dengan sifat menyeramkanku. Dan jangan panggil aku Hikki.” Dia membuatku terdengar seperti hikikomori—salah satu orang tertutup yang tidak pernah keluar dari kamarnya. Oh, jadi itu seharusnya sebuah penghinaan. Itu mungkin nama panggilan yang mengejek yang diberikan kelas kepadaku. Apa-apaan ini? Itu agak kejam. Itu hampir membuatku ingin menangis. Berbicara di belakang orang lain itu tidak sopan. Jadi, katakan terus terang—langsung di depan wajahku. Aku tidak akan terluka jika aku tidak mendengarnya sendiri. “Dasar pelacur.”",
+      "text": "“Menyebutmu pelacur tidak ada hubungannya dengan kemesumanku. Dan jangan panggil aku Hikki.” Kedengarannya seperti hikikomori, orang yang mengurung diri dan tak pernah keluar kamar. Oh, jadi itu hinaan. Mungkin nama ejekan yang diberikan teman-teman sekelas di belakangku. Apa-apaan? Kejam juga. Hampir membuatku ingin menangis. Membicarakan orang di belakang itu tidak sopan. Bilang saja terus terang, di depan wajahku. Kalau tak kudengar sendiri, aku juga tak akan terluka. “Dasar pelacur.”",
       "emphasis": [
         {
-          "start": 137,
-          "end": 147,
+          "start": 115,
+          "end": 125,
           "style": "em"
         },
         {
-          "start": 329,
-          "end": 359,
+          "start": 273,
+          "end": 295,
           "style": "em"
         },
         {
-          "start": 447,
-          "end": 560,
+          "start": 377,
+          "end": 475,
           "style": "em"
         }
       ]
@@ -832,7 +1008,7 @@
       "id": "v1-bab-3-chapter003-p098",
       "kind": "text",
       "source": "chapter003.xhtml#p98",
-      "text": "Aku seorang pria yang cukup lembut, dan aku tidak pernah membentak siapa pun. Aku seperti pisau cukur yang aman. Tapi itu cukup membuatku terdiam. Ada banyak hal di luar sana yang tidak boleh kamu katakan kepada orang lain. Kata-kata yang berhubungan dengan hidup dan mati, khususnya, bisa sangat berdampak. Jika kamu tidak siap untuk mengambil nyawa seseorang dengan tangan kamu sendiri, jangan pernah mengatakan kamu akan melakukannya."
+      "text": "Aku ini orang yang cukup lembut. Belum pernah membentak siapa pun. Seperti pisau cukur yang aman. Tapi ucapan tadi membuatku terdiam. Ada hal-hal yang tak boleh dikatakan kepada orang lain. Terutama ucapan tentang hidup dan mati; dampaknya bisa besar. Kalau tak siap merenggut nyawa seseorang dengan tangan sendiri, jangan bilang akan melakukannya."
     },
     {
       "id": "v1-bab-3-chapter003_a-Art_P58",
@@ -865,19 +1041,19 @@
       "id": "v1-bab-3-chapter003_d-p002",
       "kind": "text",
       "source": "chapter003_d.xhtml#p2",
-      "text": "“Oh...m-maaf. Bukan itu yang aku...hah?! Kamu baru saja mengatakannya! Kamu sangat mengatakannya!” Seperti yang kukatakan sebelumnya, Yuigahama itu bodoh. Namun yang mengejutkan, dia juga mampu menyampaikan permintaan maaf yang tulus."
+      "text": "“Oh… m-maaf. Bukan maksudku… hah?! Kamu barusan bilang begitu! Jelas-jelas bilang!” Seperti kataku tadi, Yuigahama itu bodoh. Namun, ternyata dia juga bisa meminta maaf dengan tulus."
     },
     {
       "id": "v1-bab-3-chapter003_d-p003",
       "kind": "text",
       "source": "chapter003_d.xhtml#p3",
-      "text": "Aku menyadari kesan awal aku terhadapnya tidak sepenuhnya akurat. Aku mengira kepalanya hanya dipenuhi oleh pesta, seks, dan narkoba—sama seperti semua orang di kelompoknya, penonton klub sepak bola, dan orang-orang yang bergaul dengan mereka. Apa ini, novel Ryuu Murakami?"
+      "text": "Rupanya kesan pertamaku tidak sepenuhnya tepat. Kukira kepalanya cuma penuh pesta, seks, dan narkoba, seperti kelompoknya, para penonton klub sepak bola, dan orang-orang di sekitar mereka. Memangnya ini novel Ryuu Murakami?"
     },
     {
       "id": "v1-bab-3-chapter003_d-p004",
       "kind": "text",
       "source": "chapter003_d.xhtml#p4",
-      "text": "Tampaknya lelah melompat-lompat, Yuigahama menghela napas pendek. “Hei, aku mendengar dari Bu Hiratsuka bahwa tempat ini mengabulkan permintaan siswa?” dia bertanya, memecah keheningan singkat."
+      "text": "Setelah lelah heboh sendiri, Yuigahama menghela napas pendek. “Hei, kata Bu Hiratsuka, di sini bisa mengabulkan permintaan murid?” tanyanya, memecah keheningan singkat."
     },
     {
       "id": "v1-bab-3-chapter003_d-p005",
@@ -895,13 +1071,13 @@
       "id": "v1-bab-3-chapter003_d-p007",
       "kind": "text",
       "source": "chapter003_d.xhtml#p7",
-      "text": "“Bagaimana bisa dikatakan ‘kurang tepat’?” Yuigahama bertanya dengan bingung. Itulah tepatnya yang ingin kutanyakan juga."
+      "text": "“Bagian mana yang kurang tepat?” tanya Yuigahama, bingung. Aku juga ingin tahu."
     },
     {
       "id": "v1-bab-3-chapter003_d-p008",
       "kind": "text",
       "source": "chapter003_d.xhtml#p8",
-      "text": "“Inilah perbedaan antara memberi ikan kepada orang yang kelaparan dan mengajari mereka cara memancing. Upaya sukarela, pada intinya, adalah mewujudkan cita-cita tersebut dalam praktik, dan bukan sekadar memberikan hasil. Mungkin cara terbaik untuk menggambarkan hal ini adalah dengan mendorong kemandirian.”"
+      "text": "“Ada bedanya memberi ikan kepada orang yang kelaparan dan mengajarinya memancing. Kegiatan sukarela bukan sekadar memberikan hasil, tetapi mewujudkan gagasan itu dalam tindakan. Mungkin paling tepat disebut membantu orang agar mandiri.”"
     },
     {
       "id": "v1-bab-3-chapter003_d-p009",
@@ -913,11 +1089,11 @@
       "id": "v1-bab-3-chapter003_d-p010",
       "kind": "text",
       "source": "chapter003_d.xhtml#p10",
-      "text": "“I-itu luar biasa!” Yuigahama memasang tatapan seperti ini seolah dia baru saja mendapat pencerahan, seperti Wah, kamu baru saja meyakinkanku! Itu membuatku sedikit khawatir bahwa suatu hari dia mungkin akan tertipu oleh aliran sesat.",
+      "text": "“H-hebat banget!” Wajah Yuigahama seperti baru tercerahkan. Wah, aku yakin sekarang! Begitu kira-kira ekspresinya. Aku jadi khawatir suatu hari dia ditipu aliran sesat.",
       "emphasis": [
         {
-          "start": 109,
-          "end": 142,
+          "start": 60,
+          "end": 84,
           "style": "em"
         }
       ]
@@ -926,7 +1102,7 @@
       "id": "v1-bab-3-chapter003_d-p011",
       "kind": "text",
       "source": "chapter003_d.xhtml#p11",
-      "text": "Sama sekali tidak ada dasar ilmiah untuk gagasan ini, tetapi ada kepercayaan umum bahwa perempuan dengan payudara besar itu kecil… lho. Aku rasa contoh ini dapat ditambahkan ke daftar."
+      "text": "Tidak ada dasar ilmiahnya, tetapi orang sering bilang perempuan berdada besar biasanya kecil… itunya. Kurasa contoh ini bisa ditambahkan ke daftar."
     },
     {
       "id": "v1-bab-3-chapter003_d-p012",
@@ -938,7 +1114,7 @@
       "id": "v1-bab-3-chapter003_d-p013",
       "kind": "text",
       "source": "chapter003_d.xhtml#p13",
-      "text": "Tampaknya teringat akan tujuan awalnya dia datang ke sini, Yuigahama angkat bicara. “Oh! Um, um...dengarkan, jadi...kue...,” dia memulai sambil menatap wajahku."
+      "text": "Seolah teringat tujuan kedatangannya, Yuigahama mulai bicara. “Oh! Anu, jadi, dengar… kue…,” katanya sambil menatap wajahku."
     },
     {
       "id": "v1-bab-3-chapter003_d-p014",
@@ -970,21 +1146,21 @@
       "id": "v1-bab-3-chapter003_d-p016",
       "kind": "text",
       "source": "chapter003_d.xhtml#p16",
-      "text": "Jika itu adalah sesuatu yang hanya bisa mereka bicarakan di antara perempuan, maka aku tidak bisa berbuat apa-apa. Hal-hal seperti itu adalah suatu hal. Petunjuknya adalah pendidikan kesehatan dan jasmani, tidak termasuk anak laki-laki, dan kelas untuk anak perempuan hanya di ruang kelas yang berbeda. Dengan kata lain, itulah yang akan mereka bicarakan.",
+      "text": "Kalau memang hanya bisa dibicarakan sesama perempuan, aku tak bisa berbuat apa-apa. Hal semacam itu memang ada. Petunjuknya: pelajaran pendidikan jasmani dan kesehatan, anak laki-laki dikeluarkan, lalu anak perempuan belajar di ruangan lain. Dengan kata lain, pasti soal itu.",
       "emphasis": [
         {
-          "start": 172,
-          "end": 204,
+          "start": 135,
+          "end": 167,
           "style": "em"
         },
         {
-          "start": 206,
-          "end": 235,
+          "start": 169,
+          "end": 195,
           "style": "em"
         },
         {
-          "start": 241,
-          "end": 301,
+          "start": 202,
+          "end": 240,
           "style": "em"
         }
       ]
@@ -999,7 +1175,7 @@
       "id": "v1-bab-3-chapter003_d-p018",
       "kind": "text",
       "source": "chapter003_d.xhtml#p18",
-      "text": "“…Aku akan membeli Sportop.” Aku terlalu baik, jika aku sendiri yang mengatakannya. Aku membaca ruangan dan dengan santai mengambil tindakan. Jika aku seorang gadis, aku pasti akan jatuh cinta padaku."
+      "text": "“…Aku mau beli Sportop.” Baik sekali aku ini, kalau boleh memuji diri sendiri. Bisa membaca suasana dan bertindak tanpa ribut. Kalau aku perempuan, pasti sudah jatuh cinta kepadaku."
     },
     {
       "id": "v1-bab-3-chapter003_d-p019",
@@ -1030,7 +1206,7 @@
       "id": "v1-bab-3-chapter003_d-p021",
       "kind": "text",
       "source": "chapter003_d.xhtml#p21",
-      "text": "Perjalanan pulang pergi dari lantai tiga gedung khusus ke lantai pertama membutuhkan waktu kurang dari sepuluh menit. Jika aku meluangkan waktu untuk berjalan-jalan, mungkin gadis-gadis itu akan selesai mengobrol. Tidak peduli orang macam apa dia, dia tetaplah klien pertama kami. Dengan kata lain, kompetisi yang ditetapkan oleh guru untuk Yukinoshita dan aku telah dimulai. Yah, aku ragu aku akan menang, jadi yang perlu kukhawatirkan hanyalah meminimalkan jumlah kerugian yang akan ditimbulkan oleh keseluruhan urusan ini."
+      "text": "Pergi dari lantai tiga gedung khusus ke lantai dasar lalu kembali tidak sampai sepuluh menit. Kalau aku berjalan agak santai, mungkin mereka sudah selesai mengobrol saat aku kembali. Bagaimanapun orangnya, dia klien pertama kami. Artinya, pertandingan antara aku dan Yukinoshita sudah dimulai. Yah, rasanya aku tidak akan menang. Yang perlu kupikirkan cuma cara menekan kerugian sekecil mungkin."
     },
     {
       "id": "v1-bab-3-chapter003_d-p022",
@@ -1042,7 +1218,7 @@
       "id": "v1-bab-3-chapter003_d-p023",
       "kind": "text",
       "source": "chapter003_d.xhtml#p23",
-      "text": "Mesin penjual otomatis bergemuruh seperti benteng langit ketika aku memasukkan koin seratus yen. Setelah aku mendapatkan Sportop dan Veggie Lifestyle, aku menyetor seratus yen lagi. Hanya membeli minuman untuk dua dari tiga orang pasti terasa canggung, jadi aku memutuskan untuk membelikan sesuatu untuk Yuigahama juga, sambil menekan tombol Men’s Café au Lait. Totalnya berjumlah tiga ratus yen. Aku baru saja menghabiskan separuh kekayaan bersih aku. Aku sangat bangkrut."
+      "text": "Saat kumasukkan koin seratus yen, mesin penjual itu bergemuruh seperti benteng di langit. Setelah mengambil Sportop dan Veggie Lifestyle, kumasukkan seratus yen lagi. Tak enak rasanya cuma membeli minuman untuk dua dari tiga orang. Jadi, kubelikan Yuigahama Men’s Café au Lait juga. Total tiga ratus yen. Separuh hartaku habis. Miskin sekali aku."
     },
     {
       "id": "v1-bab-3-chapter003_d-Art_orn-2",
@@ -1054,13 +1230,13 @@
       "id": "v1-bab-3-chapter003_d-p024",
       "kind": "text",
       "source": "chapter003_d.xhtml#p24",
-      "text": "Hal pertama yang Yukinoshita katakan saat aku kembali adalah “Kamu terlalu lama,” merampas Veggie Lifestyle dari tanganku sebelum memasukkannya ke dalam sedotan dan menyesapnya."
+      "text": "Begitu aku kembali, Yukinoshita langsung berkata, “Lama sekali.” Veggie Lifestyle dirampasnya dari tanganku, ditusuk dengan sedotan, lalu diseruput."
     },
     {
       "id": "v1-bab-3-chapter003_d-p025",
       "kind": "text",
       "source": "chapter003_d.xhtml#p25",
-      "text": "Tinggal aku dengan Sportop dan Men's Café au Lait. Yuigahama rupanya menyadari untuk siapa ucapan terakhir itu ditujukan. “Ini,” katanya sambil mengeluarkan seratus yen dari dompet receh yang terlihat seperti saku."
+      "text": "Tinggal Sportop dan Men’s Café au Lait di tanganku. Rupanya Yuigahama tahu minuman terakhir untuk siapa. “Ini,” katanya sambil mengeluarkan seratus yen dari dompet receh berbentuk kantong."
     },
     {
       "id": "v1-bab-3-chapter003_d-p026",
@@ -1072,16 +1248,16 @@
       "id": "v1-bab-3-chapter003_d-p027",
       "kind": "text",
       "source": "chapter003_d.xhtml#p27",
-      "text": "“T-tapi… aku tidak bisa…” Dia dengan keras kepala terus berusaha memberikan uang kepadaku. Tidak ingin melalui hal yang menyebalkan itu Aku akan membayarnya! Tidak, tidak apa-apa! rutin, aku hanya pergi ke samping Yukinoshita. Yuigahama mendengus dan dengan enggan menyimpan koin itu. “Terima kasih.” Dia mengungkapkan rasa terima kasihnya dengan tenang dan mengambil café au lait dengan kedua tangannya dengan tee-hee, terlihat bahagia dan malu.",
+      "text": "“T-tapi… nggak bisa…” Dia masih bersikeras menyodorkan uang. Aku tak mau terjebak percakapan Aku bayar! Tidak usah! yang menyebalkan itu, jadi langsung pindah ke samping Yukinoshita. Yuigahama mendengus, lalu terpaksa menyimpan koinnya. “Makasih.” Dia menerima café au lait dengan kedua tangan dan tertawa kecil, tampak senang sekaligus malu.",
       "emphasis": [
         {
-          "start": 136,
-          "end": 179,
+          "start": 93,
+          "end": 115,
           "style": "em"
         },
         {
-          "start": 411,
-          "end": 418,
+          "start": 298,
+          "end": 311,
           "style": "em"
         }
       ]
@@ -1090,7 +1266,7 @@
       "id": "v1-bab-3-chapter003_d-p028",
       "kind": "text",
       "source": "chapter003_d.xhtml#p28",
-      "text": "Aku pikir itu mungkin merupakan bentuk terima kasih terbesar yang pernah aku terima. Senyuman itu mungkin terlalu berlebihan jika hanya ditukar dengan seratus yen."
+      "text": "Mungkin itu ucapan terima kasih paling besar yang pernah kuterima. Senyum sebesar itu rasanya terlalu mahal untuk ditukar cuma dengan seratus yen."
     },
     {
       "id": "v1-bab-3-chapter003_d-p029",
@@ -1139,7 +1315,7 @@
       "id": "v1-bab-3-chapter003_d-p035",
       "kind": "text",
       "source": "chapter003_d.xhtml#p35",
-      "text": "Selain kelas olahraga dan karyawisata, tata boga menonjol sebagai salah satu dari tiga aktivitas utama yang memicu trauma, dan siapa yang mau tunduk pada lingkungan seperti itu atas kemauannya sendiri? Gangguanku pada salah satu situasi tersebut—dengan semua kelompok dan obrolan riang mereka—menghasilkan keheningan yang tak tertahankan."
+      "text": "Selain pelajaran olahraga dan karyawisata, tata boga termasuk tiga besar kegiatan pemicu trauma. Siapa yang mau masuk ke tempat seperti itu dengan sukarela? Kalau aku menyusup di antara kelompok-kelompok yang asyik mengobrol, hasilnya cuma keheningan yang tak tertahankan."
     },
     {
       "id": "v1-bab-3-chapter003_d-p036",
@@ -1188,7 +1364,7 @@
       "id": "v1-bab-3-chapter003_d-p042",
       "kind": "text",
       "source": "chapter003_d.xhtml#p42",
-      "text": "Sejujurnya, tidak ada yang kurang aku pedulikan selain kehidupan cinta orang-orang. Waktu aku jauh lebih baik mengingat satu kata dari kosa kata bahasa Inggris daripada mengingat siapa menyukai siapa. Belum lagi membantunya. Itu tidak mungkin. Jadi ya, itulah perasaan aku tentang masalah ini, jadi kamu bisa tahu betapa sedikitnya minat aku pada bahasa cinta."
+      "text": "Terus terang, urusan cinta orang lain sama sekali tidak menarik bagiku. Lebih baik waktuku dipakai menghafal satu kosakata Inggris daripada mengingat siapa menyukai siapa. Apalagi diminta membantu. Mustahil. Begitulah pandanganku soal ini, jadi bayangkan sendiri betapa kecil minatku pada bahasa cinta."
     },
     {
       "id": "v1-bab-3-chapter003_d-p043",
@@ -1254,13 +1430,13 @@
       "id": "v1-bab-3-chapter003_d-p049",
       "kind": "text",
       "source": "chapter003_d.xhtml#p49",
-      "text": "“Y-ya… itu akan aneh, ya…?” Yuigahama tertawa seolah mencoba mengukur pendapat kami tentangnya. Matanya yang sebagian besar tertunduk menatap mataku. Berdasarkan perilakunya, aku mendapat kesan bahwa dia menginginkan semacam balasan."
+      "text": "“I-iya… aneh, ya…?” Yuigahama tertawa sambil mengukur reaksi kami. Sesekali matanya yang lebih sering tertunduk bertemu mataku. Sepertinya dia menunggu jawaban."
     },
     {
       "id": "v1-bab-3-chapter003_d-p050",
       "kind": "text",
       "source": "chapter003_d.xhtml#p50",
-      "text": "“... Tidak, aku tidak bermaksud mengatakan bahwa itu aneh, atau tidak sepertimu, atau itu tidak cocok untukmu, atau bukan sesuatu yang akan kamu lakukan. Sejujurnya aku tidak peduli.”"
+      "text": "“…Bukan. Aku tidak bilang itu aneh, atau bukan gayamu, atau tidak cocok, atau bukan sesuatu yang mungkin kaulakukan. Terus terang, aku tidak peduli.”"
     },
     {
       "id": "v1-bab-3-chapter003_d-p051",
@@ -1272,11 +1448,11 @@
       "id": "v1-bab-3-chapter003_d-p052",
       "kind": "text",
       "source": "chapter003_d.xhtml#p52",
-      "text": "“Itu bukan hal yang seharusnya kamu katakan tentang dirimu sendiri. Itu lebih seperti sesuatu yang ibuku katakan kepadaku, matanya tulus dan penuh air mata: Kupikir kamu adalah tipe anak laki-laki yang bisa melakukan sesuatu ketika dia memutuskan untuk melakukannya…”",
+      "text": "“Itu bukan sesuatu yang kaukatakan tentang diri sendiri. Lebih cocok diucapkan ibuku sambil menatap sungguh-sungguh dengan mata berkaca-kaca: Padahal Ibu pikir kamu anak yang bisa berhasil kalau mau berusaha…”",
       "emphasis": [
         {
-          "start": 157,
-          "end": 266,
+          "start": 142,
+          "end": 208,
           "style": "em"
         }
       ]
@@ -1303,11 +1479,11 @@
       "id": "v1-bab-3-chapter003_d-p056",
       "kind": "text",
       "source": "chapter003_d.xhtml#p56",
-      "text": "Tinggalkan aku sendiri.",
+      "text": "Sudahlah, tinggalkan aku sendiri.",
       "emphasis": [
         {
           "start": 0,
-          "end": 23,
+          "end": 33,
           "style": "em"
         }
       ]
@@ -1328,13 +1504,13 @@
       "id": "v1-bab-3-chapter003_d-p059",
       "kind": "text",
       "source": "chapter003_d.xhtml#p59",
-      "text": "“Aku tidak mengharapkan kamu memasak apa pun. kamu hanya perlu mencicipinya dan memberi tahu kami pendapat kamu.”"
+      "text": "“Aku tidak berharap kau memasak. Cukup cicipi dan beri pendapat.”"
     },
     {
       "id": "v1-bab-3-chapter003_d-p060",
       "kind": "text",
       "source": "chapter003_d.xhtml#p60",
-      "text": "Jika aku ada di sana untuk memberikan pendapatku sebagai seorang laki-laki, seperti yang dijelaskan oleh Yukinoshita, setidaknya aku seharusnya mampu melakukan hal itu. Banyak pria yang tidak menyukai makanan manis, jadi aku bisa membantunya belajar memasak untuk selera maskulin. Ditambah lagi, aku bukan orang yang pilih-pilih makanan, jadi sebagian besar makanan terasa enak bagi aku."
+      "text": "Kalau tugasku hanya memberi pendapat sebagai laki-laki, seperti kata Yukinoshita, setidaknya itu bisa kulakukan. Banyak laki-laki tidak suka makanan manis, jadi aku bisa membantu menyesuaikan rasa. Lagi pula, aku tidak pilih-pilih makanan. Hampir semuanya terasa enak bagiku."
     },
     {
       "id": "v1-bab-3-chapter003_d-p061",
@@ -1358,7 +1534,7 @@
       "id": "v1-bab-3-chapter003_d-p063",
       "kind": "text",
       "source": "chapter003_d.xhtml#p63",
-      "text": "Yukinoshita, senyaman berada di rumahnya sendiri, membuka kulkas dan mengeluarkan beberapa telur, susu, dan barang-barang lainnya. Dia juga menyiapkan timbangan, mangkuk, dan sejenisnya, lalu mulai mempersiapkan dan bermain-main dengan sendok dan beberapa peralatan memasak misterius lainnya yang tidak kukenal."
+      "text": "Dengan santai, seperti di rumah sendiri, Yukinoshita membuka kulkas dan mengeluarkan telur, susu, serta bahan lain. Timbangan dan mangkuk disiapkannya. Dia lalu sibuk menata sendok dan alat-alat memasak misterius yang tidak kukenal."
     },
     {
       "id": "v1-bab-3-chapter003_d-p064",
@@ -1370,11 +1546,11 @@
       "id": "v1-bab-3-chapter003_d-p065",
       "kind": "text",
       "source": "chapter003_d.xhtml#p65",
-      "text": "Dia dengan cepat menyelesaikan semua yang dia perlukan dan kemudian mengenakan celemek seolah berkata, Sekarang waktunya untuk melakukan hal yang sebenarnya.",
+      "text": "Persiapan selesai dalam waktu singkat. Dia lalu mengenakan celemek, seakan berkata, Nah, sekarang baru dimulai.",
       "emphasis": [
         {
-          "start": 103,
-          "end": 156,
+          "start": 84,
+          "end": 110,
           "style": "em"
         }
       ]
@@ -1401,17 +1577,17 @@
       "id": "v1-bab-3-chapter003_d-p069",
       "kind": "text",
       "source": "chapter003_d.xhtml#p69",
-      "text": "“Oh? Kalau begitu pakailah dengan benar. Jika kamu bahkan tidak mencoba melakukannya dengan benar, kamu akan melewati point of no return, sama seperti dia.”"
+      "text": "“Oh? Kalau begitu pakai yang benar. Kalau tidak berusaha sejak awal, nanti kau telanjur tak bisa diperbaiki lagi. Seperti dia.”"
     },
     {
       "id": "v1-bab-3-chapter003_d-p070",
       "kind": "text",
       "source": "chapter003_d.xhtml#p70",
-      "text": "“Jangan jadikan aku sebagai kisah peringatanmu. Siapakah aku ini, iblis namahage berbulu yang mencari anak-anak nakal?”",
+      "text": "“Jangan jadikan aku contoh ancaman. Memangnya aku namahage berbulu yang berkeliling mencari anak nakal?”",
       "emphasis": [
         {
-          "start": 72,
-          "end": 80,
+          "start": 50,
+          "end": 58,
           "style": "em"
         }
       ]
@@ -1444,7 +1620,7 @@
       "id": "v1-bab-3-chapter003_d-p075",
       "kind": "text",
       "source": "chapter003_d.xhtml#p75",
-      "text": "“Ayo.” Suara dingin dari suara Yukinoshita mematahkan keragu-raguannya. Yukinoshita nampaknya sedang marah, dan itu sedikit menakutkan."
+      "text": "“Kemari.” Suara dingin Yukinoshita mengakhiri keraguannya. Rupanya dia mulai marah. Agak menakutkan."
     },
     {
       "id": "v1-bab-3-chapter003_d-p076",
@@ -1475,7 +1651,7 @@
       "id": "v1-bab-3-chapter003_d-p079",
       "kind": "text",
       "source": "chapter003_d.xhtml#p79",
-      "text": "“Tidak mungkin adik perempuanku tidak kompeten seperti ini.” Yukinoshita menghela napas, terlihat kecewa, tapi menurutku perbandingan Yuigahama ternyata tidak jauh dari sasaran. Yukinoshita, dengan aura kedewasaannya, dan Yuigahama, dengan wajah baby face—bersama-sama, keduanya mirip sepasang saudara perempuan."
+      "text": "“Tak mungkin adikku setidakbecus ini.” Yukinoshita menghela napas, kecewa. Tapi perbandingan Yuigahama tidak terlalu meleset. Yukinoshita yang tampak dewasa dan Yuigahama yang berwajah kekanak-kanakan memang mirip kakak-adik."
     },
     {
       "id": "v1-bab-3-chapter003_d-p080",
@@ -1505,7 +1681,7 @@
       "id": "v1-bab-3-chapter003_d-p084",
       "kind": "text",
       "source": "chapter003_d.xhtml#p84",
-      "text": "“A-ada apa?” Ups. Itu mungkin senyuman yang menyeramkan. Suaraku juga menjadi melengking, meningkatkan faktor menyeramkan. Aku akan memicu reaksi berantai faktor creep."
+      "text": "“A-ada apa?” Gawat. Senyumku tadi mungkin menyeramkan. Suaraku ikut melengking, menambah kesan aneh. Kalau begini terus, kemesumanku bisa memicu reaksi berantai."
     },
     {
       "id": "v1-bab-3-chapter003_d-p085",
@@ -1517,7 +1693,7 @@
       "id": "v1-bab-3-chapter003_d-p086",
       "kind": "text",
       "source": "chapter003_d.xhtml#p86",
-      "text": "“Menurutku mereka baik-baik saja. Menurutku semua pria tertarik pada mereka sampai taraf tertentu.”"
+      "text": "“Menurutku bagus. Sampai taraf tertentu, semua laki-laki pasti tertarik.”"
     },
     {
       "id": "v1-bab-3-chapter003_d-p087",
@@ -1529,11 +1705,11 @@
       "id": "v1-bab-3-chapter003_d-p088",
       "kind": "text",
       "source": "chapter003_d.xhtml#p88",
-      "text": "Keterampilan Yuigahama sangat jauh dari normal sehingga bahkan orang sepertiku yang tidak tahu banyak tentang memasak pun bisa mengetahuinya. Mungkin ini adalah hal yang berlebihan mengenai kue, tapi aku yakin karena pembuatannya sangat mudah, kue tersebut dengan jelas menunjukkan tingkat keahlian pembuatnya. kamu dapat melihat kemampuan asli seseorang, kemampuan yang tidak dapat kamu palsukan.",
+      "text": "Cara Yuigahama bekerja jauh dari wajar. Aku yang tak terlalu paham memasak pun bisa melihatnya. Mungkin berlebihan mengatakan ini soal kue, tetapi justru karena cara membuatnya sederhana, kemampuan pembuatnya terlihat jelas. Kemampuan asli yang tak bisa dipalsukan.",
       "emphasis": [
         {
-          "start": 210,
-          "end": 216,
+          "start": 154,
+          "end": 160,
           "style": "em"
         }
       ]
@@ -1560,7 +1736,7 @@
       "id": "v1-bab-3-chapter003_d-p092",
       "kind": "text",
       "source": "chapter003_d.xhtml#p92",
-      "text": "Dia menukar gula dengan garam seolah itu adalah hal yang biasa dilakukan dan menuangkan banyak ekstrak vanila. Susu tumpah dengan berbahaya di dalam mangkuk."
+      "text": "Gula ditukarnya dengan garam seolah biasa saja, lalu ekstrak vanila dituang banyak-banyak. Susu bergoyang mengancam tumpah di dalam mangkuk."
     },
     {
       "id": "v1-bab-3-chapter003_d-p093",
@@ -1602,31 +1778,31 @@
       "id": "v1-bab-3-chapter003_d-p099",
       "kind": "text",
       "source": "chapter003_d.xhtml#p99",
-      "text": "Biar aku langsung ke intinya: Yuigahama kurang punya kemampuan memasak. Masalahnya bukan pada keterampilan yang buruk atau kurang berkembang. Dia sama sekali tidak punya apa-apa sejak awal."
+      "text": "Singkatnya, Yuigahama tidak punya kemampuan memasak. Bukan sekadar kurang terampil atau belum berkembang. Sejak awal memang tidak ada."
     },
     {
       "id": "v1-bab-3-chapter003_d-p100",
       "kind": "text",
       "source": "chapter003_d.xhtml#p100",
-      "text": "Dia tidak hanya kikuk, tapi dia juga tidak teliti, sangat kreatif, dan sama sekali tidak cocok untuk memasak. Aku tidak ingin melakukan eksperimen kimia dengan gadis ini. Dia adalah tipe orang yang akan membunuhmu dengan suatu kesalahan."
+      "text": "Bukan cuma ceroboh. Dia juga tidak teliti dan kelewat kreatif. Sama sekali tidak cocok memasak. Aku tak mau berpasangan dengannya dalam percobaan kimia. Dia tipe yang bisa membunuhmu karena salah langkah."
     },
     {
       "id": "v1-bab-3-chapter003_d-p101",
       "kind": "text",
       "source": "chapter003_d.xhtml#p101",
-      "text": "Pada saat benda-benda itu keluar dari oven, entah kenapa, benda-benda itu tampak seperti pancake berwarna hitam pekat. Dilihat dari baunya, rasanya pahit."
+      "text": "Begitu keluar dari oven, entah bagaimana hasilnya seperti panekuk hitam legam. Dari baunya saja sudah terasa pahit."
     },
     {
       "id": "v1-bab-3-chapter003_d-p102",
       "kind": "text",
       "source": "chapter003_d.xhtml#p102",
-      "text": "“Ke-kenapa?” Ekspresi terkejut di wajahnya, Yuigahama menatap substansi misteri itu."
+      "text": "“Ke-kenapa?” Yuigahama menatap benda misterius itu dengan wajah tak percaya."
     },
     {
       "id": "v1-bab-3-chapter003_d-p103",
       "kind": "text",
       "source": "chapter003_d.xhtml#p103",
-      "text": "“Aku tidak dapat memahaminya… Bagaimana kamu bisa membuat begitu banyak kesalahan sekaligus?” Yukinoshita bergumam. Suaranya pelan, jadi Yuigahama mungkin tidak bisa mendengarnya. Tapi meski begitu, itu terdengar seperti sesuatu yang tidak bisa dia tahan—kata-kata yang baru saja keluar."
+      "text": "“Aku tidak mengerti… Bagaimana bisa salah sebanyak ini sekaligus?” gumam Yukinoshita. Suaranya pelan, mungkin tak terdengar oleh Yuigahama. Namun, rasanya dia memang sudah tak sanggup menahan kata-kata itu."
     },
     {
       "id": "v1-bab-3-chapter003_d-p104",
@@ -1638,7 +1814,7 @@
       "id": "v1-bab-3-chapter003_d-p105",
       "kind": "text",
       "source": "chapter003_d.xhtml#p105",
-      "text": "“Itu benar. Dan kami memiliki penguji rasa di sini.”"
+      "text": "“Benar. Lagi pula, kita punya penguji rasa di sini.”"
     },
     {
       "id": "v1-bab-3-chapter003_d-p106",
@@ -1662,11 +1838,11 @@
       "id": "v1-bab-3-chapter003_d-p107",
       "kind": "text",
       "source": "chapter003_d.xhtml#p107",
-      "text": "“Racun apa?! Oh...racun... Hmm, kurasa itu memang racun?” Untuk seseorang yang pada awalnya melakukan serangan yang begitu kejam, Yuigahama tiba-tiba tampak tidak yakin, memiringkan kepalanya ke samping dan menatapku dengan pandangan, Jadi bagaimana menurutmu?",
+      "text": "“Racun apa?! Oh… racun… Hmm, mungkin memang racun?” Padahal tadi menyerang dengan begitu ganas, sekarang Yuigahama mendadak ragu. Dia memiringkan kepala dan menatapku seolah bertanya, Jadi, menurutmu bagaimana?",
       "emphasis": [
         {
-          "start": 235,
-          "end": 260,
+          "start": 184,
+          "end": 210,
           "style": "em"
         }
       ]
@@ -1675,7 +1851,7 @@
       "id": "v1-bab-3-chapter003_d-p108",
       "kind": "text",
       "source": "chapter003_d.xhtml#p108",
-      "text": "Itu bahkan tidak memerlukan balasan, bukan? Aku melepaskan tatapan mata anak anjing Yuigahama dan mencoba menarik perhatian Yukinoshita."
+      "text": "Memangnya masih perlu dijawab? Kuhindari mata memelas Yuigahama dan kucari perhatian Yukinoshita."
     },
     {
       "id": "v1-bab-3-chapter003_d-p109",
@@ -1687,19 +1863,19 @@
       "id": "v1-bab-3-chapter003_d-p110",
       "kind": "text",
       "source": "chapter003_d.xhtml#p110",
-      "text": "“Dia tidak menggunakan bahan-bahan yang tidak bisa dimakan, jadi kamu akan baik-baik saja. Mungkin. Ditambah lagi...” Yukinoshita terdiam dan bergerak untuk berbisik di telingaku. “Aku akan memakannya juga, jadi tidak apa-apa.”"
+      "text": "“Bahan-bahannya bisa dimakan, jadi seharusnya kamu tidak apa-apa. Mungkin. Lagi pula…” Yukinoshita mendekat dan berbisik di telingaku. “Aku juga akan memakannya, jadi tenang saja.”"
     },
     {
       "id": "v1-bab-3-chapter003_d-p111",
       "kind": "text",
       "source": "chapter003_d.xhtml#p111",
-      "text": "“Benarkah? Apakah kamu sebenarnya orang baik? Atau kamu menyukaiku?”"
+      "text": "“Serius? Ternyata kamu baik juga, ya? Atau jangan-jangan kamu suka padaku?”"
     },
     {
       "id": "v1-bab-3-chapter003_d-p112",
       "kind": "text",
       "source": "chapter003_d.xhtml#p112",
-      "text": "“Sebenarnya, kamu bisa memakan semuanya dan akhirnya mati.”"
+      "text": "“Kalau begitu, habiskan saja sendiri sampai mati.”"
     },
     {
       "id": "v1-bab-3-chapter003_e-Art_P69",
@@ -1732,7 +1908,7 @@
       "id": "v1-bab-3-chapter003_f-p004",
       "kind": "text",
       "source": "chapter003_f.xhtml#p4",
-      "text": "“Aku tidak bisa membuangnya dengan benar tanpa memahami masalahnya. Dan untuk mengetahuinya, mau tidak mau aku harus menghadapi bahaya.”"
+      "text": "“Aku tidak bisa menangani masalahnya dengan benar kalau belum memahaminya. Untuk itu, mau tak mau aku harus menghadapi bahayanya.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p005",
@@ -1750,11 +1926,11 @@
       "id": "v1-bab-3-chapter003_f-p007",
       "kind": "text",
       "source": "chapter003_f.xhtml#p7",
-      "text": "“Itulah yang ingin kuketahui,” kataku sambil melirik ke arah Yuigahama yang memandang kami seolah dia ingin menjadi salah satu anggota geng. Silakan. kamu juga punya satu. Ketahuilah penderitaan kami.",
+      "text": "“Itu yang ingin kutanyakan,” kataku sambil melirik Yuigahama, yang memandang kami seolah ingin ikut bergabung. Silakan. Ambil juga satu. Rasakan penderitaan kami.",
       "emphasis": [
         {
-          "start": 141,
-          "end": 200,
+          "start": 111,
+          "end": 162,
           "style": "em"
         }
       ]
@@ -1769,25 +1945,25 @@
       "id": "v1-bab-3-chapter003_f-p008",
       "kind": "text",
       "source": "chapter003_f.xhtml#p8",
-      "text": "Aku entah bagaimana berhasil memakan kue Yuigahama."
+      "text": "Entah bagaimana, aku berhasil menelan kue buatan Yuigahama."
     },
     {
       "id": "v1-bab-3-chapter003_f-p009",
       "kind": "text",
       "source": "chapter003_f.xhtml#p9",
-      "text": "Aku tidak muntah-muntah begitu aku memakannya, seperti yang terjadi di manga. Aku baru saja merasakan rasa pahit yang begitu kuat sehingga aku merasa seperti kehilangan kesadaran adalah suatu anugerah. Kalau saja aku bisa pingsan, aku tidak perlu makan lagi. Tingkat pengerjaan kue-kue itu membuatku bertanya-tanya apa yang dia masukkan ke dalamnya—nyali makarel? Itu adalah peringkat mereka dalam skala, tapi setidaknya memakannya tidak berarti kematian instan. Namun tetap saja, aku tidak akan terkejut mengetahui bahwa mengonsumsi zat ini telah meningkatkan risiko kanker dalam jangka panjang dan aku akan mulai melihat gejalanya dalam beberapa tahun."
+      "text": "Aku tidak langsung muntah dan roboh seperti tokoh manga. Hanya saja, rasa pahitnya begitu mengerikan sampai-sampai pingsan terasa seperti anugerah. Kalau bisa pingsan, aku tidak perlu makan lagi. Kualitas kue itu membuatku bertanya-tanya apa yang dia masukkan ke dalamnya—jeroan ikan kembung? Kira-kira begitulah tingkat keparahannya. Setidaknya, memakannya tidak langsung membunuhku. Meski begitu, aku tidak akan heran kalau zat ini meningkatkan risiko kanker dan gejalanya baru muncul beberapa tahun lagi."
     },
     {
       "id": "v1-bab-3-chapter003_f-p010",
       "kind": "text",
       "source": "chapter003_f.xhtml#p10",
-      "text": "“Ugh! Ini sangat pahit! Dan menjijikkan!” Yuigahama meratap sambil menangis sambil berjalan menjauh."
+      "text": "“Ugh! Pahit banget! Enggak enak!” ratap Yuigahama sambil terhuyung menjauh dengan mata berair."
     },
     {
       "id": "v1-bab-3-chapter003_f-p011",
       "kind": "text",
       "source": "chapter003_f.xhtml#p11",
-      "text": "Yukinoshita segera memberikan cangkir tehnya. “Sebaiknya sebisa mungkin hindari mengunyah dengan menelannya dengan cepat. Hati-hati jangan sampai menyentuh lidahmu. Ini seperti meminum obat yang tidak enak.”"
+      "text": "Yukinoshita segera menyodorkan cangkir teh kepadanya. “Sebisa mungkin jangan dikunyah. Langsung telan saja, jangan sampai menyentuh lidah. Anggap saja sedang minum obat yang pahit.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p012",
@@ -1799,25 +1975,25 @@
       "id": "v1-bab-3-chapter003_f-p013",
       "kind": "text",
       "source": "chapter003_f.xhtml#p13",
-      "text": "Ketelnya mendidih, dan Yukinoshita menuangkan teh hitam untuk kami. Setelah semua menghabiskan kuota yang ditentukan, kami meminumnya dengan teh. Akhirnya bisa rileks, aku menghela napas."
+      "text": "Air di ketel mendidih, dan Yukinoshita menuangkan teh hitam untuk kami. Setelah menghabiskan jatah masing-masing, kami membilas mulut dengan teh. Akhirnya bisa bernapas lega, aku menghela napas."
     },
     {
       "id": "v1-bab-3-chapter003_f-p014",
       "kind": "text",
       "source": "chapter003_f.xhtml#p14",
-      "text": "Yukinoshita membuka mulutnya untuk menyadarkan kami dari penangguhan hukuman sesaat. “Oke, sekarang mari kita renungkan bagaimana kita bisa memperbaikinya.”"
+      "text": "Yukinoshita membuka mulut, mengakhiri masa tenang kami yang singkat. “Baiklah, sekarang kita pikirkan apa yang perlu diperbaiki.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p015",
       "kind": "text",
       "source": "chapter003_f.xhtml#p15",
-      "text": "“Yuigahama tidak pernah memasak lagi.”"
+      "text": "“Yuigahama jangan pernah memasak lagi.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p016",
       "kind": "text",
       "source": "chapter003_f.xhtml#p16",
-      "text": "“Maksudmu mereka seburuk itu?!”"
+      "text": "“Separah itu?!”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p017",
@@ -1835,7 +2011,7 @@
       "id": "v1-bab-3-chapter003_f-p019",
       "kind": "text",
       "source": "chapter003_f.xhtml#p19",
-      "text": "Yukinoshita menghela napas panjang sebagai balasannya. “Aku melihat. Aku sudah menemukan jawabannya.”"
+      "text": "Yukinoshita membalas dengan helaan napas panjang. “Begitu rupanya. Aku sudah tahu jawabannya.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p020",
@@ -1859,27 +2035,27 @@
       "id": "v1-bab-3-chapter003_f-p023",
       "kind": "text",
       "source": "chapter003_f.xhtml#p23",
-      "text": "Menurut pendapat aku, upaya adalah solusi terburuk."
+      "text": "Menurutku pribadi, menyuruh orang berusaha adalah solusi terburuk."
     },
     {
       "id": "v1-bab-3-chapter003_f-p024",
       "kind": "text",
       "source": "chapter003_f.xhtml#p24",
-      "text": "Mengatakan bahwa kamu hanya perlu berusaha keras dan tidak ada faktor lain yang penting hanyalah cara lain untuk mengatakan Tidak ada lagi yang dapat kamu lakukan sekarang. Sejujurnya, itu tidak ada bedanya dengan berjalan tanpa rencana sama sekali. Akan lebih baik jika kita mengatakan, Kamu tidak punya peluang, jadi menyerahlah. Tidak ada yang lebih sia-sia daripada usaha yang sia-sia. Lebih baik memberi seseorang kesempatan agar mereka dapat mencurahkan waktu dan jerih payahnya untuk hal lain.",
+      "text": "Mengatakan bahwa yang penting berusaha dan faktor lain tidak berpengaruh sama saja dengan berkata, Tidak ada lagi yang bisa dilakukan. Terus terang, itu tidak ada bedanya dengan maju tanpa rencana. Lebih baik katakan saja, Kamu tidak punya peluang, jadi menyerahlah. Tidak ada yang lebih sia-sia daripada usaha yang sia-sia. Lebih baik orang itu disuruh pergi agar waktu dan tenaganya bisa digunakan untuk hal lain.",
       "emphasis": [
         {
-          "start": 34,
-          "end": 48,
+          "start": 30,
+          "end": 38,
           "style": "em"
         },
         {
-          "start": 124,
-          "end": 171,
+          "start": 99,
+          "end": 133,
           "style": "em"
         },
         {
-          "start": 288,
-          "end": 330,
+          "start": 223,
+          "end": 265,
           "style": "em"
         }
       ]
@@ -1888,11 +2064,11 @@
       "id": "v1-bab-3-chapter003_f-p025",
       "kind": "text",
       "source": "chapter003_f.xhtml#p25",
-      "text": "“Upaya adalah solusi yang bagus jika dilakukan dengan benar,” Yukinoshita menyatakan seolah dia baru saja membaca pikiranku. Apakah kamu seorang esper atau apa?",
+      "text": "“Berusaha adalah solusi yang bagus kalau caranya benar,” kata Yukinoshita seolah baru membaca pikiranku. Kamu esper, ya?",
       "emphasis": [
         {
-          "start": 125,
-          "end": 160,
+          "start": 105,
+          "end": 120,
           "style": "em"
         }
       ]
@@ -1913,7 +2089,7 @@
       "id": "v1-bab-3-chapter003_f-p028",
       "kind": "text",
       "source": "chapter003_f.xhtml#p28",
-      "text": "“kamu harus merevisi cara berpikir itu. Orang yang tidak melakukan upaya minimal tidak berhak iri pada orang yang berbakat. Mereka yang gagal melakukannya hanya karena mereka tidak dapat membayangkan upaya yang diperlukan untuk berhasil mencapai tujuan mereka.” Kata-kata Yukinoshita sangat tajam dan benar sehingga tidak ada argumen balasan."
+      "text": "“Cara berpikir itu harus diubah. Orang yang bahkan tidak mau berusaha sedikit pun tidak berhak iri pada orang berbakat. Mereka gagal karena tidak bisa membayangkan besarnya usaha yang diperlukan untuk berhasil.” Kata-kata Yukinoshita tajam dan begitu tepat hingga tidak menyisakan ruang untuk membantah."
     },
     {
       "id": "v1-bab-3-chapter003_f-p029",
@@ -1925,17 +2101,17 @@
       "id": "v1-bab-3-chapter003_f-p030",
       "kind": "text",
       "source": "chapter003_f.xhtml#p30",
-      "text": "“Bisakah kamu berhenti mencoba menyesuaikan diri dengan lingkungan sekitarmu? Ini sangat tidak menyenangkan. Tidakkah kamu malu, menyalahkan orang lain sebagai akar dari kecerobohan, kecanggungan, dan kebodohanmu sendiri?”"
+      "text": "“Bisa berhenti terus menyesuaikan diri dengan orang di sekitarmu? Itu sangat tidak menyenangkan. Apa kamu tidak malu menyalahkan orang lain atas kecerobohan, kecanggungan, dan kebodohanmu sendiri?”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p031",
       "kind": "text",
       "source": "chapter003_f.xhtml#p31",
-      "text": "Nada suara Yukinoshita tegas. Kebencian yang jelas terlihat mengalir di dalamnya, dan itu membuatku merasa ngeri begitu keras hingga aku berbisik “Ap-whoa!”",
+      "text": "Nada Yukinoshita tegas, sarat rasa muak yang kentara. Aku sampai menciut dan tanpa sadar berbisik, “W-wah…”",
       "emphasis": [
         {
-          "start": 147,
-          "end": 155,
+          "start": 100,
+          "end": 106,
           "style": "em"
         }
       ]
@@ -1950,7 +2126,7 @@
       "id": "v1-bab-3-chapter003_f-p033",
       "kind": "text",
       "source": "chapter003_f.xhtml#p33",
-      "text": "Aku yakin dia memiliki keterampilan komunikasi yang kuat. Cukup kuat untuk menjadi anggota A-list, yang membutuhkan lebih dari sekadar penampilan—dia harus tahu cara bersikap baik dengan orang lain. Tapi dilihat dari sudut lain, itu berarti dia pandai mengintegrasikan dirinya. Dengan kata lain, dia kurang berani mengambil risiko kesepian demi menjadi dirinya sendiri."
+      "text": "Aku yakin kemampuan bergaulnya tinggi. Untuk masuk kelompok populer, penampilan saja tidak cukup—dia juga harus pandai menjaga hubungan dengan orang lain. Tapi dilihat dari sisi lain, itu berarti dia pandai menyesuaikan diri. Dengan kata lain, dia tidak cukup berani mengambil risiko kesepian demi menjadi dirinya sendiri."
     },
     {
       "id": "v1-bab-3-chapter003_f-p034",
@@ -1962,11 +2138,11 @@
       "id": "v1-bab-3-chapter003_f-p035",
       "kind": "text",
       "source": "chapter003_f.xhtml#p35",
-      "text": "Mata Yuigahama berair. “Kamu sangat…” Sangat jahat, aku berasumsi dia akan mengatakannya. Suaranya lemah, seolah dia akan menangis. Bahunya bergetar tak terkendali, dan suaranya bergetar tak terkendali: “…keren sekali…”",
+      "text": "Mata Yuigahama berkaca-kaca. “Kamu itu…” Jahat sekali, kukira itulah lanjutannya. Suaranya lemah, seperti hendak menangis. Bahunya gemetar, begitu pula suaranya. “…keren banget…”",
       "emphasis": [
         {
-          "start": 38,
-          "end": 50,
+          "start": 41,
+          "end": 53,
           "style": "em"
         }
       ]
@@ -1975,13 +2151,13 @@
       "id": "v1-bab-3-chapter003_f-p036",
       "kind": "text",
       "source": "chapter003_f.xhtml#p36",
-      "text": "“”Apa?!”” Yukinoshita dan aku berkata serempak. Apa yang dia bicarakan? Kami berdua saling bertukar pandang."
+      "text": "““Hah?!”” seru Yukinoshita dan aku bersamaan. Apa yang dia bicarakan? Kami saling berpandangan."
     },
     {
       "id": "v1-bab-3-chapter003_f-p037",
       "kind": "text",
       "source": "chapter003_f.xhtml#p37",
-      "text": "“Kamu selalu begitu nyata… Ini, seperti… sangat keren.” Yuigahama menatap Yukinoshita, kekaguman terlihat di wajahnya."
+      "text": "“Kamu selalu ngomong apa adanya… Rasanya… keren banget.” Yuigahama menatap Yukinoshita dengan penuh kekaguman."
     },
     {
       "id": "v1-bab-3-chapter003_f-p038",
@@ -1999,19 +2175,19 @@
       "id": "v1-bab-3-chapter003_f-p040",
       "kind": "text",
       "source": "chapter003_f.xhtml#p40",
-      "text": "“Tapi rasanya kamu jujur. Dan ketika kamu berbicara dengan Hikki, kamu hanya mengatakan hal-hal buruk satu sama lain, tapi...kamu sebenarnya sedang berbicara. Aku hanya mengikuti apa yang orang lain lakukan, jadi ini pertama kalinya aku melihat hal seperti itu...” Yuigahama tidak lari. “Maaf. Aku akan melakukannya lain kali,” dia meminta maaf sambil kembali menatap Yukinoshita."
+      "text": "“Tapi rasanya kamu jujur. Waktu ngobrol sama Hikki juga, kalian memang saling mengejek, tapi… kalian benar-benar ngobrol. Aku biasanya cuma ikut-ikutan orang lain, jadi baru kali ini lihat yang seperti itu…” Yuigahama tidak melarikan diri. “Maaf. Lain kali aku akan berusaha,” katanya sambil kembali menatap Yukinoshita."
     },
     {
       "id": "v1-bab-3-chapter003_f-p041",
       "kind": "text",
       "source": "chapter003_f.xhtml#p41",
-      "text": "Kali ini Yukinoshita yang terdiam, terdiam oleh tatapan tak terduga dari Yuigahama. Ini mungkin yang pertama baginya. Anehnya hanya sedikit orang yang mau meminta maaf setelah diberi tahu secara rasional dan logis bahwa mereka salah. Kebanyakan orang akan menjadi merah padam dan membentak."
+      "text": "Kali ini giliran Yukinoshita terdiam, kehilangan kata-kata menghadapi tatapan Yuigahama yang tak terduga. Mungkin ini pengalaman pertama baginya. Anehnya, hanya sedikit orang yang mau meminta maaf setelah kesalahannya ditunjukkan secara logis. Kebanyakan justru naik pitam dan membentak."
     },
     {
       "id": "v1-bab-3-chapter003_f-p042",
       "kind": "text",
       "source": "chapter003_f.xhtml#p42",
-      "text": "Yukinoshita melihat ke samping dan menyisir rambutnya ke belakang dengan tangannya. Dia memiliki kesan yang mengatakan dia sedang mencari kata-kata yang tepat tetapi tidak dapat menemukannya. Astaga, dia payah dalam ad-libbing."
+      "text": "Yukinoshita mengalihkan pandangan dan menyibak rambutnya. Dia tampak mencari kata-kata yang tepat, tetapi tidak menemukannya. Astaga, dia payah sekali kalau harus berimprovisasi."
     },
     {
       "id": "v1-bab-3-chapter003_f-p043",
@@ -2023,13 +2199,13 @@
       "id": "v1-bab-3-chapter003_f-p044",
       "kind": "text",
       "source": "chapter003_f.xhtml#p44",
-      "text": "“Aku akan menunjukkan cara melakukannya terlebih dahulu, jadi cobalah melakukannya persis seperti yang aku lakukan.” Sambil menyingsingkan lengan blusnya, dia memecahkan sebutir telur dan mengocoknya. Dia menyaring tepung dalam jumlah yang tepat dan mengaduknya hingga merata agar tidak menggumpal. Kemudian dia menambahkan bahan lainnya: gula, mentega, dan ekstrak vanila."
+      "text": "“Aku akan memberi contoh dulu. Setelah itu, coba ikuti persis seperti yang kulakukan.” Dia menyingsingkan lengan blusnya, lalu memecahkan dan mengocok sebutir telur. Tepung yang sudah ditakar diayak, kemudian diaduk rata agar tidak menggumpal. Setelah itu, dia menambahkan gula, mentega, dan ekstrak vanila."
     },
     {
       "id": "v1-bab-3-chapter003_f-p045",
       "kind": "text",
       "source": "chapter003_f.xhtml#p45",
-      "text": "Keterampilannya tidak bisa dibandingkan dengan apa yang ditunjukkan oleh Yuigahama beberapa saat sebelumnya. Adonannya selesai dalam sekejap, dan Yukinoshita mulai memotong bentuk hati, bintang, dan lingkaran dengan pemotong kue. Sudah ada selembar kertas lilin di atas nampan kue. Dia dengan hati-hati meletakkan adonan di atasnya dan memasukkan nampan ke dalam oven yang sudah dipanaskan sebelumnya."
+      "text": "Keterampilannya sama sekali tidak bisa dibandingkan dengan Yuigahama tadi. Adonan selesai dalam sekejap, lalu Yukinoshita mencetak bentuk hati, bintang, dan lingkaran. Di atas loyang sudah tersedia selembar kertas lilin. Dia menata adonan dengan hati-hati, lalu memasukkannya ke oven yang sudah dipanaskan."
     },
     {
       "id": "v1-bab-3-chapter003_f-p046",
@@ -2047,13 +2223,13 @@
       "id": "v1-bab-3-chapter003_f-p048",
       "kind": "text",
       "source": "chapter003_f.xhtml#p48",
-      "text": "Memindahkannya ke piring, Yukinoshita dengan cepat menyajikannya kepada kami. Kue-kue tersebut, yang dipanggang hingga berwarna cokelat keemasan, tidak diragukan lagi masing-masing layak disebut kue. Dibuat dengan sangat baik, seperti kue merek Bibi Stella. Aku mengambil satu dengan rasa terima kasih."
+      "text": "Yukinoshita memindahkan kue-kue itu ke piring dan segera menyajikannya. Semuanya matang kecokelatan dan jelas pantas disebut kue. Hasilnya bagus sekali, seperti kue merek Aunt Stella. Aku mengambil satu dengan penuh rasa syukur."
     },
     {
       "id": "v1-bab-3-chapter003_f-p049",
       "kind": "text",
       "source": "chapter003_f.xhtml#p49",
-      "text": "Menyimpannya di mulutku, mau tak mau aku tersenyum lebar. “Ini enak sekali! Apa warna toko kuemu?!” Pendapat jujur aku keluar."
+      "text": "Begitu memasukkannya ke mulut, aku langsung tersenyum lebar. “Enak sekali! Apa warna toko kuemu?!” Pujian jujurku lolos begitu saja."
     },
     {
       "id": "v1-bab-3-chapter003_f-p050",
@@ -2065,7 +2241,7 @@
       "id": "v1-bab-3-chapter003_f-p051",
       "kind": "text",
       "source": "chapter003_f.xhtml#p51",
-      "text": "“Terima kasih.” Yukinoshita tersenyum tanpa sedikitpun ironi. “Tapi tahukah kamu, yang aku lakukan hanyalah tetap setia pada resepnya, jadi aku yakin kamu bisa membuatnya seperti milikku, Yuigahama. Kalau kamu tidak bisa, menurutku pasti ada yang salah denganmu.”"
+      "text": "“Terima kasih.” Yukinoshita tersenyum tanpa sedikit pun nada menyindir. “Tapi aku hanya mengikuti resep. Seharusnya kamu juga bisa membuat yang seperti ini, Yuigahama. Kalau tidak bisa, menurutku pasti ada yang salah denganmu.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p052",
@@ -2083,13 +2259,13 @@
       "id": "v1-bab-3-chapter003_f-p054",
       "kind": "text",
       "source": "chapter003_f.xhtml#p54",
-      "text": "“O-oke. Apa menurutmu aku bisa melakukannya? Bolehkah aku membuat kue sepertimu, Yukinoshita?”"
+      "text": "“O-oke. Menurutmu aku bisa? Bisa bikin kue seperti punyamu, Yukinoshita?”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p055",
       "kind": "text",
       "source": "chapter003_f.xhtml#p55",
-      "text": "“Bisa, jika kamu tetap berpegang pada resepnya.” Yukinoshita tidak lupa menambahkan peringatan itu."
+      "text": "“Bisa, asalkan mengikuti resep.” Yukinoshita tidak lupa menambahkan syarat itu."
     },
     {
       "id": "v1-bab-3-chapter003_f-p056",
@@ -2113,11 +2289,11 @@
       "id": "v1-bab-3-chapter003_f-p059",
       "kind": "text",
       "source": "chapter003_f.xhtml#p59",
-      "text": "“Yuigahama, bukan seperti itu. Ketika kamu mengayak tepung, gambarlah sebuah lingkaran dengan tanganmu. Sebuah lingkaran. Apakah kamu mengerti? Bukankah kamu mempelajarinya dengan benar di sekolah dasar?",
+      "text": "“Yuigahama, bukan begitu. Saat mengayak tepung, gerakkan tanganmu membentuk lingkaran. Lingkaran. Mengerti? Bukankah itu sudah diajarkan di SD?",
       "emphasis": [
         {
-          "start": 111,
-          "end": 120,
+          "start": 76,
+          "end": 85,
           "style": "em"
         }
       ]
@@ -2126,11 +2302,11 @@
       "id": "v1-bab-3-chapter003_f-p060",
       "kind": "text",
       "source": "chapter003_f.xhtml#p60",
-      "text": "“Saat mengaduk, pegang mangkuk dengan kuat. Seluruh mangkuk berputar, jadi tidak tercampur sama sekali. Jangan diputar-putar. Gerakkan seolah-olah kamu sedang memotong melalui adonan.",
+      "text": "“Saat mengaduk, pegang mangkuknya erat-erat. Kalau seluruh mangkuk ikut berputar, adonannya tidak akan tercampur. Jangan diaduk memutar. Gerakkan seperti sedang memotong adonan.",
       "emphasis": [
         {
-          "start": 168,
-          "end": 175,
+          "start": 161,
+          "end": 169,
           "style": "em"
         }
       ]
@@ -2145,11 +2321,11 @@
       "id": "v1-bab-3-chapter003_f-p062",
       "kind": "text",
       "source": "chapter003_f.xhtml#p62",
-      "text": "Yukinoshita, si Yukino Yukinoshita, merasa bingung. Dia kelelahan. Ketika entah bagaimana mereka memasukkan adonan ke dalam oven, bahunya merosot karena kesedihan yang berat. Tidak ada tanda-tanda sikapnya yang biasa, dan keringat mengucur di dahinya.",
+      "text": "Yukinoshita—Yukino Yukinoshita itu—kehabisan akal. Dia sudah kelelahan. Ketika akhirnya adonan berhasil masuk oven, bahunya terkulai lesu. Sikapnya yang biasa tak bersisa, dan dahinya berkeringat.",
       "emphasis": [
         {
-          "start": 13,
-          "end": 15,
+          "start": 31,
+          "end": 34,
           "style": "em"
         }
       ]
@@ -2164,13 +2340,13 @@
       "id": "v1-bab-3-chapter003_f-p064",
       "kind": "text",
       "source": "chapter003_f.xhtml#p64",
-      "text": "“Ini tidak persis sama…” Bahu Yuigahama terkulai karena kesal."
+      "text": "“Kok hasilnya beda…” Bahu Yuigahama merosot kecewa."
     },
     {
       "id": "v1-bab-3-chapter003_f-p065",
       "kind": "text",
       "source": "chapter003_f.xhtml#p65",
-      "text": "Saat dicicipi, rasanya memang sangat berbeda dengan yang baru saja dipanggang oleh Yukinoshita. Tapi itu cukup bagus untuk disebut kue. Benda-benda itu jauh lebih baik daripada benda-benda seperti briket yang dia produksi sebelumnya. Aku sangat ingin memakannya seperti kue biasa."
+      "text": "Setelah kucicipi, rasanya memang jauh berbeda dari kue Yukinoshita. Tapi setidaknya sudah pantas disebut kue. Jauh lebih baik daripada briket yang dibuatnya tadi. Yang ini bisa kumakan sebagaimana kue biasa."
     },
     {
       "id": "v1-bab-3-chapter003_f-p066",
@@ -2182,7 +2358,7 @@
       "id": "v1-bab-3-chapter003_f-p067",
       "kind": "text",
       "source": "chapter003_f.xhtml#p67",
-      "text": "“Bagaimana aku bisa mengajarimu dengan cara yang bisa kamu serap?” Sambil mengerang pada dirinya sendiri, Yukinoshita memiringkan kepalanya."
+      "text": "“Harus kujelaskan seperti apa supaya kamu mengerti?” gumam Yukinoshita sambil memiringkan kepala."
     },
     {
       "id": "v1-bab-3-chapter003_f-p068",
@@ -2200,16 +2376,16 @@
       "id": "v1-bab-3-chapter003_f-p070",
       "kind": "text",
       "source": "chapter003_f.xhtml#p70",
-      "text": "Mengatakan Ikuti saja resepnya seperti memberi tahu siswa matematika Kamu hanya perlu menggunakan rumusnya. Seseorang yang tidak pandai matematika bahkan tidak memahami rumusnya. Mereka tidak dapat memahami bagaimana rumus tersebut akan membantu mereka mencapai jawabannya. Yukinoshita tidak mengerti kenapa Yuigahama tidak mengerti. Kalau dikatakan seperti itu, sepertinya Yukinoshita-lah yang bersalah, tapi bukan itu masalahnya. Yukinoshita telah melakukan segala kemungkinan. Masalahnya adalah gadis lainnya.",
+      "text": "Menyuruh orang, Ikuti saja resepnya, sama saja dengan berkata kepada murid matematika, Tinggal pakai rumusnya. Orang yang tidak pandai matematika bahkan tidak memahami rumus itu. Mereka tidak tahu bagaimana rumusnya bisa menghasilkan jawaban. Yukinoshita tidak mengerti kenapa Yuigahama tidak mengerti. Kalau dijelaskan begitu, kesannya Yukinoshita yang salah, padahal bukan. Dia sudah melakukan segala yang bisa dilakukan. Masalahnya ada pada gadis satunya.",
       "emphasis": [
         {
-          "start": 11,
-          "end": 30,
+          "start": 16,
+          "end": 35,
           "style": "em"
         },
         {
-          "start": 69,
-          "end": 106,
+          "start": 87,
+          "end": 109,
           "style": "em"
         }
       ]
@@ -2236,17 +2412,17 @@
       "id": "v1-bab-3-chapter003_f-p074",
       "kind": "text",
       "source": "chapter003_f.xhtml#p74",
-      "text": "Aku menggigit kue lain sambil memperhatikannya. “Dengar, aku sudah memikirkan hal ini sepanjang waktu, tapi…kenapa kamu mencoba membuat kue yang begitu enak?”"
+      "text": "Aku menggigit sepotong lagi sambil memperhatikan mereka. “Dari tadi aku kepikiran… kenapa kuenya harus seenak itu?”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p075",
       "kind": "text",
       "source": "chapter003_f.xhtml#p75",
-      "text": "“Apa?” Yuigahama menatapku dan berkata, Apa yang kamu bicarakan, perawan? Itu sangat menghina, membuatku kesal.",
+      "text": "“Hah?” Tatapan Yuigahama seolah berkata, Kamu ngomong apa, sih, dasar perjaka? Terhina, aku pun kesal.",
       "emphasis": [
         {
-          "start": 40,
-          "end": 73,
+          "start": 41,
+          "end": 78,
           "style": "em"
         }
       ]
@@ -2280,11 +2456,11 @@
       "id": "v1-bab-3-chapter003_f-p079",
       "kind": "text",
       "source": "chapter003_f.xhtml#p79",
-      "text": "“I-Tak ada yang bisa kulakukan mengenai hal itu! Aku belum pernah berkencan! M-Maksudku, aku punya banyak teman yang sedang berkencan...t-tapi meniru merekalah yang membuatku terlibat dalam hal ini, jadi...” Suara Yuigahama semakin pelan sampai pada titik di mana aku tidak bisa mendengarnya sama sekali. Bicaralah dengan jelas. Jelas sekali! Dia bertingkah seperti aku ketika aku dipanggil di kelas!",
+      "text": "“M-mau gimana lagi! Aku belum pernah pacaran! M-maksudku, banyak temanku yang sudah… t-tapi gara-gara ikut-ikutan mereka, aku malah jadi begini…” Suara Yuigahama makin pelan hingga tak terdengar. Yang jelas kalau bicara. Jelas! Dia persis aku kalau disuruh menjawab di kelas!",
       "emphasis": [
         {
-          "start": 305,
-          "end": 342,
+          "start": 196,
+          "end": 227,
           "style": "em"
         }
       ]
@@ -2293,17 +2469,17 @@
       "id": "v1-bab-3-chapter003_f-p080",
       "kind": "text",
       "source": "chapter003_f.xhtml#p80",
-      "text": "“Aku tidak terlalu peduli dengan hubungan dekat Yuigahama, tapi apa maksudmu, Hikigaya?”"
+      "text": "“Aku tidak begitu tertarik pada hubungan intim Yuigahama. Tapi apa maksudmu, Hikigaya?”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p081",
       "kind": "text",
       "source": "chapter003_f.xhtml#p81",
-      "text": "Ayolah, 'hubungan intim'? Aku bahkan tidak melihat kalimat itu di iklan gantung di kereta akhir-akhir ini. Berapa umurmu?",
+      "text": "Hubungan intim? Istilah begitu bahkan sudah jarang muncul di iklan gantung kereta. Memangnya umurmu berapa?",
       "emphasis": [
         {
           "start": 0,
-          "end": 121,
+          "end": 107,
           "style": "em"
         }
       ]
@@ -2312,16 +2488,16 @@
       "id": "v1-bab-3-chapter003_f-p082",
       "kind": "text",
       "source": "chapter003_f.xhtml#p82",
-      "text": "Setelah jeda yang cukup untuk memberikan efek, aku tersenyum penuh kemenangan. “Fiuh, sepertinya kalian berdua belum pernah makan kue asli buatan tangan. Tolong kembalilah sepuluh menit lagi. Aku akan memberimu yang asli.”",
+      "text": "Setelah sengaja memberi jeda, aku tersenyum penuh kemenangan. “Huh, rupanya kalian berdua belum pernah makan kue rumahan yang sesungguhnya. Kembalilah sepuluh menit lagi. Akan kusajikan yang asli.”",
       "emphasis": [
         {
-          "start": 130,
+          "start": 109,
           "end": 138,
           "style": "em"
         },
         {
-          "start": 211,
-          "end": 220,
+          "start": 186,
+          "end": 195,
           "style": "em"
         }
       ]
@@ -2336,7 +2512,7 @@
       "id": "v1-bab-3-chapter003_f-p084",
       "kind": "text",
       "source": "chapter003_f.xhtml#p84",
-      "text": "Sekarang, kalau begitu. Giliran aku dalam permainan ini. Dengan kata lain, ini adalah pertarungan terakhir untuk menentukan solusi tertinggi dan paling ekstrem terhadap masalahnya."
+      "text": "Nah, sekarang giliranku. Dengan kata lain, inilah pertarungan terakhir untuk menentukan solusi paling ampuh dan paling ekstrem bagi masalah ini."
     },
     {
       "id": "v1-bab-3-chapter003_f-Art_orn-2",
@@ -2354,11 +2530,11 @@
       "id": "v1-bab-3-chapter003_f-p086",
       "kind": "text",
       "source": "chapter003_f.xhtml#p86",
-      "text": "“Ini kue asli buatan sendiri? Bentuknya miring dan tidak rata. Ditambah lagi, ada beberapa yang gosong. Ini adalah...” Yukinoshita menatap benda-benda di atas meja dengan ragu.",
+      "text": "“Ini kue rumahan yang sesungguhnya? Bentuknya miring dan tidak rata. Ada yang gosong juga. Ini…” Yukinoshita menatap benda-benda di meja dengan ragu.",
       "emphasis": [
         {
-          "start": 9,
-          "end": 13,
+          "start": 22,
+          "end": 34,
           "style": "em"
         }
       ]
@@ -2386,7 +2562,7 @@
       "id": "v1-bab-3-chapter003_f-p089",
       "kind": "text",
       "source": "chapter003_f.xhtml#p89",
-      "text": "“T-ayolah, jangan katakan itu. Tolong, cobalah saja.” Aku menahan kedutan yang muncul di sudut mulutku dan tidak membiarkan senyumanku yang tenang memudar. Aku akan membiarkan senyuman aku menunjukkan kepada mereka bahwa aku telah mempersiapkan segalanya dengan sempurna, siap membalikkan keadaan, dan yakin aku akan menang."
+      "text": "“S-sudahlah, jangan begitu. Coba dulu, ya.” Kutahan kedutan di sudut mulut dan kujaga senyum tenangku. Biar senyum ini yang menunjukkan bahwa semuanya sudah kusiapkan, keadaan siap kubalik, dan kemenangan sudah di tangan."
     },
     {
       "id": "v1-bab-3-chapter003_f-p090",
@@ -2404,7 +2580,7 @@
       "id": "v1-bab-3-chapter003_f-p092",
       "kind": "text",
       "source": "chapter003_f.xhtml#p92",
-      "text": "“Oh! A-wow.” Mata Yuigahama terbuka lebar. Rasa itu telah sampai di otaknya, dan dia kesulitan menemukan kata-kata yang tepat untuk menggambarkannya. “Tapi bukan berarti itu sesuatu yang istimewa, dan itu juga agak kasar. Sejujurnya, itu tidak begitu bagus!” Dia berubah drastis dari kaget menjadi marah. Ayunan keras dari satu tiang ke tiang berikutnya membuatnya meringis ke arahku."
+      "text": "“Oh! W-wah.” Mata Yuigahama membelalak. Rasanya sudah mencapai otak, tetapi dia kesulitan mencari kata-kata. “Tapi biasa saja, kok. Teksturnya juga agak kasar. Jujur, enggak terlalu enak!” Keterkejutannya seketika berubah menjadi amarah. Pergantian yang begitu drastis membuatnya menatapku sambil meringis."
     },
     {
       "id": "v1-bab-3-chapter003_f-p093",
@@ -2446,13 +2622,13 @@
       "id": "v1-bab-3-chapter003_f-p099",
       "kind": "text",
       "source": "chapter003_f.xhtml#p99",
-      "text": "Yuigahama meraih tanganku, menghentikanku. Alih-alih menjawab, dia mengambil salah satu kue yang miring dan melemparkannya ke mulutnya. Dia mengeluarkan suara berderak, mengunyah benda berpasir itu. “I-itu tidak terlalu buruk sehingga kamu harus membuangnya… Aku tidak bisa menyebutnya buruk.”"
+      "text": "Yuigahama meraih tanganku untuk menghentikanku. Bukannya menjawab, dia mengambil satu kue yang miring itu dan memasukkannya ke mulut. Terdengar bunyi renyah saat dia mengunyah teksturnya yang berpasir. “E-enggak sampai harus dibuang juga… Enggak bisa dibilang enggak enak, kok.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p100",
       "kind": "text",
       "source": "chapter003_f.xhtml#p100",
-      "text": "“Oh… Jadi kamu puas dengan mereka?” Aku tersenyum padanya, dan Yuigahama mengangguk tanpa berkata-kata sebelum segera berbalik untuk membuang muka. Matahari terbenam masuk melalui jendela, membuat wajahnya tampak merah."
+      "text": "“Oh… Jadi, kuenya boleh juga?” Aku tersenyum, dan Yuigahama mengangguk tanpa suara sebelum buru-buru membuang muka. Cahaya senja dari jendela membuat wajahnya tampak merah."
     },
     {
       "id": "v1-bab-3-chapter003_f-p101",
@@ -2483,7 +2659,7 @@
       "id": "v1-bab-3-chapter003_f-p104",
       "kind": "text",
       "source": "chapter003_f.xhtml#p104",
-      "text": "“…Ehh?” Yuigahama mengulanginya dengan bodoh. Matanya berubah menjadi titik-titik, dan mulutnya ternganga, membesar-besarkan efek kebodohannya."
+      "text": "“…Eh?” ulang Yuigahama dengan bengong. Matanya seperti tinggal dua titik, dan mulutnya menganga, menambah kesan bodoh itu."
     },
     {
       "id": "v1-bab-3-chapter003_f-p105",
@@ -2507,16 +2683,16 @@
       "id": "v1-bab-3-chapter003_f-p108",
       "kind": "text",
       "source": "chapter003_f.xhtml#p108",
-      "text": "“Itu sangat tua!” Yuigahama bereaksi dengan tenang. Ya, acara itu memang ditayangkan ketika aku masih di sekolah dasar. Yukinoshita tampaknya tidak mengerti, dan dia memiringkan kepalanya ke samping dengan ekspresi seperti Tanda tanya?",
+      "text": "“Jadul banget!” Yuigahama menanggapinya dengan dingin. Yah, acaranya memang tayang waktu aku masih SD. Yukinoshita rupanya tidak mengerti. Dia memiringkan kepala dengan wajah penuh tanda tanya.",
       "emphasis": [
         {
-          "start": 66,
-          "end": 72,
+          "start": 69,
+          "end": 75,
           "style": "em"
         },
         {
-          "start": 223,
-          "end": 235,
+          "start": 181,
+          "end": 192,
           "style": "em"
         }
       ]
@@ -2525,7 +2701,7 @@
       "id": "v1-bab-3-chapter003_f-p109",
       "kind": "text",
       "source": "chapter003_f.xhtml#p109",
-      "text": "“Kamu menetapkan standar terlalu tinggi.” Senyum tersungging di wajahku. Ooh, apa ini tadi? Perasaan superioritas ini? Perasaan seolah-olah hanya akulah satu-satunya yang memiliki jawaban yang benar? Itu terlalu berlebihan. Aku hanya bisa mengoceh tentang hal itu. Aku terkekeh. “Tujuan dari lari gawang bukan untuk melompati rintangan. Melainkan untuk mencapai garis finish dengan waktu terbaik. Tidak ada aturan yang mengatakan kamu harus melompat untuk sampai ke sana. Itu memang—”"
+      "text": "“Standar kalian terlalu tinggi.” Aku menyeringai. Oh, apa ini? Rasa unggul ini? Perasaan bahwa hanya aku yang tahu jawaban benarnya? Nikmat sekali. Aku bisa terus mengoceh karenanya. Sambil terkekeh, aku melanjutkan. “Tujuan lari gawang bukan melompati rintangan, melainkan mencapai garis finis secepat mungkin. Tidak ada aturan bahwa kamu harus melompat untuk sampai ke sana. Jadi—”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p110",
@@ -2556,11 +2732,11 @@
       "id": "v1-bab-3-chapter003_f-p113",
       "kind": "text",
       "source": "chapter003_f.xhtml#p113",
-      "text": "“Dia bersusah payah membuat kue buatan tangan. Kalau kamu tidak memainkan bagian buatan tangan, maka tidak ada gunanya. Seorang pria tidak akan senang jika kamu memberinya sesuatu yang persis sama dengan yang dibeli di toko. Sebenarnya akan lebih baik jika rasanya agak tidak enak,” kataku, tapi Yukinoshita masih belum terlihat yakin.",
+      "text": "“Dia sudah repot-repot membuat kue sendiri. Kalau sisi ‘buatan sendiri’-nya tidak ditonjolkan, percuma saja. Cowok tidak akan senang kalau dikasih sesuatu yang persis seperti kue toko. Malah lebih bagus kalau agak kurang enak,” kataku. Tapi Yukinoshita masih belum tampak yakin.",
       "emphasis": [
         {
-          "start": 81,
-          "end": 94,
+          "start": 56,
+          "end": 70,
           "style": "em"
         }
       ]
@@ -2575,16 +2751,16 @@
       "id": "v1-bab-3-chapter003_f-p115",
       "kind": "text",
       "source": "chapter003_f.xhtml#p115",
-      "text": "“Ya itu benar. Jika kamu menekankan bahwa, meskipun kamu tidak bisa melakukannya dengan sempurna, kamu mencoba yang terbaik! maka dia akan mendapat kesan yang salah dan tragis bahwa oh, dia berusaha keras untukku!”",
+      "text": "“Iya. Kalau kamu menonjolkan bahwa hasilnya memang belum sempurna, tapi kamu sudah berusaha sebaik mungkin, cowok itu bakal salah paham dan berpikir, Wah, dia sudah berusaha keras demi aku!”",
       "emphasis": [
         {
-          "start": 103,
-          "end": 124,
+          "start": 77,
+          "end": 106,
           "style": "em"
         },
         {
-          "start": 182,
-          "end": 213,
+          "start": 150,
+          "end": 189,
           "style": "em"
         }
       ]
@@ -2606,25 +2782,25 @@
       "id": "v1-bab-3-chapter003_f-p117",
       "kind": "text",
       "source": "chapter003_f.xhtml#p117",
-      "text": "aku menghela napas. Aku tidak punya pilihan. Aku harus menceritakan sebuah kisah untuk membujuknya."
+      "text": "Aku menghela napas. Mau bagaimana lagi. Aku harus bercerita supaya dia percaya."
     },
     {
       "id": "v1-bab-3-chapter003_f-p118",
       "kind": "text",
       "source": "chapter003_f.xhtml#p118",
-      "text": "“Cerita ini tentang teman dari temanku, saat dia baru masuk kelas delapan. Itu adalah awal tahun baru, jadi mereka harus memilih perwakilan kelas di wali kelas. Tapi, karena ini kelas delapan, tidak ada satupun anak laki-laki yang ingin menjadi ketua kelas. Jadi tentu saja, mereka harus mengambil keputusan. Dan orang ini dilahirkan tanpa keberuntungan sama sekali, jadi tentu saja, dia dipilih menjadi ketua kelas. Jadi guru memberinya tugas, dan kemudian mereka harus memutuskan ketua kelas perempuan. Dia adalah pria yang pemalu, penakut, dan penakut, jadi itu sangat sulit baginya.”"
+      "text": "“Ini cerita tentang temannya temanku, waktu baru masuk kelas dua SMP. Di awal tahun ajaran, kelasnya harus memilih ketua kelas. Tapi namanya juga anak kelas dua SMP, tidak ada cowok yang mau. Akhirnya dipilih lewat undian. Nah, orang ini memang lahir tanpa keberuntungan, jadi tentu saja dia yang terpilih. Guru lalu menyuruhnya memimpin pemilihan ketua kelas perempuan. Dia itu pemalu, penakut, dan pengecut, jadi tugas itu berat sekali baginya.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p119",
       "kind": "text",
       "source": "chapter003_f.xhtml#p119",
-      "text": "“Semua kata-kata itu mempunyai arti yang sama. Dan kamu membutuhkan waktu terlalu lama untuk langsung ke intinya.”"
+      "text": "“Semuanya berarti sama. Dan pembukaanmu terlalu panjang.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p120",
       "kind": "text",
       "source": "chapter003_f.xhtml#p120",
-      "text": "“Diam dan dengarkan. Dan saat itulah seorang gadis mengajukan diri sebagai kandidat. Dia manis. Dan dengan demikian, secara menguntungkan, ketua kelas laki-laki dan perempuan telah diputuskan. Gadis itu berkata dengan malu-malu, 'Aku tak sabar untuk bekerja bersamamu tahun ini.'"
+      "text": "“Diam dan dengarkan. Saat itulah seorang cewek mengajukan diri. Dia manis. Dengan begitu, ketua kelas laki-laki dan perempuan pun berhasil dipilih. Cewek itu berkata dengan malu-malu, ‘Semoga kita bisa bekerja sama dengan baik tahun ini.’"
     },
     {
       "id": "v1-bab-3-chapter003_f-p121",
@@ -2636,13 +2812,13 @@
       "id": "v1-bab-3-chapter003_f-p122",
       "kind": "text",
       "source": "chapter003_f.xhtml#p122",
-      "text": "“Itu cepat!” Yuigahama, yang mengangguk dan bersenandung, menyuarakan keterkejutannya."
+      "text": "“Cepat banget!” Yuigahama, yang sejak tadi mengangguk-angguk menyimak, berseru kaget."
     },
     {
       "id": "v1-bab-3-chapter003_f-p123",
       "kind": "text",
       "source": "chapter003_f.xhtml#p123",
-      "text": "“Dasar tolol. Perbedaan waktu dan usia atau apa pun, semua itu tidak ada hubungannya dengan cinta. Jadi, suatu hari sepulang sekolah, ketika mereka membagikan kertas seperti yang diperintahkan guru, dia memutuskan untuk mengakui perasaannya terhadapnya:"
+      "text": "“Bodoh. Perbedaan waktu, usia, dan semacamnya tidak ada hubungannya dengan cinta. Lalu suatu hari sepulang sekolah, saat mereka membagikan kertas atas suruhan guru, dia memutuskan untuk menyatakan perasaan:"
     },
     {
       "id": "v1-bab-3-chapter003_f-p124",
@@ -2744,7 +2920,7 @@
       "id": "v1-bab-3-chapter003_f-p140",
       "kind": "text",
       "source": "chapter003_f.xhtml#p140",
-      "text": "“Hei! Jangan bodoh. Tidak ada yang bilang ini tentang aku! Orang pertama, kamu tahu, hanya sekadar cara bercerita.”"
+      "text": "“Hei! Jangan asal bicara. Siapa yang bilang ini tentang aku? Sudut pandang orang pertama itu cuma teknik bercerita.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p141",
@@ -2768,7 +2944,7 @@
       "id": "v1-bab-3-chapter003_f-p144",
       "kind": "text",
       "source": "chapter003_f.xhtml#p144",
-      "text": "Itu bukannya tidak relevan. Kejadian itu telah membuat para gadis semakin membenciku dan mendorong para lelaki mulai menggodaku dari kiri ke kanan, memberiku julukan ‘Egogaya’, dan, yah, menurutku itu tidak relevan."
+      "text": "Bukan tidak relevan. Gara-gara kejadian itu, para cewek makin membenciku, sementara para cowok mulai mengejekku habis-habisan dan menjulukiku ‘Egogaya’. Yah, kurasa memang tidak relevan."
     },
     {
       "id": "v1-bab-3-chapter003_f-p145",
@@ -2780,13 +2956,13 @@
       "id": "v1-bab-3-chapter003_f-p146",
       "kind": "text",
       "source": "chapter003_f.xhtml#p146",
-      "text": "“Dengan kata lain, kamu tahu... para pria itu sangat sederhana. Kami akan salah paham jika kamu hanya berbicara dengan kami, dan hanya dengan membeli kue buatan tangan saja sudah cukup untuk membuat kami bahagia. Jadi...”"
+      "text": "“Dengan kata lain… cowok itu sederhana sekali. Diajak bicara saja kami bisa salah paham. Diberi kue buatan sendiri saja sudah senang. Jadi…”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p147",
       "kind": "text",
       "source": "chapter003_f.xhtml#p147",
-      "text": "Aku terdiam dan menatap Yuigahama dengan penuh perhatian. “Kue yang tidak istimewa, terkadang berpasir dan tidak terlalu enak, masih cukup enak.”"
+      "text": "Aku berhenti sejenak dan menatap Yuigahama. “Kue yang biasa saja, kadang agak berpasir dan tidak terlalu enak, itu sudah cukup.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p148",
@@ -2798,16 +2974,16 @@
       "id": "v1-bab-3-chapter003_f-p149",
       "kind": "text",
       "source": "chapter003_f.xhtml#p149",
-      "text": "Wajahnya memerah karena marah, dia melemparkan semua yang dia miliki ke arahku—kantong plastik, kertas lilin, dan sebagainya. Betapa baik hati, memilih hal-hal yang tidak ada salahnya jika itu berhasil. Hah? Apakah itu berarti dia menyukaiku? Haha, hanya bercanda. Aku tidak akan mengalami hal itu lagi.",
+      "text": "Wajahnya memerah karena marah. Dia melemparkan apa saja yang ada di dekatnya kepadaku—kantong plastik, kertas lilin, dan sebagainya. Baik sekali, masih memilih barang yang tidak sakit kalau kena. Hah? Jangan-jangan dia suka padaku? Haha, bercanda. Aku tidak mau mengulang kejadian itu.",
       "emphasis": [
         {
-          "start": 203,
-          "end": 289,
+          "start": 196,
+          "end": 280,
           "style": "em"
         },
         {
-          "start": 298,
-          "end": 303,
+          "start": 281,
+          "end": 285,
           "style": "em"
         }
       ]
@@ -2865,7 +3041,7 @@
       "id": "v1-bab-3-chapter003_f-p157",
       "kind": "text",
       "source": "chapter003_f.xhtml#p157",
-      "text": "“Apakah itu ide yang bagus?” Yukinoshita bergumam, masih melihat ke arah pintu. “Aku pikir jika kamu memiliki ruang untuk berkembang, kamu harus mendorong diri kamu hingga batasnya. Itu akan lebih baik baginya, pada akhirnya.”"
+      "text": "“Apa itu sudah cukup?” gumam Yukinoshita, masih memandang pintu. “Menurutku, kalau masih bisa berkembang, seharusnya dia berusaha sampai batas kemampuannya. Pada akhirnya itu lebih baik untuknya.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p158",
@@ -2889,13 +3065,13 @@
       "id": "v1-bab-3-chapter003_f-p161",
       "kind": "text",
       "source": "chapter003_f.xhtml#p161",
-      "text": "“Bahkan jika kamu berusaha, mimpimu belum tentu menjadi kenyataan. Sebenarnya kemungkinan besar mimpimu tidak akan terwujud. Tapi kenyataan bahwa kamu mencoba sendiri sungguh melegakan.”"
+      "text": "“Berusaha bukan berarti mimpimu pasti terwujud. Malah kemungkinan besar tidak. Tapi kenyataan bahwa kamu sudah mencoba saja bisa menghiburmu.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p162",
       "kind": "text",
       "source": "chapter003_f.xhtml#p162",
-      "text": "“Itu hanya sesuatu yang kamu katakan pada diri kamu sendiri untuk merasa lebih baik.”"
+      "text": "“Itu hanya alasan untuk menghibur diri sendiri.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p163",
@@ -2919,7 +3095,7 @@
       "id": "v1-bab-3-chapter003_f-p166",
       "kind": "text",
       "source": "chapter003_f.xhtml#p166",
-      "text": "“Ini pertama kalinya aku melihat seseorang berpendapat pesimisme sebagai sebuah ideal. Jika ide kamu menjadi populer, dunia akan hancur.” Yukinoshita terlihat jijik, tapi aku cukup menyukai ideologiku. Suatu hari aku ingin mendirikan Neetoria, sebuah pemerintahan dari NEET, oleh NEET, untuk NEET… Aku rasa pemerintahan itu mungkin akan hancur dan terbakar dalam waktu tiga hari."
+      "text": "“Baru kali ini aku melihat orang menjunjung pesimisme sebagai cita-cita. Kalau gagasanmu populer, dunia akan hancur.” Yukinoshita tampak muak, tapi aku cukup menyukai ideologiku. Suatu hari aku ingin mendirikan Neetoria: pemerintahan dari NEET, oleh NEET, untuk NEET… Rasanya negara itu akan hancur dalam tiga hari."
     },
     {
       "id": "v1-bab-3-chapter003_f-Art_orn-3",
@@ -2937,7 +3113,7 @@
       "id": "v1-bab-3-chapter003_f-p168",
       "kind": "text",
       "source": "chapter003_f.xhtml#p168",
-      "text": "Singkatnya, itu tampaknya untuk menasihati siswa dan membantu mereka memecahkan masalah mereka. Namun keberadaannya tidak diiklankan secara khusus. Maksudku, aku belum mengetahuinya. Dan itu bukan hanya karena aku terputus dari pemikiran kampus. Yuigahama juga tidak menyadarinya, jadi itu berarti kami memerlukan seseorang untuk menghubungkan kami dengan para siswa, dan seseorang itu adalah Bu Hiratsuka. Siswa mendatanginya dengan masalah mereka dari waktu ke waktu, dan dia mengirimkannya kepada kami."
+      "text": "Singkatnya, klub ini memberi nasihat dan membantu siswa menyelesaikan masalah. Hanya saja, keberadaannya tidak terlalu diumumkan. Aku sendiri baru tahu. Bukan cuma karena aku tidak mengikuti kabar sekolah; Yuigahama juga tidak tahu. Jadi, perlu seseorang yang menghubungkan kami dengan siswa lain, dan orang itu adalah Bu Hiratsuka. Sesekali ada siswa yang menceritakan masalah kepadanya, lalu beliau mengirim mereka kepada kami."
     },
     {
       "id": "v1-bab-3-chapter003_f-p169",
@@ -2955,13 +3131,13 @@
       "id": "v1-bab-3-chapter003_f-p171",
       "kind": "text",
       "source": "chapter003_f.xhtml#p171",
-      "text": "Menerima konseling mengenai kekhawatiran kamu pada dasarnya hanya mengungkap rasa tidak aman kamu. Siswa sekolah menengah adalah orang yang sensitif, jadi menyuruh mereka untuk berbicara dengan siswa lain dari sekolah yang sama tentang masalah mereka mungkin merupakan pertanyaan yang terlalu berlebihan. Yuigahama datang karena Bu Hiratsuka yang memperkenalkannya pada kami. Tanpa keterlibatan guru, tidak akan ada seorang pun yang berkunjung."
+      "text": "Berkonsultasi tentang masalah pada dasarnya berarti membuka rasa tidak aman sendiri. Anak SMA itu sensitif. Meminta mereka menceritakan masalah kepada sesama siswa satu sekolah mungkin terlalu berat. Yuigahama datang karena diperkenalkan Bu Hiratsuka. Tanpa perantara guru, mungkin tidak akan ada yang datang."
     },
     {
       "id": "v1-bab-3-chapter003_f-p172",
       "kind": "text",
       "source": "chapter003_f.xhtml#p172",
-      "text": "Tidak ada tamu hari ini juga. Toko itu buka untuk bisnis, tetapi tidak ada yang datang. Baik Yukinoshita dan aku merasa nyaman dengan keheningan, jadi suasananya sangat sunyi saat kami fokus pada bacaan kami, itulah sebabnya ketukan keras di pintu terdengar sangat keras."
+      "text": "Hari ini pun tidak ada tamu. Toko sudah buka, tetapi tak ada pelanggan. Yukinoshita dan aku sama-sama nyaman dalam keheningan. Kami asyik membaca tanpa suara, sehingga ketukan keras di pintu terdengar makin nyaring."
     },
     {
       "id": "v1-bab-3-chapter003_f-p173",
@@ -2985,13 +3161,13 @@
       "id": "v1-bab-3-chapter003_f-p176",
       "kind": "text",
       "source": "chapter003_f.xhtml#p176",
-      "text": "Suara Yuigahama terdengar pelan, tapi Yukinoshita tetap mendengarnya. Ketika bahu gadis itu mulai bergetar, Yukinoshita memberi isyarat seolah-olah sedang berpikir keras sebelum mengumumkan dengan nada datar seperti biasa, “Aku tidak membencimu. Aku hanya... mungkin menganggapmu sulit.”"
+      "text": "Suara Yuigahama pelan, tetapi Yukinoshita mendengarnya. Ketika bahu gadis itu mulai bergetar, Yukinoshita membuat gerakan seolah sedang berpikir keras, lalu berkata dengan nada datarnya yang biasa, “Aku tidak membencimu. Hanya saja… mungkin aku kesulitan menghadapimu.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p177",
       "kind": "text",
       "source": "chapter003_f.xhtml#p177",
-      "text": "“Artinya sama persis dengan cara bicara perempuan!” Yuigahama gagal. Sepertinya dia benar-benar tidak ingin dibenci. Dia terlihat seperti pelacur, tapi reaksinya sangat mirip dengan gadis normal."
+      "text": "“Kalau cewek bilang begitu, artinya sama saja!” Yuigahama merosot lesu. Sepertinya dia benar-benar tidak ingin dibenci. Penampilannya memang seperti pelacur, tetapi reaksinya seperti gadis biasa."
     },
     {
       "id": "v1-bab-3-chapter003_f-p178",
@@ -3003,19 +3179,19 @@
       "id": "v1-bab-3-chapter003_f-p179",
       "kind": "text",
       "source": "chapter003_f.xhtml#p179",
-      "text": "“Yah, aku sedang sangat suka memasak sekarang, bukan?”"
+      "text": "“Jadi, belakangan ini aku lagi suka masak, kan?”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p180",
       "kind": "text",
       "source": "chapter003_f.xhtml#p180",
-      "text": "“Apakah kamu? Ini adalah berita baru bagiku.”"
+      "text": "“Begitu? Aku baru tahu.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p181",
       "kind": "text",
       "source": "chapter003_f.xhtml#p181",
-      "text": "“Jadi ini, seperti... terima kasih untuk beberapa hari yang lalu? Aku membuat beberapa kue, jadi aku ingin tahu apakah kamu menginginkannya.”"
+      "text": "“Nah, ini semacam… ucapan terima kasih buat kemarin? Aku bikin kue. Kalian mau?”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p182",
@@ -3027,19 +3203,19 @@
       "id": "v1-bab-3-chapter003_f-p183",
       "kind": "text",
       "source": "chapter003_f.xhtml#p183",
-      "text": "“Aku tidak punya nafsu makan yang besar, jadi tidak apa-apa. Aku menghargai sentimennya.” Kemungkinan besar dia baru saja kehilangan nafsu makannya setelah menyebutkan kue Yuigahama. Tidak menarik perhatian pada bagian itu mungkin adalah caranya bersikap baik."
+      "text": "“Aku sedang tidak begitu berselera makan, jadi tidak usah. Tapi terima kasih atas niat baikmu.” Kemungkinan besar seleranya baru hilang setelah mendengar tentang kue Yuigahama. Mungkin itulah caranya berbaik hati: tidak mengatakan bagian itu."
     },
     {
       "id": "v1-bab-3-chapter003_f-p184",
       "kind": "text",
       "source": "chapter003_f.xhtml#p184",
-      "text": "Tidak peduli dengan penolakan tegas Yukinoshita, Yuigahama bersenandung sambil mengambil bungkusan plastik dari tasnya. Benda yang dibungkus dengan manis itu memang berwarna hitam pekat. “Astaga, mencobanya sungguh menyenangkan, tahu! Aku berpikir aku akan mencoba membuat bento makan siang atau apalah nanti! Oh, jadi, Yukinon, ayo kita makan siang bersama!”"
+      "text": "Tak menghiraukan penolakan tegas itu, Yuigahama bersenandung sambil mengeluarkan bungkusan plastik dari tasnya. Isinya dibungkus manis, tetapi warnanya hitam pekat. “Ternyata seru banget, lho! Nanti aku mau coba bikin bekal makan siang juga! Oh, Yukinon, makan siang bareng, yuk!”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p185",
       "kind": "text",
       "source": "chapter003_f.xhtml#p185",
-      "text": "“Tidak, aku suka makan sendirian, jadi itu akan terasa berlebihan. Dan 'Yukinon' itu menyeramkan, jadi hentikan.”"
+      "text": "“Tidak, aku lebih suka makan sendiri. Itu berlebihan. Dan panggilan ‘Yukinon’ itu menyeramkan, jadi hentikan.”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p186",
@@ -3057,23 +3233,23 @@
       "id": "v1-bab-3-chapter003_f-p188",
       "kind": "text",
       "source": "chapter003_f.xhtml#p188",
-      "text": "“Oh, jadi, sepertinya, aku punya waktu luang sepulang sekolah, jadi aku akan membantumu mengurus urusan klubmu. Oh, ya ampun, ini seperti... ucapan terima kasih? Ini ucapan terima kasihku, jadi jangan khawatir sama sekali!”"
+      "text": "“Oh, sepulang sekolah aku juga enggak ada kerjaan, jadi aku bisa bantu kegiatan klub. Ini… anggap saja terima kasih, ya? Iya, ucapan terima kasih, jadi enggak usah sungkan!”"
     },
     {
       "id": "v1-bab-3-chapter003_f-p189",
       "kind": "text",
       "source": "chapter003_f.xhtml#p189",
-      "text": "“Apakah kamu mendengarkan?” Yukinoshita, yang jelas-jelas terkejut dengan serangan habis-habisan Yuigahama, melirik ke arahku. Sepertinya dia ingin aku melakukan sesuatu terhadap Yuigahama."
+      "text": "“Kamu mendengarkan?” Kewalahan menghadapi serbuan Yuigahama, Yukinoshita melirikku. Rupanya dia ingin aku melakukan sesuatu."
     },
     {
       "id": "v1-bab-3-chapter003_f-p190",
       "kind": "text",
       "source": "chapter003_f.xhtml#p190",
-      "text": "Tidak mungkin aku membantu kamu.",
+      "text": "Mana mungkin aku membantumu.",
       "emphasis": [
         {
           "start": 0,
-          "end": 32,
+          "end": 28,
           "style": "em"
         }
       ]
@@ -3082,11 +3258,11 @@
       "id": "v1-bab-3-chapter003_f-p191",
       "kind": "text",
       "source": "chapter003_f.xhtml#p191",
-      "text": "Kamu selalu melontarkan racun padaku, kamu tidak membayarku kembali untuk Veggie Lifestyle…dan dia adalah temanmu.",
+      "text": "Kamu selalu menyemburkan racun kepadaku, utang Veggie Lifestyle-ku juga belum dibayar… dan dia itu temanmu.",
       "emphasis": [
         {
           "start": 0,
-          "end": 114,
+          "end": 107,
           "style": "em"
         }
       ]
@@ -3101,13 +3277,13 @@
       "id": "v1-bab-3-chapter003_f-p193",
       "kind": "text",
       "source": "chapter003_f.xhtml#p193",
-      "text": "Aku menutup bukuku dan diam-diam berdiri. Memberikan ucapan selamat tinggal yang tak terdengar di belakangku, aku berusaha meninggalkan ruang klub."
+      "text": "Aku menutup buku dan berdiri diam-diam. Sambil menggumamkan salam perpisahan yang nyaris tak terdengar, aku berusaha meninggalkan ruang klub."
     },
     {
       "id": "v1-bab-3-chapter003_f-p194",
       "kind": "text",
       "source": "chapter003_f.xhtml#p194",
-      "text": "“Oh, Hikki!” Aku mendengar nama aku, dan ketika aku berbalik, sebuah benda hitam terbang ke arah wajah aku. Secara refleks, aku meraihnya."
+      "text": "“Oh, Hikki!” Mendengar namaku, aku menoleh. Sebuah benda hitam melayang ke wajahku, dan refleks kutangkap."
     },
     {
       "id": "v1-bab-3-chapter003_f-p195",
@@ -3119,7 +3295,7 @@
       "id": "v1-bab-3-chapter003_f-p196",
       "kind": "text",
       "source": "chapter003_f.xhtml#p196",
-      "text": "Aku memeriksa bungkusan benda berwarna hitam berbentuk hati. Baunya tidak menyenangkan dan terlihat agak menyeramkan, tapi jika ini adalah ucapan terima kasihnya, aku akan menerimanya dengan rasa terima kasih."
+      "text": "Kuperiksa bungkusan berisi benda hitam berbentuk hati itu. Baunya tidak enak dan penampilannya agak menyeramkan. Tapi kalau ini ucapan terima kasihnya, akan kuterima dengan senang hati."
     },
     {
       "id": "v1-bab-3-chapter003_f-p197",

@@ -36,6 +36,15 @@ Pedoman kerja untuk seluruh draf Volume 1. Perubahan istilah perlu diterapkan ko
 - Nama produk/minuman dan judul karya pada sumber dipertahankan, bukan diganti menjadi produk Indonesia.
 - Catatan penerjemah di akhir volume berasal dari edisi Inggris. Penjelasan tersebut bukan klaim riset atau catatan asli penerjemah Indonesia.
 
+### Penyuntingan bahasa Volume 1
+
+- Persetujuan pemilik: gunakan keluwesan dialog dan monolog terjemahan manusia sebagai tolok ukur keterbacaan, tanpa menyalin teksnya. Acuan makna tetap EPUB Inggris pemilik.
+- Narasi Hachiman memakai aku dengan kalimat yang mengalir, sisipan pikiran spontan, dan sindiran yang tidak diperpanjang dengan penjelasan baru.
+- Percakapan sebaya memakai aku–kamu/kau. Partikel seperti kok, sih, dong, dan bentuk enggak boleh dipakai secukupnya sesuai tokoh. Hindari slang bertanggal atau berlebihan seperti “aje gile” dan “lola”, serta gue–lo.
+- Murid kepada guru memakai saya–Ibu; narasi dan pikiran batin tetap aku. Yukinoshita tetap lugas dan tajam, Yuigahama lebih percakapan, Komachi akrab dengan panggilan Kak/Kakak. Pergantian gaya teatrikal dan normal Zaimokuza harus terbaca.
+- Jangan melokalkan harga, merek, latar, atau referensi Jepang yang tidak dilokalkan sumber. Lelucon yang belum tersampaikan dicatat untuk tinjauan, bukan diganti dengan kejadian baru.
+- Persetujuan arah gaya bukan persetujuan status `reviewed`. Lihat [catatan revisi Volume 1](volume-1-style-revision.md) untuk cakupan dan batasnya.
+
 ## Volume 2
 
 - Saki Kawasaki dan Taishi Kawasaki: nama mengikuti sumber; Taishi adalah adik laki-laki Saki. Komachi Hikigaya tetap adik Hachiman.

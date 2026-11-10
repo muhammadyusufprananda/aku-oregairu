@@ -1,7 +1,80 @@
 {
   "translation": {
     "sourceLanguage": "en",
-    "initialDraft": "Google Translate + AI"
+    "initialDraft": "Google Translate + AI",
+    "styleRevision": "AI editorial revision against the owner-provided English EPUB; human translation examples inform general readability only; not a human review",
+    "styleRevisionScope": "Selected paragraphs, dialogue register, narrative flow and contextual terminology; preserve source meaning",
+    "styleRevisedBlocks": [
+      "v1-bab-4-chapter004-p001",
+      "v1-bab-4-chapter004-p003",
+      "v1-bab-4-chapter004-p004",
+      "v1-bab-4-chapter004-p007",
+      "v1-bab-4-chapter004-p008",
+      "v1-bab-4-chapter004-p013",
+      "v1-bab-4-chapter004-p014",
+      "v1-bab-4-chapter004-p015",
+      "v1-bab-4-chapter004-p016",
+      "v1-bab-4-chapter004-p018",
+      "v1-bab-4-chapter004-p020",
+      "v1-bab-4-chapter004-p021",
+      "v1-bab-4-chapter004-p022",
+      "v1-bab-4-chapter004-p023",
+      "v1-bab-4-chapter004-p024",
+      "v1-bab-4-chapter004-p027",
+      "v1-bab-4-chapter004-p029",
+      "v1-bab-4-chapter004-p031",
+      "v1-bab-4-chapter004-p032",
+      "v1-bab-4-chapter004-p033",
+      "v1-bab-4-chapter004-p034",
+      "v1-bab-4-chapter004-p036",
+      "v1-bab-4-chapter004-p037",
+      "v1-bab-4-chapter004-p038",
+      "v1-bab-4-chapter004-p039",
+      "v1-bab-4-chapter004-p041",
+      "v1-bab-4-chapter004-p042",
+      "v1-bab-4-chapter004-p044",
+      "v1-bab-4-chapter004-p046",
+      "v1-bab-4-chapter004-p049",
+      "v1-bab-4-chapter004-p050",
+      "v1-bab-4-chapter004-p051",
+      "v1-bab-4-chapter004-p052",
+      "v1-bab-4-chapter004-p054",
+      "v1-bab-4-chapter004-p056",
+      "v1-bab-4-chapter004-p057",
+      "v1-bab-4-chapter004-p059",
+      "v1-bab-4-chapter004-p060",
+      "v1-bab-4-chapter004-p065",
+      "v1-bab-4-chapter004-p069",
+      "v1-bab-4-chapter004-p070",
+      "v1-bab-4-chapter004-p076",
+      "v1-bab-4-chapter004-p077",
+      "v1-bab-4-chapter004-p079",
+      "v1-bab-4-chapter004-p080",
+      "v1-bab-4-chapter004-p081",
+      "v1-bab-4-chapter004-p083",
+      "v1-bab-4-chapter004-p084",
+      "v1-bab-4-chapter004-p087",
+      "v1-bab-4-chapter004-p089",
+      "v1-bab-4-chapter004-p090",
+      "v1-bab-4-chapter004_d-p001",
+      "v1-bab-4-chapter004_d-p005",
+      "v1-bab-4-chapter004_d-p007",
+      "v1-bab-4-chapter004_d-p009",
+      "v1-bab-4-chapter004_d-p011",
+      "v1-bab-4-chapter004_d-p013",
+      "v1-bab-4-chapter004_d-p014",
+      "v1-bab-4-chapter004_d-p015",
+      "v1-bab-4-chapter004_d-p016",
+      "v1-bab-4-chapter004_d-p018",
+      "v1-bab-4-chapter004_d-p019",
+      "v1-bab-4-chapter004_d-p020",
+      "v1-bab-4-chapter004_d-p023",
+      "v1-bab-4-chapter004_d-p024",
+      "v1-bab-4-chapter004_d-p025",
+      "v1-bab-4-chapter004_d-p028",
+      "v1-bab-4-chapter004_d-p032",
+      "v1-bab-4-chapter004_d-p037"
+    ]
   },
   "blocks": [
     {
@@ -23,7 +96,7 @@
       "id": "v1-bab-4-chapter004-p001",
       "kind": "text",
       "source": "chapter004.xhtml#p1",
-      "text": "Bel berbunyi dan jam pelajaran keempat berakhir. Tiba-tiba, suasana lega mulai mengalir ke seluruh kelas. Beberapa siswa berlari ke toko sekolah, beberapa menata ulang meja mereka dan menata kotak makan siang mereka, dan yang lainnya pergi ke ruang kelas lain. Makan siang hari ini di Kelas 2-F ramai dan berisik, seperti biasanya."
+      "text": "Bel berbunyi, menandai akhir pelajaran keempat. Suasana kelas seketika mengendur. Ada yang berlari ke toko sekolah, ada yang merapatkan meja dan membuka bekal, ada pula yang pergi ke kelas lain. Seperti biasa, jam makan siang di kelas 2-F ramai dan berisik."
     },
     {
       "id": "v1-bab-4-chapter004-p002",
@@ -35,11 +108,11 @@
       "id": "v1-bab-4-chapter004-p003",
       "kind": "text",
       "source": "chapter004.xhtml#p3",
-      "text": "Biasanya, di hari hujan seperti ini, aku menghabiskan makan siangku dengan membaca novel atau manga, tapi buku yang kubaca tertinggal di ruang klub sehari sebelumnya. Mungkin sebaiknya aku mengambilnya saat istirahat sepuluh menit. Tapi sekarang sudah agak terlambat. “Terlalu sedikit, sudah terlambat,” seperti yang dikatakan orang Amerika. Tunggu—pada dasarnya itulah yang baru saja aku katakan!",
+      "text": "Biasanya, saat hujan begini, aku mengisi jam makan siang dengan membaca novel atau manga. Sayangnya, kemarin buku yang sedang kubaca tertinggal di ruang klub. Mestinya kuambil saat istirahat sepuluh menit tadi. Sekarang sudah terlambat. “Too little, too late,” kata orang Amerika. Tunggu, itu sama saja dengan yang baru kupikirkan!",
       "emphasis": [
         {
-          "start": 342,
-          "end": 397,
+          "start": 281,
+          "end": 331,
           "style": "em"
         }
       ]
@@ -48,7 +121,7 @@
       "id": "v1-bab-4-chapter004-p004",
       "kind": "text",
       "source": "chapter004.xhtml#p4",
-      "text": "Aku memainkan kedua sisi duo komedi sendirian di sini. Itulah betapa bosannya aku. Tahukah kamu, aku selalu berpikir bahwa ketika kamu menghabiskan waktu lama sendirian, kamu secara alami akan melakukan sesuatu tanpa memerlukan orang lain."
+      "text": "Aku memainkan dua peran dalam duet komedi seorang diri. Sebosan itulah aku. Memang, kalau terlalu lama sendirian, lama-lama semuanya bisa dilakukan tanpa bantuan orang lain."
     },
     {
       "id": "v1-bab-4-chapter004-p005",
@@ -66,13 +139,13 @@
       "id": "v1-bab-4-chapter004-p007",
       "kind": "text",
       "source": "chapter004.xhtml#p7",
-      "text": "Aku bahkan mengatakan bahwa menjadi penyendiri berarti menjadi ahli dalam merenung. Sebagaimana manusia adalah buluh yang berpikir, ia merenungkan berbagai hal tanpa menyadarinya. Dan justru karena si penyendiri tidak menghabiskan sumber daya mentalnya untuk memikirkan orang lain, pikirannya menjadi jauh lebih dalam. Artinya, para penyendiri mempunyai pola pikir yang berbeda dibandingkan tipe orang yang bersosialisasi, dan terkadang hal ini mengarahkan mereka pada ide-ide unik yang tidak akan terpikirkan oleh orang biasa."
+      "text": "Bahkan bisa dibilang, penyendiri adalah ahli merenung. Manusia itu buluh yang berpikir, jadi tanpa sadar pun dia akan terus memikirkan sesuatu. Justru karena penyendiri tidak menghabiskan tenaga pikirannya untuk orang lain, renungannya bisa makin dalam. Karena itu, pola pikir penyendiri berbeda dari orang yang gemar bergaul. Kadang mereka mendapat ide unik yang tidak terpikirkan oleh orang biasa."
     },
     {
       "id": "v1-bab-4-chapter004-p008",
       "kind": "text",
       "source": "chapter004.xhtml#p8",
-      "text": "Sulit untuk menyampaikan informasi dalam jumlah besar melalui metode ekspresi yang terbatas yaitu percakapan. Ini seperti cara kerja komputer. Dibutuhkan waktu untuk mengunggah data dalam jumlah besar ke server atau mengirimkannya melalui email. Itu sebabnya orang yang penyendiri cenderung kurang memiliki kemampuan berbicara. Hanya itu saja. Menurut aku itu bukanlah hal yang buruk. Komputer tidak hanya untuk mengirim email. Ada juga Internet dan Photoshop. Yang ingin aku katakan adalah, jangan menilai orang hanya berdasarkan ciri-cirinya saja."
+      "text": "Percakapan adalah sarana yang terbatas untuk menyampaikan banyak informasi. Mirip komputer: mengunggah data besar ke server atau mengirimkannya lewat surel butuh waktu. Itulah sebabnya penyendiri cenderung kurang pandai bicara. Cuma itu. Menurutku, bukan hal buruk. Komputer juga bukan cuma untuk mengirim surel. Ada internet dan Photoshop. Maksudku, jangan menilai orang dari satu kemampuannya saja."
     },
     {
       "id": "v1-bab-4-chapter004-p009",
@@ -114,22 +187,22 @@
       "id": "v1-bab-4-chapter004-p013",
       "kind": "text",
       "source": "chapter004.xhtml#p13",
-      "text": "Ketika kami masih di sekolah menengah, aku melihat orang-orang itu berbicara tentang anime, jadi aku mencoba untuk bergabung, tetapi ketika aku melakukannya, mereka berdua terdiam. Itu menyakitkan. Sejak saat itu, aku menyerah untuk berusaha mengambil hati mereka."
+      "text": "Waktu SMP, aku pernah mencoba bergabung saat mereka membicarakan anime. Begitu aku masuk, keduanya langsung diam. Sakit juga. Sejak itu, aku menyerah mendekati mereka."
     },
     {
       "id": "v1-bab-4-chapter004-p014",
       "kind": "text",
       "source": "chapter004.xhtml#p14",
-      "text": "Aku bukan tipe anak yang suka Biarkan aku bermain! jadi aku tidak akan memulainya sekarang. Saat kami bermain sepak bola pada hari-hari rekreasi, ada aturan bahwa dua tipe pemimpin di antara anak laki-laki akan bermain batu-gunting-kertas untuk memutuskan siapa yang mendapat pilihan pertama untuk timnya. Aku selalu tertinggal di urutan terakhir. Saat berumur sepuluh tahun, aku berpikir, Aku penasaran kapan aku akan dipilih? Menyedihkan sekali hingga kamu bisa menangis, benarkan?",
+      "text": "Sejak kecil aku bukan tipe yang bisa bilang, Aku ikut main, ya! Sekarang pun tidak akan mulai. Kalau bermain sepak bola saat kegiatan rekreasi, dua anak yang dianggap pemimpin akan suit, lalu bergiliran memilih anggota tim. Aku selalu tersisa paling akhir. Bayangkan anak sepuluh tahun berpikir, Kapan aku dipilih, ya? Menyedihkan sampai ingin menangis, kan?",
       "emphasis": [
         {
-          "start": 30,
-          "end": 50,
+          "start": 45,
+          "end": 63,
           "style": "em"
         },
         {
-          "start": 390,
-          "end": 427,
+          "start": 296,
+          "end": 318,
           "style": "em"
         }
       ]
@@ -138,13 +211,13 @@
       "id": "v1-bab-4-chapter004-p015",
       "kind": "text",
       "source": "chapter004.xhtml#p15",
-      "text": "Akibatnya, meski aku cukup atletis, aku menjadi buruk dalam olahraga. Aku suka baseball dan sejenisnya, tapi aku tidak punya siapa pun untuk diajak bermain. Jadi ketika aku masih kecil, aku bermain bisbol sendirian, tidak melakukan apa pun selain memantulkan bola ke dinding dan melakukan latihan lapangan tunggal, banyak memanfaatkan pelari hantu dan petugas pertahanan hantu."
+      "text": "Akibatnya, meski tubuhku cukup tangkas, aku jadi payah berolahraga. Aku suka bisbol dan semacamnya, tapi tidak punya teman bermain. Waktu kecil, aku hanya bisa bermain bisbol sendiri: melempar bola ke dinding dan berlatih menangkapnya, dengan banyak bantuan pelari khayalan dan penjaga khayalan."
     },
     {
       "id": "v1-bab-4-chapter004-p016",
       "kind": "text",
       "source": "chapter004.xhtml#p16",
-      "text": "Tapi ada ras lain di kelas yang cukup mahir dalam komunikasi semacam itu. Kerumunan yang duduk di belakang juga bermacam-macam. Ada dua laki-laki dari klub sepak bola, dua laki-laki dari klub bola basket, dan tiga perempuan. Sekilas saja, dan kamu dapat mengetahui dari penampilan mereka yang sadar mode bahwa mereka adalah kasta teratas di kelas ini. Ngomong-ngomong, Yuigahama adalah salah satunya."
+      "text": "Tapi ada golongan lain di kelas yang mahir berkomunikasi seperti itu. Kelompok di belakang juga terdiri dari bermacam-macam orang: dua anggota klub sepak bola, dua anggota klub basket, dan tiga cewek. Dari penampilan mereka yang mengikuti mode saja sudah jelas bahwa mereka kasta teratas kelas ini. Yuigahama juga termasuk di dalamnya."
     },
     {
       "id": "v1-bab-4-chapter004-p017",
@@ -156,7 +229,7 @@
       "id": "v1-bab-4-chapter004-p018",
       "kind": "text",
       "source": "chapter004.xhtml#p18",
-      "text": "Pada dasarnya, dia tampan dan bergaya dalam gaya kasual. Persetan dengan pria itu."
+      "text": "Intinya, dia tampan dan bergaya santai. Sialan."
     },
     {
       "id": "v1-bab-4-chapter004-p019",
@@ -168,28 +241,28 @@
       "id": "v1-bab-4-chapter004-p020",
       "kind": "text",
       "source": "chapter004.xhtml#p20",
-      "text": "“Ayolah, kamu boleh melewatkan satu hari, kan? Hari ini ada diskon dua sendok di Thirteen and One Flavours. Aku mau satu sendok coklat dan coklat.”"
+      "text": "“Ayolah, bolos sehari enggak apa-apa, kan? Hari ini ada promo dua scoop di Thirteen and One Flavours. Aku mau cokelat sama cokelat.”"
     },
     {
       "id": "v1-bab-4-chapter004-p021",
       "kind": "text",
       "source": "chapter004.xhtml#p21",
-      "text": "“Dua-duanya coklat.(LOL)”"
+      "text": "“Dua-duanya cokelat, dong.”"
     },
     {
       "id": "v1-bab-4-chapter004-p022",
       "kind": "text",
       "source": "chapter004.xhtml#p22",
-      "text": "“Hah? Mereka sama sekali berbeda! Dan aku, sangat lapar.” Suara keras itu adalah belahan jiwa Hayama, Yumiko Miura.",
+      "text": "“Hah? Beda banget, tahu! Lagi pula, aku lapar banget.” Suara nyaring itu milik pasangan serasi Hayama, Yumiko Miura.",
       "emphasis": [
         {
-          "start": 13,
-          "end": 24,
+          "start": 6,
+          "end": 17,
           "style": "em"
         },
         {
-          "start": 43,
-          "end": 49,
+          "start": 46,
+          "end": 52,
           "style": "em"
         }
       ]
@@ -198,11 +271,11 @@
       "id": "v1-bab-4-chapter004-p023",
       "kind": "text",
       "source": "chapter004.xhtml#p23",
-      "text": "Rambut pirangnya ditata ikal ikal, dan atasan seragamnya sengaja ditarik ke bawah untuk memperlihatkan bahunya sehingga aku berpikir, Siapa kamu, pelacur era samurai? Roknya sangat pendek hingga kamu bertanya-tanya apa gunanya memakainya. Miura memiliki wajah yang cantik dan rupawan, tapi dia berpakaian sangat jorok dan bertingkah sangat bodoh, aku tidak menyukainya. Sebenarnya, aku benar-benar takut padanya. Aku merasa apa pun bisa keluar dari mulutnya.",
+      "text": "Rambut pirangnya ditata ikal, dan bagian atas seragamnya sengaja diturunkan hingga bahunya terlihat. Kamu pelacur zaman samurai, ya? pikirku. Roknya begitu pendek sampai aku bertanya-tanya untuk apa dipakai. Wajah Miura memang cantik, tapi cara berpakaiannya terlalu terbuka dan kelakuannya begitu bodoh sampai aku tidak menyukainya. Tepatnya, aku takut kepadanya. Entah ucapan seperti apa yang bisa keluar dari mulutnya.",
       "emphasis": [
         {
-          "start": 134,
-          "end": 166,
+          "start": 101,
+          "end": 132,
           "style": "em"
         }
       ]
@@ -211,7 +284,7 @@
       "id": "v1-bab-4-chapter004-p024",
       "kind": "text",
       "source": "chapter004.xhtml#p24",
-      "text": "Namun Hayama rupanya tidak melihat Miura sebagai seseorang yang menakutkan. Sebaliknya, dari apa yang kuketahui, dia menganggapnya sebagai teman yang ramah dan ramah seperti dirinya. Inilah tepatnya mengapa aku tidak memahami orang-orang yang berada di tingkat atas dalam rantai makanan. Tidak peduli bagaimana kamu melihatnya, dia hanya bertindak seperti itu karena dia sedang bergaul dengannya. Di hadapanku, dia akan membunuhku hanya dengan sekali dengusan. Yah, tidak ada alasan baginya untuk bergaul denganku, jadi dia tidak pernah berbicara denganku, dan aku baik-baik saja dengan itu."
+      "text": "Tapi rupanya Hayama tidak menganggap Miura menakutkan. Sejauh yang kulihat, baginya Miura teman yang ramah dan mudah bergaul, seperti dirinya sendiri. Inilah sebabnya aku tidak memahami orang-orang di puncak rantai makanan. Jelas dia bersikap begitu karena sedang bersama Hayama. Kalau denganku, sekali mendengus saja dia bisa membunuhku. Untungnya, dia tidak punya alasan untuk berurusan denganku dan tidak pernah mengajakku bicara. Aku tidak keberatan."
     },
     {
       "id": "v1-bab-4-chapter004-p025",
@@ -229,7 +302,7 @@
       "id": "v1-bab-4-chapter004-p027",
       "kind": "text",
       "source": "chapter004.xhtml#p27",
-      "text": "Kemudian si pirang di sampingnya mengacak-acak rambutnya dan berkata, “Kami serius untuk pergi ke tingkat Nasional tahun ini.”"
+      "text": "Lalu cowok pirang di sampingnya mengacak rambut sambil berkata, “Tahun ini kami serius mengincar tingkat nasional.”"
     },
     {
       "id": "v1-bab-4-chapter004-p028",
@@ -248,11 +321,11 @@
       "id": "v1-bab-4-chapter004-p029",
       "kind": "text",
       "source": "chapter004.xhtml#p29",
-      "text": "“Bwa-ha…” Tawa kecil yang tak disengaja terdengar di tenggorokanku. Ya ampun, raut wajahnya seperti Aku sangat keren mengatakan itu. Itu sangat buruk. Paling buruk. Tidak bisa dimaafkan.",
+      "text": "“Bwah…” Tawaku lolos tanpa sengaja. Astaga, wajahnya jelas berkata, Keren banget aku barusan. Parah. Parah sekali. Tak termaafkan.",
       "emphasis": [
         {
-          "start": 100,
-          "end": 131,
+          "start": 68,
+          "end": 92,
           "style": "em"
         }
       ]
@@ -267,25 +340,25 @@
       "id": "v1-bab-4-chapter004-p031",
       "kind": "text",
       "source": "chapter004.xhtml#p31",
-      "text": "“Aku tidak menjadi gemuk, tidak peduli berapa banyak aku makan. Ah, tidak ada yang bisa dilakukan hari ini selain makan! Benar kan, Yui?”"
+      "text": "“Aku makan sebanyak apa pun enggak bakal gemuk. Ah, hari ini pokoknya harus makan! Iya, kan, Yui?”"
     },
     {
       "id": "v1-bab-4-chapter004-p032",
       "kind": "text",
       "source": "chapter004.xhtml#p32",
-      "text": "“Ya, itu benar, itu benar. Kamu mempunyai sosok yang hebat, Yumiko. Tapi aku punya beberapa rencana hari ini, jadi...”"
+      "text": "“Iya, iya. Badanmu bagus banget, Yumiko. Tapi hari ini aku ada rencana, jadi…”"
     },
     {
       "id": "v1-bab-4-chapter004-p033",
       "kind": "text",
       "source": "chapter004.xhtml#p33",
-      "text": "“Aku tahu, kan? Tidak ada yang bisa dilakukan selain menjejali wajah kita!” Kata Miura, dan semua orang tertawa seolah-olah mereka diperintahkan untuk melakukannya. Itu seperti tawa hampa yang biasa kamu dengar di lagu tawa variety show. Suaranya sangat keras, seolah-olah mereka baru saja diberi isyarat untuk [tertawa di sini] oleh teleprompter."
+      "text": "“Iya, kan? Pokoknya kita harus makan sepuasnya!” kata Miura. Semuanya tertawa seolah mendapat perintah. Tawa kosong, seperti suara tawa rekaman dalam acara varietas. Nyaring sekali, seolah ada papan petunjuk bertuliskan [tertawa di sini]."
     },
     {
       "id": "v1-bab-4-chapter004-p034",
       "kind": "text",
       "source": "chapter004.xhtml#p34",
-      "text": "Aku tidak benar-benar mencoba menguping pembicaraan mereka. Suaranya sangat keras, aku tidak dapat menahan diri untuk tidak mendengarnya. Sebenarnya, baik orang nerd maupun orang normal cenderung bersuara keras saat berkumpul dalam satu kelompok. Tidak ada seorang pun di dekat tempat aku duduk, bertahta di tengah ruangan, tetapi semua yang ada di sekitar aku benar-benar keributan. Seolah-olah aku berada di tengah badai."
+      "text": "Aku bukannya sengaja menguping. Suara mereka terlalu keras untuk tidak terdengar. Baik kaum nerd maupun kaum normal memang sama-sama berisik kalau berkumpul. Tidak ada orang di dekat mejaku yang bertakhta di tengah kelas, tetapi sekelilingku penuh keributan. Rasanya seperti berada di mata badai."
     },
     {
       "id": "v1-bab-4-chapter004-p035",
@@ -297,11 +370,11 @@
       "id": "v1-bab-4-chapter004-p036",
       "kind": "text",
       "source": "chapter004.xhtml#p36",
-      "text": "“Sudah bilang kepadamu, aku baik-baik saja tidak peduli seberapa banyak aku makan. Dan aku tidak menjadi gemuk. Benar, Yui?”",
+      "text": "“Sudah kubilang, makan sebanyak apa pun aku enggak apa-apa. Enggak bakal gemuk juga. Iya, kan, Yui?”",
       "emphasis": [
         {
           "start": 7,
-          "end": 13,
+          "end": 15,
           "style": "em"
         }
       ]
@@ -310,11 +383,11 @@
       "id": "v1-bab-4-chapter004-p037",
       "kind": "text",
       "source": "chapter004.xhtml#p37",
-      "text": "“Ya, sepertinya, Yumiko memang memiliki sosok seorang dewi. Kakinya begitu cantik. Jadi, aku, um...”",
+      "text": "“Iya, badan Yumiko memang kayak dewi. Kakinya juga bagus banget. Jadi, aku, anu…”",
       "emphasis": [
         {
-          "start": 68,
-          "end": 74,
+          "start": 57,
+          "end": 63,
           "style": "em"
         }
       ]
@@ -323,13 +396,13 @@
       "id": "v1-bab-4-chapter004-p038",
       "kind": "text",
       "source": "chapter004.xhtml#p38",
-      "text": "“Apa? Entahlah... Itu gadis itu, Yukinoshita atau siapa pun namanya. Tidakkah menurutmu dia yang melakukan hal itu?”"
+      "text": "“Ah, entahlah… Kalau si Yukinoshita atau siapa itu, menurutmu dia baru begitu, kan?”"
     },
     {
       "id": "v1-bab-4-chapter004-p039",
       "kind": "text",
       "source": "chapter004.xhtml#p39",
-      "text": "“Oh itu benar. Yukino benar-benar mengerti.”"
+      "text": "“Oh, iya. Yukino memang bagus banget.”"
     },
     {
       "id": "v1-bab-4-chapter004-p040",
@@ -341,13 +414,13 @@
       "id": "v1-bab-4-chapter004-p041",
       "kind": "text",
       "source": "chapter004.xhtml#p41",
-      "text": "“Oh, baiklah, tapi gayamu lebih bagus, Yumiko,” Yuigahama dengan cepat melanjutkan ketika Miura terdiam, alisnya bergerak-gerak. Mereka seperti… seorang ratu dan pembantunya atau semacamnya."
+      "text": "“Ah, tapi gayamu lebih bagus, kok, Yumiko,” buru-buru Yuigahama menambahkan saat Miura terdiam dengan alis berkedut. Mereka seperti… ratu dan dayangnya."
     },
     {
       "id": "v1-bab-4-chapter004-p042",
       "kind": "text",
       "source": "chapter004.xhtml#p42",
-      "text": "Tapi rupanya, tindakan Yuigahama yang mundur tidak cukup untuk meredakan perasaan lebam sang ratu, dan mata Miura menyipit karena tidak senang."
+      "text": "Tapi rupanya ralat Yuigahama belum cukup untuk menyembuhkan harga diri sang ratu yang terluka. Mata Miura menyipit kesal."
     },
     {
       "id": "v1-bab-4-chapter004-p043",
@@ -359,7 +432,7 @@
       "id": "v1-bab-4-chapter004-p044",
       "kind": "text",
       "source": "chapter004.xhtml#p44",
-      "text": "Hal itu tampaknya menenangkan sang ratu, yang berkicau, “Oke! Kalau begitu kirimi aku pesan, oke?” sambil tersenyum, dan percakapan dimulai kembali."
+      "text": "Rupanya itu cukup untuk menenangkan sang ratu. “Oke! Nanti kirim pesan, ya!” katanya riang sambil tersenyum. Percakapan pun kembali berjalan."
     },
     {
       "id": "v1-bab-4-chapter004-p045",
@@ -371,11 +444,11 @@
       "id": "v1-bab-4-chapter004-p046",
       "kind": "text",
       "source": "chapter004.xhtml#p46",
-      "text": "Hei, hei, itu terlihat sangat kasar. Apa ini masyarakat feodal? Jika kamu harus berjingkat-jingkat seperti itu untuk menjadi orang normal, aku tidak masalah jika menjadi penyendiri selamanya.",
+      "text": "Hei, hei, berat sekali kelihatannya. Ini masyarakat feodal? Kalau menjadi kaum normal berarti harus terus menjaga perasaan orang seperti itu, aku rela jadi penyendiri selamanya.",
       "emphasis": [
         {
           "start": 0,
-          "end": 191,
+          "end": 177,
           "style": "em"
         }
       ]
@@ -396,25 +469,25 @@
       "id": "v1-bab-4-chapter004-p049",
       "kind": "text",
       "source": "chapter004.xhtml#p49",
-      "text": "“Oh ya? Kalau begitu belilah salah satu dari makanan itu saat perjalanan pulang...teh lemon. Aku lupa membawa minuman hari ini, dan aku sedang makan kue, jadi sulit untuk makan tanpa teh, tahu?”"
+      "text": "“Oh, ya? Kalau begitu, sekalian belikan itu waktu balik… teh lemon. Aku lupa bawa minum. Lagi makan kue, nih, susah kalau enggak ada teh.”"
     },
     {
       "id": "v1-bab-4-chapter004-p050",
       "kind": "text",
       "source": "chapter004.xhtml#p50",
-      "text": "“H-hah? Tapi, seperti... Aku akan kembali ketika jam kelima dimulai...seperti... Aku akan pergi makan siang, jadi aku entah bagaimana bisa...” Yuigahama ragu-ragu, dan dalam sekejap, wajah Miura menjadi kaku. Ekspresinya mencerminkan pengkhianatan yang mungkin terjadi pada pemilik anjing yang baru saja digigit hewan peliharaannya. Yuigahama, yang mungkin tidak pernah membantah perkataan Miura sebelumnya, tiba-tiba menolak permintaannya."
+      "text": "“H-hah? Tapi… aku baru balik pas jam kelima mulai… Aku mau makan siang, jadi agak…” Yuigahama ragu-ragu, dan wajah Miura seketika menegang. Seperti pemilik anjing yang baru digigit peliharaannya sendiri. Yuigahama, yang mungkin belum pernah membantah Miura, mendadak menolak permintaannya."
     },
     {
       "id": "v1-bab-4-chapter004-p051",
       "kind": "text",
       "source": "chapter004.xhtml#p51",
-      "text": "“Apa? Uh...tunggu sebentar. Hah? Seperti, bukankah kamu mengatakan hal yang sama beberapa waktu yang lalu dan memberi jaminan pada kami sepulang sekolah? Kamu tidak terlalu bersosialisasi akhir-akhir ini.”"
+      "text": "“Apa? Eh… sebentar. Hah? Bukannya kemarin kamu juga bilang begitu, terus enggak ikut kami sepulang sekolah? Belakangan kamu jarang kumpul, ya.”"
     },
     {
       "id": "v1-bab-4-chapter004-p052",
       "kind": "text",
       "source": "chapter004.xhtml#p52",
-      "text": "“Yah, itu seperti keadaan di luar kendaliku, dan aku minta maaf, tapi aku ada urusan pribadi yang harus aku urus…” Jawaban Yuigahama bertele-tele. Siapa dia, seorang bujang kantoran kerah putih?"
+      "text": "“Soalnya ada keadaan di luar kendaliku, jadi maaf, tapi aku punya urusan pribadi yang harus diselesaikan…” Jawaban Yuigahama berbelit-belit. Kamu pegawai kantoran, ya?"
     },
     {
       "id": "v1-bab-4-chapter004-p053",
@@ -426,7 +499,7 @@
       "id": "v1-bab-4-chapter004-p054",
       "kind": "text",
       "source": "chapter004.xhtml#p54",
-      "text": "“Aku tidak mengerti apa maksudnya. Jika kamu ingin mengatakan sesuatu, katakan saja. Kita berteman, bukan? Dan kamu, seperti... menyembunyikan hal seperti itu? Apa bagusnya?”"
+      "text": "“Aku enggak ngerti maksudmu. Kalau ada yang mau dibilang, bilang saja. Kita teman, kan? Terus kamu malah… menyembunyikan hal begitu? Buat apa?”"
     },
     {
       "id": "v1-bab-4-chapter004-p055",
@@ -438,21 +511,21 @@
       "id": "v1-bab-4-chapter004-p056",
       "kind": "text",
       "source": "chapter004.xhtml#p56",
-      "text": "Perkataan yang dikatakan Miura memang terlihat bagus, tapi kenyataannya, dia hanya menggunakan persahabatan mereka untuk memaksakan kehendaknya pada Yuigahama. Mereka adalah teman, Yuigahama adalah salah satu dari mereka, memberikan Miura kebebasan untuk mengatakan apa pun dan melakukan apa pun. Itulah yang sebenarnya dimaksud Miura. Dan di balik kata-katanya terdapat ancaman tersembunyi yang Jika kamu tidak dapat mengungkapkannya, kamu bukan salah satu dari kami, dan karena itu adalah musuh kami. Ini adalah sebuah inkuisisi, dan Yuigahama dipaksa menginjak salib untuk menguji imannya.",
+      "text": "Sekilas ucapan Miura terdengar masuk akal. Padahal dia hanya memakai persahabatan untuk memaksakan kehendak. Karena mereka teman, karena Yuigahama bagian dari kelompoknya, Miura merasa bebas mengatakan dan melakukan apa saja. Itulah maksud sebenarnya. Di balik ucapannya terselip ancaman: Kalau tidak mau bicara, kamu bukan bagian dari kami. Berarti kamu musuh. Ini pengadilan agama, dan Yuigahama dipaksa menginjak salib untuk menguji imannya.",
       "emphasis": [
         {
-          "start": 174,
-          "end": 179,
+          "start": 123,
+          "end": 128,
           "style": "em"
         },
         {
-          "start": 198,
-          "end": 220,
+          "start": 147,
+          "end": 170,
           "style": "em"
         },
         {
-          "start": 396,
-          "end": 501,
+          "start": 289,
+          "end": 360,
           "style": "em"
         }
       ]
@@ -461,7 +534,7 @@
       "id": "v1-bab-4-chapter004-p057",
       "kind": "text",
       "source": "chapter004.xhtml#p57",
-      "text": "“Maaf…,” Yuigahama menyesal dengan malu-malu, sambil menunduk."
+      "text": "“Maaf…” Yuigahama meminta maaf lirih sambil menunduk."
     },
     {
       "id": "v1-bab-4-chapter004-p058",
@@ -480,17 +553,17 @@
       "id": "v1-bab-4-chapter004-p059",
       "kind": "text",
       "source": "chapter004.xhtml#p59",
-      "text": "Tidak ada seorang pun yang mampu mengutarakan apa yang mereka katakan setelah mendengar itu. Ini bukanlah sebuah percakapan, dan itu bukanlah sebuah pertanyaan. Miura baru saja menyerangnya dan memaksanya meminta maaf."
+      "text": "Siapa yang masih bisa mengutarakan pikirannya setelah mendengar itu? Ini bukan percakapan, bukan pula pertanyaan. Miura hanya menyerang dan memaksanya meminta maaf."
     },
     {
       "id": "v1-bab-4-chapter004-p060",
       "kind": "text",
       "source": "chapter004.xhtml#p60",
-      "text": "Betapa tololnya. Silakan dan hancurkan satu sama lain.",
+      "text": "Bodoh sekali. Silakan saling menghancurkan.",
       "emphasis": [
         {
           "start": 0,
-          "end": 54,
+          "end": 43,
           "style": "em"
         }
       ]
@@ -523,7 +596,7 @@
       "id": "v1-bab-4-chapter004-p065",
       "kind": "text",
       "source": "chapter004.xhtml#p65",
-      "text": "Aku mendorong mundur dari mejaku dengan suara mainan dan berdiri dengan tajam. “Hei, itu—”"
+      "text": "Kugeser kursi hingga berderak, lalu berdiri mendadak. “Hei, sudah—”"
     },
     {
       "id": "v1-bab-4-chapter004-p066",
@@ -554,13 +627,13 @@
       "id": "v1-bab-4-chapter004-p069",
       "kind": "text",
       "source": "chapter004.xhtml#p69",
-      "text": "Aku duduk, putus asa, dan Miura mengabaikanku sama sekali, malah memandang rendah Yuigahama yang menyusut. “Dengar, aku mengatakan ini demi kamu, tapi omong kosong semacam itu benar-benar membuatku kesal.”"
+      "text": "Aku kembali duduk dengan lesu. Miura sama sekali mengabaikanku dan kembali menatap Yuigahama yang menciut. “Dengar, aku bilang begini demi kamu, tapi sikap kayak gitu benar-benar bikin kesal.”"
     },
     {
       "id": "v1-bab-4-chapter004-p070",
       "kind": "text",
       "source": "chapter004.xhtml#p70",
-      "text": "Dia bersikeras dia melakukan ini demi Yuigahama, tapi semua yang dia katakan adalah tentang perasaan dan kepentingannya sendiri. Dia bahkan belum menyelesaikan kalimatnya dan sudah membantah dirinya sendiri. Namun bagi Miura, hal semacam itu bukanlah sebuah kontradiksi. Dia adalah ratu dari kelompok ini, dan dalam masyarakat feodal, otoritas penguasa bersifat absolut."
+      "text": "Katanya demi Yuigahama, tapi yang dibicarakan hanya perasaan dan kepentingannya sendiri. Kalimatnya belum selesai, dia sudah membantah ucapannya sendiri. Namun, bagi Miura, itu bukan kontradiksi. Dialah ratu kelompok ini. Dalam masyarakat feodal, kekuasaan penguasa mutlak."
     },
     {
       "id": "v1-bab-4-chapter004-p071",
@@ -603,13 +676,13 @@
       "id": "v1-bab-4-chapter004-p076",
       "kind": "text",
       "source": "chapter004.xhtml#p76",
-      "text": "“Hei, apa yang kamu lihat, Yui? Kamu tidak melakukan apa-apa selain meminta maaf,” kata Miura dengan nada dingin, seolah-olah dengan hati-hati menargetkan momen itu."
+      "text": "“Hei, lihat apa, Yui? Dari tadi kamu cuma minta maaf,” kata Miura dingin, seolah sengaja memilih saat itu."
     },
     {
       "id": "v1-bab-4-chapter004-p077",
       "kind": "text",
       "source": "chapter004.xhtml#p77",
-      "text": "“Bukan dia yang harus kamu minta maaf, Yuigahama,” sela sebuah suara yang cenderung terdengar jauh lebih dingin daripada suara Miura. Itu adalah suara seperti angin kutub, suara yang bisa membuat orang gemetar ketakutan, tapi seindah cahaya utara. Mata semua orang tertuju pada pintu kelas, dan meskipun berada di sudut ruangan, seolah-olah itu adalah pusat dunia."
+      "text": "“Bukan dia yang perlu kamu mintai maaf, Yuigahama,” sela suara yang jauh lebih dingin daripada Miura. Seperti angin kutub yang membuat orang menggigil ketakutan, tetapi seindah aurora. Semua mata berpaling ke pintu kelas. Meski terletak di sudut ruangan, pintu itu seolah menjadi pusat dunia."
     },
     {
       "id": "v1-bab-4-chapter004-p078",
@@ -621,19 +694,19 @@
       "id": "v1-bab-4-chapter004-p079",
       "kind": "text",
       "source": "chapter004.xhtml#p79",
-      "text": "Aku terdiam dalam posisi setengah tegak seperti lumpuh. Ancaman Miura sebelumnya hanyalah permainan anak-anak jika dibandingkan dengan ini. Maksudku, menghadapi Yukinoshita itu sangat menakutkan, kamu tidak bisa tetap tenang, tahu? Dia melewati masa menakutkan sampai pada titik di mana kamu mulai berpikir dia seperti malaikat."
+      "text": "Aku membeku dalam posisi setengah berdiri. Ancaman Miura tadi tidak ada apa-apanya dibandingkan ini. Menghadapi Yukinoshita memang menakutkan sampai-sampai sulit tetap tenang. Bahkan sudah melewati batas menakutkan, hingga dia malah tampak seperti malaikat."
     },
     {
       "id": "v1-bab-4-chapter004-p080",
       "kind": "text",
       "source": "chapter004.xhtml#p80",
-      "text": "Yukinoshita membuat semua orang di kelas terpesona. Pada titik tertentu, suara klik Miura di meja telah berhenti, dan semua kebisingan telah hilang. Satu-satunya hal yang memecah keheningan saat ini adalah suara Yukinoshita."
+      "text": "Yukinoshita menyita perhatian seluruh kelas. Entah sejak kapan ketukan kuku Miura berhenti. Semua suara lenyap. Hanya suara Yukinoshita yang memecah keheningan."
     },
     {
       "id": "v1-bab-4-chapter004-p081",
       "kind": "text",
       "source": "chapter004.xhtml#p81",
-      "text": "“Yuigahama. Kamu mengundangku makan siang dan kemudian tidak hadir di tempat pertemuan kita, membuatku benar-benar meragukan dirimu sebagai pribadi. Jika kamu akan terlambat, setidaknya kamu harus menghubungiku. Apa aku salah?”"
+      "text": "“Yuigahama. Kamu mengajakku makan siang, lalu tidak datang ke tempat yang disepakati. Aku jadi meragukan karaktermu. Kalau terlambat, setidaknya hubungi aku. Apa aku salah?”"
     },
     {
       "id": "v1-bab-4-chapter004-p082",
@@ -645,13 +718,13 @@
       "id": "v1-bab-4-chapter004-p083",
       "kind": "text",
       "source": "chapter004.xhtml#p83",
-      "text": "“Oh? Benarkah? Kalau begitu, kurasa itu bukan salahmu. Aku tidak akan menyebutkannya lagi.” Yukinoshita benar-benar mengabaikan suasana di ruangan itu dan melakukan percakapan sesuai keinginannya. Sikapnya sangat egois."
+      "text": "“Oh? Begitu? Kalau begitu, kurasa bukan salahmu. Aku tidak akan mempermasalahkannya lagi.” Yukinoshita sama sekali mengabaikan suasana kelas dan membawa percakapan sesukanya. Benar-benar semaunya sendiri."
     },
     {
       "id": "v1-bab-4-chapter004-p084",
       "kind": "text",
       "source": "chapter004.xhtml#p84",
-      "text": "“H-hei! Kita belum selesai bicara di sini!” Miura, yang akhirnya mencair, membentak Yukinoshita dan Yuigahama. Ratu api menyalakan api lebih panas lagi dan membiarkan amarahnya berkobar dengan keganasan yang menderu-deru."
+      "text": "“H-hei! Kami belum selesai bicara!” Setelah akhirnya tersadar, Miura membentak Yukinoshita dan Yuigahama. Sang ratu api mengobarkan amarahnya lebih panas lagi."
     },
     {
       "id": "v1-bab-4-chapter004-p085",
@@ -681,7 +754,7 @@
       "id": "v1-bab-4-chapter004-p087",
       "kind": "text",
       "source": "chapter004.xhtml#p87",
-      "text": "“Berbicara? Bukankah maksudmu berteriak? Apakah itu seharusnya sebuah percakapan? Bagiku sepertinya kamu hanya menjadi histeris dan secara sepihak memaksakan pendapatmu pada orang lain.”"
+      "text": "“Bicara? Bukankah maksudmu berteriak? Itu kamu sebut percakapan? Bagiku, kamu hanya histeris dan memaksakan pendapat secara sepihak.”"
     },
     {
       "id": "v1-bab-4-chapter004-p088",
@@ -693,13 +766,13 @@
       "id": "v1-bab-4-chapter004-p089",
       "kind": "text",
       "source": "chapter004.xhtml#p89",
-      "text": "“Aku minta maaf karena tidak menyadari bahwa kamu sedang berbicara. Aku tidak memahami ekosistem kamu secara spesifik, jadi aku salah mengira itu adalah ancaman kera yang melolong.”"
+      "text": "“Maaf, aku tidak sadar kamu sedang berbicara. Aku kurang memahami ekosistem spesiesmu, jadi kukira itu suara kera melolong untuk mengancam.”"
     },
     {
       "id": "v1-bab-4-chapter004-p090",
       "kind": "text",
       "source": "chapter004.xhtml#p90",
-      "text": "Ratu api yang mendidih membeku di hadapan ratu es. “Ngh…!” Miura memelototi Yukinoshita dengan kemarahan yang tersingkap, tapi Yukinoshita dengan dingin menepisnya. “Kamu bisa berperan sebagai raja kastil dan menggertak sesukamu, tapi tolong simpan di wilayahmu sendiri. Kepura-puraanmu sama rapuhnya dengan riasanmu.”"
+      "text": "Ratu api yang mendidih membeku di hadapan ratu es. “Ngh…!” Miura memelototi Yukinoshita terang-terangan, tetapi Yukinoshita menepisnya dengan dingin. “Silakan bermain penguasa dan menggertak sesukamu, tapi lakukan di wilayahmu sendiri. Kepura-puraanmu sama rapuhnya dengan riasanmu.”"
     },
     {
       "id": "v1-bab-4-chapter004_a-Art_P100",
@@ -714,7 +787,7 @@
       "id": "v1-bab-4-chapter004_d-p001",
       "kind": "text",
       "source": "chapter004_d.xhtml#p1",
-      "text": "“Hah? Apa yang kamu bicarakan? Kamu tidak masuk akal!” Jelas tidak bisa mengaku kalah, Miura kembali duduk di kursinya sambil bergemerincing. Rambut ikalnya memantul ke atas dan ke bawah saat dia mulai memainkan ponselnya dengan marah. Tidak ada yang mau berbicara dengannya saat dia seperti itu. Bahkan Hayama, yang akrab dengannya, menguap untuk menghindari situasi tersebut."
+      "text": "“Hah? Ngomong apa, sih? Enggak jelas!” Tak mau mengaku kalah, Miura mengempaskan diri ke kursi hingga berderak. Rambut ikalnya memantul saat dia mulai memainkan ponsel dengan kesal. Tidak ada yang berani mengajaknya bicara dalam keadaan begitu. Bahkan Hayama, yang akrab dengannya, menguap untuk menghindari situasi itu."
     },
     {
       "id": "v1-bab-4-chapter004_d-p002",
@@ -738,7 +811,7 @@
       "id": "v1-bab-4-chapter004_d-p005",
       "kind": "text",
       "source": "chapter004_d.xhtml#p5",
-      "text": "“…Kamu dapat melakukan apa yang kamu inginkan.”"
+      "text": "“…Lakukan sesukamu.”"
     },
     {
       "id": "v1-bab-4-chapter004_d-p006",
@@ -750,16 +823,16 @@
       "id": "v1-bab-4-chapter004_d-p007",
       "kind": "text",
       "source": "chapter004_d.xhtml#p7",
-      "text": "Hei, ayolah… Ada apa dengan suasana di sini? Ada tingkat kecemasan yang tidak biasa di dalam kelas; itu bahkan lebih canggung dari biasanya. Tak lama kemudian, sebagian besar siswa mulai membuat alasan seperti mereka haus atau harus ke kamar mandi atau apalah lalu pergi. Satu-satunya orang yang tersisa pada akhirnya hanyalah kelompok Hayama dan Miura serta beberapa orang yang penasaran. Aku tidak punya pilihan selain melompat ke ombak besar yang mengalir keluar ruangan. Atau lebih tepatnya, aku harus mengatakan bahwa jika keadaan menjadi lebih tegang, aku akan mendapati diriku tidak dapat bernapas. aku akan mati. Dengan hati-hati dan mengeluarkan suara sesedikit mungkin, aku melewati Yuigahama. Saat aku melakukannya, aku mendengar dia berbisik, “Terima kasih sudah berdiri tadi.”",
+      "text": "Hei, ayolah… Ada apa dengan suasana ini? Kelas terasa luar biasa tegang, bahkan lebih canggung dari biasanya. Tak lama kemudian, sebagian besar siswa keluar dengan alasan haus, ingin ke toilet, atau apa saja. Akhirnya hanya kelompok Hayama dan Miura serta beberapa orang penasaran yang tersisa. Aku pun harus ikut arus keluar kelas. Tepatnya, kalau suasananya makin tegang, aku bakal kehabisan napas. Bisa mati aku. Dengan hati-hati, aku melewati Yuigahama tanpa banyak suara. Saat itulah kudengar bisikannya. “Terima kasih sudah berdiri tadi.”",
       "emphasis": [
         {
           "start": 0,
-          "end": 44,
+          "end": 40,
           "style": "em"
         },
         {
-          "start": 756,
-          "end": 788,
+          "start": 511,
+          "end": 543,
           "style": "em"
         }
       ]
@@ -780,7 +853,7 @@
       "id": "v1-bab-4-chapter004_d-p009",
       "kind": "text",
       "source": "chapter004_d.xhtml#p9",
-      "text": "“Um...maaf. Aku hanya, seperti...cemas jika aku tidak cocok dengan orang lain...seperti, aku hanya mengikuti apa yang diinginkan orang lain tanpa berpikir...dan mungkin itu bisa menjengkelkan.”"
+      "text": "“Anu… maaf. Aku cuma… takut kalau enggak bisa menyesuaikan diri. Jadi aku ikut saja maunya orang tanpa mikir… Mungkin itu memang bikin kesal.”"
     },
     {
       "id": "v1-bab-4-chapter004_d-p010",
@@ -792,11 +865,11 @@
       "id": "v1-bab-4-chapter004_d-p011",
       "kind": "text",
       "source": "chapter004_d.xhtml#p11",
-      "text": "“Yah, itu seperti... Entahlah, aku selalu seperti itu, tahu? Seperti, bahkan saat kita bermain Ojamajo Doremi, aku sebenarnya ingin menjadi Doremi atau Onpu-chan, tapi gadis-gadis lain ingin menjadi mereka, jadi aku akan memilih Hazuki... Sepertinya...mungkin karena aku tumbuh di kompleks apartemen, tapi selalu ada orang di sekitarku, dan sepertinya itu hal yang wajar untuk dilakukan...”",
+      "text": "“Soalnya… entahlah, dari dulu aku memang begitu. Waktu main Ojamajo Doremi saja, sebenarnya aku mau jadi Doremi atau Onpu-chan. Tapi karena yang lain mau jadi mereka, aku pilih Hazuki… Mungkin karena aku besar di kompleks apartemen, selalu ada orang di sekitarku, jadi… rasanya memang sudah sewajarnya begitu…”",
       "emphasis": [
         {
-          "start": 95,
-          "end": 109,
+          "start": 60,
+          "end": 74,
           "style": "em"
         }
       ]
@@ -811,17 +884,17 @@
       "id": "v1-bab-4-chapter004_d-p013",
       "kind": "text",
       "source": "chapter004_d.xhtml#p13",
-      "text": "“Y-ya, tentu saja tidak. Yah, aku sendiri tidak begitu paham, tapi...tapi tahukah kamu, saat melihat Hikki dan Yukinon, aku menyadarinya...meskipun tidak ada seorang pun di sekitar mereka, mereka tampak seperti sedang bersenang-senang, dan mereka selalu mengatakan apa yang sebenarnya mereka pikirkan, dan meskipun tak satu pun dari mereka mencoba untuk cocok, mereka entah bagaimana berhasil...” Suaranya terdengar seperti isakan tertahan yang keluar, tergagap-gagap."
+      "text": "“I-iya, pasti enggak ngerti. Aku sendiri juga kurang paham… Tapi waktu lihat Hikki dan Yukinon, aku sadar… Walaupun enggak ada orang lain, mereka kelihatan senang. Mereka selalu bilang apa yang dipikirkan. Enggak berusaha menyesuaikan diri, tapi tetap bisa…” Kata-katanya tersendat, seperti isak yang ditahan."
     },
     {
       "id": "v1-bab-4-chapter004_d-p014",
       "kind": "text",
       "source": "chapter004_d.xhtml#p14",
-      "text": "Setiap kali dia mengucapkan kata-kata itu, bahu Yukinoshita bergerak-gerak, matanya terbuka sedikit dan melirik ke dalam kelas. Dasar bodoh. kamu tidak dapat melihatnya dari sini. Jika kamu begitu khawatir, masuklah ke sana. Kamu terlalu bangga.",
+      "text": "Setiap mendengar kata-kata itu, bahu Yukinoshita bergerak. Matanya terbuka sedikit, melirik ke dalam kelas. Dasar bodoh. Dari sini tidak akan kelihatan. Kalau sekhawatir itu, masuk saja. Gengsimu terlalu tinggi.",
       "emphasis": [
         {
-          "start": 128,
-          "end": 245,
+          "start": 108,
+          "end": 211,
           "style": "em"
         }
       ]
@@ -830,11 +903,11 @@
       "id": "v1-bab-4-chapter004_d-p015",
       "kind": "text",
       "source": "chapter004_d.xhtml#p15",
-      "text": "“Melihat mereka, sepertinya semua upaya putus asaku untuk menyesuaikan diri semuanya salah... Maksudku, sepertinya, Hikki benar-benar seorang hikki. Saat jam makan siang, dia membaca sendirian dan tertawa sendiri... Dia menyeramkan, tapi sepertinya dia sedang bersenang-senang.”",
+      "text": "“Lihat mereka, rasanya aku salah karena mati-matian berusaha menyesuaikan diri… Maksudku, Hikki itu benar-benar hikki. Waktu makan siang dia baca sendirian, ketawa sendiri… Memang menyeramkan, tapi kelihatannya senang.”",
       "emphasis": [
         {
-          "start": 142,
-          "end": 147,
+          "start": 112,
+          "end": 117,
           "style": "em"
         }
       ]
@@ -843,7 +916,7 @@
       "id": "v1-bab-4-chapter004_d-p016",
       "kind": "text",
       "source": "chapter004_d.xhtml#p16",
-      "text": "Mendengar kata menyeramkan, Yukinoshita terkekeh. “Aku pikir kebiasaan anehmu hanya terbatas di ruang klub, tapi kamu juga seperti itu di kelasmu, ya? Itu benar-benar menjijikkan, jadi kamu harus berhenti.”",
+      "text": "Mendengar kata menyeramkan, Yukinoshita terkekeh. “Kukira kebiasaan anehmu hanya muncul di ruang klub. Di kelas pun begitu, ya? Menjijikkan sekali. Sebaiknya dihentikan.”",
       "emphasis": [
         {
           "start": 15,
@@ -862,17 +935,17 @@
       "id": "v1-bab-4-chapter004_d-p018",
       "kind": "text",
       "source": "chapter004_d.xhtml#p18",
-      "text": "“Itu sangat jelas. Aku hanya tidak ingin berbicara denganmu saat kamu begitu menakutkan.”"
+      "text": "“Sudah jelas, bukan? Aku cuma tidak mau mengajakmu bicara saat kamu sedang menyeramkan begitu.”"
     },
     {
       "id": "v1-bab-4-chapter004_d-p019",
       "kind": "text",
       "source": "chapter004_d.xhtml#p19",
-      "text": "Aku akan menjaganya dengan baik mulai sekarang. Aku tidak akan lagi membaca light novel yang memuat dewa-dewa jahat di sekolah.",
+      "text": "Mulai sekarang aku akan berhati-hati. Tidak akan lagi kubaca light novel tentang dewa jahat di sekolah.",
       "emphasis": [
         {
           "start": 0,
-          "end": 127,
+          "end": 103,
           "style": "em"
         }
       ]
@@ -881,7 +954,7 @@
       "id": "v1-bab-4-chapter004_d-p020",
       "kind": "text",
       "source": "chapter004_d.xhtml#p20",
-      "text": "“Jadi itu sebabnya aku berpikir mungkin aku bisa berhenti memaksakan diri dan melakukan apa yang aku inginkan...atau sesuatu seperti itu. Tapi bukan berarti aku tidak ingin bergaul denganmu atau apa pun. Jadi bisakah kita tetap...mungkin...menjadi...teman?”"
+      "text": "“Jadi aku pikir, mungkin aku bisa berhenti memaksakan diri dan coba melakukan yang kumau… begitu. Tapi bukan berarti aku enggak mau berteman denganmu. Jadi, apa kita masih bisa… tetap… berteman?”"
     },
     {
       "id": "v1-bab-4-chapter004_d-p021",
@@ -899,19 +972,19 @@
       "id": "v1-bab-4-chapter004_d-p023",
       "kind": "text",
       "source": "chapter004_d.xhtml#p23",
-      "text": "Setelah itu, tidak ada percakapan lebih lanjut di dalam kelas, dan aku bisa mendengar suara derai sepatu dalam ruangan Yuigahama. Yukinoshita mendorong dirinya dari dinding tempat dia bersandar, seolah menganggap itu sebagai sebuah tanda. “Hah. Jadi dia bisa jujur.” Yang membuatku heran, dia melontarkan sesuatu yang singkat yang hampir tidak bisa dianggap sebagai senyuman."
+      "text": "Setelah itu, percakapan di kelas berhenti. Terdengar langkah sepatu dalam ruangan Yuigahama. Seolah menjadikannya isyarat, Yukinoshita melepaskan sandaran dari dinding. “Huh. Ternyata dia bisa jujur juga.” Di luar dugaanku, sudut bibirnya terangkat sebentar, nyaris tak cukup untuk disebut senyum."
     },
     {
       "id": "v1-bab-4-chapter004_d-p024",
       "kind": "text",
       "source": "chapter004_d.xhtml#p24",
-      "text": "Hal ini tidaklah ironis, meremehkan, atau menyedihkan; itu hanya senyuman yang tulus."
+      "text": "Senyum itu tidak menyindir, meremehkan, ataupun mengasihani. Hanya senyum tulus."
     },
     {
       "id": "v1-bab-4-chapter004_d-p025",
       "kind": "text",
       "source": "chapter004_d.xhtml#p25",
-      "text": "Tapi itu menghilang dalam sekejap, dan dia kembali ke ekspresi dingin dan kristalnya yang biasa. Saat aku sibuk memperhatikan senyumnya, dia berjalan cepat menyusuri lorong dan menghilang tanpa mempedulikanku sama sekali. Dia mungkin pergi ke mana pun dia seharusnya bertemu Yuigahama untuk makan siang."
+      "text": "Namun, sekejap kemudian senyum itu lenyap, digantikan ekspresi dinginnya yang biasa. Saat aku masih sibuk memperhatikannya, dia sudah berjalan cepat menyusuri lorong dan menghilang tanpa menghiraukanku. Mungkin menuju tempat janjian makan siangnya dengan Yuigahama."
     },
     {
       "id": "v1-bab-4-chapter004_d-p026",
@@ -936,11 +1009,11 @@
       "id": "v1-bab-4-chapter004_d-p028",
       "kind": "text",
       "source": "chapter004_d.xhtml#p28",
-      "text": "Aku mengangkat tangan kananku dengan kaku dan melambai padanya, seperti ’Sup, dalam upaya menghindari pertanyaan itu. Saat aku melihat wajahnya, warnanya merah.",
+      "text": "Kuangkat tangan kanan dengan kaku dan melambai singkat seolah berkata, Hei, berusaha mengelak dari pertanyaannya. Waktu kulihat, wajahnya merah.",
       "emphasis": [
         {
-          "start": 72,
-          "end": 76,
+          "start": 71,
+          "end": 74,
           "style": "em"
         }
       ]
@@ -986,11 +1059,11 @@
       "id": "v1-bab-4-chapter004_d-p032",
       "kind": "text",
       "source": "chapter004_d.xhtml#p32",
-      "text": "“Tunggu sebentar di sana.” Bahkan aku merasa sedikit sedih jika kamu mengeluarkan semua racun itu tepat di wajahku. Dan jangan katakan semua itu dengan tatapan tulus. Itu sebenarnya cukup menyakitkan.",
+      "text": "“Tunggu dulu.” Bahkan aku bisa sedih kalau disembur racun sebanyak itu langsung di depan muka. Dan jangan mengatakannya dengan tatapan setulus itu. Sakit juga, tahu.",
       "emphasis": [
         {
-          "start": 27,
-          "end": 200,
+          "start": 15,
+          "end": 165,
           "style": "em"
         }
       ]
@@ -1030,7 +1103,7 @@
       "id": "v1-bab-4-chapter004_d-p037",
       "kind": "text",
       "source": "chapter004_d.xhtml#p37",
-      "text": "Nerd memiliki komunitas nerdnya sendiri; mereka bukan penyendiri. Untuk menjadi orang normal, kamu harus menavigasi hubungan hierarki dan keseimbangan kekuasaan, dan itu sangat sulit. Pada akhirnya, akulah satu-satunya penyendiri. Bu Hiratsuka tidak perlu bertindak terlalu jauh dengan memasukkanku ke bangsal isolasi. Aku sudah menjadi paria di kelas. Tidak ada gunanya dia mengkarantina aku di Klub Layanan."
+      "text": "Kaum nerd punya komunitas sendiri; mereka bukan penyendiri. Menjadi kaum normal pun berarti harus menghadapi hierarki hubungan dan keseimbangan kekuasaan yang rumit. Pada akhirnya, cuma aku yang penyendiri. Bu Hiratsuka tidak perlu repot-repot memasukkanku ke bangsal isolasi. Di kelas pun aku sudah dikucilkan. Percuma mengarantinaku di Klub Layanan."
     },
     {
       "id": "v1-bab-4-chapter004_d-p038",

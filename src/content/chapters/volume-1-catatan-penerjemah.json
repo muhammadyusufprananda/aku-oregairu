@@ -1,7 +1,24 @@
 {
   "translation": {
     "sourceLanguage": "en",
-    "initialDraft": "AI"
+    "initialDraft": "AI",
+    "styleRevision": "AI editorial revision against the owner-provided English EPUB; human translation examples inform general readability only; not a human review",
+    "styleRevisionScope": "Selected paragraphs, dialogue register, narrative flow and contextual terminology; preserve source meaning",
+    "styleRevisedBlocks": [
+      "v1-catatan-penerjemah-appendix001-p008",
+      "v1-catatan-penerjemah-appendix001-p009",
+      "v1-catatan-penerjemah-appendix001-p011",
+      "v1-catatan-penerjemah-appendix001-p023",
+      "v1-catatan-penerjemah-appendix001-p033",
+      "v1-catatan-penerjemah-appendix001-p036",
+      "v1-catatan-penerjemah-appendix001-p038",
+      "v1-catatan-penerjemah-appendix001-p039",
+      "v1-catatan-penerjemah-appendix001-p040",
+      "v1-catatan-penerjemah-appendix001-p042",
+      "v1-catatan-penerjemah-appendix001-p047",
+      "v1-catatan-penerjemah-appendix001-p048",
+      "v1-catatan-penerjemah-appendix001-p050"
+    ]
   },
   "blocks": [
     {
@@ -160,7 +177,7 @@
       "id": "v1-catatan-penerjemah-appendix001-p008",
       "kind": "text",
       "source": "appendix001.xhtml#p8",
-      "text": "7 “‘Bintang Si Burung Malam’? Seberapa tidak terkenalnya itu?” “The Nighthawk’s Star” adalah cerita pendek Kenji Miyazawa tentang burung buruk rupa yang dirundung dan ditolak begitu parah hingga akhirnya mati dan menjadi bintang di langit malam.",
+      "text": "7 “‘Bintang Si Burung Malam’? Seberapa tidak terkenalnya itu?” “The Nighthawk’s Star” adalah cerita pendek Kenji Miyazawa tentang burung buruk rupa yang begitu parah dirundung dan ditolak hingga akhirnya mati dan menjadi bintang di langit malam.",
       "emphasis": [
         {
           "start": 0,
@@ -173,16 +190,16 @@
       "id": "v1-catatan-penerjemah-appendix001-p009",
       "kind": "text",
       "source": "appendix001.xhtml#p9",
-      "text": "8 “Satu-satunya orang lain yang terpikir olehku melakukan itu adalah seorang pangeran Saiyan.” Manga Dragon Ball karya Akira Toriyama menampilkan bangsa Saiyan. Pangerannya, Vegeta, terkenal sangat angkuh.",
+      "text": "8 “Satu-satunya orang lain yang terpikir olehku melakukan itu adalah pangeran Saiyan.” Manga Dragon Ball karya Akira Toriyama menampilkan bangsa Saiyan. Pangerannya, Vegeta, terkenal sangat angkuh.",
       "emphasis": [
         {
           "start": 0,
-          "end": 94,
+          "end": 86,
           "style": "strong"
         },
         {
-          "start": 101,
-          "end": 112,
+          "start": 93,
+          "end": 104,
           "style": "em"
         }
       ]
@@ -209,7 +226,7 @@
       "id": "v1-catatan-penerjemah-appendix001-p011",
       "kind": "text",
       "source": "appendix001.xhtml#p11",
-      "text": "10 “Anggap saja ini Ruang Waktu Hiperbolik.” Dalam manga Dragon Ball karya Akira Toriyama, Ruang Waktu Hiperbolik adalah ruang latihan tempat waktu berlalu lebih lambat, sehingga latihan bertahun-tahun bisa dilakukan dalam beberapa hari di dunia nyata. Dalam bahasa Jepang namanya Seishin to Toki no Heya, atau “Ruang Jiwa dan Waktu”.",
+      "text": "10 “Anggap saja ini Ruang Waktu Hiperbolik.” Dalam manga Dragon Ball karya Akira Toriyama, Ruang Waktu Hiperbolik adalah ruang latihan dengan aliran waktu lebih lambat. Latihan bertahun-tahun di dalamnya bisa selesai dalam beberapa hari di dunia nyata. Nama Jepangnya Seishin to Toki no Heya, atau “Ruang Jiwa dan Waktu”.",
       "emphasis": [
         {
           "start": 0,
@@ -222,8 +239,8 @@
           "style": "em"
         },
         {
-          "start": 281,
-          "end": 304,
+          "start": 268,
+          "end": 291,
           "style": "em"
         }
       ]
@@ -485,26 +502,26 @@
       "id": "v1-catatan-penerjemah-appendix001-p023",
       "kind": "text",
       "source": "appendix001.xhtml#p23",
-      "text": "6 “…seolah dia baru saja berkata padaku, Menurutku kamu sebaiknya menyerah soal ‘Concrete Road’.” Dalam film Studio Ghibli tahun 1995, Whisper of the Heart, Seiji Amasawa berkata kepada tokoh utama Shizuku Tsukishima agar menyerah soal “Concrete Road”, lirik gubahannya dari lagu John Denver “Country Road”. Sebagai tanggapan, dia berulang kali mengatakan, “Dia menyebalkan!”",
+      "text": "6 “…seolah dia baru saja berkata, Menurutku kamu sebaiknya menyerah soal ‘Concrete Road’.” Dalam film Studio Ghibli tahun 1995, Whisper of the Heart, Seiji Amasawa menyuruh tokoh utama Shizuku Tsukishima menyerah soal “Concrete Road”, lirik gubahannya dari lagu John Denver “Country Road”. Shizuku menanggapinya dengan berulang kali berkata, “Dia menyebalkan!”",
       "emphasis": [
         {
           "start": 0,
-          "end": 40,
+          "end": 33,
           "style": "strong"
         },
         {
-          "start": 41,
-          "end": 96,
+          "start": 34,
+          "end": 89,
           "style": "strong-em"
         },
         {
-          "start": 96,
-          "end": 97,
+          "start": 89,
+          "end": 90,
           "style": "strong"
         },
         {
-          "start": 135,
-          "end": 155,
+          "start": 128,
+          "end": 148,
           "style": "em"
         }
       ]
@@ -675,11 +692,11 @@
       "id": "v1-catatan-penerjemah-appendix001-p033",
       "kind": "text",
       "source": "appendix001.xhtml#p33",
-      "text": "2 “Ini inkuisisi, dan Yuigahama dipaksa menginjak salib…” Ketika agama Kristen dilarang pada zaman Tokugawa, orang yang dicurigai Kristen dipaksa menginjak salib untuk membuktikan dirinya tidak bersalah.",
+      "text": "2 “Ini pengadilan agama, dan Yuigahama dipaksa menginjak salib…” Ketika agama Kristen dilarang pada zaman Tokugawa, orang yang dicurigai Kristen dipaksa menginjak salib untuk membuktikan dirinya tidak bersalah.",
       "emphasis": [
         {
           "start": 0,
-          "end": 57,
+          "end": 64,
           "style": "strong"
         }
       ]
@@ -734,21 +751,21 @@
       "id": "v1-catatan-penerjemah-appendix001-p036",
       "kind": "text",
       "source": "appendix001.xhtml#p36",
-      "text": "5 “Aku tidak akan lagi membaca light novel tentang dewa jahat di sekolah.” Seri light novel Jashin Oonuma (“Dewa Jahat Oonuma”) menceritakan petualangan anak laki-laki yang memutuskan menjadi dewa jahat dengan bantuan buku petunjuk dan paket pemula. Penerbitnya di Jepang adalah Gagaga Bunko—yang juga menerbitkan My Youth Romantic Comedy.",
+      "text": "5 “Tidak akan lagi kubaca light novel tentang dewa jahat di sekolah.” Seri light novel Jashin Oonuma (“Dewa Jahat Oonuma”) menceritakan petualangan anak laki-laki yang memutuskan menjadi dewa jahat dengan bantuan buku petunjuk dan paket pemula. Penerbitnya di Jepang adalah Gagaga Bunko—yang juga menerbitkan My Youth Romantic Comedy.",
       "emphasis": [
         {
           "start": 0,
-          "end": 74,
+          "end": 69,
           "style": "strong"
         },
         {
-          "start": 92,
-          "end": 105,
+          "start": 87,
+          "end": 100,
           "style": "em"
         },
         {
-          "start": 314,
-          "end": 338,
+          "start": 309,
+          "end": 333,
           "style": "em"
         }
       ]
@@ -775,11 +792,11 @@
       "id": "v1-catatan-penerjemah-appendix001-p038",
       "kind": "text",
       "source": "appendix001.xhtml#p38",
-      "text": "1 “Aku merindukan kemurnian era Muromachi…” Dalam sejarah Jepang, zaman Muromachi berlangsung dari pertengahan 1300-an hingga pertengahan 1500-an, ketika Jepang diperintah keshogunan Muromachi. Zaman itu berakhir saat Jepang terpecah menjadi faksi-faksi kecil dalam masa penuh kekerasan yang disebut Sengoku, atau “negara-negara berperang”, yang dirujuk Zaimokuza di sini.",
+      "text": "1 “Aku merindukan kemurnian zaman Muromachi…” Dalam sejarah Jepang, zaman Muromachi berlangsung dari pertengahan 1300-an hingga pertengahan 1500-an, ketika Jepang diperintah keshogunan Muromachi. Zaman itu berakhir saat Jepang terpecah menjadi faksi-faksi kecil dalam masa penuh kekerasan yang disebut Sengoku, atau “negara-negara berperang”, yang dirujuk Zaimokuza di sini.",
       "emphasis": [
         {
           "start": 0,
-          "end": 43,
+          "end": 45,
           "style": "strong"
         }
       ]
@@ -788,11 +805,11 @@
       "id": "v1-catatan-penerjemah-appendix001-p039",
       "kind": "text",
       "source": "appendix001.xhtml#p39",
-      "text": "2 “Kurasa dia cuma mengaitkan nama Hachiman dengan Bodhisattva Hachiman.” Hachiman adalah dewa perang dalam tradisi Shinto. Ketika Buddhisme masuk ke Jepang, dia diintegrasikan ke dalam keyakinan itu sebagai bodhisattva, manusia yang telah mencapai Kebuddhaan.",
+      "text": "2 “Kurasa dia menghubungkan nama Hachiman dengan Bodhisattva Hachiman.” Hachiman adalah dewa perang dalam tradisi Shinto. Ketika Buddhisme masuk ke Jepang, dia diintegrasikan ke dalam keyakinan itu sebagai bodhisattva, manusia yang telah mencapai Kebuddhaan.",
       "emphasis": [
         {
           "start": 0,
-          "end": 73,
+          "end": 71,
           "style": "strong"
         }
       ]
@@ -801,11 +818,11 @@
       "id": "v1-catatan-penerjemah-appendix001-p040",
       "kind": "text",
       "source": "appendix001.xhtml#p40",
-      "text": "3 “Klan Seiwa Genji dengan penuh semangat memujanya sebagai dewa perang.” Seiwa Genji adalah garis keturunan kuat dari klan bangsawan Minamoto selama ratusan tahun, yang menelusuri leluhurnya hingga Kaisar Seiwa. Keshogunan Kamakura dan Ashikaga berasal dari Seiwa Genji, dan keshogunan Tokugawa juga mengaku memiliki garis keturunan itu.",
+      "text": "3 “Klan Seiwa Genji memujanya sebagai dewa perang.” Seiwa Genji adalah garis keturunan kuat dari klan bangsawan Minamoto selama ratusan tahun, yang menelusuri leluhurnya hingga Kaisar Seiwa. Keshogunan Kamakura dan Ashikaga berasal dari Seiwa Genji, dan keshogunan Tokugawa juga mengaku memiliki garis keturunan itu.",
       "emphasis": [
         {
           "start": 0,
-          "end": 73,
+          "end": 51,
           "style": "strong"
         }
       ]
@@ -837,16 +854,16 @@
       "id": "v1-catatan-penerjemah-appendix001-p042",
       "kind": "text",
       "source": "appendix001.xhtml#p42",
-      "text": "5 “Dicetak dalam kisi tetap empat puluh dua kali tiga puluh dua karakter…” Gagaga Bunko, label penerbit seri My Youth Romantic Comedy dan banyak judul lain, mensyaratkan naskah dengan format ini.",
+      "text": "5 “Semuanya berisi cetakan dalam susunan empat puluh dua kali tiga puluh dua karakter…” Gagaga Bunko, label penerbit seri My Youth Romantic Comedy dan banyak judul lain, mensyaratkan format naskah ini.",
       "emphasis": [
         {
           "start": 0,
-          "end": 74,
+          "end": 87,
           "style": "strong"
         },
         {
-          "start": 109,
-          "end": 133,
+          "start": 122,
+          "end": 146,
           "style": "em"
         }
       ]
@@ -917,16 +934,16 @@
       "id": "v1-catatan-penerjemah-appendix001-p047",
       "kind": "text",
       "source": "appendix001.xhtml#p47",
-      "text": "4 “Apa, kamu membeli hadiah untuk kantor?” Hachiman merujuk pada chuugen, masa pada bulan Juli ketika para pekerja membawa hadiah—biasanya makanan—untuk atasan sebagai tanda terima kasih.",
+      "text": "4 “Memangnya sedang beli hadiah buat kantor?” Hachiman merujuk pada chuugen, masa pada bulan Juli ketika para pekerja membawa hadiah—biasanya makanan—untuk atasan sebagai tanda terima kasih.",
       "emphasis": [
         {
           "start": 0,
-          "end": 42,
+          "end": 45,
           "style": "strong"
         },
         {
-          "start": 65,
-          "end": 72,
+          "start": 68,
+          "end": 75,
           "style": "em"
         }
       ]
@@ -935,16 +952,16 @@
       "id": "v1-catatan-penerjemah-appendix001-p048",
       "kind": "text",
       "source": "appendix001.xhtml#p48",
-      "text": "5 “…seperti mengatakan ‘si tukang ham’.” Rujukan pada iklan TV yang menampilkan paket hadiah ham merek Marudai sebagai hadiah chuugen yang bagus. Si tukang ham pertama diperankan aktor Tetsuya Bessho.",
+      "text": "5 “…seperti julukan ‘si pembawa ham’.” Rujukan pada iklan TV yang menampilkan paket hadiah ham merek Marudai sebagai hadiah chuugen yang bagus. Si pembawa ham pertama diperankan aktor Tetsuya Bessho.",
       "emphasis": [
         {
           "start": 0,
-          "end": 40,
+          "end": 38,
           "style": "strong"
         },
         {
-          "start": 126,
-          "end": 133,
+          "start": 124,
+          "end": 131,
           "style": "em"
         }
       ]
@@ -966,26 +983,26 @@
       "id": "v1-catatan-penerjemah-appendix001-p050",
       "kind": "text",
       "source": "appendix001.xhtml#p50",
-      "text": "7 “Motoku adalah Aku tidak bisa meneruskan ini! seperti tiruan Korosuke…” Korosuke adalah tokoh dalam Kiteretsu Encyclopedia yang memiliki cara bicara sangat khas.",
+      "text": "7 “Motoku, Aku tidak bisa lanjut lagi! dengan gaya Korosuke…” Korosuke adalah tokoh dalam Kiteretsu Encyclopedia yang memiliki cara bicara sangat khas.",
       "emphasis": [
         {
           "start": 0,
-          "end": 16,
+          "end": 10,
           "style": "strong"
         },
         {
-          "start": 17,
-          "end": 47,
+          "start": 11,
+          "end": 38,
           "style": "strong-em"
         },
         {
-          "start": 48,
-          "end": 73,
+          "start": 39,
+          "end": 61,
           "style": "strong"
         },
         {
-          "start": 102,
-          "end": 124,
+          "start": 90,
+          "end": 112,
           "style": "em"
         }
       ]

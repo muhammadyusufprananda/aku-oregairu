@@ -137,7 +137,7 @@
     {
       "id": "v1-opening-insert003-text-07",
       "kind": "text",
-      "text": "Yukino Yukinoshita: “Oh? Aku mendapat kesan kamu menyukaiku.”",
+      "text": "Yukino Yukinoshita: “Oh? Kukira kamu menyukaiku.”",
       "source": "OEBPS/Text/insert003.xhtml#text-companion"
     },
     {
@@ -253,7 +253,7 @@
     {
       "id": "v1-opening-toc-text-12",
       "kind": "text",
-      "text": "Yang tersedia di website ini saat ini adalah Pembuka Volume 1 dan Bab 1. Bagian lain pada daftar isi sumber belum tersedia sebagai bacaan.",
+      "text": "Seluruh bagian Volume 1 tersedia sebagai draf: Pembuka, Bab 1–8, Kata Penutup, dan Catatan Penerjemah Edisi Inggris.",
       "source": "OEBPS/Text/toc.xhtml#text-companion"
     },
     {
@@ -275,7 +275,7 @@
     {
       "id": "v1-opening-preface001-text-02",
       "kind": "text",
-      "text": "Hachiman Hikigaya — Tokoh utama. Murid SMA tahun kedua. Kepribadiannya menyimpang.",
+      "text": "Hachiman Hikigaya — Tokoh utama. Siswa kelas dua SMA dengan kepribadian menyimpang.",
       "source": "OEBPS/Text/preface001.xhtml#text-companion"
     },
     {
@@ -287,7 +287,7 @@
     {
       "id": "v1-opening-preface001-text-04",
       "kind": "text",
-      "text": "Yui Yuigahama — Teman sekelas Hachiman. Cenderung mengkhawatirkan pendapat orang lain.",
+      "text": "Yui Yuigahama — Teman sekelas Hachiman. Selalu mencemaskan pandangan orang di sekitarnya.",
       "source": "OEBPS/Text/preface001.xhtml#text-companion"
     },
     {
@@ -339,25 +339,25 @@
     {
       "id": "v1-opening-preface002-text-04",
       "kind": "text",
-      "text": "Orang-orang yang tanpa henti merayakan masa remaja mereka sedang membohongi diri sendiri dan orang-orang di sekitar mereka. Orang-orang ini menafsirkan segala hal di lingkungan mereka sebagai pembenaran atas keyakinan mereka. Bahkan ketika membuat kesalahan yang berakibat fatal, mereka justru melihat kesalahan itu sebagai bukti berharganya pengalaman masa remaja, lalu mengenang semuanya sebagai bagian dari kenangan indah.",
+      "text": "Mereka yang tak henti merayakan masa muda sedang membohongi diri sendiri dan orang di sekitarnya. Apa pun yang terjadi, mereka tafsirkan sebagai pembenaran keyakinan itu. Bahkan kesalahan fatal dianggap bukti berharganya pengalaman remaja, lalu dikenang sebagai bagian dari kenangan indah.",
       "source": "OEBPS/Text/preface002.xhtml#text-companion"
     },
     {
       "id": "v1-opening-preface002-text-05",
       "kind": "text",
-      "text": "Misalnya, ketika orang-orang seperti ini mengotori tangan dengan tindak kriminal seperti mengutil atau kekerasan berkelompok, mereka menyebutnya sekadar “kenakalan masa muda”. Ketika gagal ujian, mereka berkata bahwa sekolah bukan cuma soal belajar. Mereka akan memelintir akal sehat atau penafsiran wajar atas tindakan mereka atas nama masa muda. Di benak mereka, rahasia, kebohongan, dan bahkan kejahatan serta kegagalan hanyalah bumbu masa muda. Dan lewat kesalahan maupun kegagalan itu, mereka menemukan keunikan diri sendiri. Lalu mereka menyimpulkan bahwa kegagalan-kegagalan itu sepenuhnya bagian dari pengalaman remaja, tetapi kegagalan orang lain hanyalah kekalahan. Kalau kegagalan adalah bukti pengalaman remaja, bukankah orang yang gagal mendapatkan teman justru memiliki pengalaman remaja paling sempurna? Namun, orang-orang ini tidak akan pernah menerima kebenaran itu.",
+      "text": "Misalnya, ketika mengotori tangan dengan kejahatan seperti mengutil atau kekerasan berkelompok, mereka menyebutnya “kenakalan masa muda”. Kalau gagal ujian, mereka bilang sekolah bukan cuma soal belajar. Atas nama masa muda, akal sehat dan penilaian yang wajar pun dipelintir. Bagi mereka, rahasia, kebohongan, kejahatan, bahkan kegagalan hanyalah bumbu masa muda. Dari kesalahan dan kegagalan itu, mereka menemukan keunikan diri. Lalu kegagalan sendiri disebut bagian dari pengalaman remaja, sementara kegagalan orang lain hanyalah kekalahan. Kalau kegagalan membuktikan pengalaman remaja, bukankah orang yang gagal mendapat teman justru memiliki masa remaja paling sempurna? Namun, mereka tidak akan pernah menerima kebenaran itu.",
       "source": "OEBPS/Text/preface002.xhtml#text-companion"
     },
     {
       "id": "v1-opening-preface002-text-06",
       "kind": "text",
-      "text": "Pernyataan mereka tidak lebih dari alasan. Prinsip mereka sepenuhnya didasarkan pada kenyamanan diri sendiri. Jadi, prinsip mereka adalah tipu daya. Kebohongan, penipuan, rahasia, dan kecurangan, semuanya perbuatan tercela.",
+      "text": "Semua ucapan itu cuma alasan. Prinsip mereka dibangun sepenuhnya demi kenyamanan sendiri. Berarti prinsip itu tipu daya. Kebohongan, penipuan, rahasia, dan kecurangan—semuanya perbuatan tercela.",
       "source": "OEBPS/Text/preface002.xhtml#text-companion"
     },
     {
       "id": "v1-opening-preface002-text-07",
       "kind": "text",
-      "text": "Orang-orang ini jahat. Dan itu berarti, secara paradoks, orang-orang yang tidak merayakan masa remaja mereka justru benar dan berbudi luhur.",
+      "text": "Mereka jahat. Jadi, secara paradoks, orang yang tidak merayakan masa mudanya justru benar dan berbudi luhur.",
       "source": "OEBPS/Text/preface002.xhtml#text-companion"
     },
     {
@@ -372,5 +372,19 @@
       "text": "KALIAN KAUM NORMAL, MATI SAJA TERBAKAR.",
       "source": "OEBPS/Text/preface002.xhtml#text-companion"
     }
-  ]
+  ],
+  "translation": {
+    "styleRevision": "AI editorial revision against the owner-provided English EPUB; human translation examples inform general readability only; not a human review",
+    "styleRevisionScope": "Selected paragraphs, dialogue register, narrative flow and contextual terminology; preserve source meaning",
+    "styleRevisedBlocks": [
+      "v1-opening-insert003-text-07",
+      "v1-opening-toc-text-12",
+      "v1-opening-preface001-text-02",
+      "v1-opening-preface001-text-04",
+      "v1-opening-preface002-text-04",
+      "v1-opening-preface002-text-05",
+      "v1-opening-preface002-text-06",
+      "v1-opening-preface002-text-07"
+    ]
+  }
 }

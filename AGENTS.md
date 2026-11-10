@@ -312,3 +312,10 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - `volumes-3-6-sources.json` maps 8,392 source blocks and 127 uncropped illustrations. Thirty-two illustrated text pages have 208 translated companion blocks. Inline arrows, circled 8, and small Japanese character examples remain text rather than image pages.
 - `tools/prepare_volumes3_6.py` prepares local inputs from existing English editions; translation services/OCR do not run in production or CI. Do not regenerate Indonesian prose automatically from machine output.
 - Preserve Volume 1–2 anchors/content, all English editions, shared reader behavior, white defaults, and settings/progress schema 2. Volume 6.5 remains untranslated and outside this request.
+
+## 19. Volume 1 language revision
+
+- Owner approved using human translation examples as a readability benchmark, with restrained slang, natural aku–kamu/kau dialogue, saya–Ibu to teachers, and source meaning/Japanese context preserved. Do not copy or import third-party chapter prose.
+- All eleven Volume 1 sections received selective AI language editing; 803 text blocks changed. Revision block IDs are recorded in each file's `translation.styleRevisedBlocks`. See `docs/editorial/volume-1-style-revision.md` and the glossary for scope and unresolved wordplay.
+- The owner-provided English EPUB remains the meaning reference. Preserve the initial machine/AI method history. All sections remain `draft`; style approval does not constitute human review.
+- Preserve existing IDs, source references, illustrations, English editions, other volumes, reader behavior, and schema-2 settings/progress. Update emphasis offsets semantically whenever prose changes.

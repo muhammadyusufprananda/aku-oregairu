@@ -1,7 +1,192 @@
 {
   "translation": {
     "sourceLanguage": "en",
-    "initialDraft": "Google Translate + AI"
+    "initialDraft": "Google Translate + AI",
+    "styleRevision": "AI editorial revision against the owner-provided English EPUB; human translation examples inform general readability only; not a human review",
+    "styleRevisionScope": "Selected paragraphs, dialogue register, narrative flow and contextual terminology; preserve source meaning",
+    "styleRevisedBlocks": [
+      "v1-bab-6-chapter006-p001",
+      "v1-bab-6-chapter006-p002",
+      "v1-bab-6-chapter006-p003",
+      "v1-bab-6-chapter006-p004",
+      "v1-bab-6-chapter006-p008",
+      "v1-bab-6-chapter006-p013",
+      "v1-bab-6-chapter006-p014",
+      "v1-bab-6-chapter006-p015",
+      "v1-bab-6-chapter006-p016",
+      "v1-bab-6-chapter006-p017",
+      "v1-bab-6-chapter006-p018",
+      "v1-bab-6-chapter006-p020",
+      "v1-bab-6-chapter006-p022",
+      "v1-bab-6-chapter006-p024",
+      "v1-bab-6-chapter006-p025",
+      "v1-bab-6-chapter006-p026",
+      "v1-bab-6-chapter006-p028",
+      "v1-bab-6-chapter006-p029",
+      "v1-bab-6-chapter006-p030",
+      "v1-bab-6-chapter006-p032",
+      "v1-bab-6-chapter006-p036",
+      "v1-bab-6-chapter006-p038",
+      "v1-bab-6-chapter006-p039",
+      "v1-bab-6-chapter006-p041",
+      "v1-bab-6-chapter006-p042",
+      "v1-bab-6-chapter006-p045",
+      "v1-bab-6-chapter006-p050",
+      "v1-bab-6-chapter006-p051",
+      "v1-bab-6-chapter006-p054",
+      "v1-bab-6-chapter006-p055",
+      "v1-bab-6-chapter006-p056",
+      "v1-bab-6-chapter006-p057",
+      "v1-bab-6-chapter006-p058",
+      "v1-bab-6-chapter006-p059",
+      "v1-bab-6-chapter006-p061",
+      "v1-bab-6-chapter006-p063",
+      "v1-bab-6-chapter006-p064",
+      "v1-bab-6-chapter006-p066",
+      "v1-bab-6-chapter006-p067",
+      "v1-bab-6-chapter006-p068",
+      "v1-bab-6-chapter006-p071",
+      "v1-bab-6-chapter006-p072",
+      "v1-bab-6-chapter006-p074",
+      "v1-bab-6-chapter006-p080",
+      "v1-bab-6-chapter006-p081",
+      "v1-bab-6-chapter006-p084",
+      "v1-bab-6-chapter006-p085",
+      "v1-bab-6-chapter006-p086",
+      "v1-bab-6-chapter006-p087",
+      "v1-bab-6-chapter006-p089",
+      "v1-bab-6-chapter006-p090",
+      "v1-bab-6-chapter006-p096",
+      "v1-bab-6-chapter006-p097",
+      "v1-bab-6-chapter006-p098",
+      "v1-bab-6-chapter006-p100",
+      "v1-bab-6-chapter006-p101",
+      "v1-bab-6-chapter006-p102",
+      "v1-bab-6-chapter006-p104",
+      "v1-bab-6-chapter006-p106",
+      "v1-bab-6-chapter006-p107",
+      "v1-bab-6-chapter006-p108",
+      "v1-bab-6-chapter006-p110",
+      "v1-bab-6-chapter006-p112",
+      "v1-bab-6-chapter006-p116",
+      "v1-bab-6-chapter006-p120",
+      "v1-bab-6-chapter006-p124",
+      "v1-bab-6-chapter006-p127",
+      "v1-bab-6-chapter006-p128",
+      "v1-bab-6-chapter006-p133",
+      "v1-bab-6-chapter006-p135",
+      "v1-bab-6-chapter006-p139",
+      "v1-bab-6-chapter006-p140",
+      "v1-bab-6-chapter006-p141",
+      "v1-bab-6-chapter006-p143",
+      "v1-bab-6-chapter006-p147",
+      "v1-bab-6-chapter006-p148",
+      "v1-bab-6-chapter006-p151",
+      "v1-bab-6-chapter006-p153",
+      "v1-bab-6-chapter006-p157",
+      "v1-bab-6-chapter006-p158",
+      "v1-bab-6-chapter006-p160",
+      "v1-bab-6-chapter006_b-p001",
+      "v1-bab-6-chapter006_b-p002",
+      "v1-bab-6-chapter006_b-p004",
+      "v1-bab-6-chapter006_b-p007",
+      "v1-bab-6-chapter006_b-p011",
+      "v1-bab-6-chapter006_b-p013",
+      "v1-bab-6-chapter006_b-p014",
+      "v1-bab-6-chapter006_b-p016",
+      "v1-bab-6-chapter006_b-p017",
+      "v1-bab-6-chapter006_b-p019",
+      "v1-bab-6-chapter006_b-p020",
+      "v1-bab-6-chapter006_b-p024",
+      "v1-bab-6-chapter006_b-p029",
+      "v1-bab-6-chapter006_b-p031",
+      "v1-bab-6-chapter006_b-p034",
+      "v1-bab-6-chapter006_b-p035",
+      "v1-bab-6-chapter006_b-p037",
+      "v1-bab-6-chapter006_b-p039",
+      "v1-bab-6-chapter006_b-p042",
+      "v1-bab-6-chapter006_b-p043",
+      "v1-bab-6-chapter006_b-p044",
+      "v1-bab-6-chapter006_b-p048",
+      "v1-bab-6-chapter006_b-p049",
+      "v1-bab-6-chapter006_b-p054",
+      "v1-bab-6-chapter006_b-p055",
+      "v1-bab-6-chapter006_b-p059",
+      "v1-bab-6-chapter006_b-p065",
+      "v1-bab-6-chapter006_b-p066",
+      "v1-bab-6-chapter006_b-p070",
+      "v1-bab-6-chapter006_b-p074",
+      "v1-bab-6-chapter006_b-p079",
+      "v1-bab-6-chapter006_b-p082",
+      "v1-bab-6-chapter006_b-p084",
+      "v1-bab-6-chapter006_b-p085",
+      "v1-bab-6-chapter006_b-p092",
+      "v1-bab-6-chapter006_b-p093",
+      "v1-bab-6-chapter006_b-p094",
+      "v1-bab-6-chapter006_b-p096",
+      "v1-bab-6-chapter006_b-p097",
+      "v1-bab-6-chapter006_b-p099",
+      "v1-bab-6-chapter006_b-p104",
+      "v1-bab-6-chapter006_b-p110",
+      "v1-bab-6-chapter006_b-p111",
+      "v1-bab-6-chapter006_b-p113",
+      "v1-bab-6-chapter006_b-p115",
+      "v1-bab-6-chapter006_b-p116",
+      "v1-bab-6-chapter006_b-p117",
+      "v1-bab-6-chapter006_b-p120",
+      "v1-bab-6-chapter006_b-p123",
+      "v1-bab-6-chapter006_b-p129",
+      "v1-bab-6-chapter006_b-p130",
+      "v1-bab-6-chapter006_b-p132",
+      "v1-bab-6-chapter006_b-p134",
+      "v1-bab-6-chapter006_b-p135",
+      "v1-bab-6-chapter006_b-p136",
+      "v1-bab-6-chapter006_b-p138",
+      "v1-bab-6-chapter006_b-p140",
+      "v1-bab-6-chapter006_b-p142",
+      "v1-bab-6-chapter006_b-p143",
+      "v1-bab-6-chapter006_b-p144",
+      "v1-bab-6-chapter006_b-p146",
+      "v1-bab-6-chapter006_b-p147",
+      "v1-bab-6-chapter006_b-p148",
+      "v1-bab-6-chapter006_b-p149",
+      "v1-bab-6-chapter006_b-p152",
+      "v1-bab-6-chapter006_b-p154",
+      "v1-bab-6-chapter006_b-p158",
+      "v1-bab-6-chapter006_b-p161",
+      "v1-bab-6-chapter006_b-p166",
+      "v1-bab-6-chapter006_b-p167",
+      "v1-bab-6-chapter006_b-p169",
+      "v1-bab-6-chapter006_b-p170",
+      "v1-bab-6-chapter006_b-p173",
+      "v1-bab-6-chapter006_b-p177",
+      "v1-bab-6-chapter006_b-p179",
+      "v1-bab-6-chapter006_b-p181",
+      "v1-bab-6-chapter006_b-p182",
+      "v1-bab-6-chapter006_b-p183",
+      "v1-bab-6-chapter006_b-p187",
+      "v1-bab-6-chapter006_b-p189",
+      "v1-bab-6-chapter006_b-p190",
+      "v1-bab-6-chapter006_b-p193",
+      "v1-bab-6-chapter006_b-p198",
+      "v1-bab-6-chapter006_b-p199",
+      "v1-bab-6-chapter006_b-p201",
+      "v1-bab-6-chapter006_b-p206",
+      "v1-bab-6-chapter006_b-p209",
+      "v1-bab-6-chapter006_b-p212",
+      "v1-bab-6-chapter006_b-p213",
+      "v1-bab-6-chapter006_b-p217",
+      "v1-bab-6-chapter006_b-p218",
+      "v1-bab-6-chapter006_b-p219",
+      "v1-bab-6-chapter006_b-p224",
+      "v1-bab-6-chapter006_b-p228",
+      "v1-bab-6-chapter006_b-p231",
+      "v1-bab-6-chapter006_b-p232",
+      "v1-bab-6-chapter006_b-p233",
+      "v1-bab-6-chapter006_b-p235",
+      "v1-bab-6-chapter006_b-p240",
+      "v1-bab-6-chapter006_b-p242"
+    ]
   },
   "blocks": [
     {
@@ -23,26 +208,26 @@
       "id": "v1-bab-6-chapter006-p001",
       "kind": "text",
       "source": "chapter006.xhtml#p1",
-      "text": "Adik perempuanku, Komachi, memegang sepotong roti panggang yang diolesi selai di satu tangannya sambil dengan antusias membaca majalah fashion. Aku mengintipnya dari samping sambil meminum kopi hitam pagiku. Artikel-artikel di majalah tersebut dipenuhi dengan istilah-istilah yang sangat menjengkelkan seperti seks aman dan sangat hot. Aku merasa semakin bodoh hanya dengan membacanya, kopiku mengalir keluar dari sudut mulutku saat aku berkeluh. Ayolah, apakah ini nyata? Apakah Jepang akan baik-baik saja? Bagi aku, jika kamu menilai kecerdasan artikel ini berdasarkan kurva lonceng, hasilnya hanya sekitar persentil ke dua puluh lima. Terlebih lagi, adikku mengangguk-angguk saat membacanya. Bagian mana yang menarik bagi kamu?",
+      "text": "Adikku, Komachi, memegang roti panggang berselai sambil asyik membaca majalah mode. Aku mengintip dari samping seraya menyeruput kopi hitam. Artikelnya penuh istilah menjengkelkan seperti seks aman dan superseksi. Membacanya saja membuatku merasa makin bodoh. Kopi sampai menetes dari sudut mulutku saat aku mendesah. Serius? Jepang bakal baik-baik saja? Kalau kecerdasan artikel ini dinilai dengan kurva lonceng, paling hanya mencapai persentil kedua puluh lima. Lebih parah lagi, adikku mengangguk-angguk membacanya. Bagian mana yang menarik buatmu?",
       "emphasis": [
         {
-          "start": 310,
-          "end": 319,
+          "start": 188,
+          "end": 197,
           "style": "em"
         },
         {
-          "start": 324,
-          "end": 334,
+          "start": 202,
+          "end": 212,
           "style": "em"
         },
         {
-          "start": 437,
-          "end": 445,
+          "start": 308,
+          "end": 316,
           "style": "em"
         },
         {
-          "start": 695,
-          "end": 730,
+          "start": 519,
+          "end": 551,
           "style": "em"
         }
       ]
@@ -51,21 +236,21 @@
       "id": "v1-bab-6-chapter006-p002",
       "kind": "text",
       "source": "chapter006.xhtml#p2",
-      "text": "Aku diberi tahu bahwa majalah fesyen ini, Heaventeen, adalah majalah nomor satu di kalangan siswi sekolah menengah, dan faktanya, mereka yang tidak membacanya justru akan ditindas. Komachi berkata ooh dengan penuh apresiasi sambil menjatuhkan remah-remah di halaman itu. Apakah kamu melakukan solo Hansel dan Gretel atau apa?",
+      "text": "Katanya majalah mode Heaventeen ini paling populer di kalangan siswi SMP. Malah, yang tidak membacanya akan dirundung. Komachi berseru, “Ooh,” dengan kagum sambil menjatuhkan remah roti ke halamannya. Kamu sedang memainkan Hansel dan Gretel sendirian?",
       "emphasis": [
         {
-          "start": 42,
-          "end": 52,
+          "start": 21,
+          "end": 31,
           "style": "em"
         },
         {
-          "start": 197,
-          "end": 200,
+          "start": 137,
+          "end": 140,
           "style": "em"
         },
         {
-          "start": 271,
-          "end": 325,
+          "start": 201,
+          "end": 251,
           "style": "em"
         }
       ]
@@ -74,13 +259,13 @@
       "id": "v1-bab-6-chapter006-p003",
       "kind": "text",
       "source": "chapter006.xhtml#p3",
-      "text": "Saat itu pukul tujuh empat puluh lima. “Hei. Lihat jamnya.” Adikku sedang asyik membaca majalah, jadi aku menyodok bahunya dengan sikuku dan memberi tahu dia bahwa sudah waktunya untuk pergi."
+      "text": "Pukul tujuh empat puluh lima. “Hei, lihat jam.” Kusenggol bahu adikku yang masih asyik membaca itu, mengingatkan bahwa sudah waktunya berangkat."
     },
     {
       "id": "v1-bab-6-chapter006-p004",
       "kind": "text",
       "source": "chapter006.xhtml#p4",
-      "text": "Komachi mengangkat kepalanya sambil terkesiap dan memeriksa jam. “Ack! Sial!” teriaknya sambil segera menutup majalah itu dengan tamparan dan berdiri."
+      "text": "Komachi tersentak dan melihat jam. “Ah! Gawat!” Dia menutup majalah dengan cepat, lalu berdiri."
     },
     {
       "id": "v1-bab-6-chapter006-p005",
@@ -104,7 +289,7 @@
       "id": "v1-bab-6-chapter006-p008",
       "kind": "text",
       "source": "chapter006.xhtml#p8",
-      "text": "Adikku mengusap mulutnya dengan lengan piyama sambil menggerutu, “Oh, sial!” Dia pria yang cukup tampan, adikku."
+      "text": "Adikku mengusap mulut dengan lengan piama sambil menggerutu, “Duh, sial!” Gagah sekali adikku ini."
     },
     {
       "id": "v1-bab-6-chapter006-p009",
@@ -141,11 +326,11 @@
       "id": "v1-bab-6-chapter006-p013",
       "kind": "text",
       "source": "chapter006.xhtml#p13",
-      "text": "Adik perempuan adalah makhluk misterius. Tidak peduli betapa lucunya mereka, kamu tidak merasakan apa pun terhadapnya. Aku hanya bisa menganggap celana dalamnya hanya sebagai potongan kain belaka. Dia manis, tapi yang terpikir olehku hanyalah Kurasa itu karena dia mirip denganku. Begitulah yang terjadi dengan adik perempuan sebenarnya.",
+      "text": "Adik perempuan itu makhluk aneh. Semanis apa pun, kamu tidak merasakan apa-apa. Celana dalamnya cuma terlihat seperti potongan kain. Dia memang manis, tapi yang terpikir hanya, Pasti karena mirip denganku. Begitulah adik perempuan sungguhan.",
       "emphasis": [
         {
-          "start": 243,
-          "end": 279,
+          "start": 177,
+          "end": 204,
           "style": "em"
         }
       ]
@@ -154,22 +339,22 @@
       "id": "v1-bab-6-chapter006-p014",
       "kind": "text",
       "source": "chapter006.xhtml#p14",
-      "text": "Aku melirik Komachi sambil mengenakan seragam yang tidak rapi. Dia memamerkan celana dalamnya di bawah rok selututnya sambil mengenakan kaus kaki dan menggulungnya dua kali hingga ke mata kaki. Aku menarik susu dan gula ke arahku."
+      "text": "Kulirik Komachi yang sedang asal mengenakan seragam. Celana dalamnya terlihat di bawah rok selutut saat dia memakai kaus kaki, lalu menggulungnya dua kali hingga mata kaki. Kutarik susu dan gula ke dekatku."
     },
     {
       "id": "v1-bab-6-chapter006-p015",
       "kind": "text",
       "source": "chapter006.xhtml#p15",
-      "text": "Mungkin dia mencoba memperbesar payudaranya bulan ini atau semacamnya, karena akhir-akhir ini dia banyak minum susu. Aku tidak terlalu peduli. Namun jika kalimat susu yang diminum adikku dicetak miring dan terdengar bermakna, maka kalimat tersebut terdengar agak cabul dan tidak senonoh. Tapi siapa yang benar-benar peduli? Aku tidak menarik gula dan susu ke arah aku karena itu adalah susu yang diminum adik aku. Aku hanya ingin memasukkannya ke dalam kopiku.",
+      "text": "Mungkin bulan ini dia sedang ingin membesarkan payudara, karena belakangan dia banyak minum susu. Aku tidak begitu peduli. Tapi kalau susu yang diminum adikku ditulis miring seolah bermakna khusus, rasanya jadi agak cabul. Yah, siapa peduli? Aku mengambil susu dan gula bukan karena itu susu yang diminum adikku. Aku cuma ingin menambahkannya ke kopi.",
       "emphasis": [
         {
-          "start": 162,
-          "end": 186,
+          "start": 134,
+          "end": 158,
           "style": "em"
         },
         {
-          "start": 386,
-          "end": 412,
+          "start": 287,
+          "end": 311,
           "style": "em"
         }
       ]
@@ -178,19 +363,19 @@
       "id": "v1-bab-6-chapter006-p016",
       "kind": "text",
       "source": "chapter006.xhtml#p16",
-      "text": "Aku adalah anak kandung dari Chiba, yang menurut mereka direndam dalam kopi Max saat mandi pertama mereka dan disusui bukannya ASI, jadi kopiku harus manis. Susu kental akan lebih baik lagi. Tapi aku juga bisa meminumnya dalam keadaan hitam, oke?"
+      "text": "Sebagai putra asli Chiba—yang konon dimandikan dengan kopi Max sejak lahir dan dibesarkan dengan kopi itu sebagai pengganti ASI—kopiku harus manis. Kalau ada susu kental, lebih bagus lagi. Tapi kopi hitam pun bisa kuminum, ya."
     },
     {
       "id": "v1-bab-6-chapter006-p017",
       "kind": "text",
       "source": "chapter006.xhtml#p17",
-      "text": "“Hidup ini pahit, jadi kopi setidaknya harus manis,” gumamku dalam hati, sambil membuang kembali minuman yang banyak mengandung gula. Kalimat itu bisa saja menjadi slogan kopi Max."
+      "text": "“Hidup sudah pahit, setidaknya kopi harus manis,” gumamku sambil menenggak kopi sarat gula itu. Cocok juga jadi slogan kopi Max."
     },
     {
       "id": "v1-bab-6-chapter006-p018",
       "kind": "text",
       "source": "chapter006.xhtml#p18",
-      "text": "Bagus sekali… Maksud aku, salinan iklan yang baru saja aku buat. Mereka seharusnya benar-benar menggunakannya.",
+      "text": "Bagus sekali… Maksudku, kalimat iklan yang baru kubuat. Seharusnya mereka benar-benar memakainya.",
       "emphasis": [
         {
           "start": 0,
@@ -209,11 +394,11 @@
       "id": "v1-bab-6-chapter006-p020",
       "kind": "text",
       "source": "chapter006.xhtml#p20",
-      "text": "“Bro masih minum kopinya.” Jawabku, melakukan peniruan identitas yang sama sekali tidak mirip dengan apa yang kulihat di tayangan ulang From the Northern Country.",
+      "text": "“Kakak masih minum kopi, nih,” jawabku, menirukan dialog tayangan ulang From the Northern Country dengan suara yang sama sekali tidak mirip.",
       "emphasis": [
         {
-          "start": 136,
-          "end": 161,
+          "start": 72,
+          "end": 97,
           "style": "em"
         }
       ]
@@ -228,7 +413,7 @@
       "id": "v1-bab-6-chapter006-p022",
       "kind": "text",
       "source": "chapter006.xhtml#p22",
-      "text": "Hal ini terjadi beberapa bulan yang lalu, tapi kali ini, adik perempuanku yang idiot tidur dan terlambat ke sekolah, jadi aku akhirnya menggendongnya di belakang sepedaku. Sejak saat itu, lambat laun aku semakin sering mengantarnya ke sekolah."
+      "text": "Beberapa bulan lalu, adikku yang bodoh ini pernah kesiangan. Karena dia bakal terlambat, akhirnya kuantar ke sekolah dengan memboncengkannya di sepeda. Sejak itu, makin lama makin sering aku mengantarnya."
     },
     {
       "id": "v1-bab-6-chapter006-p023",
@@ -247,19 +432,19 @@
       "id": "v1-bab-6-chapter006-p024",
       "kind": "text",
       "source": "chapter006.xhtml#p24",
-      "text": "“Kalau begitu aku akan menjagamu, oke?” Dia menyeringai. Aku selalu menganggapnya sebagai seorang anak kecil, tapi raut wajahnya terlihat dewasa. Aku merasakan jantungku berdetak kencang. “Aku akan bekerja keras, menghemat uang, dan menempatkanmu di panti jompo atau semacamnya.”"
+      "text": "“Kalau begitu, nanti aku yang urus, ya?” Dia menyeringai. Selama ini kuanggap masih anak-anak, tetapi ekspresinya mendadak dewasa. Jantungku sempat berdebar. “Aku akan kerja keras, nabung, terus memasukkan Kakak ke panti jompo atau semacamnya.”"
     },
     {
       "id": "v1-bab-6-chapter006-p025",
       "kind": "text",
       "source": "chapter006.xhtml#p25",
-      "text": "Mungkin kurang dewasa dan lebih seperti orang dewasa pada umumnya."
+      "text": "Bukan dewasa rupanya. Lebih tepatnya, berpikir seperti orang dewasa pada umumnya."
     },
     {
       "id": "v1-bab-6-chapter006-p026",
       "kind": "text",
       "source": "chapter006.xhtml#p26",
-      "text": "“Kamu benar-benar adik perempuanku.” aku menghela napas. Aku meneguk sisa kopiku dan berdiri. Komachi mendorong punggungku:"
+      "text": "“Benar-benar adikku.” Aku menghela napas, menenggak sisa kopi, lalu berdiri. Komachi mendorong punggungku."
     },
     {
       "id": "v1-bab-6-chapter006-p027",
@@ -271,11 +456,11 @@
       "id": "v1-bab-6-chapter006-p028",
       "kind": "text",
       "source": "chapter006.xhtml#p28",
-      "text": "“Dasar bocah…” Jika dia bukan adikku, aku pasti akan memberinya tendangan. Biasanya sebaliknya, tapi di rumah Hikigaya, segalanya berbeda. Ayahku sangat menyayangi adik perempuanku, dan perkataannya yang terkenal tentang Aku akan membunuh pria mana pun yang mendekatinya, bahkan kakak laki-lakinya telah membuatku mundur. Jika aku mencoba menendangnya, aku akan dipukuli dan diusir dari rumah.",
+      "text": "“Dasar bocah…” Kalau bukan adikku, sudah kutendang. Biasanya justru sebaliknya, tapi keluarga Hikigaya berbeda. Ayah sangat menyayangi adikku. Ucapannya yang terkenal, Akan kubunuh laki-laki yang mendekatinya, termasuk kakaknya sendiri, membuatku mundur teratur. Kalau berani menendangnya, aku yang akan dipukuli dan diusir.",
       "emphasis": [
         {
-          "start": 221,
-          "end": 297,
+          "start": 168,
+          "end": 235,
           "style": "em"
         }
       ]
@@ -284,13 +469,13 @@
       "id": "v1-bab-6-chapter006-p029",
       "kind": "text",
       "source": "chapter006.xhtml#p29",
-      "text": "Dengan kata lain, aku adalah kasta terendah di rumah aku sendiri. Jangankan tentang sekolah."
+      "text": "Dengan kata lain, di rumah sendiri pun kastaku paling rendah. Apalagi di sekolah."
     },
     {
       "id": "v1-bab-6-chapter006-p030",
       "kind": "text",
       "source": "chapter006.xhtml#p30",
-      "text": "Aku berjalan keluar pintu dan melemparkan kakiku ke atas sepedaku, dan Komachi naik ke belakang. Dia melingkarkan tangannya erat-erat di pinggangku dan memegangnya erat-erat. Ayo pergi!"
+      "text": "Aku keluar rumah dan menaiki sepeda. Komachi naik ke belakang, melingkarkan tangan erat-erat di pinggangku. Ayo berangkat!"
     },
     {
       "id": "v1-bab-6-chapter006-p031",
@@ -302,7 +487,7 @@
       "id": "v1-bab-6-chapter006-p032",
       "kind": "text",
       "source": "chapter006.xhtml#p32",
-      "text": "Aku dengan ringan menyuruh kami melaju, dan Komachi mengomel, “Jangan sampai terjadi kecelakaan kali ini. Karena aku akan berangkat bersamamu hari ini.”"
+      "text": "Aku mulai mengayuh pelan, dan Komachi berpesan, “Kali ini jangan kecelakaan, ya. Soalnya aku ikut.”"
     },
     {
       "id": "v1-bab-6-chapter006-p033",
@@ -326,7 +511,7 @@
       "id": "v1-bab-6-chapter006-p036",
       "kind": "text",
       "source": "chapter006.xhtml#p36",
-      "text": "“Terutama saat aku berkendara bersamamu. Untuk yang serius.”"
+      "text": "“Apalagi kalau aku ikut. Serius.”"
     },
     {
       "id": "v1-bab-6-chapter006-p037",
@@ -355,13 +540,13 @@
       "id": "v1-bab-6-chapter006-p038",
       "kind": "text",
       "source": "chapter006.xhtml#p38",
-      "text": "Pada hari upacara penerimaanku, aku mengalami kecelakaan lalu lintas. Aku begitu gembira dengan upacara dan kehidupan baruku, aku meninggalkan rumah satu jam lebih awal, tapi itu bukan hari keberuntunganku."
+      "text": "Pada hari upacara penerimaan siswa baru, aku mengalami kecelakaan lalu lintas. Saking bersemangat menyambut upacara dan kehidupan baru, aku berangkat satu jam lebih awal. Sayangnya, hari itu bukan hari keberuntunganku."
     },
     {
       "id": "v1-bab-6-chapter006-p039",
       "kind": "text",
       "source": "chapter006.xhtml#p39",
-      "text": "Saat itu sekitar jam tujuh pagi, menurutku. Seorang gadis sedang berjalan-jalan dengan anjingnya di lingkungan sekitar, dan anjing itu sudah terlepas dari tali pengikatnya. Sayangnya, saat itu, sebuah limusin yang tampak mewah melaju. Sebelum aku tahu apa yang aku lakukan, aku berlari secepat yang aku bisa. Pada akhirnya, aku dibawa dengan ambulans dan dirawat di rumah sakit. Kejadian itu menentukan nasibku sebagai seorang penyendiri di sekolah baruku."
+      "text": "Kalau tidak salah, sekitar pukul tujuh pagi. Seorang gadis sedang mengajak anjingnya berjalan-jalan, lalu anjing itu lepas dari tali. Sialnya, sebuah limusin mewah melintas tepat saat itu. Sebelum sempat berpikir, aku sudah berlari sekuat tenaga. Akhirnya, aku dibawa ambulans dan dirawat di rumah sakit. Kejadian itulah yang menetapkan nasibku sebagai penyendiri di sekolah baru."
     },
     {
       "id": "v1-bab-6-chapter006-p040",
@@ -373,11 +558,11 @@
       "id": "v1-bab-6-chapter006-p041",
       "kind": "text",
       "source": "chapter006.xhtml#p41",
-      "text": "Aku terselamatkan dalam artian cedera aku tidak terlalu parah. Namun, tidak ada yang bisa menyelamatkanku, dari kenyataan bahwa tidak ada seorang pun yang datang menemuiku di rumah sakit kecuali keluargaku. Mereka mengunjungi aku setiap tiga hari. Hei, kamu harus berkunjung setiap hari!",
+      "text": "Untung cederaku tidak terlalu parah. Tapi kenyataan bahwa hanya keluargaku yang menjenguk sudah tidak tertolong lagi. Mereka datang tiga hari sekali. Hei, mestinya tiap hari!",
       "emphasis": [
         {
-          "start": 248,
-          "end": 287,
+          "start": 150,
+          "end": 174,
           "style": "em"
         }
       ]
@@ -386,16 +571,16 @@
       "id": "v1-bab-6-chapter006-p042",
       "kind": "text",
       "source": "chapter006.xhtml#p42",
-      "text": "Setelah aku dirawat di rumah sakit, tampaknya sudah menjadi tradisi keluarga bagi orang tua aku untuk mengajak adik perempuan aku pergi makan. Setiap kali mereka berkunjung, mereka memberi tahuku detailnya, dengan mengatakan hal-hal seperti Kami makan sushi beberapa hari yang lalu atau Kami mengadakan barbekyu. Aku mempertimbangkan untuk menjentikkan jari kelingking adikku.",
+      "text": "Sejak aku dirawat, orang tuaku rupanya membentuk tradisi baru: mengajak adikku makan di luar. Tiap menjenguk, mereka melaporkan rinciannya. Kemarin kami makan sushi, atau Kami makan barbeku. Rasanya ingin kupatahkan kelingking adikku.",
       "emphasis": [
         {
-          "start": 241,
-          "end": 281,
+          "start": 140,
+          "end": 164,
           "style": "em"
         },
         {
-          "start": 287,
-          "end": 312,
+          "start": 171,
+          "end": 190,
           "style": "em"
         }
       ]
@@ -423,7 +608,7 @@
       "id": "v1-bab-6-chapter006-p045",
       "kind": "text",
       "source": "chapter006.xhtml#p45",
-      "text": "“Kamu tidak bisa dimengerti lagi, Bro.”"
+      "text": "“Kakak ngomong enggak jelas lagi.”"
     },
     {
       "id": "v1-bab-6-chapter006-p046",
@@ -453,13 +638,13 @@
       "id": "v1-bab-6-chapter006-p050",
       "kind": "text",
       "source": "chapter006.xhtml#p50",
-      "text": "“Kamu buruk dalam berbicara.”"
+      "text": "“Kamu yang payah bicara.”"
     },
     {
       "id": "v1-bab-6-chapter006-p051",
       "kind": "text",
       "source": "chapter006.xhtml#p51",
-      "text": "“Jadi ya, setelah kecelakaanmu, pemilik anjing itu datang ke tempat kita untuk mengucapkan terima kasih.”"
+      "text": "“Jadi, setelah Kakak kecelakaan, pemilik anjingnya datang ke rumah buat bilang terima kasih.”"
     },
     {
       "id": "v1-bab-6-chapter006-p052",
@@ -477,11 +662,11 @@
       "id": "v1-bab-6-chapter006-p054",
       "kind": "text",
       "source": "chapter006.xhtml#p54",
-      "text": "“Hei, aku jelas tidak mengerti semua itu. Kenapa kamu memakan semuanya tanpa memberitahuku?” tuntutku sambil berbalik, tapi Komachi hanya tersenyum malu-malu, terkikik seperti tee-hee. Dia sangat menyebalkan.",
+      "text": "“Hei, aku tidak kebagian. Kenapa dihabiskan tanpa bilang-bilang?” protesku sambil menoleh. Komachi hanya terkikik, “Hehe,” dengan malu-malu. Menyebalkan sekali.",
       "emphasis": [
         {
-          "start": 176,
-          "end": 183,
+          "start": 116,
+          "end": 120,
           "style": "em"
         }
       ]
@@ -496,31 +681,31 @@
       "id": "v1-bab-6-chapter006-p055",
       "kind": "text",
       "source": "chapter006.xhtml#p55",
-      "text": "“Tapi kamu bersekolah di sekolah yang sama, tahu? Kalian belum pernah bertemu? Mereka bilang akan mengucapkan terima kasih padamu di sekolah.”"
+      "text": "“Padahal kalian satu sekolah, lho. Belum pernah ketemu? Katanya nanti mau bilang terima kasih di sekolah.”"
     },
     {
       "id": "v1-bab-6-chapter006-p056",
       "kind": "text",
       "source": "chapter006.xhtml#p56",
-      "text": "Tanpa berpikir panjang, aku langsung berhenti. Komachi berteriak, “Ah!” dan membenamkan wajahnya di punggungku. “Kenapa kamu berhenti tiba-tiba ?!”"
+      "text": "Tanpa berpikir, aku mengerem mendadak. “Ah!” seru Komachi, wajahnya menabrak punggungku. “Kenapa berhenti tiba-tiba?!”"
     },
     {
       "id": "v1-bab-6-chapter006-p057",
       "kind": "text",
       "source": "chapter006.xhtml#p57",
-      "text": "“Kenapa kamu tidak memberitahuku hal itu sebelumnya? Apakah kamu tidak mendapatkan nama?”"
+      "text": "“Kenapa baru bilang sekarang? Kamu tidak tanya namanya?”"
     },
     {
       "id": "v1-bab-6-chapter006-p058",
       "kind": "text",
       "source": "chapter006.xhtml#p58",
-      "text": "“Hah? Menurutku dia adalah 'orang yang manis-manis'?”"
+      "text": "“Hah? Kayaknya ‘si oleh-oleh manis’?”"
     },
     {
       "id": "v1-bab-6-chapter006-p059",
       "kind": "text",
       "source": "chapter006.xhtml#p59",
-      "text": "“Apa, kamu membeli hadiah untuk kantor? Dan jangan mengatakannya seperti kamu mengatakan 'si tukang ham'. Siapa nama sebenarnya?”"
+      "text": "“Memangnya sedang beli hadiah buat kantor? Dan jangan bilang begitu seperti julukan ‘si pembawa ham’. Siapa nama aslinya?”"
     },
     {
       "id": "v1-bab-6-chapter006-p060",
@@ -532,7 +717,7 @@
       "id": "v1-bab-6-chapter006-p061",
       "kind": "text",
       "source": "chapter006.xhtml#p61",
-      "text": "“Anak nakal.” Aku memelototinya yang mundur."
+      "text": "“Dasar bocah.” Kupelototi punggungnya yang menjauh."
     },
     {
       "id": "v1-bab-6-chapter006-p062",
@@ -544,13 +729,13 @@
       "id": "v1-bab-6-chapter006-p063",
       "kind": "text",
       "source": "chapter006.xhtml#p63",
-      "text": "Aku menghela napas ringan karena kesal, memutar sepedaku, dan menuju ke sekolah…sekolah dimana pemilik anjing tersebut diduga berada."
+      "text": "Sambil menghela napas kesal, kuputar sepeda dan melanjutkan perjalanan ke sekolah… tempat pemilik anjing itu konon berada."
     },
     {
       "id": "v1-bab-6-chapter006-p064",
       "kind": "text",
       "source": "chapter006.xhtml#p64",
-      "text": "Aku tidak punya keinginan khusus untuk bertemu. Aku hanya sedikit penasaran. Namun jika kami tidak bertemu setelah bersekolah di sekolah yang sama selama lebih dari setahun, ketidaktertarikan untuk berkumpul kembali mungkin bersifat timbal balik. Ya, begitulah kelanjutannya. Aku telah menyelamatkan anjing seseorang dan mengalami patah tulang. Datang ke rumahku untuk mengucapkan terima kasih mungkin sudah cukup."
+      "text": "Aku tidak terlalu ingin bertemu. Hanya sedikit penasaran. Tapi kalau setelah setahun lebih di sekolah yang sama kami belum bertemu, mungkin kami memang sama-sama tidak berminat. Ya, begitulah. Aku menyelamatkan anjingnya dan patah tulang. Datang ke rumah untuk mengucapkan terima kasih mungkin sudah cukup."
     },
     {
       "id": "v1-bab-6-chapter006-p065",
@@ -568,23 +753,23 @@
       "id": "v1-bab-6-chapter006-p066",
       "kind": "text",
       "source": "chapter006.xhtml#p66",
-      "text": "Awal bulan baru datang dengan aktivitas gym baru. Di sekolahku, tiga kelas olahraga digabung menjadi satu, jadi kamu punya total enam puluh anak laki-laki yang kemudian dibagi menjadi dua unit. Sampai saat ini, kami telah bermain bola voli dan lari. Bulan ini, tenis dan sepak bola."
+      "text": "Bulan baru, kegiatan olahraga baru. Di sekolahku, pelajaran olahraga tiga kelas digabung. Total enam puluh siswa laki-laki lalu dibagi menjadi dua kelompok. Sebelumnya kami bermain voli dan berlari. Bulan ini pilihannya tenis dan sepak bola."
     },
     {
       "id": "v1-bab-6-chapter006-p067",
       "kind": "text",
       "source": "chapter006.xhtml#p67",
-      "text": "Baik Zaimokuza maupun aku bukanlah pemain tim. Kami lebih seperti superstar solo yang fokus pada teknik individu. Jadi, karena menilai kami akan menjadi penghalang dalam skenario sepak bola, kami berdua memilih tenis."
+      "text": "Zaimokuza dan aku bukan pemain tim. Kami lebih cocok disebut bintang tunggal yang mengandalkan teknik individu. Karena merasa hanya akan menghalangi permainan sepak bola, kami memilih tenis."
     },
     {
       "id": "v1-bab-6-chapter006-p068",
       "kind": "text",
       "source": "chapter006.xhtml#p68",
-      "text": "Aku adalah orang yang membuang karir sepak bolanya karena cedera kaki yang lama. Bukan berarti aku pernah bermain sepak bola. Namun ternyata, banyak orang yang ingin bermain tenis tahun ini, jadi setelah turnamen batu-kertas-gunting yang sengit, aku tetap bertahan di dunia tenis sementara Zaimokuza kalah, dan terdegradasi ke dunia sepak bola.",
+      "text": "Aku ini orang yang harus mengubur karier sepak bola akibat cedera kaki lama. Meski sebenarnya belum pernah bermain sepak bola. Rupanya tahun ini peminat tenis banyak. Setelah pertarungan suit yang sengit, aku berhasil bertahan di dunia tenis, sementara Zaimokuza kalah dan terdegradasi ke dunia sepak bola.",
       "emphasis": [
         {
           "start": 4,
-          "end": 10,
+          "end": 7,
           "style": "em"
         }
       ]
@@ -605,11 +790,11 @@
       "id": "v1-bab-6-chapter006-p071",
       "kind": "text",
       "source": "chapter006.xhtml#p71",
-      "text": "Bagaimana kalian bisa bereaksi begitu cepat, menemukan pasangan bahkan tanpa melihat-lihat? Apakah kamu ahli dalam no-look pass atau bagaimana?",
+      "text": "Bagaimana kalian bisa secepat itu menemukan pasangan tanpa melihat-lihat dulu? Kalian ahli no-look pass?",
       "emphasis": [
         {
           "start": 0,
-          "end": 143,
+          "end": 104,
           "style": "em"
         }
       ]
@@ -618,7 +803,7 @@
       "id": "v1-bab-6-chapter006-p072",
       "kind": "text",
       "source": "chapter006.xhtml#p72",
-      "text": "Radar penyendiriku berbunyi, mendeteksi rasa malu di depan umum. Jangan takut. Aku menyimpan rencana rahasia di saku belakangku untuk situasi seperti ini. “Um, aku sedang tidak enak badan, jadi bolehkah aku memukul bola ke dinding saja? Kurasa aku hanya akan merepotkan yang lain,” aku mengumumkan, dan tanpa menunggu jawaban Atsugi, aku dengan cepat melanjutkan untuk memantulkan bola tenis dengan dinding sebagai rekanku. Begitu aku mulai, Atsugi melewatkan kesempatannya untuk menjawab, jadi dia tidak mengatakan apa pun."
+      "text": "Radar penyendiriku berbunyi, mendeteksi ancaman dipermalukan di depan umum. Tenang. Untuk situasi begini, aku punya siasat rahasia. “Anu, saya kurang enak badan. Boleh latihan memukul ke dinding saja? Nanti malah merepotkan yang lain,” kataku. Tanpa menunggu jawaban Atsugi, aku langsung memukul bola ke dinding. Karena aku sudah mulai, Atsugi kehilangan kesempatan untuk menjawab dan akhirnya diam saja."
     },
     {
       "id": "v1-bab-6-chapter006-p073",
@@ -630,21 +815,21 @@
       "id": "v1-bab-6-chapter006-p074",
       "kind": "text",
       "source": "chapter006.xhtml#p74",
-      "text": "Kombo penolakan sinergis dari Aku tidak enak badan ditambah Aku akan merepotkan sangat efektif karena implikasinya adalah kamu sangat ingin berpartisipasi dalam kegiatan yang diberikan. Setelah bertahun-tahun menjadi penyendiri, aku akhirnya menguasai teknik pamungkas dalam menghadapi berpasangan di kelas olahraga. Aku juga akan mengajarkannya pada Zaimokuza nanti. Dia akan menangis bahagia.",
+      "text": "Gabungan alasan Aku kurang enak badan dan Nanti merepotkan sangat ampuh karena menyiratkan bahwa sebenarnya kamu ingin ikut. Setelah bertahun-tahun menyendiri, akhirnya kukuasai jurus pamungkas menghadapi perintah berpasangan saat olahraga. Nanti akan kuajarkan kepada Zaimokuza. Dia pasti menangis bahagia.",
       "emphasis": [
         {
-          "start": 30,
-          "end": 50,
+          "start": 16,
+          "end": 37,
           "style": "em"
         },
         {
-          "start": 60,
-          "end": 79,
+          "start": 42,
+          "end": 58,
           "style": "em"
         },
         {
-          "start": 317,
-          "end": 394,
+          "start": 241,
+          "end": 307,
           "style": "em"
         }
       ]
@@ -697,13 +882,13 @@
       "id": "v1-bab-6-chapter006-p080",
       "kind": "text",
       "source": "chapter006.xhtml#p80",
-      "text": "Si pirang yang gagal membalas pukulan Hayama tiba-tiba berteriak, “Whoa!” dan semua orang di sekitar melirik ke arah mereka untuk melihat apa yang sedang terjadi. “Ya ampun! Pukulannya tadi, Hayama! Pukulannya sangat keras! Apa itu berputar? Itu hanya berputar, kan?”"
+      "text": "Si pirang gagal membalas pukulan Hayama, lalu mendadak berteriak, “Wah!” Semua orang menoleh. “Gila! Pukulan tadi, Hayama! Tajam banget! Itu muter, ya? Barusan muter, kan?”"
     },
     {
       "id": "v1-bab-6-chapter006-p081",
       "kind": "text",
       "source": "chapter006.xhtml#p81",
-      "text": "“Tidak, aku tidak sengaja memukulnya. Maaf, aku membuat kesalahan,” Hayama meminta maaf, mengangkat satu tangannya."
+      "text": "“Bukan, tadi tidak sengaja. Maaf, salah pukul,” kata Hayama sambil mengangkat satu tangan."
     },
     {
       "id": "v1-bab-6-chapter006-p082",
@@ -721,22 +906,22 @@
       "id": "v1-bab-6-chapter006-p084",
       "kind": "text",
       "source": "chapter006.xhtml#p84",
-      "text": "Kemudian dua orang yang sedang berlatih di samping mereka menimpali. “Kamu cukup pandai bermain tenis, Hayama. Ajari aku cara melakukan pukulan yang baru saja kamu lakukan.” Penjilat yang mendekati Hayama memiliki rambut coklat dan ekspresi tenang. Dia mungkin berada di kelas yang sama. Aku tidak tahu namanya dan, mengingat hal itu, aku menganggap dia bukan orang penting."
+      "text": "Dua orang yang berlatih di sebelah ikut menimpali. “Kamu jago tenis juga, Hayama. Ajari aku pukulan tadi, dong.” Si penjilat yang mendekati Hayama itu berambut cokelat dan berwajah tenang. Mungkin sekelas denganku. Aku tidak tahu namanya. Karena itu, kuanggap dia bukan orang penting."
     },
     {
       "id": "v1-bab-6-chapter006-p085",
       "kind": "text",
       "source": "chapter006.xhtml#p85",
-      "text": "Dalam sekejap, kelompok Hayama telah menjadi sextet. Itu adalah pesta terbesar yang pernah memeriahkan kelas ini. Tahukah kamu, kata sextet terdengar seperti sexroid. Ya, ya, itu kotor, sangat kotor.",
+      "text": "Dalam sekejap, kelompok Hayama menjadi sextet, alias enam orang. Kelompok terbesar yang meramaikan pelajaran ini. Ngomong-ngomong, sextet terdengar seperti sexroid. Iya, iya, jorok sekali.",
       "emphasis": [
         {
-          "start": 133,
-          "end": 139,
+          "start": 131,
+          "end": 137,
           "style": "em"
         },
         {
-          "start": 158,
-          "end": 165,
+          "start": 156,
+          "end": 163,
           "style": "em"
         }
       ]
@@ -745,16 +930,16 @@
       "id": "v1-bab-6-chapter006-p086",
       "kind": "text",
       "source": "chapter006.xhtml#p86",
-      "text": "Bagaimanapun, begitulah pelajaran tenis menjadi Kerajaan Hayama. Rasanya jika kamu tidak tergabung dalam kelompok Hayama, kamu tidak boleh berpartisipasi dalam olahraga. Tentu saja, semua orang yang tidak termasuk dalam lingkaran kecil Hayama terdiam. Ini adalah sensor. Kembalikan kebebasan berpendapat.",
+      "text": "Begitulah pelajaran tenis berubah menjadi Kerajaan Hayama. Rasanya, kalau bukan bagian kelompoknya, kamu tidak boleh ikut olahraga. Tentu saja, orang-orang di luar lingkaran kecil Hayama terdiam. Ini pembungkaman. Kembalikan kebebasan bicara kami.",
       "emphasis": [
         {
-          "start": 73,
-          "end": 168,
+          "start": 68,
+          "end": 130,
           "style": "em"
         },
         {
-          "start": 252,
-          "end": 304,
+          "start": 196,
+          "end": 247,
           "style": "em"
         }
       ]
@@ -763,7 +948,7 @@
       "id": "v1-bab-6-chapter006-p087",
       "kind": "text",
       "source": "chapter006.xhtml#p87",
-      "text": "kamu mungkin berasumsi bahwa kelompok Hayama sedang gaduh, tapi bukan Hayama sendiri yang secara aktif memulai percakapan. Orang-orang di sekitarnyalah yang berisik. Sebenarnya, yang bersuara keras adalah menteri kabinet yang mengangkat dirinya sendiri di kontingen mereka, yang berambut pirang."
+      "text": "Mungkin kamu mengira kelompok Hayama berisik karena Hayama. Padahal bukan dia yang aktif membuka percakapan, melainkan orang-orang di sekitarnya. Tepatnya, si pirang yang mengangkat diri menjadi menteri kabinet kelompok itu."
     },
     {
       "id": "v1-bab-6-chapter006-p088",
@@ -782,13 +967,13 @@
       "id": "v1-bab-6-chapter006-p089",
       "kind": "text",
       "source": "chapter006.xhtml#p89",
-      "text": "Melihat? Dia berisik."
+      "text": "Lihat? Berisik."
     },
     {
       "id": "v1-bab-6-chapter006-p090",
       "kind": "text",
       "source": "chapter006.xhtml#p90",
-      "text": "Tembakan yang baru saja dilakukan si pirang bukanlah sebuah pukulan sama sekali. Ia terbang melewati Hayama hingga ke sudut lapangan, terbang ke tempat yang gelap dan lembap di mana matahari tidak bersinar. Dengan kata lain, tepat ke arahku."
+      "text": "Pukulan si pirang tadi sama sekali bukan slice. Bolanya melewati Hayama dan terbang ke sudut lapangan yang gelap, lembap, tak tersentuh matahari. Dengan kata lain, ke arahku."
     },
     {
       "id": "v1-bab-6-chapter006-p091",
@@ -831,21 +1016,21 @@
       "id": "v1-bab-6-chapter006-p096",
       "kind": "text",
       "source": "chapter006.xhtml#p96",
-      "text": "Ngomong-ngomong soal tembok, kenapa istilah slang untuk gadis berpayudara kecil adalah nurikabe? Aku bertanya-tanya. Menurut salah satu teori, nurikabe sebenarnya adalah tanuki yang berubah secara ajaib—kamu tahu, anjing rakun liar Jepang—dan roh penghalang sebenarnya adalah bola tanuki yang terentang lebar. Tembok macam apa itu? Tentu saja yang sangat lembut! Dan bukankah itu berarti, secara paradoks, gadis berdada kecil yang diremehkan sebagai nurikabe sebenarnya sangat lembut? QED, bukti lengkap. Bodoh.",
+      "text": "Ngomong-ngomong soal tembok, kenapa cewek berdada rata dijuluki nurikabe? Menurut salah satu teori, nurikabe sebenarnya tanuki yang berubah wujud—anjing rakun liar Jepang itu. Dan dinding penghalangnya konon adalah buah zakar tanuki yang dibentangkan. Tembok macam apa itu? Pasti lembut sekali! Kalau begitu, bukankah secara paradoks cewek yang diejek nurikabe sebenarnya juga sangat lembut? QED. Pembuktian selesai. Bodoh.",
       "emphasis": [
         {
-          "start": 87,
-          "end": 95,
+          "start": 64,
+          "end": 72,
           "style": "em"
         },
         {
-          "start": 143,
-          "end": 151,
+          "start": 100,
+          "end": 108,
           "style": "em"
         },
         {
-          "start": 450,
-          "end": 458,
+          "start": 352,
+          "end": 360,
           "style": "em"
         }
       ]
@@ -854,17 +1039,17 @@
       "id": "v1-bab-6-chapter006-p097",
       "kind": "text",
       "source": "chapter006.xhtml#p97",
-      "text": "Bagaimanapun juga, hal itu bukanlah hal yang bisa dipikirkan Hayama. Hipotesis ajaib itu hanya mungkin terjadi berkat kepekaan aku yang luar biasa."
+      "text": "Yang jelas, Hayama tidak mungkin memikirkan hal seperti itu. Hipotesis ajaib tadi hanya lahir berkat kepekaanku yang luar biasa."
     },
     {
       "id": "v1-bab-6-chapter006-p098",
       "kind": "text",
       "source": "chapter006.xhtml#p98",
-      "text": "Ya, menurutku hari ini seri. Ayo lakukan itu.",
+      "text": "Ya, hari ini seri saja. Anggap begitu.",
       "emphasis": [
         {
           "start": 0,
-          "end": 45,
+          "end": 38,
           "style": "em"
         }
       ]
@@ -885,19 +1070,19 @@
       "id": "v1-bab-6-chapter006-p100",
       "kind": "text",
       "source": "chapter006.xhtml#p100",
-      "text": "Aku sedang makan siang di tempat biasaku, di luar lantai pertama gedung khusus, tepat di dekat ruang perawat, secara diagonal dari belakang sekolah. Letaknya sedemikian rupa sehingga aku bisa melihat ke lapangan tenis. Aku mengunyah gulungan sosis, bola nasi tuna, dan roti Neopolitan. Aku merasa nyaman."
+      "text": "Aku makan siang di tempat biasa: di luar lantai dasar gedung khusus, dekat UKS, menyerong di belakang sekolah. Dari situ lapangan tenis terlihat. Dengan nyaman, aku mengunyah roti sosis, onigiri tuna, dan roti Neapolitan."
     },
     {
       "id": "v1-bab-6-chapter006-p101",
       "kind": "text",
       "source": "chapter006.xhtml#p101",
-      "text": "Dentuman berirama seperti genderang tangan membuatku mengantuk. Rupanya, saat jam makan siang, seorang gadis dari klub tenis putri berlatih di lapangan. Dia selalu menghadap tembok, melakukan servis, dan kemudian dengan gagah mengejar bola sebelum mengembalikannya. Aku melihatnya berlarian sambil melahap setiap suapan terakhir makananku."
+      "text": "Bunyi pantulan bola yang berirama seperti gendang membuatku mengantuk. Rupanya seorang gadis dari klub tenis putri sedang berlatih saat makan siang. Dia menghadap dinding, melakukan servis, lalu cekatan mengejar bola dan memukulnya kembali. Sambil menghabiskan makanan, kuperhatikan dia berlarian."
     },
     {
       "id": "v1-bab-6-chapter006-p102",
       "kind": "text",
       "source": "chapter006.xhtml#p102",
-      "text": "Jam makan siang kemungkinan besar akan segera berakhir. Aku menyeruput teh lemon dari kotak jus saat angin bertiup kencang. Arahnya telah berubah."
+      "text": "Sebentar lagi jam makan siang selesai. Saat aku menyeruput teh lemon kemasan, angin berembus kencang. Arahnya sudah berubah."
     },
     {
       "id": "v1-bab-6-chapter006-p103",
@@ -909,7 +1094,7 @@
       "id": "v1-bab-6-chapter006-p104",
       "kind": "text",
       "source": "chapter006.xhtml#p104",
-      "text": "“Hah? Oh, itu kamu, Hikki.” Aliran udara membawa suara yang familiar di telingaku. Saat aku menoleh untuk melihat, Yuigahama sedang berdiri di sana, menahan roknya melawan angin kencang. “Kenapa kamu ada di tempat seperti ini?”"
+      "text": "“Hah? Oh, Hikki.” Angin membawa suara yang kukenal. Saat menoleh, kulihat Yuigahama berdiri sambil menahan rok yang diterpa angin. “Ngapain di tempat begini?”"
     },
     {
       "id": "v1-bab-6-chapter006-p105",
@@ -921,17 +1106,17 @@
       "id": "v1-bab-6-chapter006-p106",
       "kind": "text",
       "source": "chapter006.xhtml#p106",
-      "text": "“Oh benarkah? Kenapa? Bukankah kamu lebih suka makan di kelas?” dia bertanya, raut wajahnya memberitahuku bahwa dia benar-benar bingung."
+      "text": "“Oh, ya? Kenapa? Bukannya lebih enak makan di kelas?” Wajahnya benar-benar tampak heran."
     },
     {
       "id": "v1-bab-6-chapter006-p107",
       "kind": "text",
       "source": "chapter006.xhtml#p107",
-      "text": "Jawabku dengan diam. Jika aku bisa melakukan itu, aku tidak akan makan di sini, ya. Dapatkan petunjuknya, serius. Mari kita ganti topik pembicaraan. “Ngomong-ngomong, kenapa kamu ada di sini?”",
+      "text": "Aku diam. Kalau bisa, tentu aku tidak makan di sini. Pekalah sedikit. Ganti topik saja. “Kalau kamu, kenapa ke sini?”",
       "emphasis": [
         {
-          "start": 21,
-          "end": 148,
+          "start": 10,
+          "end": 87,
           "style": "em"
         }
       ]
@@ -940,7 +1125,7 @@
       "id": "v1-bab-6-chapter006-p108",
       "kind": "text",
       "source": "chapter006.xhtml#p108",
-      "text": "“Oh itu benar! Sebenarnya, Yukinon mengalahkanku dalam permainan batu-kertas-gunting, jadi ini, seperti, hukumanku?”"
+      "text": "“Oh, iya! Tadi aku kalah suit dari Yukinon, jadi ini… hukumannya?”"
     },
     {
       "id": "v1-bab-6-chapter006-p109",
@@ -959,7 +1144,7 @@
       "id": "v1-bab-6-chapter006-p110",
       "kind": "text",
       "source": "chapter006.xhtml#p110",
-      "text": "“T-tidak, tidak! Yang kalah harus pergi membeli jus!” Yuigahama menjadi bingung, lalu mengayunkan tangannya untuk menyangkal."
+      "text": "“B-bukan! Yang kalah disuruh beli minuman!” Yuigahama panik, mengibas-ngibaskan tangan untuk menyangkal."
     },
     {
       "id": "v1-bab-6-chapter006-p111",
@@ -971,7 +1156,7 @@
       "id": "v1-bab-6-chapter006-p112",
       "kind": "text",
       "source": "chapter006.xhtml#p112",
-      "text": "“Awalnya Yukinon tidak mau melakukannya. Dia seperti, 'Aku sendiri bisa mendapatkan makananku sendiri. Kenapa memenuhi hasrat penaklukan yang ringan itu membuatku senang?'” Entah mengapa, dia meniru suara Yukinoshita saat dia mengatakannya. Itu sangat akurat."
+      "text": "“Awalnya Yukinon enggak mau. Katanya, ‘Aku bisa membeli makanan sendiri. Apa menyenangkan memuaskan hasrat berkuasa sekecil itu?’” Entah kenapa dia mengatakannya sambil menirukan suara Yukinoshita. Mirip sekali."
     },
     {
       "id": "v1-bab-6-chapter006-p113",
@@ -995,7 +1180,7 @@
       "id": "v1-bab-6-chapter006-p116",
       "kind": "text",
       "source": "chapter006.xhtml#p116",
-      "text": "“Jadi, saat Yukinon menang, dia diam-diam melakukan pukulan kecil ini. Itu sebenarnya sangat lucu.” Yuigahama mendesah puas. “Aku merasa ini adalah pertama kalinya aku bersenang-senang dihukum karena kalah dalam permainan.”"
+      "text": "“Terus, begitu menang, Yukinon diam-diam mengepalkan tangan kecil begini. Manis banget.” Yuigahama menghela napas puas. “Kayaknya baru kali ini aku senang dapat hukuman karena kalah.”"
     },
     {
       "id": "v1-bab-6-chapter006-p117",
@@ -1019,7 +1204,7 @@
       "id": "v1-bab-6-chapter006-p120",
       "kind": "text",
       "source": "chapter006.xhtml#p120",
-      "text": "“Hmph. Saat-saat menyenangkan bersama orang banyak, kurasa.”"
+      "text": "“Hmph. Asyik bersenang-senang dalam kelompok sendiri, ya.”"
     },
     {
       "id": "v1-bab-6-chapter006-p121",
@@ -1043,11 +1228,11 @@
       "id": "v1-bab-6-chapter006-p124",
       "kind": "text",
       "source": "chapter006.xhtml#p124",
-      "text": "Tinggalkan aku sendiri.",
+      "text": "Biarkan saja aku.",
       "emphasis": [
         {
           "start": 0,
-          "end": 23,
+          "end": 17,
           "style": "em"
         }
       ]
@@ -1068,13 +1253,13 @@
       "id": "v1-bab-6-chapter006-p127",
       "kind": "text",
       "source": "chapter006.xhtml#p127",
-      "text": "Aku tidak bisa sepenuhnya yakin, tapi menurut aku riasannya tidak seberat sebelumnya. Dia mengubahnya menjadi tampilan yang lebih alami. Atau mungkin dia pernah mengubahnya sebelumnya. Tapi aku tidak pernah menatap wajah perempuan, jadi aku tidak begitu tahu. Aku kira ini adalah bukti bahwa dia telah berubah. Tapi itu adalah perubahan yang cukup kecil. Hampir tanpa riasan, matanya menjadi rileks saat dia tersenyum, membuatnya tampak lebih muda dan lebih tidak bersalah."
+      "text": "Aku tidak terlalu yakin, tapi rasanya riasannya tidak setebal sebelumnya. Sekarang terlihat lebih alami. Atau mungkin sudah berubah sejak dulu. Aku jarang menatap wajah perempuan, jadi tidak tahu. Barangkali ini tanda dia sudah berubah. Meski perubahannya kecil sekali. Dengan riasan yang nyaris tak terlihat, matanya menyipit santai saat tersenyum, membuatnya tampak lebih muda dan polos."
     },
     {
       "id": "v1-bab-6-chapter006-p128",
       "kind": "text",
       "source": "chapter006.xhtml#p128",
-      "text": "“Tapi kamu punya kerumunan sendiri, Hikki. Kamu selalu terlihat bersenang-senang saat ngobrol dengan Yukinon di klub. Sobat, terkadang aku merasa tidak bisa bergabung.” Yuigahama menarik kakinya ke dalam dan memeluknya saat dia berbicara, membenamkan wajahnya di lututnya saat matanya menatap ke arahku dengan penuh tanda tanya. “Aku ingin bicara lebih banyak dan sebagainya... T-tapi bukan dengan cara yang aneh! Maksudku dengan Yukinon juga! Kamu mengerti, kan?!”"
+      "text": "“Tapi kamu juga punya kelompok sendiri, Hikki. Kalau ngobrol sama Yukinon di klub, kelihatannya senang banget. Kadang aku sampai merasa enggak bisa ikut.” Yuigahama menarik kaki dan memeluk lutut, membenamkan wajah di sana sambil melirikku penuh tanya. “Aku juga ingin lebih banyak ngobrol… T-tapi bukan dalam arti aneh! Sama Yukinon juga! Ngerti, kan?!”"
     },
     {
       "id": "v1-bab-6-chapter006-p129",
@@ -1104,7 +1289,7 @@
       "id": "v1-bab-6-chapter006-p133",
       "kind": "text",
       "source": "chapter006.xhtml#p133",
-      "text": "“Hmm? Oh, force majeure berarti 'kekuatan atau keadaan yang tidak dapat dilawan dengan kemampuan manusia.' Maaf karena menggunakan kata-kata yang sulit seperti itu.”",
+      "text": "“Hmm? Oh, force majeure itu kekuatan atau keadaan yang tidak bisa dilawan manusia. Maaf memakai istilah sulit.”",
       "emphasis": [
         {
           "start": 10,
@@ -1123,7 +1308,7 @@
       "id": "v1-bab-6-chapter006-p135",
       "kind": "text",
       "source": "chapter006.xhtml#p135",
-      "text": "Pandangan jauh mengaburkan matanya. “Hei, ngomong-ngomong tentang ujian masuk, apakah kamu ingat hari upacara masuknya?” dia bertanya padaku dengan sungguh-sungguh."
+      "text": "Tatapannya menerawang. “Oh, ngomong-ngomong soal ujian masuk… kamu ingat hari upacara penerimaan siswa baru?” tanyanya sungguh-sungguh."
     },
     {
       "id": "v1-bab-6-chapter006-p136",
@@ -1154,19 +1339,19 @@
       "id": "v1-bab-6-chapter006-p139",
       "kind": "text",
       "source": "chapter006.xhtml#p139",
-      "text": "Aku kira aku mendramatisasinya sedikit, tapi karena tidak ada orang lain yang tahu tentang kejadian itu, tidak ada yang peduli. Lebih penting lagi, karena tidak ada seorang pun yang mengetahuinya, tidak ada orang lain yang akan mengungkitnya, jadi aku harus membuat diriku terlihat baik."
+      "text": "Mungkin agak kudramatisasi. Tapi tidak ada yang tahu kejadiannya, jadi tak masalah. Justru karena tidak ada yang tahu, tidak akan ada orang lain yang menceritakannya. Aku sendiri yang harus membuat diriku terdengar keren."
     },
     {
       "id": "v1-bab-6-chapter006-p140",
       "kind": "text",
       "source": "chapter006.xhtml#p140",
-      "text": "Mendengar hal itu, wajah Yuigahama berkedut dan dia menjadi kaku. “S-orang idiot...? K-kamu tidak...ingat siapa, Hikki?”"
+      "text": "Wajah Yuigahama berkedut, lalu menegang. “O-orang bodoh…? K-kamu enggak… ingat siapa orangnya, Hikki?”"
     },
     {
       "id": "v1-bab-6-chapter006-p141",
       "kind": "text",
       "source": "chapter006.xhtml#p141",
-      "text": "“Yah, aku tidak benar-benar berpikir untuk memikirkan hal itu. Aku sangat kesakitan. Siapa pun orangnya, tidak meninggalkan banyak kesan padaku, jadi mungkin dia adalah seseorang yang cukup hambar.”"
+      "text": "“Waktu itu aku tidak sempat memikirkan begituan. Sakit sekali, tahu. Siapa pun dia, tidak terlalu berkesan. Mungkin orangnya tidak mencolok.”"
     },
     {
       "id": "v1-bab-6-chapter006-p142",
@@ -1178,7 +1363,7 @@
       "id": "v1-bab-6-chapter006-p143",
       "kind": "text",
       "source": "chapter006.xhtml#p143",
-      "text": "Suara Yuigahama sangat pelan hingga aku tidak bisa mendengar apa yang dia katakan sama sekali. Dia nyaris tidak membuka mulutnya saat dia mengunyah kata-katanya, wajahnya tertunduk. Apakah dia sakit perut atau apa?"
+      "text": "Yuigahama bergumam begitu pelan sampai tak terdengar. Kepalanya tertunduk, mulutnya nyaris tidak bergerak. Kenapa, sakit perut?"
     },
     {
       "id": "v1-bab-6-chapter006-p144",
@@ -1202,11 +1387,11 @@
       "id": "v1-bab-6-chapter006-p147",
       "kind": "text",
       "source": "chapter006.xhtml#p147",
-      "text": "“Hah?! Uh...kamu melakukannya, kamu melakukannya! Kamu benar-benar mengatakannya! Sebenarnya, kamu tidak mengatakan apa-apa selain cewek!”",
+      "text": "“Hah?! A-anu… iya, iya! Kamu bilang begitu! Dari tadi ngomong cewek terus!”",
       "emphasis": [
         {
-          "start": 131,
-          "end": 137,
+          "start": 62,
+          "end": 67,
           "style": "em"
         }
       ]
@@ -1215,7 +1400,7 @@
       "id": "v1-bab-6-chapter006-p148",
       "kind": "text",
       "source": "chapter006.xhtml#p148",
-      "text": "“Menurutmu seberapa menyeramkannya aku?” Balasku, dan Yuigahama menggerutu seolah-olah menyembunyikan sesuatu saat dia menoleh ke arah lapangan tenis, senyuman masih terlihat di wajahnya. Gerakannya membuatku menghadap ke arah itu juga."
+      "text": "“Memangnya semenyeramkan itu aku?” balasku. Seperti hendak menyembunyikan sesuatu, Yuigahama menggerutu lalu menoleh ke lapangan tenis, masih dengan senyum di wajah. Aku ikut memandang ke sana."
     },
     {
       "id": "v1-bab-6-chapter006-p149",
@@ -1233,7 +1418,7 @@
       "id": "v1-bab-6-chapter006-p151",
       "kind": "text",
       "source": "chapter006.xhtml#p151",
-      "text": "“Ya. Tim kita benar-benar buruk, jadi aku juga harus menghabiskan waktu makan siangku untuk berlatih... Aku bertanya apakah aku boleh menggunakan lapangan saat makan siang, dan akhirnya aku mendapat izin. Apa yang kamu dan Hikigaya lakukan di sini, Yuigahama?”"
+      "text": "“Iya. Tim kami lemah sekali, jadi jam makan siang juga harus dipakai latihan… Aku minta izin memakai lapangan saat istirahat, dan akhirnya diperbolehkan. Kalian sedang apa di sini, Yuigahama, Hikigaya?”"
     },
     {
       "id": "v1-bab-6-chapter006-p152",
@@ -1252,11 +1437,11 @@
       "id": "v1-bab-6-chapter006-p153",
       "kind": "text",
       "source": "chapter006.xhtml#p153",
-      "text": "Tidak, aku sedang makan siang, dan kamu sedang menjalankan suatu keperluan, bukan? Kamu tipe otak burung yang apa? Jangan lupa banyak hal begitu cepat.",
+      "text": "Aku sedang makan siang, dan kamu sedang disuruh beli minuman, kan? Ingatanmu sependek burung apa? Jangan langsung lupa begitu.",
       "emphasis": [
         {
           "start": 0,
-          "end": 151,
+          "end": 126,
           "style": "em"
         }
       ]
@@ -1290,16 +1475,16 @@
       "id": "v1-bab-6-chapter006-p157",
       "kind": "text",
       "source": "chapter006.xhtml#p157",
-      "text": "Percakapan tiba-tiba beralih ke arahku, dan tentu saja aku terdiam. Apa? Ini adalah berita baru bagi aku. Dan sebenarnya, siapa kamu? Bagaimana kamu tahu namaku? Sejumlah pertanyaan muncul di benakku, tapi sebelum aku bisa berkata apa-apa, Yuigahama membuat suara ooooooh berlarut-larut, seolah dia terkesan.",
+      "text": "Pembicaraan mendadak beralih kepadaku, dan tentu saja aku terdiam. Hah? Aku baru tahu. Lagipula, kamu siapa? Kenapa tahu namaku? Pertanyaan berjejalan di kepalaku. Sebelum sempat bicara, Yuigahama sudah berseru panjang, “Ooooh,” seolah kagum.",
       "emphasis": [
         {
-          "start": 68,
-          "end": 161,
+          "start": 67,
+          "end": 128,
           "style": "em"
         },
         {
-          "start": 264,
-          "end": 271,
+          "start": 221,
+          "end": 226,
           "style": "em"
         }
       ]
@@ -1308,7 +1493,7 @@
       "id": "v1-bab-6-chapter006-p158",
       "kind": "text",
       "source": "chapter006.xhtml#p158",
-      "text": "“Benar-benar?”"
+      "text": "“Serius?”"
     },
     {
       "id": "v1-bab-6-chapter006-p159",
@@ -1320,7 +1505,7 @@
       "id": "v1-bab-6-chapter006-p160",
       "kind": "text",
       "source": "chapter006.xhtml#p160",
-      "text": "“Ah, kamu membuatku tersipu! Ha-ha-ha! Jadi siapa dia?” Aku cukup perhatian untuk mengucapkan bagian terakhir itu dengan sangat pelan sehingga hanya Yuigahama yang bisa mendengarnya. Tapi Yuigahama ingin menghancurkan pertimbangan itu."
+      "text": "“Ah, jadi malu! Ha-ha-ha! Jadi, dia siapa?” Bagian terakhir sengaja kubisikkan agar hanya terdengar Yuigahama. Tapi dia justru menghancurkan niat baik itu."
     },
     {
       "id": "v1-bab-6-chapter006_a-Art_P145",
@@ -1335,13 +1520,13 @@
       "id": "v1-bab-6-chapter006_b-p001",
       "kind": "text",
       "source": "chapter006_b.xhtml#p1",
-      "text": "“Apa?! Tapi kalian satu kelas! Dan, sepertinya, kalian berolahraga bersama! Kenapa kamu tidak tahu?! Aku tidak percaya!”"
+      "text": "“Hah?! Padahal kalian sekelas! Olahraga juga bareng! Kenapa enggak tahu?! Enggak bisa dipercaya!”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p002",
       "kind": "text",
       "source": "chapter006_b.xhtml#p2",
-      "text": "“J-jangan bodoh. Aku benar-benar ingat! Itu terlintas dalam pikiranku sejenak! Dan hei, para gadis punya gym terpisah!” Dia benar-benar menyia-nyiakan kebijaksanaanku. Sekarang jelas sekali aku tidak ingat nama gadis ini. Matanya terlalu berat untuk ditangani. Jika dia seekor anjing, dia akan setingkat Chihuahua. Seandainya dia seekor kucing, dia pasti berada di atas sana bersama Munchkins. Dia tampil begitu lucu dan menyenangkan."
+      "text": "“J-jangan asal bicara. Aku ingat, kok! Cuma lupa sebentar! Lagi pula, olahraga cewek terpisah!” Sia-sia sudah kebijaksanaanku. Sekarang jelas sekali bahwa aku tidak ingat nama gadis ini. Tatapan matanya terlalu berat untuk kutanggung. Kalau anjing, dia pasti Chihuahua. Kalau kucing, dia setingkat Munchkin. Semanis dan semenggemaskan itu."
     },
     {
       "id": "v1-bab-6-chapter006_b-p003",
@@ -1353,7 +1538,7 @@
       "id": "v1-bab-6-chapter006_b-p004",
       "kind": "text",
       "source": "chapter006_b.xhtml#p4",
-      "text": "“O-oh, maaf. Belum lama ini kita terakhir bertukar kelas, jadi aku hanya...kamu tahu? Benar?”"
+      "text": "“O-oh, maaf. Belum lama sejak pembagian kelas baru, jadi… begitulah. Iya, kan?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p005",
@@ -1371,7 +1556,7 @@
       "id": "v1-bab-6-chapter006_b-p007",
       "kind": "text",
       "source": "chapter006_b.xhtml#p7",
-      "text": "“Ingat saja!” Yuigahama memukul kepalaku dengan keras. Melihat kami, Totsuka tampak tercela saat dia bergumam, “Kalian berdua memang dekat, ya…?”"
+      "text": "“Ingat, dong!” Yuigahama memukul kepalaku keras-keras. Totsuka memperhatikan kami, lalu bergumam dengan nada mencela, “Kalian akrab, ya…”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p008",
@@ -1395,7 +1580,7 @@
       "id": "v1-bab-6-chapter006_b-p011",
       "kind": "text",
       "source": "chapter006_b.xhtml#p11",
-      "text": "“Kalian benar-benar dekat…,” kata Totsuka lembut, kali ini kembali padaku. “Tapi aku laki-laki. Apa aku terlihat selembut itu?”"
+      "text": "“Akrab sekali…” kata Totsuka lembut, lalu kembali menghadapku. “Tapi aku laki-laki. Apa aku kelihatan selembut itu?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p012",
@@ -1414,11 +1599,11 @@
       "id": "v1-bab-6-chapter006_b-p013",
       "kind": "text",
       "source": "chapter006_b.xhtml#p13",
-      "text": "Hah? Sungguh?! Mustahil! kamu bercanda, bukan?",
+      "text": "Hah? Serius?! Mustahil! Bercanda, kan?",
       "emphasis": [
         {
           "start": 0,
-          "end": 46,
+          "end": 38,
           "style": "em"
         }
       ]
@@ -1427,7 +1612,7 @@
       "id": "v1-bab-6-chapter006_b-p014",
       "kind": "text",
       "source": "chapter006_b.xhtml#p14",
-      "text": "Totsuka, yang menyadari ekspresi raguku, menunduk, wajahnya juga memerah. Menaikkan matanya, dia menatapku. Dia perlahan memasukkan tangannya ke dalam saku celana pendeknya. Itu adalah sikap yang sangat menyihir. “Aku bisa membuktikannya kepada kamu jika kamu mau?”"
+      "text": "Melihat keraguanku, Totsuka menunduk dengan wajah memerah, lalu melirik ke atas menatapku. Perlahan tangannya masuk ke saku celana pendek. Gerakannya begitu memikat. “Kalau mau… bisa kubuktikan?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p015",
@@ -1439,11 +1624,11 @@
       "id": "v1-bab-6-chapter006_b-p016",
       "kind": "text",
       "source": "chapter006_b.xhtml#p16",
-      "text": "Iblis Hachiman berbisik ke telinga kananku. Kenapa tidak? Suruh dia menunjukkannya padamu! kamu mungkin akan sangat beruntung, tahu? Ya, itu benar. Bagaimanapun, ini bukanlah kesempatan yang kamu dapatkan setiap hari.",
+      "text": "Iblis Hachiman berbisik di telinga kananku. Kenapa tidak? Suruh dia tunjukkan! Siapa tahu kamu beruntung. Iya juga. Kesempatan seperti ini tidak datang setiap hari.",
       "emphasis": [
         {
           "start": 44,
-          "end": 132,
+          "end": 105,
           "style": "em"
         }
       ]
@@ -1452,16 +1637,16 @@
       "id": "v1-bab-6-chapter006_b-p017",
       "kind": "text",
       "source": "chapter006_b.xhtml#p17",
-      "text": "Tunggu di sana! Oh, ini dia, malaikatnya ada di sini. Jika dia menawarkan, mengapa dia tidak melepas bajunya saja?",
+      "text": "Tunggu dulu! Oh, malaikatnya datang. Kalau dia sendiri yang menawarkan, kenapa tidak langsung disuruh melepas baju saja?",
       "emphasis": [
         {
           "start": 0,
-          "end": 15,
+          "end": 12,
           "style": "em"
         },
         {
-          "start": 54,
-          "end": 114,
+          "start": 37,
+          "end": 120,
           "style": "em"
         }
       ]
@@ -1476,13 +1661,13 @@
       "id": "v1-bab-6-chapter006_b-p019",
       "kind": "text",
       "source": "chapter006_b.xhtml#p19",
-      "text": "Pada akhirnya, aku memutuskan untuk percaya pada rasionalitas aku sendiri."
+      "text": "Akhirnya, kuputuskan untuk percaya pada akal sehatku sendiri."
     },
     {
       "id": "v1-bab-6-chapter006_b-p020",
       "kind": "text",
       "source": "chapter006_b.xhtml#p20",
-      "text": "Memang karakter androgini seperti ini brilian justru karena androgininya. Rasionalitas membawa aku pada perspektif ini, dan mendorong aku menuju penilaian yang lebih berkepala dingin. “Pokoknya, ya, maaf. Meski aku tidak mengetahuinya, aku tetap menyakiti perasaanmu.” Aku bingung, dan Totsuka menggelengkan kepalanya, membuang air mata yang menggenang di matanya saat dia tersenyum."
+      "text": "Tokoh androgini memang menarik justru karena sifat androgininya. Akal sehat membawaku ke kesimpulan itu dan membuatku lebih tenang. “Pokoknya, maaf, ya. Meski tidak tahu, aku tetap menyakiti perasaanmu.” Aku kikuk, tetapi Totsuka menggeleng dan tersenyum, mengibaskan air mata yang menggenang di matanya."
     },
     {
       "id": "v1-bab-6-chapter006_b-p021",
@@ -1506,7 +1691,7 @@
       "id": "v1-bab-6-chapter006_b-p024",
       "kind": "text",
       "source": "chapter006_b.xhtml#p24",
-      "text": "Yuigahama menatapku. “Hah? Dia cukup polos. Aku tidak berpikir kamu akan mengenalinya tanpa alasan khusus.”"
+      "text": "Yuigahama menatapku. “Hah? Dia biasa saja. Kalau enggak ada alasan khusus, rasanya enggak bakal diperhatikan.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p025",
@@ -1536,7 +1721,7 @@
       "id": "v1-bab-6-chapter006_b-p029",
       "kind": "text",
       "source": "chapter006_b.xhtml#p29",
-      "text": "Tepat ketika suasana sepertinya akan kembali berat, Totsuka melakukan penyelamatan. “Jadi, kamu cukup pandai bermain tenis, Hikigaya. Apakah kamu sering bermain?”"
+      "text": "Saat suasana hendak kembali muram, Totsuka menyelamatkan kami. “Jadi, kamu cukup jago tenis, Hikigaya. Sering main?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p030",
@@ -1555,7 +1740,7 @@
       "id": "v1-bab-6-chapter006_b-p031",
       "kind": "text",
       "source": "chapter006_b.xhtml#p31",
-      "text": "“Oh, itu yang dimainkan semua orang di pesta,” kata Yuigahama. “Aku pernah memainkannya sebelumnya. Ganda dan lainnya sangat menyenangkan.”"
+      "text": "“Oh, yang biasa dimainkan rame-rame itu,” kata Yuigahama. “Aku juga pernah. Main ganda seru banget.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p032",
@@ -1573,13 +1758,13 @@
       "id": "v1-bab-6-chapter006_b-p034",
       "kind": "text",
       "source": "chapter006_b.xhtml#p34",
-      "text": "“Apa, apakah kamu bagian dari tim pembuangan ranjau darat di hatiku sekarang? Apakah tugasmu adalah menggali setiap trauma yang aku alami?”"
+      "text": "“Apa kamu petugas penjinak ranjau di hatiku? Tugasmu menggali semua trauma yang kumiliki?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p035",
       "kind": "text",
       "source": "chapter006_b.xhtml#p35",
-      "text": "“Kamu penuh dengan terlalu banyak bom!”"
+      "text": "“Kamu sendiri kebanyakan bom!”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p036",
@@ -1591,11 +1776,11 @@
       "id": "v1-bab-6-chapter006_b-p037",
       "kind": "text",
       "source": "chapter006_b.xhtml#p37",
-      "text": "Aku mengerti. Mereka satu kelas, jadi jelas sekali mereka akan pergi bersama ya. Hal semacam itu selalu membekas dalam diriku.",
+      "text": "Oh, begitu. Mereka sekelas, jadi wajar kalau kembali ke kelas bersama. Hal-hal seperti itu selalu membekas bagiku.",
       "emphasis": [
         {
           "start": 0,
-          "end": 80,
+          "end": 70,
           "style": "em"
         }
       ]
@@ -1610,11 +1795,11 @@
       "id": "v1-bab-6-chapter006_b-p039",
       "kind": "text",
       "source": "chapter006_b.xhtml#p39",
-      "text": "Aku boleh ikut denganmu? Aku mulai berkata lalu berhenti.",
+      "text": "Aku boleh ikut? Hampir kukatakan, tetapi kutahan.",
       "emphasis": [
         {
           "start": 0,
-          "end": 24,
+          "end": 15,
           "style": "em"
         }
       ]
@@ -1641,19 +1826,19 @@
       "id": "v1-bab-6-chapter006_b-p042",
       "kind": "text",
       "source": "chapter006_b.xhtml#p42",
-      "text": "Beberapa hari berlalu, dan kelas olahraga kembali hadir. Latihan dinding yang sering aku lakukan perlahan-lahan mengubah aku menjadi ahli pukulan dinding. Sekarang aku bisa melakukan reli serius dengan tembok tanpa mengambil satu langkah pun."
+      "text": "Beberapa hari kemudian, pelajaran olahraga datang lagi. Terus-terusan berlatih ke dinding membuatku perlahan menjadi ahli pukulan dinding. Sekarang aku bisa melakukan reli serius dengan tembok tanpa bergeser satu langkah pun."
     },
     {
       "id": "v1-bab-6-chapter006_b-p043",
       "kind": "text",
       "source": "chapter006_b.xhtml#p43",
-      "text": "Dan mulai hari berikutnya, kami akan memainkan pertandingan untuk beberapa kelas. Dengan kata lain, ini adalah hari terakhir aku latihan reli. Karena ini adalah pukulan terakhirku, kupikir aku akan memukul bola itu sekuat tenaga, tapi saat pikiran itu terlintas di benakku, bahuku ditusuk."
+      "text": "Mulai pertemuan berikutnya, kami akan bertanding selama beberapa jam pelajaran. Artinya, hari ini kesempatan terakhir latihan reli. Karena terakhir, kupikir akan kupukul bolanya sekuat tenaga. Saat itulah seseorang mencolek bahuku."
     },
     {
       "id": "v1-bab-6-chapter006_b-p044",
       "kind": "text",
       "source": "chapter006_b.xhtml#p44",
-      "text": "Apa ini, roh penjaga, yang mendorongku dari belakang? Karena tidak ada seorang pun yang mau berbicara dengan aku, itu pasti fenomena supernatural, bukan? Atau begitulah pikirku ketika aku berbalik dan menemukan ada jari yang menusuk pipi kananku."
+      "text": "Apa ini? Roh penjaga yang mendorongku dari belakang? Tidak mungkin ada orang mengajakku bicara, jadi pasti gejala gaib. Begitu pikirku saat menoleh dan malah tertusuk jari di pipi kanan."
     },
     {
       "id": "v1-bab-6-chapter006_b-p045",
@@ -1684,13 +1869,13 @@
       "id": "v1-bab-6-chapter006_b-p048",
       "kind": "text",
       "source": "chapter006_b.xhtml#p48",
-      "text": "Ya, begitu aku melihat Totsuka mengenakan seragamnya, sudah jelas kalau dia laki-laki, tapi saat dia mengenakan sesuatu seperti pakaian olahraga—yang sama untuk laki-laki dan perempuan—untuk sesaat, kamu tidak begitu yakin. Seandainya dia mengenakan kaus kaki hitam setinggi lutut dan bukan kaus kaki, aku pasti tidak akan tahu."
+      "text": "Kalau berseragam sekolah, jelas Totsuka laki-laki. Tapi dengan pakaian olahraga yang modelnya sama untuk laki-laki dan perempuan, sesaat aku jadi ragu. Kalau kaus kakinya diganti kaus kaki hitam selutut, pasti aku tidak akan tahu."
     },
     {
       "id": "v1-bab-6-chapter006_b-p049",
       "kind": "text",
       "source": "chapter006_b.xhtml#p49",
-      "text": "Lengan, pinggang, dan kakinya ramping, dan kulitnya putih transparan."
+      "text": "Lengan, pinggang, dan kakinya ramping. Kulitnya putih, nyaris tembus pandang."
     },
     {
       "id": "v1-bab-6-chapter006_b-p050",
@@ -1720,11 +1905,11 @@
       "id": "v1-bab-6-chapter006_b-p054",
       "kind": "text",
       "source": "chapter006_b.xhtml#p54",
-      "text": "Hei, berhenti menatapku seperti itu. Itu sangat lucu. Jangan tersipu seperti itu. Hai.",
+      "text": "Hei, jangan menatapku begitu. Manis sekali. Jangan tersipu juga. Hei.",
       "emphasis": [
         {
           "start": 0,
-          "end": 86,
+          "end": 69,
           "style": "em"
         }
       ]
@@ -1733,11 +1918,11 @@
       "id": "v1-bab-6-chapter006_b-p055",
       "kind": "text",
       "source": "chapter006_b.xhtml#p55",
-      "text": "“Oh tentu. Lagipula aku sendirian.” jawabku. Maaf aku tidak bisa memukulmu dengan bola, dinding…",
+      "text": "“Oh, boleh. Aku juga sendirian,” jawabku. Maaf, tembok, hari ini aku tidak bisa memukulimu dengan bola…",
       "emphasis": [
         {
-          "start": 45,
-          "end": 96,
+          "start": 42,
+          "end": 103,
           "style": "em"
         }
       ]
@@ -1776,7 +1961,7 @@
       "id": "v1-bab-6-chapter006_b-p059",
       "kind": "text",
       "source": "chapter006_b.xhtml#p59",
-      "text": "Kami mengulangi pukulan itu dan membalasnya lagi dan lagi, dan mungkin merasa seolah-olah itu menjadi monoton, Totsuka berbicara. “Kamu benar-benar hebat, Hikigaya.” Jarak kami cukup jauh, jadi suaranya terdengar pelan dan pelan."
+      "text": "Kami terus saling mengembalikan bola. Mungkin karena mulai terasa monoton, Totsuka membuka percakapan. “Kamu benar-benar jago, Hikigaya.” Karena jaraknya jauh, suaranya terdengar kecil dan lirih."
     },
     {
       "id": "v1-bab-6-chapter006_b-p060",
@@ -1812,11 +1997,11 @@
       "id": "v1-bab-6-chapter006_b-p065",
       "kind": "text",
       "source": "chapter006_b.xhtml#p65",
-      "text": "Kami duduk bersama. Jadi kenapa kamu duduk di sampingku? Menurutku itu tidak aneh. Biasanya kalau cowok duduk bareng, mereka saling berhadapan atau duduk diagonal, kan? Bukankah ini sedekat ini? Hampir saja bukan?",
+      "text": "Kami duduk bersama. Tapi kenapa di sampingku? Bukannya itu aneh? Biasanya sesama cowok duduk berhadapan atau agak menyerong, kan? Ini bukannya terlalu dekat? Dekat sekali, kan?",
       "emphasis": [
         {
           "start": 20,
-          "end": 213,
+          "end": 176,
           "style": "em"
         }
       ]
@@ -1825,7 +2010,7 @@
       "id": "v1-bab-6-chapter006_b-p066",
       "kind": "text",
       "source": "chapter006_b.xhtml#p66",
-      "text": "“Hei, aku ingin meminta saranmu, Hikigaya.” Ucap Totsuka, terlihat serius."
+      "text": "“Hikigaya, aku mau minta saran,” kata Totsuka dengan serius."
     },
     {
       "id": "v1-bab-6-chapter006_b-p067",
@@ -1856,7 +2041,7 @@
       "id": "v1-bab-6-chapter006_b-p070",
       "kind": "text",
       "source": "chapter006_b.xhtml#p70",
-      "text": "Itu masuk akal. Aku pikir itu adalah sesuatu yang sering terjadi di klub-klub kecil. Klub yang lemah tidak dapat mengumpulkan cukup banyak anggota, dan klub tanpa anggota yang cukup tidak akan memiliki kompetisi untuk masuk ke dalam slot reguler. Jadi meskipun anggota mengambil cuti atau membolos, mereka masih bisa mengikuti turnamen, dan jika kamu pergi ke kompetisi, kamu akan merasa seperti berada di tim."
+      "text": "Masuk akal. Masalah seperti itu mungkin umum di klub kecil. Klub yang lemah sulit mendapat anggota. Kalau anggotanya sedikit, tidak ada persaingan untuk masuk tim inti. Jadi, meski libur latihan atau membolos, mereka tetap bisa ikut turnamen. Begitu ikut kompetisi, rasanya sudah menjadi bagian dari tim."
     },
     {
       "id": "v1-bab-6-chapter006_b-p071",
@@ -1887,7 +2072,7 @@
       "id": "v1-bab-6-chapter006_b-p074",
       "kind": "text",
       "source": "chapter006_b.xhtml#p74",
-      "text": "Totsuka duduk disana dengan kaki terangkat ke depan, membuat dirinya tampak lebih kecil, sesekali menatapku dengan tatapan memohon."
+      "text": "Totsuka duduk dengan kaki ditekuk di depan tubuh, membuat dirinya tampak makin kecil. Sesekali dia menatapku memohon."
     },
     {
       "id": "v1-bab-6-chapter006_b-p075",
@@ -1917,7 +2102,7 @@
       "id": "v1-bab-6-chapter006_b-p079",
       "kind": "text",
       "source": "chapter006_b.xhtml#p79",
-      "text": "Totsuka sangat menggemaskan saat itu, aku hanya melewatkan sesuatu yang tidak seharusnya kulakukan. Maksudku, dia sangat manis! Aku sudah sangat dekat untuk bergabung dengan klub di sana. Aku baru saja akan mengangkat tangan begitu cepat, kamu pasti mengira ini adalah perlombaan untuk mendapatkan puding, bukannya makan siang di sekolah."
+      "text": "Totsuka begitu menggemaskan sampai ucapanku lolos tanpa sengaja. Habis, manis sekali! Hampir saja aku langsung bergabung. Tanganku nyaris terangkat secepat orang berebut puding saat makan siang sekolah."
     },
     {
       "id": "v1-bab-6-chapter006_b-p080",
@@ -1935,11 +2120,11 @@
       "id": "v1-bab-6-chapter006_b-p082",
       "kind": "text",
       "source": "chapter006_b.xhtml#p82",
-      "text": "Aku tahu kepribadian aku dengan cukup baik. Aku tidak benar-benar mengerti pentingnya pergi ke klub setiap hari, dan berlarian di pagi hari adalah hal yang tidak dapat aku duga. Satu-satunya orang yang bangun pagi-pagi hanyalah para kakek tua di taman yang sedang melakukan tai chi. Moto aku adalah Aku tidak bisa meneruskan ini! seperti tiruan Korosuke, jadi aku pasti akan keluar dari klub. Maksudku, aku berhenti dari pekerjaan paruh waktu pertamaku setelah tiga hari.",
+      "text": "Aku cukup mengenal diriku. Aku tidak mengerti pentingnya datang ke klub setiap hari. Berlari pagi pun sulit kubayangkan. Yang bangun sepagi itu cuma kakek-kakek yang berlatih taici di taman. Motoku, Aku tidak bisa lanjut lagi! dengan gaya Korosuke. Pasti aku akan keluar. Pekerjaan paruh waktu pertamaku saja kutinggalkan setelah tiga hari.",
       "emphasis": [
         {
-          "start": 299,
-          "end": 329,
+          "start": 199,
+          "end": 226,
           "style": "em"
         }
       ]
@@ -1954,17 +2139,17 @@
       "id": "v1-bab-6-chapter006_b-p084",
       "kind": "text",
       "source": "chapter006_b.xhtml#p84",
-      "text": "“Oh…,” dia mengoceh, terdengar sangat kecewa."
+      "text": "“Oh…” Suaranya terdengar sangat kecewa."
     },
     {
       "id": "v1-bab-6-chapter006_b-p085",
       "kind": "text",
       "source": "chapter006_b.xhtml#p85",
-      "text": "Aku mencari kata-kata yang tepat. “Nah, bagaimana kalau ini? Aku akan memikirkan cara untuk membantumu.” Tapi aku tidak bisa melakukan apa pun.",
+      "text": "Aku mencari kata-kata. “Kalau begini bagaimana? Akan kupikirkan cara membantumu.” Meski sebenarnya aku tidak bisa berbuat apa-apa.",
       "emphasis": [
         {
-          "start": 105,
-          "end": 143,
+          "start": 82,
+          "end": 130,
           "style": "em"
         }
       ]
@@ -2015,19 +2200,19 @@
       "id": "v1-bab-6-chapter006_b-p092",
       "kind": "text",
       "source": "chapter006_b.xhtml#p92",
-      "text": "Ini semua bermula karena aku menceritakan masalah Totsuka pada Yukinoshita. Aku sudah berencana untuk mengarahkan percakapan ke arah yang nyaman, dengan lancar keluar dari Klub Layanan, dan kemudian berpura-pura bergabung dengan klub tenis sebelum perlahan-lahan menghilang, tapi dia langsung menghentikan pilihan itu untukku."
+      "text": "Semua berawal saat kuceritakan masalah Totsuka kepada Yukinoshita. Rencanaku, pembicaraan ini akan kugiring agar aku bisa keluar dari Klub Layanan dengan mulus, berpura-pura masuk klub tenis, lalu perlahan menghilang. Tapi dia langsung menutup jalan itu."
     },
     {
       "id": "v1-bab-6-chapter006_b-p093",
       "kind": "text",
       "source": "chapter006_b.xhtml#p93",
-      "text": "“Tapi menurutku Totsuka mempunyai ide yang tepat jika aku bergabung dengan klub tenis. Pada dasarnya, kita hanya perlu memberikan sedikit kejutan kepada anggota klub. Maksudku, jika mereka mendapat kejutan bahwa ada anggota baru, itu akan mengacaukan segalanya, kan?”"
+      "text": "“Tapi menurutku usul Totsuka agar aku masuk klub tenis masuk akal. Intinya, anggota klub cuma perlu sedikit kejutan. Kalau ada anggota baru, keadaan pasti berubah, kan?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p094",
       "kind": "text",
       "source": "chapter006_b.xhtml#p94",
-      "text": "“Apakah kamu pikir kamu mampu bekerja dalam kelompok? Makhluk seperti kamu tidak akan pernah diterima, apakah aku salah?”"
+      "text": "“Kamu pikir mampu beraktivitas dalam kelompok? Makhluk sepertimu tidak mungkin diterima. Aku salah?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p095",
@@ -2039,13 +2224,13 @@
       "id": "v1-bab-6-chapter006_b-p096",
       "kind": "text",
       "source": "chapter006_b.xhtml#p96",
-      "text": "Dia benar; Aku sama sekali tidak bisa. Memang benar bahwa aku mungkin akan berhenti, tapi juga, hanya melihat yang lain bersenang-senang dan bersantai bersama sebagai sebuah klub mungkin akan memaksaku untuk memukul mereka dengan raket."
+      "text": "Dia benar. Aku memang tidak mampu. Selain mungkin akan keluar, melihat mereka bersenang-senang bersama sebagai klub saja bisa membuatku ingin menghantam mereka dengan raket."
     },
     {
       "id": "v1-bab-6-chapter006_b-p097",
       "kind": "text",
       "source": "chapter006_b.xhtml#p97",
-      "text": "Yukinoshita tertawa dengan cara yang mirip dengan desahan. “Kamu sama sekali tidak memahami psikologi kelompok, kan? Kamu adalah seorang penyendiri ulung.”"
+      "text": "Yukinoshita tertawa seperti sedang mendesah. “Kamu benar-benar tidak memahami psikologi kelompok, ya. Penyendiri sejati.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p098",
@@ -2057,7 +2242,7 @@
       "id": "v1-bab-6-chapter006_b-p099",
       "kind": "text",
       "source": "chapter006_b.xhtml#p99",
-      "text": "Dia mengabaikanku sepenuhnya dan terus berbicara. “Meskipun mereka mungkin bersatu melawanmu sebagai musuh bersama, mereka hanya akan mengeluarkan upaya yang diperlukan untuk menyingkirkanmu, tidak melakukan upaya untuk memperbaiki diri, jadi itu tidak akan menyelesaikan apa pun. Sumber: aku.”"
+      "text": "Dia mengabaikanku dan meneruskan, “Mereka mungkin akan bersatu melawanmu sebagai musuh bersama. Tapi usaha mereka hanya untuk menyingkirkanmu, bukan memperbaiki diri. Jadi tidak menyelesaikan apa-apa. Sumber: aku sendiri.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p100",
@@ -2094,7 +2279,7 @@
       "id": "v1-bab-6-chapter006_b-p104",
       "kind": "text",
       "source": "chapter006_b.xhtml#p104",
-      "text": "Dia berhenti. “Y-ya, baiklah, kurasa. Memang benar kalau aku jauh lebih menarik daripada mereka semua, dan aku tidak terlalu lemah secara mental untuk merendahkan diriku. Oleh karena itu, bisa dibilang itu adalah kesimpulan yang sudah pasti. Tapi tetap saja, Yamashita dan Shimamura cukup manis, tahu? Tampaknya mereka cukup populer di kalangan laki-laki juga. Tapi itu hanya penampilan. Ketika berbicara tentang akademis, olahraga, seni, etiket, dan bahkan secara spiritual, mereka paling tentu saja tidak pernah mendekati seseorang sekaliber aku. Jika kamu tidak bisa mengalahkan seseorang tidak peduli seberapa keras kamu mencoba, tidak mengherankan kamu akan mencoba menahan dan menyeretnya ke bawah.”"
+      "text": "Dia terdiam. “Y-ya, kurasa begitu. Memang aku jauh lebih menarik, dan aku tidak selemah itu sampai harus merendahkan diri sendiri. Bisa dibilang hasilnya sudah pasti. Tapi Yamashita dan Shimamura juga cukup manis, tahu? Mereka lumayan populer di kalangan laki-laki. Hanya saja, itu sebatas penampilan. Dalam pelajaran, olahraga, seni, tata krama, bahkan secara batin, mereka sama sekali tidak mendekati tingkatanku. Kalau sekeras apa pun berusaha tetap tidak bisa menang, wajar mereka mencoba menghambat dan menyeretku turun.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p105",
@@ -2130,13 +2315,13 @@
       "id": "v1-bab-6-chapter006_b-p110",
       "kind": "text",
       "source": "chapter006_b.xhtml#p110",
-      "text": "“Apakah tidak ada yang bisa kami lakukan untuk membantu klub tenis menjadi lebih baik?” aku bertanya."
+      "text": "“Apa tidak ada yang bisa kita lakukan supaya klub tenis lebih baik?” tanyaku."
     },
     {
       "id": "v1-bab-6-chapter006_b-p111",
       "kind": "text",
       "source": "chapter006_b.xhtml#p111",
-      "text": "Mata Yukinoshita melebar saat dia menatapku. “Ini jarang terjadi. Kapan kamu mulai mengkhawatirkan orang lain?”"
+      "text": "Yukinoshita membelalakkan mata. “Tumben. Sejak kapan kamu memikirkan orang lain?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p112",
@@ -2148,7 +2333,7 @@
       "id": "v1-bab-6-chapter006_b-p113",
       "kind": "text",
       "source": "chapter006_b.xhtml#p113",
-      "text": "“Tapi aku sudah cukup sering diajak berkonsultasi mengenai hal-hal romantis,” kata Yukinoshita, seolah ingin membalasku. Dia membusungkan dadanya dan berbicara seolah-olah itu adalah suatu kebanggaan, tetapi ekspresinya perlahan menjadi gelap. “Meski begitu, pada dasarnya para gadis memberitahumu tentang kesukaan mereka demi pencegahan.”"
+      "text": "“Aku sendiri cukup sering dimintai saran soal percintaan,” kata Yukinoshita seakan tidak mau kalah. Dia membusungkan dada, membicarakannya dengan bangga. Tapi perlahan ekspresinya menggelap. “Meski biasanya para gadis hanya memberi tahu siapa yang mereka sukai sebagai tindakan pencegahan.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p114",
@@ -2160,17 +2345,17 @@
       "id": "v1-bab-6-chapter006_b-p115",
       "kind": "text",
       "source": "chapter006_b.xhtml#p115",
-      "text": "“Jika kamu bilang pada seseorang bahwa kamu menyukai seseorang, semua orang harus berhati-hati saat berada di dekat mereka, bukan? Itu seperti kamu menekankan kepemilikanmu terhadap mereka. Begitu kamu tahu dia menyukainya, jika kamu menyentuhnya, kamu akan diperlakukan seperti perusak rumah tangga dan dikucilkan dari kelompok gadis-gadis, dan bahkan jika dia bilang dia menyukaimu, dia akan langsung menjauh. Kenapa aku harus menerima semua pelecehan itu dari mereka?”"
+      "text": "“Kalau seseorang mengumumkan siapa yang disukainya, semua orang jadi harus berhati-hati di dekat orang itu, bukan? Seperti menandai kepemilikan. Setelah tahu dia menyukainya, kalau kamu mendekati laki-laki itu, kamu akan dianggap perebut pasangan dan dikucilkan para gadis. Bahkan kalau laki-laki itu bilang menyukaimu, dia akan segera menjauh. Kenapa aku harus menanggung semua gangguan mereka?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p116",
       "kind": "text",
       "source": "chapter006_b.xhtml#p116",
-      "text": "Sekali lagi, api hitam mulai muncul dari tubuhnya. Aku mengira kalau cewek-cewek bicara padamu tentang kesukaan mereka adalah hal yang sangat pahit, tapi ini benar-benar pahit. Kenapa dia harus menghancurkan impian murni laki-laki seperti itu? Apakah ini menyenangkan baginya?",
+      "text": "Sekali lagi, api hitam mulai mengepul darinya. Kukira dimintai saran cinta oleh cewek itu pengalaman pahit-manis, tetapi yang ini cuma pahit. Kenapa dia menghancurkan impian polos para laki-laki? Menyenangkan baginya?",
       "emphasis": [
         {
-          "start": 177,
-          "end": 276,
+          "start": 142,
+          "end": 217,
           "style": "em"
         }
       ]
@@ -2179,7 +2364,7 @@
       "id": "v1-bab-6-chapter006_b-p117",
       "kind": "text",
       "source": "chapter006_b.xhtml#p117",
-      "text": "Yukinoshita tiba-tiba tersenyum dengan nada mencela diri sendiri, seolah ingin menghapus kenangan buruknya di masa lalu. “Yang ingin aku katakan adalah bahwa mendengarkan setiap masalah kecil bukanlah ide yang baik. kamu pasti tahu pepatah lama: 'Singa melempar anak-anaknya dari tebing dan membunuhnya.'”"
+      "text": "Yukinoshita tiba-tiba tersenyum getir, seolah hendak menghapus kenangan buruk itu. “Maksudku, tidak baik meladeni setiap masalah kecil. Kamu tahu pepatah, ‘Singa melempar anaknya dari tebing dan membunuhnya’, bukan?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p118",
@@ -2204,11 +2389,11 @@
       "id": "v1-bab-6-chapter006_b-p120",
       "kind": "text",
       "source": "chapter006_b.xhtml#p120",
-      "text": "“Aku?” Yukinoshita mengedipkan matanya yang besar dengan tatapan termenung dan berkata, Oh, ya. “Aku kira aku akan membuat mereka semua berlari sampai mati, berlatih mengayun sampai mati, dan bermain tenis sampai mati.” Dia tersenyum kecil saat mengatakan itu. Sangat menakutkan.",
+      "text": "“Aku?” Yukinoshita mengerjapkan mata besarnya, berpikir sebentar, lalu berkata, “Oh, ya. Kurasa akan kusuruh mereka berlari sampai mati, berlatih mengayun sampai mati, lalu bermain tenis sampai mati.” Dia tersenyum tipis. Menakutkan sekali.",
       "emphasis": [
         {
-          "start": 88,
-          "end": 94,
+          "start": 81,
+          "end": 87,
           "style": "em"
         }
       ]
@@ -2229,7 +2414,7 @@
       "id": "v1-bab-6-chapter006_b-p123",
       "kind": "text",
       "source": "chapter006_b.xhtml#p123",
-      "text": "Matanya tertunduk, seolah kurang percaya diri. Jari-jarinya dengan lemah menggenggam ujung blazer Yuigahama, dan kulitnya menjadi putih bersih. Dia adalah eksistensi yang fana, sepertinya dia akan menghilang seperti mimpi sekilas jika cahaya menyinari dirinya."
+      "text": "Matanya tertunduk, seolah kurang percaya diri. Jemarinya menggenggam lemah ujung blazer Yuigahama, dan kulitnya putih nyaris tembus pandang. Kehadirannya begitu rapuh, seakan bisa lenyap seperti mimpi sesaat begitu tersentuh cahaya."
     },
     {
       "id": "v1-bab-6-chapter006_b-p124",
@@ -2272,7 +2457,7 @@
       "id": "v1-bab-6-chapter006_b-p129",
       "kind": "text",
       "source": "chapter006_b.xhtml#p129",
-      "text": "“Hari ini Aku membawa seseorang dengan sebuah permintaan, heh-heh,” Yuigahama mengumumkan dengan bangga, sambil membusungkan dadanya tanpa tujuan. Aku tidak bertanya padamu. Aku ingin mendengar jawaban dari bibir imut Totsuka…",
+      "text": "“Hari ini aku bawa orang yang mau minta bantuan, hehe,” Yuigahama mengumumkan dengan bangga, membusungkan dada tanpa alasan. Aku tidak bertanya kepadamu. Aku ingin mendengarnya dari bibir manis Totsuka…",
       "emphasis": [
         {
           "start": 10,
@@ -2280,8 +2465,8 @@
           "style": "em"
         },
         {
-          "start": 147,
-          "end": 226,
+          "start": 125,
+          "end": 202,
           "style": "em"
         }
       ]
@@ -2290,7 +2475,7 @@
       "id": "v1-bab-6-chapter006_b-p130",
       "kind": "text",
       "source": "chapter006_b.xhtml#p130",
-      "text": "“Yah, dengar! Aku juga anggota Klub Layanan, kan? Jadi kupikir aku akan melakukan tugasku sekali saja. Dan Sai-chan sepertinya punya masalah, jadi itu sebabnya aku membawanya ke sini.”"
+      "text": "“Dengar dulu! Aku juga anggota Klub Layanan, kan? Jadi, sekali-sekali aku mau menjalankan tugasku. Sai-chan kelihatan punya masalah, makanya kubawa ke sini.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p131",
@@ -2302,7 +2487,7 @@
       "id": "v1-bab-6-chapter006_b-p132",
       "kind": "text",
       "source": "chapter006_b.xhtml#p132",
-      "text": "“Yukinon, kamu tidak perlu berterima kasih padaku atau apa pun. Aku hanya melakukan tugasku sebagai anggota klub.”"
+      "text": "“Enggak usah berterima kasih, Yukinon. Aku cuma menjalankan tugas sebagai anggota klub.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p133",
@@ -2314,17 +2499,17 @@
       "id": "v1-bab-6-chapter006_b-p134",
       "kind": "text",
       "source": "chapter006_b.xhtml#p134",
-      "text": "“Bukan aku?!”"
+      "text": "“Aku bukan anggota?!”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p135",
       "kind": "text",
       "source": "chapter006_b.xhtml#p135",
-      "text": "Dia tidak?! Itu mengejutkan. Aku sudah berpikir pasti ini adalah sesuatu dimana dia perlahan-lahan berakhir di klub.",
+      "text": "Dia bukan anggota?! Aku terkejut. Kukira dia sudah masuk klub begitu saja tanpa terasa.",
       "emphasis": [
         {
           "start": 0,
-          "end": 11,
+          "end": 19,
           "style": "em"
         }
       ]
@@ -2333,7 +2518,7 @@
       "id": "v1-bab-6-chapter006_b-p136",
       "kind": "text",
       "source": "chapter006_b.xhtml#p136",
-      "text": "“Tidak. Aku belum mendapatkan formulir pendaftaran dari kamu atau izin dari supervisor kami, jadi kamu bukan anggota.”"
+      "text": "“Bukan. Aku belum menerima formulir pendaftaranmu atau persetujuan pembina. Jadi, kamu belum menjadi anggota.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p137",
@@ -2345,11 +2530,11 @@
       "id": "v1-bab-6-chapter006_b-p138",
       "kind": "text",
       "source": "chapter006_b.xhtml#p138",
-      "text": "“Aku akan mengisi satu! Aku bisa mengisi sebanyak mungkin lamaran yang kamu mau! Biarkan aku bergabung denganmu!” Dengan mata berkaca-kaca, Yuigahama mulai menulis formulir lamaran di selembar kertas lepas dengan karakter hiragana fonetik yang bulat dan kekanak-kanakan. Setidaknya dia bisa menulisnya dalam kanji…",
+      "text": "“Akan kuisi! Mau berapa formulir pun akan kuisi! Bolehkan aku gabung!” Dengan mata berkaca-kaca, Yuigahama mulai menulis formulir pendaftaran di kertas lepas. Huruf hiragananya bulat dan kekanak-kanakan. Setidaknya tulis pakai kanji…",
       "emphasis": [
         {
-          "start": 164,
-          "end": 180,
+          "start": 121,
+          "end": 141,
           "style": "em"
         }
       ]
@@ -2364,7 +2549,7 @@
       "id": "v1-bab-6-chapter006_b-p140",
       "kind": "text",
       "source": "chapter006_b.xhtml#p140",
-      "text": "Tertusuk oleh tatapan dinginnya, Totsuka mengejang sejenak. “U-um…kamu bisa membantuku…menjadi lebih baik…di tenis, kan?” Pada awalnya, dia melihat ke arah Yukinoshita, tapi saat dia mendekati akhir kalimatnya, tatapan Totsuka beralih ke arahku. Dia lebih pendek dariku, jadi dia menatapku, melihat bagaimana reaksiku."
+      "text": "Tertusuk tatapan dingin itu, Totsuka tersentak. “A-anu… kalian bisa membantuku… supaya lebih jago… tenis, kan?” Awalnya dia menatap Yukinoshita, tetapi menjelang akhir kalimat, pandangannya beralih kepadaku. Karena lebih pendek, dia mendongak untuk melihat reaksiku."
     },
     {
       "id": "v1-bab-6-chapter006_b-p141",
@@ -2383,19 +2568,19 @@
       "id": "v1-bab-6-chapter006_b-p142",
       "kind": "text",
       "source": "chapter006_b.xhtml#p142",
-      "text": "Lalu, meskipun sepertinya dia tidak berniat menyelamatkanku, Yukinoshita menjawab menggantikanku. “Aku tidak tahu bagaimana Yuigahama menjelaskannya kepadamu, tapi Klub Layanan bukanlah jin pribadimu. Kami hanya memberikan sedikit bantuan dan mendorong kemandirianmu. Apakah kamu berkembang atau tidak, itu terserah kamu.”"
+      "text": "Yukinoshita menjawab menggantikanku, meski rasanya bukan untuk menyelamatkanku. “Aku tidak tahu penjelasan Yuigahama kepadamu, tapi Klub Layanan bukan jin pengabul keinginan pribadi. Kami hanya memberi sedikit bantuan dan mendorong kemandirian. Berkembang atau tidak, itu tergantung dirimu.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p143",
       "kind": "text",
       "source": "chapter006_b.xhtml#p143",
-      "text": "“Oh… begitu…” Karena putus asa, bahu Totsuka terkulai."
+      "text": "“Oh… begitu…” Bahu Totsuka merosot kecewa."
     },
     {
       "id": "v1-bab-6-chapter006_b-p144",
       "kind": "text",
       "source": "chapter006_b.xhtml#p144",
-      "text": "Yuigahama mungkin sudah menjanjikan banyak hal. Aku memelototinya. Dia bergumam, “Stempel aku, stempel aku,” sambil mencari-cari di dalam tasnya untuk mencari stempel pribadi yang akan digunakannya untuk menandatangani formulir. Dia memperhatikan perhatianku dan mengangkat kepalanya."
+      "text": "Yuigahama pasti sudah menjanjikan macam-macam. Aku memelototinya. Sambil menggumamkan, “Stempelku, stempelku,” dia mengaduk tas, mencari stempel pribadi untuk mengesahkan formulir. Merasakan tatapanku, dia mendongak."
     },
     {
       "id": "v1-bab-6-chapter006_b-p145",
@@ -2407,17 +2592,17 @@
       "id": "v1-bab-6-chapter006_b-p146",
       "kind": "text",
       "source": "chapter006_b.xhtml#p146",
-      "text": "“Jangan beri aku itu. Ucapanmu yang tidak bertanggung jawab telah menghancurkan harapan kecil anak ini hingga berkeping-keping.” Yukinoshita menyerangnya tanpa ampun, tapi Yuigahama hanya memiringkan kepalanya."
+      "text": "“Jangan pura-pura tidak tahu. Ucapanmu yang tidak bertanggung jawab sudah menghancurkan harapan kecil anak ini.” Yukinoshita menyerang tanpa ampun, tetapi Yuigahama hanya memiringkan kepala."
     },
     {
       "id": "v1-bab-6-chapter006_b-p147",
       "kind": "text",
       "source": "chapter006_b.xhtml#p147",
-      "text": "“Hmm? Hmm? Tapi, sepertinya kamu dan Hikki bisa menemukan sesuatu, kan?” Yuigahama bertanya terus terang, ekspresi wajahnya benar-benar kosong. Bergantung pada cara kamu menafsirkan ucapan tersebut, ucapan tersebut bisa saja berarti meremehkan, seperti Jadi kamu tidak boleh melakukannya?",
+      "text": "“Hmm? Tapi kalau kamu sama Hikki, pasti bisa memikirkan sesuatu, kan?” tanya Yuigahama terus terang, wajahnya polos. Tergantung cara mendengarnya, ucapan itu bisa terdengar meremehkan: Jadi, kalian tidak bisa?",
       "emphasis": [
         {
-          "start": 253,
-          "end": 288,
+          "start": 185,
+          "end": 209,
           "style": "em"
         }
       ]
@@ -2426,11 +2611,11 @@
       "id": "v1-bab-6-chapter006_b-p148",
       "kind": "text",
       "source": "chapter006_b.xhtml#p148",
-      "text": "Sayangnya, ada seseorang di ruangan itu yang mengambil sikap seperti itu. “Hmph. Akhir-akhir ini kamu menjadi jauh lebih blak-blakan, Yuigahama. Jangan pedulikan bocah itu... Aku tidak percaya kamu akan mencoba mengujiku.” Yukinoshita menyeringai. Agh, Yuigahama telah menekan tombol aneh di otak Yukinoshita. Yukino Yukinoshita akan menerima tantangan apa pun dan mengalahkannya dengan semua yang dia punya. Dia akan mengalahkanmu bahkan jika kamu tidak menantangnya. Dia adalah tipe orang yang bahkan akan menindas aku, dan aku tidak pernah menolaknya. Aku seperti Gandhi. “Baik. Totsuka, aku menerima permintaanmu. Kamu ingin aku meningkatkan kemampuanmu dalam tenis, benarkah?”",
+      "text": "Sayangnya, ada yang menafsirkannya begitu. “Hmph. Belakangan kamu makin berani bicara, Yuigahama. Kalau anak itu, lupakan saja… tapi tak kusangka kamu hendak mengujiku.” Yukinoshita menyeringai. Aduh, Yuigahama menekan tombol aneh di otaknya. Yukino Yukinoshita akan menerima tantangan apa pun dan menghadapinya dengan segenap kemampuan. Tidak ditantang pun dia akan mengalahkanmu. Aku yang tidak pernah melawan saja tetap ditindasnya. Aku ini seperti Gandhi. “Baik. Totsuka, permintaanmu kuterima. Kamu ingin meningkatkan kemampuan tenis, benar?”",
       "emphasis": [
         {
-          "start": 193,
-          "end": 197,
+          "start": 146,
+          "end": 150,
           "style": "em"
         }
       ]
@@ -2439,7 +2624,7 @@
       "id": "v1-bab-6-chapter006_b-p149",
       "kind": "text",
       "source": "chapter006_b.xhtml#p149",
-      "text": "“Y-ya, benar. J-jika aku menjadi lebih baik, semua orang akan berusaha lebih keras juga, menurutku,” jawab Totsuka dari belakangku. Mungkin dia kewalahan melihat betapa lebarnya mata Yukinoshita yang melebar. Dia dengan lembut mengintip dari balik bahuku. Ekspresinya ketakutan dan gelisah. Dia seperti kelinci liar yang gemetar, membuatku ingin mengenakannya dalam kostum bunny girl."
+      "text": "“I-iya. K-kalau aku makin jago, kurasa yang lain juga akan lebih semangat,” jawab Totsuka dari belakangku. Mungkin dia kewalahan menghadapi mata Yukinoshita yang membelalak. Dia mengintip pelan dari balik bahuku, ketakutan dan gelisah seperti kelinci liar yang gemetar. Rasanya ingin kupakaikan kostum bunny girl."
     },
     {
       "id": "v1-bab-6-chapter006_b-p150",
@@ -2471,11 +2656,11 @@
       "id": "v1-bab-6-chapter006_b-p152",
       "kind": "text",
       "source": "chapter006_b.xhtml#p152",
-      "text": "Aku mengambil langkah maju dalam upaya melindungi Totsuka dan meredakan kecemasannya. Saat aku mendekatinya, aku mencium bau sampo dan deodoran yang bercampur: aroma seorang gadis SMA yang tak terlukiskan. Jenis sampo apa yang dia gunakan? “Baiklah, aku tidak keberatan membantu, tapi apa yang akan kita lakukan?”",
+      "text": "Aku melangkah maju untuk melindungi Totsuka dan menenangkannya. Saat mendekat, tercium campuran sampo dan deodoran: aroma siswi SMA yang sulit dijelaskan. Sampo apa yang dia pakai? “Baiklah, aku tidak keberatan membantu. Tapi kita akan melakukan apa?”",
       "emphasis": [
         {
-          "start": 206,
-          "end": 239,
+          "start": 155,
+          "end": 180,
           "style": "em"
         }
       ]
@@ -2490,21 +2675,21 @@
       "id": "v1-bab-6-chapter006_b-p154",
       "kind": "text",
       "source": "chapter006_b.xhtml#p154",
-      "text": "“Hei, bukan berarti kamu serius…,” kataku, mengingat ucapan sesuatu sampai kamu mati, dan Yukinoshita tersenyum seolah mengatakan, Oh, kamu sangat berwawasan luas. Senyuman itu membuatku takut…",
+      "text": "“Hei, jangan bilang kamu serius…” Aku teringat ucapan berlatih sampai mati tadi. Yukinoshita tersenyum seolah berkata, Oh, pintar juga kamu. Senyum itu menyeramkan…",
       "emphasis": [
         {
-          "start": 60,
-          "end": 84,
+          "start": 54,
+          "end": 74,
           "style": "em"
         },
         {
-          "start": 131,
+          "start": 119,
+          "end": 129,
+          "style": "em"
+        },
+        {
+          "start": 130,
           "end": 139,
-          "style": "em"
-        },
-        {
-          "start": 147,
-          "end": 162,
           "style": "em"
         }
       ]
@@ -2531,11 +2716,11 @@
       "id": "v1-bab-6-chapter006_b-p158",
       "kind": "text",
       "source": "chapter006_b.xhtml#p158",
-      "text": "“Oh maaf. Aku hanya ingin mencoba mengatakan itu.” Itu adalah salah satu dari tiga kalimat teratas yang ingin aku coba ucapkan sekali, sebagai seorang pria. Ngomong-ngomong, nomor satu adalah Silakan saja. Serahkan ini padaku. Tapi, tidak mungkin aku bisa melindungi Yukinoshita dari apa pun, atau melindungi siapa pun, dalam hal ini. Tapi, yah, setelah aku membuang ucapan itu, jika aku tidak mengatakan sesuatu untuk menghindari pernyataan itu, dia akan pergi dengan perasaan tidak nyaman.",
+      "text": "“Oh, maaf. Aku cuma ingin mencoba mengatakannya.” Itu salah satu dari tiga kalimat yang, sebagai laki-laki, ingin kucoba sekali seumur hidup. Nomor satunya: Pergilah duluan. Serahkan ini padaku. Padahal melindungi orang dari Yukinoshita saja aku tidak sanggup, apalagi melindungi siapa pun secara umum. Tapi setelah asal bicara begitu, aku harus mengalihkannya dengan suatu ucapan, atau dia akan pulang dengan perasaan tidak tenang.",
       "emphasis": [
         {
-          "start": 192,
-          "end": 226,
+          "start": 157,
+          "end": 194,
           "style": "em"
         }
       ]
@@ -2556,7 +2741,7 @@
       "id": "v1-bab-6-chapter006_b-p161",
       "kind": "text",
       "source": "chapter006_b.xhtml#p161",
-      "text": "“Diterima!” Yuigahama menjawab selagi dia akhirnya selesai menulis formulir lamarannya. Totsuka juga mengangguk. Dan itu berarti…"
+      "text": "“Siap!” jawab Yuigahama, yang akhirnya selesai menulis formulir. Totsuka ikut mengangguk. Berarti…"
     },
     {
       "id": "v1-bab-6-chapter006_b-p162",
@@ -2592,13 +2777,13 @@
       "id": "v1-bab-6-chapter006_b-p166",
       "kind": "text",
       "source": "chapter006_b.xhtml#p166",
-      "text": "Aku bertanya-tanya mengapa aku ikut dengan mereka. Pada akhirnya, yang dilakukan oleh komunitas yang dikenal sebagai Klub Layanan ini hanyalah mengumpulkan sekelompok orang lemah, dan semua yang dilakukan oleh orang-orang lemah ini hanyalah tertidur di dalam taman kecil berdinding itu. Guru baru saja mengumpulkan kelompok pecundang ini dan memberi mereka tempat berlindung sementara yang nyaman. Dan apa bedanya dengan pengalaman remaja klasik yang sangat aku benci?"
+      "text": "Kenapa aku ikut-ikutan? Pada akhirnya, komunitas bernama Klub Layanan ini hanya mengumpulkan orang-orang lemah yang kemudian terlelap nyaman dalam taman berpagar mereka. Bu Guru mengumpulkan para pecundang dan memberi mereka tempat berlindung sementara. Apa bedanya dengan masa remaja klise yang begitu kubenci?"
     },
     {
       "id": "v1-bab-6-chapter006_b-p167",
       "kind": "text",
       "source": "chapter006_b.xhtml#p167",
-      "text": "Mungkin itulah tujuan Bu Hiratsuka mendirikan sanatorium ini untuk menghilangkan sumber penyakit kita masing-masing. Namun jika yang membuat kita sakit adalah sesuatu yang bisa dihilangkan melalui upaya yang buruk, maka tidak ada satupun dari kita yang akan sakit."
+      "text": "Mungkin Bu Hiratsuka mendirikan sanatorium ini untuk menghilangkan sumber penyakit kami masing-masing. Tapi kalau sumber penyakit itu bisa dihilangkan dengan usaha setengah hati, sejak awal tak seorang pun dari kami akan sakit."
     },
     {
       "id": "v1-bab-6-chapter006_b-p168",
@@ -2610,13 +2795,13 @@
       "id": "v1-bab-6-chapter006_b-p169",
       "kind": "text",
       "source": "chapter006_b.xhtml#p169",
-      "text": "Aku tidak tahu apa masalahnya, tapi menurut aku itu bukan sesuatu yang bisa disembuhkan di sini. Dan meskipun lukaku bisa disembuhkan, satu-satunya hal yang bisa terjadi adalah jika Totsuka adalah seorang perempuan. Jika, melalui episode tenis ini, sesuatu yang bisa disebut komedi romantis lahir antara aku dan Totsuka, maka situasinya mungkin akan berbeda."
+      "text": "Aku tidak tahu masalahnya, tapi rasanya bukan sesuatu yang bisa disembuhkan di sini. Kalau lukaku sendiri bisa disembuhkan, itu hanya mungkin terjadi seandainya Totsuka perempuan. Kalau kisah tenis ini melahirkan sesuatu yang bisa disebut komedi romantis antara aku dan Totsuka, mungkin keadaannya berbeda."
     },
     {
       "id": "v1-bab-6-chapter006_b-p170",
       "kind": "text",
       "source": "chapter006_b.xhtml#p170",
-      "text": "Sejauh yang aku tahu, yang paling lucu di sana adalah Saika Totsuka. Dia memiliki kepribadian yang terbuka, dan yang terpenting, dia baik padaku. Jika aku meluangkan waktu untuk memupuk cinta ini, ada kemungkinan aku bisa menumbuhkan rasa kemanusiaan."
+      "text": "Sejauh yang kulihat, Saika Totsuka paling manis di antara semuanya. Kepribadiannya terbuka dan, yang terpenting, dia baik kepadaku. Kalau kuberi waktu untuk memupuk cinta ini, mungkin rasa kemanusiaanku bisa tumbuh."
     },
     {
       "id": "v1-bab-6-chapter006_b-p171",
@@ -2634,7 +2819,7 @@
       "id": "v1-bab-6-chapter006_b-p173",
       "kind": "text",
       "source": "chapter006_b.xhtml#p173",
-      "text": "Seragam olahraga di sekolahku berwarna biru neon pucat, dan sangat mencolok. Warnanya tidak keren sampai-sampai terlihat indah, dan semua siswa membencinya, jadi tidak ada yang memakainya atas kemauan mereka sendiri di luar kelas olahraga atau waktu klub. Semua orang mengenakan seragam reguler mereka saat makan siang, dan hanya aku yang terlihat menonjol dalam pakaian olahragaku. Keterlihatanku yang mencolok menyebabkan aku ditangkap oleh seseorang yang menyebalkan."
+      "text": "Pakaian olahraga sekolahku berwarna biru neon pucat yang mencolok. Warnanya begitu tidak keren sampai hampir terasa indah. Semua siswa membencinya, jadi tak ada yang mau memakainya di luar pelajaran olahraga atau kegiatan klub. Saat makan siang, semua masih berseragam sekolah. Hanya aku yang mencolok dengan pakaian olahraga. Akibatnya, seseorang yang merepotkan berhasil menemukanku."
     },
     {
       "id": "v1-bab-6-chapter006_b-p174",
@@ -2658,7 +2843,7 @@
       "id": "v1-bab-6-chapter006_b-p177",
       "kind": "text",
       "source": "chapter006_b.xhtml#p177",
-      "text": "“Betapa tak terduga bertemu denganmu di tempat seperti ini! Aku baru saja berpikir untuk menyerahkan rencana baruku padamu. Datang dan nikmatilah!”"
+      "text": "“Tak kusangka bertemu denganmu di sini! Kebetulan aku hendak memperlihatkan gagasan baruku. Mari, nikmatilah!”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p178",
@@ -2670,7 +2855,7 @@
       "id": "v1-bab-6-chapter006_b-p179",
       "kind": "text",
       "source": "chapter006_b.xhtml#p179",
-      "text": "Tapi Zaimokuza dengan baik hati meraih bahuku. “Jangan beri aku kebohongan yang menyedihkan. Tidak mungkin kamu punya rencana apa pun.”"
+      "text": "Tapi Zaimokuza berbaik hati mencengkeram bahuku. “Jangan berdusta semenyedihkan itu. Tidak mungkin kamu punya kesibukan.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p180",
@@ -2682,19 +2867,19 @@
       "id": "v1-bab-6-chapter006_b-p181",
       "kind": "text",
       "source": "chapter006_b.xhtml#p181",
-      "text": "“Heh. Aku mengerti, Hachiman. Kamu hanya ingin terlihat keren, jadi kamu mengatakan sedikit kebohongan putih, ya? Dan kemudian, untuk mencegah kebohongan itu terungkap, kamu terus menerus berbohong. Dan kemudian kamu akan mati-matian melakukannya lagi. Ini adalah spiral yang tragis dan tak terbatas, tapi tahukah kamu, di ujung lain dari spiral itu adalah kekosongan. Lebih spesifiknya, hubungan manusia adalah kekosongan."
+      "text": "“Heh. Aku mengerti, Hachiman. Kau ingin terlihat keren, jadi mulai dengan kebohongan kecil, bukan? Lalu, agar tidak terbongkar, kau terus menumpuk kebohongan. Setelah itu, mati-matian mengulanginya lagi. Spiral tragis tanpa akhir. Tapi di ujung spiral itu hanya ada kehampaan. Tepatnya, hubungan antarmanusia adalah kehampaan."
     },
     {
       "id": "v1-bab-6-chapter006_b-p182",
       "kind": "text",
       "source": "chapter006_b.xhtml#p182",
-      "text": "Namun masih ada waktu untuk kembali! Apa? kamu menyelamatkan aku! Kali ini, giliranku untuk menyelamatkanmu!” Zaimokuza menyampaikan kalimat ini, yang merupakan hal nomor dua dalam daftar hal-hal yang ingin aku coba katakan sekali, sebagai seorang pria. Dia mengacungkan jempol dan memasang ekspresi menjengkelkan dan dibuat-buat di wajahnya."
+      "text": "“Namun, masih ada waktu untuk kembali! Apa? Kau sudah menyelamatkanku! Sekarang giliranku menyelamatkanmu!” Zaimokuza mengucapkan kalimat nomor dua dalam daftar kalimat yang ingin kucoba sebagai laki-laki. Dia mengacungkan jempol dengan ekspresi dibuat-buat yang menjengkelkan."
     },
     {
       "id": "v1-bab-6-chapter006_b-p183",
       "kind": "text",
       "source": "chapter006_b.xhtml#p183",
-      "text": "“Aku benar-benar punya rencana…” Aku benar-benar bisa merasakan otot-otot di wajahku mengejang karena iritasi ketika aku berusaha meyakinkan Zaimokuza. Tapi saat itu…"
+      "text": "“Aku benar-benar ada urusan…” Otot wajahku terasa berkedut kesal saat berusaha meyakinkannya. Tepat saat itu…"
     },
     {
       "id": "v1-bab-6-chapter006_b-p184",
@@ -2718,7 +2903,7 @@
       "id": "v1-bab-6-chapter006_b-p187",
       "kind": "text",
       "source": "chapter006_b.xhtml#p187",
-      "text": "“H-Hachiman… Siapa orang itu…?” Zaimokuza memandang bolak-balik antara Totsuka dan aku dengan takjub. Perlahan-lahan, ekspresinya berubah, berubah menjadi sesuatu yang aku rasa pernah aku lihat sebelumnya. Oh, aku tahu. Seperti di Kabuki? Dengan gaya yang hampir membuatku berpikir aku pernah mendengar seorang aktor Kabuki berteriak dan menabuh genderangnya, mata Zaimokuza terbuka lebar, dan dia mengambil pose. “K-kamu iblis! Apakah kamu mengkhianatiku?!”"
+      "text": "“H-Hachiman… Siapa itu…?” Zaimokuza menatapku dan Totsuka bergantian dengan takjub. Perlahan ekspresinya berubah menjadi sesuatu yang rasanya pernah kulihat. Oh, ya. Kabuki? Matanya membelalak dan tubuhnya berpose dramatis, sampai aku seolah mendengar teriakan aktor kabuki dan tabuhan gendang. “K-kau iblis! Kau mengkhianatiku?!”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p188",
@@ -2730,13 +2915,13 @@
       "id": "v1-bab-6-chapter006_b-p189",
       "kind": "text",
       "source": "chapter006_b.xhtml#p189",
-      "text": "“Diam! Dasar pria keren yang setengah tampan dan gagal! Aku kasihan padamu karena kamu penyendiri, tapi sekarang kamu jadi sombong!”"
+      "text": "“Diam! Dasar cowok setengah tampan yang gagal jadi pria keren! Aku kasihan karena kau penyendiri, tapi sekarang malah besar kepala!”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p190",
       "kind": "text",
       "source": "chapter006_b.xhtml#p190",
-      "text": "“Bagian ‘setengah’ dan ‘gagal’ itu tidak diperlukan.” Sisi penyendiri itu memang benar, jadi aku tidak bisa membantahnya."
+      "text": "“Bagian ‘setengah’ dan ‘gagal’ itu tidak perlu.” Soal penyendiri memang benar, jadi tidak bisa kubantah."
     },
     {
       "id": "v1-bab-6-chapter006_b-p191",
@@ -2754,7 +2939,7 @@
       "id": "v1-bab-6-chapter006_b-p193",
       "kind": "text",
       "source": "chapter006_b.xhtml#p193",
-      "text": "“P-p-p-sialan! Tidak mungkin gadis secantik itu laki-laki!” Zaimokuza keberatan dan mengacaukan kata-katanya."
+      "text": "“S-s-sialan! Mana mungkin gadis semanis itu laki-laki!” bantah Zaimokuza dengan lidah terbelit."
     },
     {
       "id": "v1-bab-6-chapter006_b-p194",
@@ -2784,13 +2969,13 @@
       "id": "v1-bab-6-chapter006_b-p198",
       "kind": "text",
       "source": "chapter006_b.xhtml#p198",
-      "text": "Tapi aku bisa mengetahui dari mana dia berasal. Wajar jika seseorang yang tadinya sedikit kamu simpati ternyata memiliki kualitas yang sangat berbeda dari yang kamu duga, kamu merasakan sedikit kesedihan seperti pengkhianatan."
+      "text": "Tapi aku mengerti perasaannya. Wajar kalau orang yang tadinya kamu kasihani ternyata punya sisi yang sangat berbeda dari dugaan, kamu merasa sedih, seperti dikhianati."
     },
     {
       "id": "v1-bab-6-chapter006_b-p199",
       "kind": "text",
       "source": "chapter006_b.xhtml#p199",
-      "text": "Aku bertanya-tanya apa yang bisa aku katakan di saat seperti ini agar hubungan kami kembali normal. Sayangnya, EXP aku kurang, jadi aku tidak tahu. Tapi aku merasa sedikit sedih. Itu karena aku merasa mungkin dia dan aku punya semacam pemahaman, dan mungkin suatu hari nanti kami bisa menertawakannya dan menerima satu sama lain atau semacamnya."
+      "text": "Apa yang harus kukatakan agar hubungan kami kembali normal? Sayangnya EXP-ku kurang, jadi aku tidak tahu. Tapi aku agak sedih. Sebab kupikir kami mungkin saling memahami. Mungkin suatu hari kami bisa menertawakannya dan menerima satu sama lain."
     },
     {
       "id": "v1-bab-6-chapter006_b-p200",
@@ -2802,7 +2987,7 @@
       "id": "v1-bab-6-chapter006_b-p201",
       "kind": "text",
       "source": "chapter006_b.xhtml#p201",
-      "text": "Persahabatan di mana kamu selalu berusaha untuk mempertimbangkan orang lain, selalu mengkhawatirkan apa yang mereka pikirkan, selalu menanggapi setiap pesan teks, selalu mencari persetujuan mereka dan akhirnya terhubung dengan mereka, bukanlah persahabatan sama sekali. Jika proses merepotkan itu adalah apa yang mereka sebut masa muda, maka aku tidak memerlukannya. Bersenang-senang di antara komunitas yang hangat pada dasarnya hanya mengelus ego kamu sendiri. Itu adalah penipuan. Jenis kejahatan terburuk."
+      "text": "Persahabatan yang menuntutmu terus menjaga perasaan, mencemaskan pikiran orang lain, membalas setiap pesan, mencari persetujuan, lalu akhirnya merasa terhubung—itu bukan persahabatan. Kalau proses merepotkan itu disebut masa muda, aku tidak membutuhkannya. Bersenang-senang dalam komunitas yang hangat pada dasarnya cuma membelai ego sendiri. Penipuan. Kejahatan paling buruk."
     },
     {
       "id": "v1-bab-6-chapter006_b-p202",
@@ -2832,7 +3017,7 @@
       "id": "v1-bab-6-chapter006_b-p206",
       "kind": "text",
       "source": "chapter006_b.xhtml#p206",
-      "text": "Zaimokuza, kan?"
+      "text": "“Zaimokuza, kan?”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p207",
@@ -2850,11 +3035,11 @@
       "id": "v1-bab-6-chapter006_b-p209",
       "kind": "text",
       "source": "chapter006_b.xhtml#p209",
-      "text": "“Heh... Ngh... Heh...heh-heh-heh. Memang benar, Hachiman dan aku adalah sahabat karib. Tidak, saudara. Tidak, tidak, tidak, aku adalah majikannya, dan dia adalah pelayannya. Nah, jika kamu ingin menjadi seperti itu, maka kurasa aku tidak punya pilihan. Aku akan menjadi...u-um...temanmu? Kalau begitu. Atau kekasih, jika kamu mau.”",
+      "text": "“Heh… Ngh… heh-heh-heh. Benar, Hachiman dan aku sahabat karib. Tidak, saudara. Tidak, tidak, akulah tuannya dan dia pelayanku. Nah, kalau begitu keinginanmu, apa boleh buat. Aku akan menjadi… a-anu… temanmu? Begitu. Atau kekasih, kalau kau mau.”",
       "emphasis": [
         {
-          "start": 94,
-          "end": 101,
+          "start": 70,
+          "end": 77,
           "style": "em"
         }
       ]
@@ -2875,22 +3060,22 @@
       "id": "v1-bab-6-chapter006_b-p212",
       "kind": "text",
       "source": "chapter006_b.xhtml#p212",
-      "text": "Ya tidak. Zaimokuza bukanlah temanku. Seseorang yang segera mengubah sikapnya setelah mengetahui bahwa dia bisa berteman dengan seorang gadis cantik melalui aku tidak akan pernah menjadi temanku. “Ayo pergi, Totsuka. Kalau kita terlambat, Yukinoshita akan ketakutan.”"
+      "text": "Tidak. Zaimokuza bukan temanku. Orang yang langsung berubah sikap begitu tahu bisa berkenalan dengan gadis manis melaluiku tidak akan pernah menjadi temanku. “Ayo, Totsuka. Kalau terlambat, Yukinoshita bakal mengamuk.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p213",
       "kind": "text",
       "source": "chapter006_b.xhtml#p213",
-      "text": "“Hmm, kita tidak bisa memilikinya. Kalau begitu ayo kita bergegas. Wanita itu...sangat menakutkan,” kata Zaimokuza sambil mengikutiku dan Totsuka. Tampaknya, Zaimokuza kini bersama kami. Kami semua berjalan dalam barisan karena suatu alasan, jadi bagi seseorang yang melihat kami, kami mungkin tampak seperti Dragon Quest–ish… Tidak, dia bukan Dragon Quest dan lebih mirip Raja Bonbii dari Momotetsu, menurutku.",
+      "text": "“Hmm, jangan sampai. Kalau begitu, cepatlah. Perempuan itu… menakutkan sekali,” kata Zaimokuza sambil mengikuti kami. Rupanya dia ikut sekarang. Entah kenapa kami berjalan berbaris. Dari luar mungkin terlihat seperti rombongan Dragon Quest… Tidak, bukan Dragon Quest. Dia lebih mirip Raja Bonbii dari Momotetsu.",
       "emphasis": [
         {
-          "start": 309,
-          "end": 321,
+          "start": 227,
+          "end": 239,
           "style": "em"
         },
         {
-          "start": 344,
-          "end": 356,
+          "start": 254,
+          "end": 266,
           "style": "em"
         }
       ]
@@ -2923,11 +3108,11 @@
       "id": "v1-bab-6-chapter006_b-p217",
       "kind": "text",
       "source": "chapter006_b.xhtml#p217",
-      "text": "“Pertama-tama, mari kita bangun otot yang sangat kurang kamu miliki. Untuk membentuk otot bisep, deltoid, dada, perut, oblique, punggung, dan femoralis kamu secara komprehensif, pertama-tama, lakukan push-up… Untuk saat ini, lakukan saja sampai kamu hampir mati.”",
+      "text": "“Pertama, kita bangun ototmu yang masih sangat kurang. Untuk melatih bisep, deltoid, dada, perut, otot samping perut, punggung, dan paha secara menyeluruh, mulai dengan push-up… Untuk sementara, lakukan sampai hampir mati.”",
       "emphasis": [
         {
-          "start": 250,
-          "end": 256,
+          "start": 210,
+          "end": 216,
           "style": "em"
         }
       ]
@@ -2936,11 +3121,11 @@
       "id": "v1-bab-6-chapter006_b-p218",
       "kind": "text",
       "source": "chapter006_b.xhtml#p218",
-      "text": "“Whoa, kamu terdengar sangat pintar, Yukinon...hah? Hampir mati?”",
+      "text": "“Wah, kamu pintar banget, Yukinon… Hah? Hampir mati?”",
       "emphasis": [
         {
-          "start": 52,
-          "end": 58,
+          "start": 40,
+          "end": 46,
           "style": "em"
         }
       ]
@@ -2949,7 +3134,7 @@
       "id": "v1-bab-6-chapter006_b-p219",
       "kind": "text",
       "source": "chapter006_b.xhtml#p219",
-      "text": "“Iya. Otot memperbaiki dirinya sendiri sampai pada tingkat dimana kamu telah merobeknya, tapi setiap kali otot itu memperbaiki dirinya sendiri, serat-seratnya akan mengikat lebih kuat, dan ini dikenal sebagai kompensasi berlebihan. Dengan kata lain, jika kamu melakukannya sampai pada titik di mana hampir mati, kamu akan mendapatkan kekuatan secara bersamaan.”"
+      "text": "“Ya. Otot memperbaiki kerusakan yang terjadi, dan setiap kali pulih, serat-seratnya menjadi lebih kuat. Itu disebut superkompensasi. Dengan kata lain, kalau berlatih sampai hampir mati, kamu akan bertambah kuat.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p220",
@@ -2986,7 +3171,7 @@
       "id": "v1-bab-6-chapter006_b-p224",
       "kind": "text",
       "source": "chapter006_b.xhtml#p224",
-      "text": "Yukinoshita tampak agak terkejut, tapi mungkin berpikir akan lebih cepat menjelaskannya daripada mengkritik Yuigahama, dia menambahkan dengan singkat: “Sederhananya, itu berarti membuat tubuh bugar untuk aktivitas fisik. Ketika metabolisme basal meningkat, pembakaran kalori menjadi lebih mudah. Hal ini meningkatkan efisiensi transformasi energi.”"
+      "text": "Yukinoshita tampak agak terkejut. Mungkin merasa menjelaskan lebih cepat daripada mengkritik, dia menambahkan singkat, “Sederhananya, membuat tubuh siap beraktivitas fisik. Kalau metabolisme basal meningkat, kalori lebih mudah dibakar. Perubahan menjadi energi pun lebih efisien.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p225",
@@ -3010,7 +3195,7 @@
       "id": "v1-bab-6-chapter006_b-p228",
       "kind": "text",
       "source": "chapter006_b.xhtml#p228",
-      "text": "Kemudian, seolah-olah antusiasme Yuigahama telah membuatnya marah, Totsuka juga mengepalkan tangannya. “Ka-kalau begitu, kurasa aku akan mencoba melakukannya.”"
+      "text": "Seakan tertular semangat Yuigahama, Totsuka ikut mengepalkan tangan. “K-kalau begitu, akan kucoba.”"
     },
     {
       "id": "v1-bab-6-chapter006_b-p229",
@@ -3028,19 +3213,19 @@
       "id": "v1-bab-6-chapter006_b-p231",
       "kind": "text",
       "source": "chapter006_b.xhtml#p231",
-      "text": "“Ugh...ngh! Ngah! Fiuh, fiuh, nnnngh!” Nafas terengah-engah keluar dari keduanya. Mendistorsi wajah mereka karena kesedihan, mereka mengeluarkan sedikit keringat, dan pipi mereka memerah."
+      "text": "“Ugh… ngh! Ngah! Hah, hah, nnnngh!” Keduanya terengah-engah. Wajah mereka mengerut kesakitan, sedikit berkeringat, dan pipinya memerah."
     },
     {
       "id": "v1-bab-6-chapter006_b-p232",
       "kind": "text",
       "source": "chapter006_b.xhtml#p232",
-      "text": "Lengan Totsuka kelihatannya cukup sakit, karena kadang-kadang, dia melirikku dengan pandangan memohon. Menatapnya dengan santai dari atas membuatku merasa, um…aneh."
+      "text": "Lengan Totsuka tampaknya mulai sakit. Sesekali dia melirikku memohon. Memandangnya santai dari atas membuatku merasa… agak aneh."
     },
     {
       "id": "v1-bab-6-chapter006_b-p233",
       "kind": "text",
       "source": "chapter006_b.xhtml#p233",
-      "text": "Saat Yuigahama menekuk tangannya, kulit bersinar terlihat dari kerah pakaian olahraganya. Oh tidak. Aku tidak bisa melihatnya secara langsung. Detak jantungku meningkat cukup tinggi selama beberapa waktu, dan ada kemungkinan detak jantungku tidak teratur sekarang."
+      "text": "Saat lengan Yuigahama menekuk, kulit cerahnya terlihat dari kerah pakaian olahraga. Gawat. Aku tidak sanggup melihat langsung. Sejak tadi jantungku berdebar terlalu cepat. Jangan-jangan iramanya sudah tidak teratur."
     },
     {
       "id": "v1-bab-6-chapter006_b-p234",
@@ -3052,7 +3237,7 @@
       "id": "v1-bab-6-chapter006_b-p235",
       "kind": "text",
       "source": "chapter006_b.xhtml#p235",
-      "text": "“Kebetulan sekali. Aku merasakan hal yang sama.” Aku melirik ke bawah pada kilatan kulit di bawah kami sampai sebuah suara terdengar seperti air es di punggungku."
+      "text": "“Kebetulan sekali. Aku juga.” Aku masih mencuri pandang ke kulit yang sesekali terlihat di bawah kami ketika terdengar suara yang seperti menyiramkan air es ke punggungku."
     },
     {
       "id": "v1-bab-6-chapter006_b-p236",
@@ -3089,11 +3274,11 @@
       "id": "v1-bab-6-chapter006_b-p240",
       "kind": "text",
       "source": "chapter006_b.xhtml#p240",
-      "text": "Apa katamu, bajingan? kamu akan membangkitkan kemarahan bahkan di dalam hati aku yang paling damai sekalipun. Ah, lupakan saja. Satu-satunya hal yang akan terbangun dalam diri aku adalah keinginan untuk push-up.",
+      "text": "Apa katamu, sialan? Bahkan hatiku yang paling damai pun bisa kau buat marah. Ah, sudahlah. Yang bangkit dalam diriku sekarang cuma keinginan melakukan push-up.",
       "emphasis": [
         {
           "start": 0,
-          "end": 211,
+          "end": 159,
           "style": "em"
         }
       ]
@@ -3115,7 +3300,7 @@
       "id": "v1-bab-6-chapter006_b-p242",
       "kind": "text",
       "source": "chapter006_b.xhtml#p242",
-      "text": "Aku yakin kamu tahu pepatah, “Jika kamu menumpuk cukup banyak debu, itu akan menjadi gunung.” Atau bahkan “Dua kepala lebih baik dari satu.” Pada dasarnya, aku berbicara tentang gagasan bahwa orang-orang menjadi lebih kuat ketika mereka berkumpul bersama. Tapi kami hanya mengumpulkan banyak kegagalan untuk membuat lebih banyak kegagalan."
+      "text": "Ada pepatah, sedikit demi sedikit debu menumpuk menjadi gunung. Atau dua kepala lebih baik daripada satu. Intinya, orang akan lebih kuat kalau bersatu. Tapi kami cuma mengumpulkan orang gagal untuk menghasilkan kegagalan yang lebih besar."
     },
     {
       "id": "v1-bab-6-chapter006_b-p243",

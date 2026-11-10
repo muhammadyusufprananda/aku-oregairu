@@ -85,6 +85,10 @@ Google dipakai hanya selama penyiapan draf, bukan saat website dibuka atau diban
 - Catatan penerjemah adalah materi edisi Inggris, diberi atribusi terpisah. Sumber menyebut “semifinal” untuk Tangan Tuhan Maradona serta memberi definisi bodhisattva yang perlu verifikasi editorial; draf mengikuti sumber dan belum mengesahkan akurasinya.
 - Ucapan guru dan murid perlu diperiksa ulang menyeluruh agar saya/Ibu tidak tercampur dengan narasi aku; normalisasi istilah otomatis bukan pemeriksaan konteks.
 
+## Penyuntingan bahasa lanjutan Volume 1
+
+Atas persetujuan pemilik terhadap arah gaya, Pembuka sampai Catatan Penerjemah Edisi Inggris mendapat revisi bahasa lanjutan. Dialog, monolog, kalimat harfiah, dan beberapa salah padanan diperbaiki dengan merujuk EPUB Inggris pemilik. Riwayat metode draf awal di atas tetap berlaku. Seluruh bagian tetap `draft`; ini bukan peninjauan manusia atau pengesahan seluruh makna. Rincian cakupan, keputusan gaya, dan masalah yang masih perlu ditinjau ada di [catatan revisi](volume-1-style-revision.md).
+
 ## Volume 2
 
 Kelanjutan diminta pemilik. Pembuka, Prolog, Bab 1–5, Kata Penutup, dan Catatan Penerjemah Edisi Inggris tersedia sebagai draf lengkap. Metode AI/mesin dan batas penyuntingan dijelaskan dalam panduan Volume 2. Lihat [pemetaan dan perhatian peninjau Volume 2](volume-2.md). Status masing-masing tetap independen dari Volume 1.

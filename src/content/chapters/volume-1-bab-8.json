@@ -1,7 +1,24 @@
 {
   "translation": {
     "sourceLanguage": "en",
-    "initialDraft": "AI"
+    "initialDraft": "AI",
+    "styleRevision": "AI editorial revision against the owner-provided English EPUB; human translation examples inform general readability only; not a human review",
+    "styleRevisionScope": "Selected paragraphs, dialogue register, narrative flow and contextual terminology; preserve source meaning",
+    "styleRevisedBlocks": [
+      "v1-bab-8-chapter008-p002",
+      "v1-bab-8-chapter008-p005",
+      "v1-bab-8-chapter008-p006",
+      "v1-bab-8-chapter008-p008",
+      "v1-bab-8-chapter008-p012",
+      "v1-bab-8-chapter008-p018",
+      "v1-bab-8-chapter008-p020",
+      "v1-bab-8-chapter008-p022",
+      "v1-bab-8-chapter008-p036",
+      "v1-bab-8-chapter008-p052",
+      "v1-bab-8-chapter008-p058",
+      "v1-bab-8-chapter008-p064",
+      "v1-bab-8-chapter008-p065"
+    ]
   },
   "blocks": [
     {
@@ -36,7 +53,7 @@
       "id": "v1-bab-8-chapter008-p002",
       "kind": "text",
       "source": "chapter008.xhtml#p2",
-      "text": "Kata youth cuma terdiri dari lima huruf, tetapi begitu kuat menggerakkan hati manusia. Bagi orang dewasa yang sudah terjun ke masyarakat, kata itu membangkitkan kepedihan manis dan nostalgia. Bagi perempuan muda, kerinduan abadi. Dan bagi orang sepertiku, kecemburuan hebat serta kebencian gelap.",
+      "text": "Kata youth hanya terdiri dari lima huruf, tetapi begitu kuat menggerakkan hati. Bagi orang dewasa yang sudah terjun ke masyarakat, kata itu membangkitkan nostalgia yang manis sekaligus perih. Bagi perempuan muda, kerinduan abadi. Dan bagi orang sepertiku, kecemburuan hebat serta kebencian gelap.",
       "emphasis": [
         {
           "start": 0,
@@ -75,11 +92,11 @@
       "id": "v1-bab-8-chapter008-p005",
       "kind": "text",
       "source": "chapter008.xhtml#p5",
-      "text": "Rajin pergi ke perpustakaan untuk menamatkan novel fantasi setebal batu bata, mendengarkan penyiar dengan terpukau ketika kebetulan menyalakan radio tengah malam, memancing tulisan yang menghangatkan hati di samudra elektronik luas yang dikuasai teks… Semua itu kutemukan, semua itu kujumpai, justru karena hari-hariku kuhabiskan sendirian.",
+      "text": "Rajin ke perpustakaan untuk menamatkan novel fantasi setebal bata, terpukau mendengarkan penyiar saat kebetulan menyalakan radio tengah malam, memancing tulisan yang menghangatkan hati dari samudra elektronik yang luas dan penuh teks… Semua itu kutemukan, kujumpai, justru karena hari-hariku kuhabiskan sendiri.",
       "emphasis": [
         {
           "start": 0,
-          "end": 340,
+          "end": 311,
           "style": "em"
         }
       ]
@@ -88,11 +105,11 @@
       "id": "v1-bab-8-chapter008-p006",
       "kind": "text",
       "source": "chapter008.xhtml#p6",
-      "text": "Aku bersyukur dan terharu oleh setiap pengalaman itu. Meski sampai menangis, air mataku bukan ratapan. Aku tidak akan pernah menyangkal nilai waktu yang kuhabiskan, hari-hari masa mudaku yang disebut kelas satu SMA. Aku akan membenarkannya dengan tegas. Kurasa sikapku dalam hal ini tidak akan berubah.",
+      "text": "Setiap pengalaman itu membuatku bersyukur dan terharu. Kalaupun sampai menangis, air mataku bukan ratapan. Aku tidak akan menyangkal nilai waktu yang kuhabiskan, hari-hari masa muda bernama kelas satu SMA itu. Akan kubela dengan tegas. Kurasa pendirianku tidak akan berubah.",
       "emphasis": [
         {
           "start": 0,
-          "end": 302,
+          "end": 274,
           "style": "em"
         }
       ]
@@ -114,11 +131,11 @@
       "id": "v1-bab-8-chapter008-p008",
       "kind": "text",
       "source": "chapter008.xhtml#p8",
-      "text": "Melalui penyaring masa muda mereka, dunia berubah.",
+      "text": "Melalui kacamata masa muda, dunia mereka berubah.",
       "emphasis": [
         {
           "start": 0,
-          "end": 50,
+          "end": 49,
           "style": "em"
         }
       ]
@@ -159,7 +176,7 @@
       "id": "v1-bab-8-chapter008-p012",
       "kind": "text",
       "source": "chapter008.xhtml#p12",
-      "text": "Sendirian di kelas seusai sekolah, aku meregangkan tangan ke atas kepala sambil mengerang. Bukan karena dirundung atau apa. Aku cuma mengulang tugas sesuai perintah Bu Hiratsuka. Sungguh, tahu? Aku tidak dirundung, oke?"
+      "text": "Sendirian di kelas sepulang sekolah, aku meregangkan tangan ke atas kepala sambil mengerang. Bukan karena dirundung. Aku cuma mengulang tugas atas perintah Bu Hiratsuka. Sungguh. Aku tidak dirundung, ya?"
     },
     {
       "id": "v1-bab-8-chapter008-p013",
@@ -209,16 +226,16 @@
       "id": "v1-bab-8-chapter008-p018",
       "kind": "text",
       "source": "chapter008.xhtml#p18",
-      "text": "Tapi pada akhirnya, justru karena itulah orang berwatak berlawanan sepertiku bertanya-tanya: jangan-jangan orang cuma menikmati mabuk euforia masa muda. Adikku pasti akan bilang, Youth? Seperti youth guys better get outta here? Itu youse guys, tahu? Kebanyakan menonton TV!",
+      "text": "Tapi justru karena itulah, orang berwatak menyimpang sepertiku bertanya-tanya: jangan-jangan mereka cuma menikmati mabuk masa muda. Adikku pasti akan bilang, Youth? Seperti youth guys better get outta here? Itu youse guys, tahu? Kebanyakan menonton televisi!",
       "emphasis": [
         {
-          "start": 179,
-          "end": 227,
+          "start": 158,
+          "end": 206,
           "style": "em"
         },
         {
-          "start": 232,
-          "end": 242,
+          "start": 211,
+          "end": 221,
           "style": "em"
         }
       ]
@@ -239,7 +256,7 @@
       "id": "v1-bab-8-chapter008-p020",
       "kind": "text",
       "source": "chapter008.xhtml#p20",
-      "text": "“Yah, sempat terpikir mau bolos. Cuma hari ini ada yang harus kukerjakan.” Kutarik kursi di depan meja panjang, menyerong dari Yukinoshita, lalu duduk. Kami berdua kembali ke pos masing-masing. Kertas kukeluarkan dari tas dan kubentangkan di meja."
+      "text": "“Yah, tadinya sempat mau bolos. Tapi ada yang harus kukerjakan hari ini.” Kutarik kursi di depan meja panjang, agak menyerong dari Yukinoshita, lalu duduk. Kami kembali ke tempat masing-masing. Kukeluarkan kertas dari tas dan kubentangkan di meja."
     },
     {
       "id": "v1-bab-8-chapter008-p021",
@@ -251,7 +268,7 @@
       "id": "v1-bab-8-chapter008-p022",
       "kind": "text",
       "source": "chapter008.xhtml#p22",
-      "text": "“Kamu sendiri cuma membaca,” tunjukku. Yukinoshita membuang muka dengan canggung. Rupanya hari ini pun tidak ada yang datang membawa permintaan."
+      "text": "“Kamu sendiri cuma membaca,” balasku. Yukinoshita membuang muka canggung. Rupanya hari ini pun tidak ada yang datang meminta bantuan."
     },
     {
       "id": "v1-bab-8-chapter008-p023",
@@ -354,11 +371,11 @@
       "id": "v1-bab-8-chapter008-p036",
       "kind": "text",
       "source": "chapter008.xhtml#p36",
-      "text": "Bukan, bukan. Coba jadi aku. Aku yang dipaksa membaca tulisannya. Dia bahkan tidak menulis narasinya, cuma membawa ide ilustrasi dan kerangka alur, tahu? Hei, Hachiman! Aku baru memikirkan adegan baru yang mutakhir! Tokoh utama perempuannya bertubuh karet, dan tokoh perempuan kedua punya kekuatan meniadakan kekuatan itu! Ini pasti laku! Dasar bodoh. Itu bukan mutakhir, tapi mengecewakan. Jiplakan semata.",
+      "text": "Bukan, bukan. Coba jadi aku yang dipaksa membaca tulisannya. Narasinya saja tidak dia tulis. Yang dibawa cuma ide ilustrasi dan kerangka cerita. Hei, Hachiman! Aku baru kepikiran adegan terobosan! Tokoh perempuan utamanya bertubuh karet, lalu tokoh perempuan kedua punya kekuatan meniadakan kekuatan itu! Pasti laku! Dasar bodoh. Itu bukan terobosan, tapi mengecewakan. Cuma jiplakan.",
       "emphasis": [
         {
-          "start": 154,
-          "end": 338,
+          "start": 145,
+          "end": 316,
           "style": "em"
         }
       ]
@@ -457,7 +474,7 @@
       "id": "v1-bab-8-chapter008-p052",
       "kind": "text",
       "source": "chapter008.xhtml#p52",
-      "text": "“Bu Hiratsuka. Bisa Ibu jelaskan dasar penilaian poinnya? Seperti yang baru saja dia rengekkan, kami tidak menyelesaikan satu pun kekhawatiran orang yang berkonsultasi.”"
+      "text": "“Bu Hiratsuka, bisa dijelaskan dasar pemberian poinnya? Seperti yang baru saja dia keluhkan, kami belum menyelesaikan satu pun masalah orang yang datang berkonsultasi.”"
     },
     {
       "id": "v1-bab-8-chapter008-p053",
@@ -505,7 +522,7 @@
       "id": "v1-bab-8-chapter008-p058",
       "kind": "text",
       "source": "chapter008.xhtml#p58",
-      "text": "Yukinoshita menebasnya dengan tajam, dan Bu Hiratsuka sedikit layu. “Begitu… Padahal Ibu sudah susah-susah memikirkannya…” Intinya, standar menang dan kalah beliau sepenuhnya sesuka hati. Guruku merajuk, melirik bergantian antara aku dan Yukinoshita, lalu membuka mulut. “Astaga… Kalian kompak kalau sedang kejam… Seperti sudah berteman bertahun-tahun.”"
+      "text": "Yukinoshita menebas tanpa ampun, dan Bu Hiratsuka agak terkulai. “Begitu… Padahal Ibu sudah susah-susah memikirkannya…” Intinya, ukuran menang dan kalah beliau sepenuhnya sesuka hati. Sambil merajuk, beliau menatapku dan Yukinoshita bergantian. “Astaga… Kalian kompak sekali kalau sedang kejam… Seperti sudah berteman bertahun-tahun.”"
     },
     {
       "id": "v1-bab-8-chapter008-p059",
@@ -562,11 +579,11 @@
       "id": "v1-bab-8-chapter008-p064",
       "kind": "text",
       "source": "chapter008.xhtml#p64",
-      "text": "Sebaliknya, Yukinoshita yang sombong mengepalkan tangan dengan wajah seakan berkata, Kena kau! Matanya berbinar setelah mengatakan sesuatu yang cerdas, dan dia tampak menikmatinya.",
+      "text": "Sebaliknya, Yukinoshita yang angkuh mengepalkan tangan dengan wajah seakan berkata, Kena kau! Matanya berbinar setelah berhasil melontarkan ucapan cerdas. Dia tampak menikmatinya.",
       "emphasis": [
         {
-          "start": 85,
-          "end": 94,
+          "start": 84,
+          "end": 93,
           "style": "em"
         }
       ]
@@ -575,11 +592,11 @@
       "id": "v1-bab-8-chapter008-p065",
       "kind": "text",
       "source": "chapter008.xhtml#p65",
-      "text": "Sebagai sasaran leluconnya, aku sama sekali tidak menikmatinya. Bukankah bicara dengan gadis seharusnya lebih seperti cekikikan-hehe-rayuan-cium-cium? Ini aneh sekali. Berniat mencatat perasaan yang baru terlintas, kuraih pensil mekanik. Saat itulah Yukinoshita mengintip ke arahku.",
+      "text": "Sebagai sasaran lelucon, aku sama sekali tidak menikmatinya. Bukankah bicara dengan cewek seharusnya lebih banyak cekikikan, rayuan, dan cium-cium? Aneh sekali. Ingin mencatat perasaan yang baru terlintas itu, kuraih pensil mekanik. Saat itulah Yukinoshita mengintip.",
       "emphasis": [
         {
-          "start": 118,
-          "end": 149,
+          "start": 114,
+          "end": 146,
           "style": "em"
         }
       ]

@@ -1,0 +1,339 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v6-pembuka-cover-0",
+      "kind": "image",
+      "source": "OEBPS/Text/cover.xhtml#../Images/9781975359850.jpg",
+      "src": "assets/chapters/volume-6/pembuka/9781975359850.webp",
+      "width": 1600,
+      "height": 2400,
+      "text": "Sampul Oregairu Volume 6."
+    },
+    {
+      "id": "v6-pembuka-insert001-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert001.xhtml#../Images/Art_insert001.jpg",
+      "src": "assets/chapters/volume-6/pembuka/Art_insert001.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Ilustrasi sampul berwarna Oregairu Volume 6."
+    },
+    {
+      "id": "v6-pembuka-insert002-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert002.xhtml#../Images/Art_insert002.jpg",
+      "src": "assets/chapters/volume-6/pembuka/Art_insert002.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Daftar isi berwarna; terjemahannya tercantum pada daftar isi pembuka."
+    },
+    {
+      "id": "v6-pembuka-insert003-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg",
+      "src": "assets/chapters/volume-6/pembuka/Art_insert003.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Yukino memegang gitar listrik di depan penguat suara."
+    },
+    {
+      "id": "v6-pembuka-insert004-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg",
+      "src": "assets/chapters/volume-6/pembuka/Art_insert004.webp",
+      "width": 1800,
+      "height": 1349,
+      "text": "Haruno, Yukino, Yui, dan Bu Hiratsuka di panggung festival."
+    },
+    {
+      "id": "v6-pembuka-insert004-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Festival budaya SMA Soubu",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-insert004-0-companion-1",
+      "kind": "text",
+      "text": "Nama pada ilustrasi: Haruno Yukinoshita, Yukino Yukinoshita, Yui Yuigahama, dan Shizuka Hiratsuka.",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-titlepage-0",
+      "kind": "image",
+      "source": "OEBPS/Text/titlepage.xhtml#../Images/Art_tit.jpg",
+      "src": "assets/chapters/volume-6/pembuka/Art_tit.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Halaman judul Oregairu Volume 6: Wataru Watari; ilustrasi Ponkan8."
+    },
+    {
+      "id": "v6-pembuka-attribution",
+      "kind": "text",
+      "text": "Oregairu Volume 6. Penulis: Wataru Watari. Ilustrator: Ponkan8. Draf Indonesia disusun dari edisi Inggris terjemahan Jennifer Ward, Yen Press/Yen On; bukan terjemahan langsung dari bahasa Jepang. Halaman administrasi penerbit diringkas sebagai atribusi.",
+      "source": "copyright.xhtml (ringkasan atribusi)"
+    },
+    {
+      "id": "v6-pembuka-toc-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/toc.xhtml#0",
+      "headingLevel": 2,
+      "text": "Daftar isi"
+    },
+    {
+      "id": "v6-pembuka-toc-6",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#6",
+      "text": "Prolog · Musikal Hina Ebina memang homoerotis, seperti dugaanku."
+    },
+    {
+      "id": "v6-pembuka-toc-7",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#7",
+      "text": "Bab 1 · Di tengah badai, Hachiman Hikigaya terus tergelincir."
+    },
+    {
+      "id": "v6-pembuka-toc-8",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#8",
+      "text": "Bab 2 · Minami Sagami mengajukan permintaan dengan agresif."
+    },
+    {
+      "id": "v6-pembuka-toc-9",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#9",
+      "text": "Bab 3 · Musikal Hina Ebina memang homoerotis, seperti dugaanku. (Bagian 2)"
+    },
+    {
+      "id": "v6-pembuka-toc-10",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#10",
+      "text": "Bab 4 · Mendadak, Haruno Yukinoshita menyerang."
+    },
+    {
+      "id": "v6-pembuka-toc-11",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#11",
+      "text": "Bab 5 · Meguri Shiromeguri dipermainkan dengan riang."
+    },
+    {
+      "id": "v6-pembuka-toc-12",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#12",
+      "text": "Bab 6 · Tidak seperti biasanya, Yui Yuigahama geram."
+    },
+    {
+      "id": "v6-pembuka-toc-13",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#13",
+      "text": "Bab 7 · Inilah saat SMA Soubu paling semarak merayakan festival."
+    },
+    {
+      "id": "v6-pembuka-toc-14",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#14",
+      "text": "Bab 8 · Di seberang sana, Yukino Yukinoshita mengamati seseorang."
+    },
+    {
+      "id": "v6-pembuka-toc-15",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#15",
+      "text": "Bab 9 · Dan begitulah tirai di setiap panggung terangkat."
+    },
+    {
+      "id": "v6-pembuka-toc-16",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#16",
+      "text": "Bab 10 · Akhirnya, dia dan dirinya menemukan jawaban yang benar."
+    },
+    {
+      "id": "v6-pembuka-toc-17",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#17",
+      "text": "Kata Penutup"
+    },
+    {
+      "id": "v6-pembuka-toc-18",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#18",
+      "text": "Catatan Penerjemah Edisi Inggris"
+    },
+    {
+      "id": "v6-pembuka-preface001-0",
+      "kind": "image",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg",
+      "src": "assets/chapters/volume-6/pembuka/Art_P1.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Pengenalan tokoh."
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Pengenalan tokoh",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-1",
+      "kind": "text",
+      "text": "Hachiman Hikigaya: Tokoh utama. Siswa kelas dua SMA. Berkepribadian bengkok.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-2",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: Ketua Klub Layanan. Perfeksionis.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-3",
+      "kind": "text",
+      "text": "Yui Yuigahama: Teman sekelas Hachiman. Cenderung mencemaskan pendapat orang lain.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-4",
+      "kind": "text",
+      "text": "Yoshiteru Zaimokuza: Kutu buku. Bercita-cita menjadi penulis novel ringan.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-5",
+      "kind": "text",
+      "text": "Saika Totsuka: Anggota klub tenis. Sangat manis, tetapi laki-laki.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-6",
+      "kind": "text",
+      "text": "Saki Kawasaki: Teman sekelas Hachiman. Agak seperti berandal.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-7",
+      "kind": "text",
+      "text": "Hayato Hayama: Teman sekelas Hachiman. Populer. Anggota klub sepak bola.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-8",
+      "kind": "text",
+      "text": "Yumiko Miura: Teman sekelas Hachiman. Menguasai anak-anak perempuan di kelas sebagai ratu kelompok.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-9",
+      "kind": "text",
+      "text": "Hina Ebina: Teman sekelas Hachiman. Bagian dari kelompok Miura, tetapi penggemar cerita pasangan laki-laki.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-10",
+      "kind": "text",
+      "text": "Minami Sagami: Teman sekelas Hachiman. Anggota kasta kedua tertinggi di antara anak perempuan.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-11",
+      "kind": "text",
+      "text": "Meguri Shiromeguri: Ketua OSIS. Siswi kelas tiga.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-12",
+      "kind": "text",
+      "text": "Shizuka Hiratsuka: Guru bahasa Jepang. Guru bimbingan konseling.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-13",
+      "kind": "text",
+      "text": "Haruno Yukinoshita: Kakak perempuan Yukino. Mahasiswi.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface001-0-companion-14",
+      "kind": "text",
+      "text": "Komachi Hikigaya: Adik perempuan Hachiman. Siswi kelas tiga SMP.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0",
+      "kind": "image",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg",
+      "src": "assets/chapters/volume-6/pembuka/Art_P2.webp",
+      "width": 1800,
+      "height": 1351,
+      "text": "Proposal pentas festival budaya kelas 2-F: musikal The Little Prince."
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Proposal pentas festival budaya kelas 2-F: musikal The Little Prince",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-1",
+      "kind": "text",
+      "text": "Disetujui fangirl. Gambaran: Adaptasi panggung penuh dari buku terkenal The Little Prince, dibintangi murid populer seperti Hayato Hayama! Sasaran penonton: siswi SMA Soubu, siswi sekolah lain, dan wali perempuan.",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-2",
+      "kind": "text",
+      "text": "Tokoh — Narator: Pilot yang agak pemurung. Sejak mendarat darurat di gurun, dia makin pemurung. Pangeran: Pemuda rupawan yang murni dan polos; kemurniannya justru sangat menggoda.",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-3",
+      "kind": "text",
+      "text": "Raja: Sombong dan mati-matian menjaga citra. Caranya memerintah menunjukkan bahwa dia besar kepala. Membuatmu ingin meruntuhkan harga dirinya. Pria Congkak: Ketenaran membuatnya angkuh, tetapi sebenarnya dia pemuda pemalu dan kurang percaya diri. Tipe yang paling mudah diajak ke ranjang.",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-4",
+      "kind": "text",
+      "text": "Pemabuk: Menenggelamkan diri dalam alkohol. Mungkin juga menenggelamkan kehidupan suram serta kenangan tentang seorang pria dari masa lalunya. Rayuan untuk menaklukkannya: “Jangan tenggelam dalam minuman. Tenggelamlah dalam diriku.”",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-5",
+      "kind": "text",
+      "text": "Pengusaha: Romantis, berteriak tentang betapa penting dirinya sambil bersikeras memiliki bintang-bintang. Membuatmu ingin menarik dasinya. Penyala Lampu: Terikat aturan, berlumur jelaga, terus bekerja. Tipe pekerja kasar yang rajin dan tidak halus. Baju kerjanya yang kotor menggoda.",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-6",
+      "kind": "text",
+      "text": "Ahli Geografi: Penyendiri penuh rasa ingin tahu yang ingin kauajari banyak sekali hal. Kalimat terkenalnya antara lain “Tunjukkan Matterhorn-mu” dan “Lihat, Chomolungma-ku…” Semuanya terkenal. Rubah: Teman pertama yang ditemui Pangeran di Bumi. Dengan sabar mengajarinya hal-hal penting. Ular: Pangeran menjadi korbannya.",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-7",
+      "kind": "text",
+      "text": "Ringkasan — Sang Narator, seorang pilot, mengalami pendaratan darurat keras jauh di gurun. Saat dia kesulitan memperbaiki pesawat, “Pangeran” yang bertubuh kecil muncul. Keduanya banyak berbincang, perlahan makin tertarik satu sama lain.",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-8",
+      "kind": "text",
+      "text": "Akhirnya, untuk memancing reaksi Narator, Pangeran mengungkap masa lalunya yang luar biasa bersama laki-laki lain. Walaupun ini membuat Narator terbakar cemburu, mereka tak pernah mengungkap perasaan masing-masing, dan Ular merebut Pangeran darinya.",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v6-pembuka-preface002-0-companion-9",
+      "kind": "text",
+      "text": "Pada akhirnya, Narator menyadari… bahwa yang terpenting tak terlihat oleh mata, dan kini dia memahami cinta sejati…",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v4-pembuka-cover-0",
+      "kind": "image",
+      "source": "OEBPS/Text/cover.xhtml#../Images/9781975359836.jpg",
+      "src": "assets/chapters/volume-4/pembuka/9781975359836.webp",
+      "width": 1600,
+      "height": 2400,
+      "text": "Sampul Oregairu Volume 4."
+    },
+    {
+      "id": "v4-pembuka-insert001-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert001.xhtml#../Images/Art_insert001.jpg",
+      "src": "assets/chapters/volume-4/pembuka/Art_insert001.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Ilustrasi sampul berwarna Oregairu Volume 4."
+    },
+    {
+      "id": "v4-pembuka-insert002-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert002.xhtml#../Images/Art_insert002.jpg",
+      "src": "assets/chapters/volume-4/pembuka/Art_insert002.webp",
+      "width": 1800,
+      "height": 1349,
+      "text": "Yukino dan Yui mengupas buah pir."
+    },
+    {
+      "id": "v4-pembuka-insert002-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Memasak di alam terbuka",
+      "source": "OEBPS/Text/insert002.xhtml#../Images/Art_insert002.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert002-0-companion-1",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: “Yuigahama, pegang pisaunya tetap, lalu putar buah pirnya.”",
+      "source": "OEBPS/Text/insert002.xhtml#../Images/Art_insert002.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert002-0-companion-2",
+      "kind": "text",
+      "text": "Yui Yuigahama: “K-kenapa?! Padahal aku sudah sering melihat Mama melakukannya!”",
+      "source": "OEBPS/Text/insert002.xhtml#../Images/Art_insert002.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert003-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg",
+      "src": "assets/chapters/volume-4/pembuka/Art_insert003.webp",
+      "width": 1800,
+      "height": 1349,
+      "text": "Komachi dan yang lain berada di sungai."
+    },
+    {
+      "id": "v4-pembuka-insert003-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Berenang di sungai",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert003-0-companion-1",
+      "kind": "text",
+      "text": "Komachi Hikigaya: “Lihat! Lihat, Kak! Aku punya pakaian renang baru!”",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert003-0-companion-2",
+      "kind": "text",
+      "text": "Nama pada gambar: Shizuka Hiratsuka, Yukino Yukinoshita, dan Yui Yuigahama.",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert004-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg",
+      "src": "assets/chapters/volume-4/pembuka/Art_insert004.webp",
+      "width": 1800,
+      "height": 1349,
+      "text": "Komachi, Yukino, dan Totsuka dalam penjelajahan malam."
+    },
+    {
+      "id": "v4-pembuka-insert004-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Penjelajahan hutan menyeramkan",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert004-0-companion-1",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: “…Menurutku cukup bagus. Cocok untukmu.”",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert004-0-companion-2",
+      "kind": "text",
+      "text": "Saika Totsuka: “Penyihir termasuk monster juga…?”",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert004-0-companion-3",
+      "kind": "text",
+      "text": "Komachi Hikigaya: “A-anu… Yukino?”",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-insert005-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert005.xhtml#../Images/Art_insert005.jpg",
+      "src": "assets/chapters/volume-4/pembuka/Art_insert005.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Daftar isi berwarna; terjemahannya tercantum pada daftar isi pembuka."
+    },
+    {
+      "id": "v4-pembuka-titlepage-0",
+      "kind": "image",
+      "source": "OEBPS/Text/titlepage.xhtml#../Images/Art_tit.jpg",
+      "src": "assets/chapters/volume-4/pembuka/Art_tit.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Halaman judul Oregairu Volume 4: Wataru Watari; ilustrasi Ponkan8."
+    },
+    {
+      "id": "v4-pembuka-attribution",
+      "kind": "text",
+      "text": "Oregairu Volume 4. Penulis: Wataru Watari. Ilustrator: Ponkan8. Draf Indonesia disusun dari edisi Inggris terjemahan Jennifer Ward, Yen Press/Yen On; bukan terjemahan langsung dari bahasa Jepang. Halaman administrasi penerbit diringkas sebagai atribusi.",
+      "source": "copyright.xhtml (ringkasan atribusi)"
+    },
+    {
+      "id": "v4-pembuka-toc-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/toc.xhtml#0",
+      "headingLevel": 2,
+      "text": "Daftar isi"
+    },
+    {
+      "id": "v4-pembuka-toc-6",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#6",
+      "text": "Bab 1 · Beginilah Hachiman Hikigaya menghabiskan liburan musim panasnya."
+    },
+    {
+      "id": "v4-pembuka-toc-7",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#7",
+      "text": "Bab 2 · Apa pun yang dilakukan, kau tak bisa lolos dari Shizuka Hiratsuka."
+    },
+    {
+      "id": "v4-pembuka-toc-8",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#8",
+      "text": "Bab 3 · Hayato Hayama pandai bergaul dengan siapa saja."
+    },
+    {
+      "id": "v4-pembuka-toc-9",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#9",
+      "text": "Bab 4 · Mendadak, Hina Ebina mulai menyebarkan ajarannya."
+    },
+    {
+      "id": "v4-pembuka-toc-10",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#10",
+      "text": "Bab 5 · Sendirian, Yukino Yukinoshita menatap langit malam."
+    },
+    {
+      "id": "v4-pembuka-toc-11",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#11",
+      "text": "Bab 6 · Sayangnya, Hachiman Hikigaya tidak membawa pakaian renang."
+    },
+    {
+      "id": "v4-pembuka-toc-12",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#12",
+      "text": "Bab 7 · Pada akhirnya, Rumi Tsurumi memilih jalannya sendiri."
+    },
+    {
+      "id": "v4-pembuka-toc-13",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#13",
+      "text": "Bab 8 · Dengan Yukino Yukinoshita di dalamnya, mobil itu melaju pergi."
+    },
+    {
+      "id": "v4-pembuka-toc-14",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#14",
+      "text": "Kata Penutup"
+    },
+    {
+      "id": "v4-pembuka-toc-15",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#15",
+      "text": "Catatan Penerjemah Edisi Inggris"
+    },
+    {
+      "id": "v4-pembuka-preface001-0",
+      "kind": "image",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg",
+      "src": "assets/chapters/volume-4/pembuka/Art_P1.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Pengenalan tokoh."
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Pengenalan tokoh",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-1",
+      "kind": "text",
+      "text": "Hachiman Hikigaya: Tokoh utama. Siswa kelas dua SMA. Berkepribadian bengkok.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-2",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: Ketua Klub Layanan. Perfeksionis.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-3",
+      "kind": "text",
+      "text": "Yui Yuigahama: Teman sekelas Hachiman. Cenderung mencemaskan pendapat orang lain.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-4",
+      "kind": "text",
+      "text": "Yoshiteru Zaimokuza: Kutu buku. Bercita-cita menjadi penulis novel ringan.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-5",
+      "kind": "text",
+      "text": "Saika Totsuka: Anggota klub tenis. Sangat manis, tetapi laki-laki.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-6",
+      "kind": "text",
+      "text": "Shizuka Hiratsuka: Guru bahasa Jepang. Guru bimbingan konseling. Lajang.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-7",
+      "kind": "text",
+      "text": "Komachi Hikigaya: Adik perempuan Hachiman. Siswi SMP.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-8",
+      "kind": "text",
+      "text": "Hayato Hayama: Teman sekelas Hachiman. Populer. Anggota klub sepak bola.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-9",
+      "kind": "text",
+      "text": "Yumiko Miura: Teman sekelas Hachiman. Menguasai anak-anak perempuan sebagai ratu kelompok.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-10",
+      "kind": "text",
+      "text": "Hina Ebina: Teman sekelas Hachiman. Teman Miura dan Yuigahama. Penggemar cerita pasangan laki-laki.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001-0-companion-11",
+      "kind": "text",
+      "text": "Rumi Tsurumi: Siswi SD.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg",
+      "src": "assets/chapters/volume-4/pembuka/Art_P2.webp",
+      "width": 1800,
+      "height": 1352,
+      "text": "Tugas musim panas SMP: laporan buku — Kokoro karya Souseki Natsume."
+    },
+    {
+      "id": "v4-pembuka-preface001_a-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Tugas musim panas SMP: laporan buku — Kokoro karya Souseki Natsume",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001_a-0-companion-1",
+      "kind": "text",
+      "text": "Hachiman Hikigaya, kelas 2-C.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001_a-0-companion-2",
+      "kind": "text",
+      "text": "Kokoro karya Souseki Natsume adalah novel penyendiri yang paling utama. Tema pokoknya jelas bukan hubungan asmara dalam cinta segitiga, melainkan kisah yang lebih menyayat tentang ketidakpercayaan. Cerita ini menggambarkan orang-orang yang mengasingkan diri dari dunia, serta kebenaran bahwa dunia tak bisa berbuat apa-apa untuk menolongmu.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001_a-0-companion-3",
+      "kind": "text",
+      "text": "Kau boleh saja memicu semua flag yang tepat, tetapi akhir bahagia tidak akan pernah datang. Kau mungkin menemukan orang yang memahamimu, tetapi orang itu tidak akan pernah menjadi temanmu. Cinta maupun persahabatan tidak akan menyembuhkan keterasinganmu. Natsume menyebut perasaan tak berdaya ini kesepian. Namun, kita yang hidup di dunia modern sudah terbiasa dengan kesepian semacam itu. Kita menerimanya sebagai sesuatu yang wajar. Mungkin ini juga bisa disebut terbentuknya individualisme.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001_a-0-companion-4",
+      "kind": "text",
+      "text": "Lewat cerita ini, Souseki menyampaikan bahwa manusia pada dasarnya makhluk kesepian. Mereka tidak punya pilihan selain merenungkan bagaimana akan hidup, terlempar dari kelompok dan tak dipahami siapa pun. Ambil contoh narator, Sensei, K, dan Okusan. Semuanya terasing. Sekalipun memicu flag yang tepat dan memperoleh cinta, dahaga mereka tetap tak terpuaskan. Meski hidup di tempat dan waktu yang sama, mereka tidak bisa berbagi satu hati, satu kokoro.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001_a-0-companion-5",
+      "kind": "text",
+      "text": "Lebih dari seratus tahun telah berlalu sejak zaman Meiji. Kenyataan bahwa novel ini masih dibaca setelah waktu sepanjang itu membuktikan bahwa inilah kebenaran mendasar tentang sifat manusia. Aku ingin menutup esai ini dengan kutipan Sensei: “Tak ada orang di dunia ini yang benar-benar sesuai dengan gambaran penjahat klasik. Biasanya semua orang baik, atau setidaknya biasa saja. Namun, dalam keadaan tertentu, mereka bisa mendadak berubah, dan itulah yang membuat mereka begitu menakutkan. Kita harus selalu waspada.”",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-pembuka-preface001_a-0-companion-6",
+      "kind": "text",
+      "text": "Jangan percaya siapa pun. Sumber: Souseki Natsume.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

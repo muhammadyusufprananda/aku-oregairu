@@ -1,0 +1,285 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v3-pembuka-cover-0",
+      "kind": "image",
+      "source": "OEBPS/Text/cover.xhtml#../Images/9781975359829.jpg",
+      "src": "assets/chapters/volume-3/pembuka/9781975359829.webp",
+      "width": 1600,
+      "height": 2400,
+      "text": "Sampul Oregairu Volume 3."
+    },
+    {
+      "id": "v3-pembuka-insert001-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert001.xhtml#../Images/Art_insert001.jpg",
+      "src": "assets/chapters/volume-3/pembuka/Art_insert001.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Ilustrasi sampul berwarna Oregairu Volume 3."
+    },
+    {
+      "id": "v3-pembuka-insert002-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert002.xhtml#../Images/Art_insert002.jpg",
+      "src": "assets/chapters/volume-3/pembuka/Art_insert002.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Daftar isi berwarna; terjemahannya tercantum pada daftar isi pembuka."
+    },
+    {
+      "id": "v3-pembuka-insert003-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg",
+      "src": "assets/chapters/volume-3/pembuka/Art_insert003.webp",
+      "width": 1800,
+      "height": 981,
+      "text": "Yui dan Yukino dengan kutipan percakapan."
+    },
+    {
+      "id": "v3-pembuka-insert003-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Kutipan pada ilustrasi berwarna",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-insert003-0-companion-1",
+      "kind": "text",
+      "text": "Yui Yuigahama: “Sekalipun awalnya tidak benar, sekalipun kamu belum melakukan semua yang kamu bisa… Kalau kamu tulus dan tidak berpura-pura… menurutku tidak salah punya perasaan… sayang seperti itu.”",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-insert003-0-companion-2",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: “…Aku bukan orang yang bisa mengatakan hal seperti ini tanpa berusaha, tapi… aku ingin menyampaikannya dengan benar.”",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-insert004-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg",
+      "src": "assets/chapters/volume-3/pembuka/Art_insert004.webp",
+      "width": 1198,
+      "height": 1800,
+      "text": "Para tokoh Oregairu mengenakan pakaian musim dingin."
+    },
+    {
+      "id": "v3-pembuka-titlepage-0",
+      "kind": "image",
+      "source": "OEBPS/Text/titlepage.xhtml#../Images/Art_tit.jpg",
+      "src": "assets/chapters/volume-3/pembuka/Art_tit.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Halaman judul Oregairu Volume 3: Wataru Watari; ilustrasi Ponkan8."
+    },
+    {
+      "id": "v3-pembuka-attribution",
+      "kind": "text",
+      "text": "Oregairu Volume 3. Penulis: Wataru Watari. Ilustrator: Ponkan8. Draf Indonesia disusun dari edisi Inggris terjemahan Jennifer Ward, Yen Press/Yen On; bukan terjemahan langsung dari bahasa Jepang. Halaman administrasi penerbit diringkas sebagai atribusi.",
+      "source": "copyright.xhtml (ringkasan atribusi)"
+    },
+    {
+      "id": "v3-pembuka-toc-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/toc.xhtml#0",
+      "headingLevel": 2,
+      "text": "Daftar isi"
+    },
+    {
+      "id": "v3-pembuka-toc-6",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#6",
+      "text": "Bab 1 · Beginilah Shizuka Hiratsuka memulai pertandingan baru."
+    },
+    {
+      "id": "v3-pembuka-toc-7",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#7",
+      "text": "Bab 2 · Komedi romantis masa muda Saika Totsuka memang benar, seperti dugaanku."
+    },
+    {
+      "id": "v3-pembuka-toc-8",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#8",
+      "text": "Bab 3 · Yukino Yukinoshita memang sangat menyukai kucing."
+    },
+    {
+      "id": "v3-pembuka-toc-9",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#9",
+      "text": "Bab 4 · Komachi Hikigaya menyusun siasat dengan cerdik."
+    },
+    {
+      "id": "v3-pembuka-toc-10",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#10",
+      "text": "Bab 5 · Meski begitu, Yoshiteru Zaimokuza meratap sendirian di tanah tandus."
+    },
+    {
+      "id": "v3-pembuka-toc-11",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#11",
+      "text": "Bab 6 · Akhirnya, permulaan dia dan dirinya berakhir."
+    },
+    {
+      "id": "v3-pembuka-toc-12",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#12",
+      "text": "Bonus Track! “Lagu Ulang Tahun Semacam Ini.”"
+    },
+    {
+      "id": "v3-pembuka-toc-13",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#13",
+      "text": "Catatan Penerjemah Edisi Inggris"
+    },
+    {
+      "id": "v3-pembuka-preface001-0",
+      "kind": "image",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg",
+      "src": "assets/chapters/volume-3/pembuka/Art_Piii.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Pengenalan tokoh."
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Pengenalan tokoh",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-1",
+      "kind": "text",
+      "text": "Hachiman Hikigaya: Tokoh utama. Siswa kelas dua SMA. Berkepribadian bengkok.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-2",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: Ketua Klub Layanan. Perfeksionis.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-3",
+      "kind": "text",
+      "text": "Yui Yuigahama: Teman sekelas Hachiman. Cenderung mencemaskan pendapat orang lain.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-4",
+      "kind": "text",
+      "text": "Yoshiteru Zaimokuza: Kutu buku. Bercita-cita menjadi penulis novel ringan.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-5",
+      "kind": "text",
+      "text": "Saika Totsuka: Anggota klub tenis. Sangat manis, tetapi laki-laki.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-6",
+      "kind": "text",
+      "text": "Shizuka Hiratsuka: Guru bahasa Jepang. Guru bimbingan konseling. Lajang.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-7",
+      "kind": "text",
+      "text": "Komachi Hikigaya: Adik perempuan Hachiman. Siswi SMP.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-8",
+      "kind": "text",
+      "text": "Kamakura: Kucing keluarga Hikigaya.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001-0-companion-9",
+      "kind": "text",
+      "text": "Sablé: Anjing keluarga Yuigahama.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg",
+      "src": "assets/chapters/volume-3/pembuka/Art_Piv.webp",
+      "width": 1800,
+      "height": 1351,
+      "text": "Rancangan novel: Twin Blades Cross — Metempsychosis of the Inverted World."
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Rancangan novel: Twin Blades Cross — Metempsychosis of the Inverted World",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-1",
+      "kind": "text",
+      "text": "Disingkat “Twin Blades”. Komentar: Judul superpanjang mulai basi. Menentukan julukan penggemar sebelum bukunya terbit itu memalukan. Jangan.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-2",
+      "kind": "text",
+      "text": "Tokoh utama: Yoshimitsu Ashikaga. Pewaris sah garis keturunan Shogun Ashikaga. Reinkarnasi Yoshiteru Ashikaga. Biasanya menyembunyikan kekuatannya, tetapi dalam keadaan darurat bertarung gagah dengan pedang kesayangannya, Kagedachi. Belajar pedang dari kakeknya, tetapi saat masih sangat kecil, kakeknya meninggal melindunginya dari serangan musuh. Sejak itu dia memilih bertarung sendirian agar orang-orang di sekitarnya tidak terseret bahaya.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-3",
+      "kind": "text",
+      "text": "Dia sengaja menjaga jarak. Meski tak ada yang memahami pilihannya menyendiri demi melindungi orang lain, dia tidak peduli. Ahli pedang terhebat pada masa kini. Kekuatannya konon melampaui para Jenderal Ahli Pedang zaman dahulu. Pedang tersembunyinya, Nihil, punya kekuatan mengakhiri perang. Menihilkan gerakan, kemampuan, dan teknik lawan. Musuh-musuhnya binasa.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-4",
+      "kind": "text",
+      "text": "Komentar: Syukurlah kau tidak memakai namamu sendiri. Orang bersindrom M-2 memang suka kekuatan penihilan. Lalu kapan dia belajar menggunakan pedang?",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-5",
+      "kind": "text",
+      "text": "Rival: Bright “Swordian Master” Woodstock. Tujuh belas tahun. Bos terakhir. Sebagai pemimpin dunia cermin, dialah yang paling terampil. Homeomorf Yoshimitsu. Meski lahir di dunia cermin yang diciptakan sebagai salinan dunia asli, dia meragukan dunia itu dan kepalsuannya. Demi mencari makna hidup, dia berangkat sendirian ke dunia lain untuk bertarung.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-6",
+      "kind": "text",
+      "text": "Pedang tersembunyinya, Thousand Blades of Mirage, seketika menyalin gerakan, kemampuan, serta teknik lawan, sehingga bisa menyerang seribu kali dengan kecepatan tinggi. Jika dua orang punya kekuatan yang persis sama, tentu yang lebih kuat akan menang; itulah yang membuat kekuatannya paling hebat. Musuh-musuhnya binasa.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-7",
+      "kind": "text",
+      "text": "Komentar: Kuhargai usahamu membuat nama yang keren dan berbau Inggris. Kau pernah mencari di Google arti homeomorf? Orang bersindrom M-2 memang suka kekuatan menyalin.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-8",
+      "kind": "text",
+      "text": "Pengikut: Nakuharu. Kroco. Bukan hanya mudah berkhianat, tetapi juga sangat lemah. Secara teknis bawahan Bright, tetapi Bright membiarkannya berkeliaran hanya karena kasihan. Sampah. Kurus dan pendek, suka pakaian mewah, berambut cokelat. Tukang gosip dan suka berkelompok. Memakai ikat kepala. Kebiasaannya berkata, “Aduh, menyebalkan sekali,” dan “Ada yang bau di sini.” Langsung mati.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-pembuka-preface001_a-0-companion-9",
+      "kind": "text",
+      "text": "Komentar: Bagian ini anehnya sangat spesifik. Pasti berdasarkan seseorang. Siapa? Orang di kelas C? Kegelapan hatimu lebih dalam daripada yang kukira.",
+      "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

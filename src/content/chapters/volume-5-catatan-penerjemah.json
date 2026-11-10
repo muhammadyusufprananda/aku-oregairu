@@ -1,0 +1,2982 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v5-catatan-penerjemah-appendix001-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/appendix001.xhtml#0",
+      "headingLevel": 2,
+      "text": "Catatan Penerjemah Edisi Inggris"
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-1",
+      "kind": "image",
+      "source": "OEBPS/Text/appendix001.xhtml#../Images/Art_P153.jpg",
+      "src": "assets/chapters/volume-5/catatan-penerjemah/Art_P153.webp",
+      "width": 348,
+      "height": 897,
+      "text": "Hachiman berdiri dengan seragam sekolah."
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-2",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#2",
+      "text": "Bab 1 … Tiba-tiba, ketenangan Hikigaya rumah tangga runtuh.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 29,
+          "style": "strong"
+        },
+        {
+          "start": 30,
+          "end": 51,
+          "style": "strong"
+        },
+        {
+          "start": 52,
+          "end": 59,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-3",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#3",
+      "text": "1 “Kenapa aku tidak menghancurkan kacang kakimu juga?!” Ini adalah permainan lirik dari band heavy metal tahun 1980-an Seikima-II. Di awal lagu “Rouningyou no Yakara” (Rumah boneka lilin), penyanyi utama meneriakkan kalimat, “Kenapa aku tidak mengubahmu menjadi boneka lilin juga?”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 55,
+          "style": "strong-em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-4",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#4",
+      "text": "2 “Dengan kata lain, dia adalah seorang wanita yang masa depannya baru saja dimulai, dan pada akhirnya, dia juga yang terakhir di antara kerabatnya: Dia adalah alfa dan omega.” Bagian kedua dari karakter kanji untuk “saudara perempuan” muncul dalam kata yang berarti “masa depan” dan “anak bungsu.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 176,
+          "style": "strong"
+        },
+        {
+          "start": 204,
+          "end": 209,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-5",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#5",
+      "text": "3 “Aku cinta, cinta, sangat cinta, sangat mencintaimu juga.” Suki Suki Daisuki Chou Aishiteru oleh Outarou Maijou bukanlah kisah romansa yang lugas, melainkan novel penuh makna tentang hakikat cinta.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 60,
+          "style": "strong"
+        },
+        {
+          "start": 61,
+          "end": 93,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-6",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#6",
+      "text": "4 “Gazelle hanya boleh muncul di sabana, di kebun binatang, atau di Kinnikuman Nisei.” Gazelleman adalah nama karakter dalam Kinnikuman Nisei karya Yudetamago, seri sekuel dari serial superhero komedi Kinnikuman asli, juga dikenal sebagai Ultimate Muscle dalam bahasa Inggris.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 67,
+          "style": "strong"
+        },
+        {
+          "start": 68,
+          "end": 84,
+          "style": "strong-em"
+        },
+        {
+          "start": 85,
+          "end": 86,
+          "style": "strong"
+        },
+        {
+          "start": 87,
+          "end": 97,
+          "style": "em"
+        },
+        {
+          "start": 125,
+          "end": 141,
+          "style": "em"
+        },
+        {
+          "start": 201,
+          "end": 211,
+          "style": "em"
+        },
+        {
+          "start": 239,
+          "end": 254,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-7",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#7",
+      "text": "5 The Outer Zone adalah manga fiksi ilmiah karya Shin Mitsuhara tentang dimensi lain yang disebut Zona Luar, yang banyak diambil dari acara TV fiksi ilmiah Amerika The Twilight Zone, yang dikenal sebagai Zona Misteri di Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 16,
+          "style": "strong-em"
+        },
+        {
+          "start": 164,
+          "end": 181,
+          "style": "em"
+        },
+        {
+          "start": 204,
+          "end": 216,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-8",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#8",
+      "text": "6 “Sepertinya aku hanyalah orang bodoh yang kasar dan kurang ajar. Aku bahkan mungkin akan menumpahkan abu ke seluruh tablet kamar mayat di kamarku pemakaman ayah.” Jenderal legendaris era Negara-Negara Berperang, Oda Nobunaga, sering disebut dengan istilah ini ketika dia masih muda, dan dia dikatakan sengaja menumpahkan abu dupa ke tablet kamar mayat di pemakaman ayahnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 164,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-9",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#9",
+      "text": "7 “Pernahkah kamu mendengar? rumah!” Dalam film Studio Ghibli My Neighbor Totoro, anak laki-laki Kanta mengatakan ini kepada Nenek dan Satsuki.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 36,
+          "style": "strong"
+        },
+        {
+          "start": 62,
+          "end": 80,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-10",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#10",
+      "text": "8 Frisky Mon Petit adalah merek makanan kucing.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 18,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-11",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#11",
+      "text": "9 The Beast Spear, dari manga Ushio dan Tora oleh Kazuhiro Fujita, adalah senjata supernatural. Saat digunakan, pengguna akan bertransformasi dengannya, dan transformasi tersebut sering kali melibatkan penumbuhan banyak rambut panjang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 6,
+          "end": 17,
+          "style": "strong"
+        },
+        {
+          "start": 30,
+          "end": 44,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-12",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#12",
+      "text": "10 spinning tumpukan driver adalah salah satu serangan khusus Zangief, yang pertama kali diperkenalkan di Street Fighter II.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 27,
+          "style": "strong"
+        },
+        {
+          "start": 106,
+          "end": 123,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-13",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#13",
+      "text": "11 “…Saya tidak tahu harus berbuat apa. Guk, guk, wa-guk.” Ini adalah baris dari lagu anak-anak berjudul “Inu no Mawari-san” (Polisi anjing). Dalam lagu tersebut, polisi tersebut bertemu dengan seorang gadis kucing kecil yang tidak tahu jalan pulang, dan dia tidak tahu bagaimana membantunya. Dia hanya mengatakan, “Guk, guk, wa-guk.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 39,
+          "style": "strong"
+        },
+        {
+          "start": 40,
+          "end": 57,
+          "style": "strong-em"
+        },
+        {
+          "start": 57,
+          "end": 58,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-14",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#14",
+      "text": "12 “Saya Orang Jepang yang Bisa Mengatakan Tidak…” Jepang yang Bisa Mengatakan Tidak adalah esai yang ditulis oleh politisi Shintaro Ishihara pada tahun 1989. Inti dari esai tersebut adalah tentang mengambil tindakan keras terhadap Amerika Negara-negara melakukan negosiasi alih-alih berperan sebagai orang yang baik hati terhadap Amerika.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 50,
+          "style": "strong"
+        },
+        {
+          "start": 51,
+          "end": 84,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-15",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#15",
+      "text": "13 “Seperti pepatah lama, ‘Dia penuh dengan delapan ratus kebohongan.’ Kecuali bagiku, delapan puluh ribu. Karena aku Hachiman.” Nama Hachiman adalah plesetan dari angka delapan puluh ribu. Dalam bahasa Jepang, “delapan ratus kebohongan” adalah idiom yang berarti “penuh kebohongan.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 128,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-16",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#16",
+      "text": "14 “Apakah sekarang aku adalah mantan detektif roh…?” Hachiman mengacu pada Shinobu Sensui, antagonis utama Bab Black Saga dari manga pertempuran shonen YuYu Hakusho oleh Yoshihiro Togashi. Sensui sangat membenci umat manusia.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 53,
+          "style": "strong"
+        },
+        {
+          "start": 146,
+          "end": 152,
+          "style": "em"
+        },
+        {
+          "start": 153,
+          "end": 165,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-17",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#17",
+      "text": "15 “Teman-teman, aku suka kucing… Aku suka setiap kucing yang hidup di bumi ini.” Ini adalah parodi pidato Mayor di Hellsing oleh Kouta Hirano. Dalam pidato aslinya, dia berbicara tentang betapa dia menyukai perang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 81,
+          "style": "strong"
+        },
+        {
+          "start": 116,
+          "end": 124,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-18",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#18",
+      "text": "16 “Saya benci siapa pun yang tidak menghargai kehidupan!” Ini adalah kutipan khas dari Therru dalam film Studio Ghibli Tales from Earthsea.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 58,
+          "style": "strong"
+        },
+        {
+          "start": 120,
+          "end": 140,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-19",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#19",
+      "text": "Bab 2 … Tentu saja, dia lupa Saki Kawasaki.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 28,
+          "style": "strong"
+        },
+        {
+          "start": 29,
+          "end": 42,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-20",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#20",
+      "text": "1 “Tujuan saya saat ini adalah Tes Pusat.” Tes Pusat Nasional untuk Penerimaan Universitas adalah tes standar yang digunakan oleh beberapa universitas di Jepang untuk menentukan penerimaan, yang diadakan setahun sekali selama dua hari. Mereka yang berprestasi buruk harus menghabiskan satu tahun lagi untuk belajar agar dapat mengambilnya lagi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 42,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-21",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#21",
+      "text": "2 “Posisikan Pusat sebagai target dan tarik tombolnya…” Ini adalah referensi ke episode 3 Neon Genesis Evangelion. Shinji setuju untuk mengemudikan Eva tetapi sebenarnya tidak ingin melakukannya. Dengan pandangan hampa di matanya, dia melakukan latihan sasaran, mengulangi, “Posisikan sasaran di tengah dan tarik tombolnya.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 55,
+          "style": "strong"
+        },
+        {
+          "start": 90,
+          "end": 113,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-22",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#22",
+      "text": "3 “'Bodoh! Kamu menyembunyikan musuh dengan asapmu sendiri!'” Setelah adegan latihan sasaran di episode 3 Evangelion, Shinji masuk untuk melawan Malaikat Shamshel, dan saat itulah Misato meneriakinya dalam upaya untuk mengeluarkannya dari situ.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 61,
+          "style": "strong"
+        },
+        {
+          "start": 106,
+          "end": 116,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-23",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#23",
+      "text": "4 “Golongan Darah Biru!” Dalam Evangelion, Golongan Darah Biru menunjukkan bahwa suatu entitas jelas merupakan salah satu entitas misterius dan mematikan yang dikenal sebagai Malaikat.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 24,
+          "style": "strong"
+        },
+        {
+          "start": 31,
+          "end": 41,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-24",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#24",
+      "text": "5 “Rambutnya biru sekali, saya pikir dia adalah buku Gagaga.” Gagaga adalah label yang menerbitkan seri ini. Punggung semua buku yang mereka terbitkan berwarna biru tua.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 61,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-25",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#25",
+      "text": "6 “Buat kepala persegimu bulat.” Ini adalah slogan Nichinoken, bimbingan belajar yang khusus mempersiapkan siswa sekolah dasar untuk ujian masuk sekolah menengah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 32,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-26",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#26",
+      "text": "7 “TONE Coca-Cola Bottling harus bekerja sama dengan seseorang…” Didirikan pada tahun 1962 sebagai Tone Beverages dan kemudian dibeli oleh Coca-Cola, TONE Coca-Cola Bottling sebelumnya berlokasi di prefektur Chiba, Ibaraki, dan Tochigi, yang memproduksi banyak minuman khusus Jepang seperti MAX Coffee. Sejak saat itu, toko ini telah digabungkan dengan Coca-Cola Jepang Timur.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 64,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-27",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#27",
+      "text": "8 Tora no Ana adalah jaringan toko barang otaku yang menjual manga, doujinshi, dan merchandise terkait.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 13,
+          "style": "strong"
+        },
+        {
+          "start": 68,
+          "end": 77,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-28",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#28",
+      "text": "9 “Mulai sekarang, game ini akan menjadi milik Stealth Hikki, yo!” “Inilah saatnya Stealth Momo bersinar!” adalah kutipan dari Momoko Touyoko dalam manga mah-jongg Saki karya Ritz Kobayashi. Dia menyebut dirinya “Stealth Momo” karena dia sering diabaikan dan tidak diperhatikan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 66,
+          "style": "strong"
+        },
+        {
+          "start": 164,
+          "end": 168,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-29",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#29",
+      "text": "10 “Kalau begitu, saya tinggal memasang beberapa teks di layar untuk meyakinkan semua orang bahwa *para staf memakan semuanya setelah itu!” Kalimat ini biasanya hanya berupa bujukan kosong yang digunakan di acara TV di mana mereka membuang-buang makanan dengan cara ini. Seringkali, pemirsa yang lebih tua yang mengingat penghematan pascaperang menjadi marah ketika mereka melihat makanan terbuang sia-sia.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 97,
+          "style": "strong"
+        },
+        {
+          "start": 98,
+          "end": 138,
+          "style": "strong-em"
+        },
+        {
+          "start": 138,
+          "end": 139,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-30",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#30",
+      "text": "11 “Aku benar-benar bisa merasakan permata jiwaku semakin gelap.” Dalam Magical Girl Madoka Magica, permata jiwa adalah sumber kekuatan gadis penyihir, dan ketika permata itu berubah menjadi hitam karena gangguan emosional, gadis penyihir itu menjadi penyihir yang bertekad menghancurkan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 65,
+          "style": "strong"
+        },
+        {
+          "start": 72,
+          "end": 98,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-31",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#31",
+      "text": "12 Sano Yakuyoke Daishi adalah salah satu dari tiga kuil yang dibangun untuk memuja pemimpin Buddha Ryougen, sedangkan Kawasaki Daishi adalah nama salah satu dari tiga kuil yang dibangun untuk memuja Kuukai. Kedua kuil tersebut terletak di wilayah Kanto.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 23,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-32",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#32",
+      "text": "13 “Berhentilah memandangi wajahku. Lihatlah tubuhku.” Ini adalah kutipan dari Sannen B-gumi Kinpachi-sensei (Pak Kinpachi dari kelas 3-B), sebuah drama TV tentang seorang guru sekolah menengah dan kelas sembilan yang awalnya mulai ditayangkan pada tahun 1979, dengan beberapa serial spin-off yang ditayangkan hingga tahun 2011. Kutipan khusus ini berasal dari karakter Reiko Yamada, seorang gadis nakal, dalam penayangan aslinya pada tahun 1979.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 4,
+          "style": "strong"
+        },
+        {
+          "start": 4,
+          "end": 53,
+          "style": "strong-em"
+        },
+        {
+          "start": 53,
+          "end": 54,
+          "style": "strong"
+        },
+        {
+          "start": 79,
+          "end": 108,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-33",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#33",
+      "text": "14 “Hukum Siswa Sekolah Menengah” adalah parodi sumpah Shinsengumi, pasukan polisi khusus yang diorganisir oleh pemerintahan militer pada tahun 1864. Wakil komandannya, Toshizou Hijikata, dikenal karena reputasinya yang brutal. Ia adalah putra seorang petani kaya, dan bukan dari kelas samurai (bangsawan).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 4,
+          "style": "strong"
+        },
+        {
+          "start": 4,
+          "end": 32,
+          "style": "strong-em"
+        },
+        {
+          "start": 32,
+          "end": 33,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-34",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#34",
+      "text": "15 “Saat ini, saya juga ingin mengatakan Kenali orang lain dan kenali diri Anda sendiri, dan Anda akan mundur dari seratus pertempuran.” Kutipan asli Sun Tzu adalah, dari tentu saja, “Kenali orang lain dan kenali dirimu sendiri, dan engkau tidak akan terancam dalam seratus pertempuran.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 40,
+          "style": "strong"
+        },
+        {
+          "start": 41,
+          "end": 135,
+          "style": "strong-em"
+        },
+        {
+          "start": 135,
+          "end": 136,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-35",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#35",
+      "text": "16 “Pendapat yang terbuka dan jujur. Saya ingin memberinya berbagai macam kapak.” Ini mengacu pada dongeng Aesop tentang penebang kayu yang jujur. Ceritanya melibatkan seorang penebang kayu yang atas kejujurannya diberi hadiah kapak emas.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 81,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-36",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#36",
+      "text": "17 “Pertama, aku akan menghancurkan ilusi kacaumu itu!” Ini adalah kutipan dari Touma Kamijo di volume pertama seri novel ringan Indeks Ajaib Tertentu oleh Kazuma Kamachi. Keahlian sihirnya adalah meniadakan kekuatan orang lain.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 4,
+          "style": "strong"
+        },
+        {
+          "start": 4,
+          "end": 54,
+          "style": "strong-em"
+        },
+        {
+          "start": 54,
+          "end": 55,
+          "style": "strong"
+        },
+        {
+          "start": 129,
+          "end": 150,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-37",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#37",
+      "text": "Bab 3 … Saika Totsuka memiliki selera yang sangat lemah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 21,
+          "style": "strong"
+        },
+        {
+          "start": 22,
+          "end": 56,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-38",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#38",
+      "text": "1 “Atau apakah mendapatkan pekerjaan penuh waktu, atau beralih dua puluh?” Dua puluh adalah usia mayoritas yang sah di Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 74,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-39",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#39",
+      "text": "2 “Hukum alam semesta tidak berarti apa-apa…” Ini adalah kutipan dari Exdeath, bos terakhir Final Fantasy V. Ini menjadi meme kecil di Internet, dirujuk setiap kali sesuatu yang luar biasa atau meresahkan sepertinya terjadi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 45,
+          "style": "strong"
+        },
+        {
+          "start": 92,
+          "end": 107,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-40",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#40",
+      "text": "3 “Saat kamu mengacaukan Agustus… Totsuka akan datang!” Dalam paragraf ini, Hachiman menyisipkan potongan slogan berbagai karakter dari Smile Pretty Cure!, dirilis dalam bahasa Inggris dengan judul Glitter Force.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 33,
+          "style": "strong"
+        },
+        {
+          "start": 34,
+          "end": 54,
+          "style": "strong-em"
+        },
+        {
+          "start": 54,
+          "end": 55,
+          "style": "strong"
+        },
+        {
+          "start": 136,
+          "end": 154,
+          "style": "em"
+        },
+        {
+          "start": 198,
+          "end": 211,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-41",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#41",
+      "text": "4 Mini 4WD adalah miniatur mobil balap yang dijalankan dengan baterai tanpa kendali jarak jauh. Mainan yang populer di Jepang, terutama dijual oleh produsen mainan Tamiya, sering kali dirakit dengan tangan dan sangat dapat disesuaikan. Biasanya Anda harus menjalankannya di arena pacuan kuda agar dapat berjalan dengan baik. Produk ini sebagian besar populer di Asia, namun juga dijual di sejumlah negara lain. Ada juga manga dan anime terkait berjudul Bakusou Kyoudai Let’s + Go!!.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 10,
+          "style": "strong"
+        },
+        {
+          "start": 453,
+          "end": 481,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-42",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#42",
+      "text": "5 Permainan medali ada di mana-mana di arcade Jepang. Itu adalah semacam simulasi perjudian, karena tidak ada kasino di Jepang (perjudian itu ilegal). Anda membeli medali untuk memainkan permainan, dan permainan tersebut menghasilkan lebih banyak medali.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 18,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-43",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#43",
+      "text": "6 “Saya telah menyentuh malaikat!” “Tenshi ni Fureta yo!” (Kami telah menyentuh malaikat!) adalah judul lagu K-On! yang dinyanyikan oleh Ho-kago Tea Time, pengisi suara dari anime K-On!.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 34,
+          "style": "strong"
+        },
+        {
+          "start": 109,
+          "end": 114,
+          "style": "em"
+        },
+        {
+          "start": 180,
+          "end": 185,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-44",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#44",
+      "text": "7 “Tangan kiri hanya untuk menopang!” Ini adalah referensi ke baris dari manga bola basket Slam Dunk oleh Takehiko Inoue. Dalam satu adegan, Akagi mengajari Hanamichi Sakuragi cara menembak—dia menggambarkan memegang bola basket. Kutipan tersebut telah melahirkan meme Internet, yang digunakan untuk menandai gambar setiap kali tangan kiri menangkup sesuatu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 37,
+          "style": "strong"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-45",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#45",
+      "text": "8 “Tarian anti-pembajakan dari pencuri film yang selalu menjengkelkan itu tidak membuatku jengkel hari itu.” Pencuri film (eiga dorobou) adalah seorang anti-pembajakan maskot, seorang pria berjas berkepala kamera digital yang melakukan tarian pantomim. Dalam iklan, ia sering dipasangkan dengan pria berseragam polisi dengan lampu polisi di kepalanya. Iklan anti-pembajakan yang menampilkan duo ini ada di mana-mana di bioskop Jepang. Pencuri film dan polisi film telah dipopulerkan dalam karya penggemar, video parodi, dan bahkan yaoi doujinshi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 108,
+          "style": "strong"
+        },
+        {
+          "start": 123,
+          "end": 135,
+          "style": "em"
+        },
+        {
+          "start": 531,
+          "end": 545,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-46",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#46",
+      "text": "9 “Saya menyebut panggung ini Black RX.” Referensi ke Kamen Rider: Black RX, seri kesembilan dari acara klasik yang berlangsung dari tahun 1988 hingga 1989.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 40,
+          "style": "strong"
+        },
+        {
+          "start": 54,
+          "end": 75,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-47",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#47",
+      "text": "10 “Apakah itu Shinkiba? …Yah, aku tidak peduli apakah dia Zaimoku atau Kimuraya atau apa.” Shinkiba adalah nama sebuah stasiun di Tokyo. Zaimoku berarti “kayu” atau “kayu.” Kimuraya adalah jaringan toko roti. Ketiga kata tersebut memiliki karakter “kayu” di dalamnya, seperti nama Zaimokuza.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 91,
+          "style": "strong"
+        },
+        {
+          "start": 138,
+          "end": 145,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-48",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#48",
+      "text": "11 Lafcadio Hearn (1850–1904) adalah seorang penulis internasional yang terkenal karena bukunya tentang Jepang, yang paling terkenal adalah Kwaidan: Stories and Studies of Strange Things, tentang hantu Jepang cerita. Nama pena Jepangnya adalah Yakumo Koizumi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 17,
+          "style": "strong"
+        },
+        {
+          "start": 140,
+          "end": 186,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-49",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#49",
+      "text": "12 Kyouka Izumi (1873–1939) adalah seorang novelis dan penulis drama sebelum perang; sebagian besar karyanya menampilkan unsur supernatural tertentu yang diambil dari cerita rakyat dan sastra populer. Kunio Yanagita (1875–1962) adalah seorang penulis cerita rakyat yang sangat tertarik pada adat istiadat desa setempat dan kehidupan masyarakat umum, menerbitkan beberapa buku tentang cerita rakyat. Shinobu Orikuchi (1887–1953) adalah muridnya, seorang cerita rakyat dan penulis.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 15,
+          "style": "strong"
+        },
+        {
+          "start": 201,
+          "end": 215,
+          "style": "strong"
+        },
+        {
+          "start": 399,
+          "end": 415,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-50",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#50",
+      "text": "13 “Dia yang Tidak Boleh Disebutkan Namanya jauh lebih menakutkan…foy.” Karakter Malfoy dari Harry Potter sering kali adalah disebut di Internet oleh penggemar Jepang sebagai “Foy,” dan juga berubah menjadi partikel akhir kalimat yang lucu, foy.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 66,
+          "style": "strong"
+        },
+        {
+          "start": 66,
+          "end": 69,
+          "style": "strong-em"
+        },
+        {
+          "start": 69,
+          "end": 71,
+          "style": "strong"
+        },
+        {
+          "start": 241,
+          "end": 244,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-51",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#51",
+      "text": "14 Pomera adalah perangkat minimalis yang murni digunakan untuk mencatat dan menulis, tanpa aplikasi atau gangguan apa pun. Ukurannya kira-kira sebesar tablet, namun dilengkapi keyboard internal.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 9,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-52",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#52",
+      "text": "15 “Saya bukan Inventor Boy Kanipan.” Hatsumei Boy Kanipan (Inventor boy Kanipan) adalah anime tahun 1998–1999 tentang seorang anak laki-laki di planet tempat manusia dan robot hidup bersama dengan tujuan menjadi seorang penemu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 37,
+          "style": "strong"
+        },
+        {
+          "start": 38,
+          "end": 58,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-53",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#53",
+      "text": "16 “Dan asal tahu saja, jika mereka membahas DE, maka mereka adalah Pelé.” Mantan pemain sepak bola asal Brasil ini membintangi iklan tentang disfungsi ereksi, yang menjadi cukup populer di Internet Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 74,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-54",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#54",
+      "text": "17 “Mereka harus menulis bahwa dia lucu di masa lalu Konjaku Monogatari dan mengajarkannya di sekolah.” Konjaku Monogatari (diterbitkan dalam bahasa Inggris sebagai Japanese Tales from Times Past: Stories of Fantasy and Folklore from the Konjaku Monogatari Shu) adalah kumpulan cerita yang ditulis pada zaman Heian.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 52,
+          "style": "strong"
+        },
+        {
+          "start": 53,
+          "end": 71,
+          "style": "strong-em"
+        },
+        {
+          "start": 72,
+          "end": 103,
+          "style": "strong"
+        },
+        {
+          "start": 104,
+          "end": 122,
+          "style": "em"
+        },
+        {
+          "start": 165,
+          "end": 260,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-55",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#55",
+      "text": "18 “'Saya memasangnya dengan palu sungguhan. Jika bertabrakan secara langsung, itu akan menghancurkan lawan mana pun tanpa kecuali…' Saya juga memasang pin penanda dari perangkat jahit ke Ray Stinger saya.” Dalam serial manga dan anime Bakusou Kyoudai Let’s + Go, pesaing Mini 4WD sering memasangkannya senjata asli ke mobil mereka untuk mengalahkan lawan mereka. Ray Stinger khususnya dilengkapi dengan jarum.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 206,
+          "style": "strong"
+        },
+        {
+          "start": 236,
+          "end": 262,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-56",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#56",
+      "text": "19 “Aku hanya beberapa inci dari meninju udara di depanku dan berteriak Ayo! Maaaaagnum! Tunggu, itu Galactica Magnum.” Magnum adalah nama salah satu dari dua yang utama mobil di Bakusou Kyoudai Let’s + Go! Galactica Magnum, sebaliknya, adalah nama pukulan spesial di Ring ni Kakero, manga tinju klasik karya Masami Kurumada.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 71,
+          "style": "strong"
+        },
+        {
+          "start": 72,
+          "end": 88,
+          "style": "strong-em"
+        },
+        {
+          "start": 89,
+          "end": 119,
+          "style": "strong"
+        },
+        {
+          "start": 179,
+          "end": 206,
+          "style": "em"
+        },
+        {
+          "start": 268,
+          "end": 282,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-57",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#57",
+      "text": "20 Model Avante Mini 4WD oleh Tamiya adalah model Mini 4WD “klasik” lama yang awalnya dirilis pada tahun 1980-an. Sebaliknya, Beak Spider dan Brocken Gigant berasal dari tahun 1990an.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-58",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#58",
+      "text": "Bab 4 … Sayangnya, tidak ada yang tahu ke mana benang merah Shizuka Hiratsuka pergi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 46,
+          "style": "strong"
+        },
+        {
+          "start": 47,
+          "end": 84,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-59",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#59",
+      "text": "1 “A nyata istri yang tinggal di rumah memberikan suaminya koin lima ratus yen untuk makan siangnya…”Secara tradisional, istri menangani keuangan keluarga di rumah tangga Jepang. Sang suami menyerahkan gajinya, dan dialah yang mengurus tagihan dan memberinya uang saku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 4,
+          "style": "strong"
+        },
+        {
+          "start": 5,
+          "end": 10,
+          "style": "strong-em"
+        },
+        {
+          "start": 11,
+          "end": 101,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-60",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#60",
+      "text": "2 “Saya seorang alkemis dompet penuh.” Bahasa Jepang asli di sini adalah kogane no renkinjutsushi, yang berarti “alkemis penukaran saku”, mengacu pada manga karya Hiromu Arakawa, Hagane no Renkinjutsushi (Fullmetal Alchemist).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 38,
+          "style": "strong"
+        },
+        {
+          "start": 73,
+          "end": 97,
+          "style": "em"
+        },
+        {
+          "start": 179,
+          "end": 203,
+          "style": "em"
+        },
+        {
+          "start": 205,
+          "end": 224,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-61",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#61",
+      "text": "3 Ramen ala Takeoka adalah jenis ramen shoyu yang bagian dasarnya direbus dengan varian Jepang di atas char siu (babi barbekyu). Katsuura tantanmen adalah variasi kecil dari mie dan-dan Szechuan, semangkuk mie pedas dengan daging babi cincang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 19,
+          "style": "strong"
+        },
+        {
+          "start": 103,
+          "end": 111,
+          "style": "em"
+        },
+        {
+          "start": 129,
+          "end": 137,
+          "style": "strong"
+        },
+        {
+          "start": 138,
+          "end": 147,
+          "style": "strong-em"
+        },
+        {
+          "start": 178,
+          "end": 185,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-62",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#62",
+      "text": "4 “Saya tidak terpaku pada satu titik pun. Saya melihat semuanya secara keseluruhan…tanpa susah payah. Yaitu apa artinya benar-benar 'melihat', atau begitulah yang kudengar.” Ini kutipan dari manga Vagabond karya Takehiko Inoue.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 174,
+          "style": "strong"
+        },
+        {
+          "start": 198,
+          "end": 206,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-63",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#63",
+      "text": "5 “Drop dead, amin…” Ini diambil dari lirik lagu “Wedding Bell” karya Sugar, sebuah lagu yang membuat seorang wanita merasa kesal terhadapnya. seorang pria dan seorang wanita akan menikah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 20,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-64",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#64",
+      "text": "6 “Tekanan spiritual…menghilang…?” Kalimat ini diulangi berulang-ulang dalam Bleach oleh Tite Kubo, terutama yang mengacu pada Chad. Di kalangan penggemar Jepang di Internet, istilah ini merupakan singkatan untuk menggambarkan seseorang yang sekarat atau tersingkir.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 34,
+          "style": "strong"
+        },
+        {
+          "start": 77,
+          "end": 83,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-65",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#65",
+      "text": "7 “Ramen! Apakah orang-orang melakukan itu?” Ini adalah referensi ke baris dari Kodoku no Gurume (Makanan yang kesepian) oleh Masayuki Qusumi dan Jiro Taniguchi. Kalimat aslinya adalah “Takeaway! Apakah orang-orang melakukan itu?” ketika dia melihat seorang pria mengambil sup miso babi untuk dibawa pulang. Menurutnya karena cuaca akan menjadi dingin, maka tidak akan ada gunanya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 44,
+          "style": "strong"
+        },
+        {
+          "start": 80,
+          "end": 96,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-66",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#66",
+      "text": "8 “Apakah di sini ada pengepungan ABCD secara penuh?” Pengepungan ABCD adalah nama Jepang untuk negara-negara asing yang melawan Jepang pada tahun 1940-an, termasuk Amerika, Inggris, Tiongkok, dan Belanda.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 53,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-67",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#67",
+      "text": "9 “…Saya akan mengadukan mereka, menyerukan gerakan Tsubame Gaeshi, dan kemudian memberi tahu semua orang bahwa itu adalah rahasia dagang keluarga.” Tsubame Gaeshi, yang secara harafiah berarti “kembalinya burung layang-layang”, atau kadang-kadang “memutar potongan burung layang-layang”, awalnya adalah sebuah gerakan yang diciptakan oleh pendekar pedang terkenal Kojirou Sasaki. Istilah ini kemudian digunakan untuk menggambarkan berbagai gerakan seni bela diri, baik nyata maupun fiktif, mulai dari gerakan judo nyata hingga serangan khusus di Fate stay/night hingga serangan tenis di Prince of Tennis.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 51,
+          "style": "strong"
+        },
+        {
+          "start": 52,
+          "end": 66,
+          "style": "strong-em"
+        },
+        {
+          "start": 66,
+          "end": 148,
+          "style": "strong"
+        },
+        {
+          "start": 149,
+          "end": 163,
+          "style": "em"
+        },
+        {
+          "start": 547,
+          "end": 562,
+          "style": "em"
+        },
+        {
+          "start": 588,
+          "end": 604,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-68",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#68",
+      "text": "10 “Sayangnya, saya lebih menyukai calon anak laki-laki daripada anak laki-laki detektif.” Detective Conan, yang dikenal sebagai Case Closed di Amerika Utara, adalah manga yang sudah berjalan lama dan populer karya Gosho Aoyama yang mulai diterbitkan pada tahun 1994. Ini tentang seorang detektif sekolah menengah yang terperangkap dalam tubuh seorang anak. Future Boy Conan jauh lebih tua—ini adalah anime fiksi ilmiah pasca-apokaliptik TV tahun 1978 yang disutradarai oleh Hayao Miyazaki. Kedua Conan itu sama sekali tidak berhubungan; hanya saja namanya sama.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 90,
+          "style": "strong"
+        },
+        {
+          "start": 91,
+          "end": 106,
+          "style": "em"
+        },
+        {
+          "start": 129,
+          "end": 140,
+          "style": "em"
+        },
+        {
+          "start": 358,
+          "end": 374,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-69",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#69",
+      "text": "11 “…dengan tekstur ikan flounder yang menari di lidahmu.” Dalam bahasa Jepang, Hikigaya mengucapkan shakkiripon, sebuah kata yang dibuat-buat dari manga Kodoku no Gurume (Makanan yang kesepian). Kata tersebut seharusnya berarti “tekstur ikan flounder yang menari di lidah Anda.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 58,
+          "style": "strong"
+        },
+        {
+          "start": 101,
+          "end": 112,
+          "style": "em"
+        },
+        {
+          "start": 154,
+          "end": 170,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-70",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#70",
+      "text": "12 Kyuuri berarti “mentimun”, yang terdengar seperti nama Kiryuu. Kiryuu Bannenchiten adalah karakter dari manga harem Mamotte Shugogetten (Lindungi aku, Shugogetten) yang terbit dari tahun 1997 hingga 2000.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 9,
+          "style": "strong-em"
+        },
+        {
+          "start": 119,
+          "end": 138,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-71",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#71",
+      "text": "13 Pepsi Ice Cucumber adalah produk berumur pendek khusus Jepang yang didistribusikan di 2007 dan dibatalkan pada tahun yang sama.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 21,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-72",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#72",
+      "text": "14 Iekei ramen adalah nama jenis ramen dengan bahan dasar kecap tonkotsu dan mie lurus kental, berasal dari toko Yoshimuraya pada tahun 1974. Toko ramen yang menyajikan jenis ramen ini umumnya menambahkan ya di akhir namanya, seperti Yoshimuraya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 8,
+          "style": "strong-em"
+        },
+        {
+          "start": 9,
+          "end": 14,
+          "style": "strong"
+        },
+        {
+          "start": 64,
+          "end": 72,
+          "style": "em"
+        },
+        {
+          "start": 205,
+          "end": 207,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-73",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#73",
+      "text": "15 “Saat Anda mengambil daging radikal dan menambahkan lezat ke dalamnya, Anda mendapatkan gemuk.” Bu Hiratsuka sedang berbicara tentang bentuk karakter Cina.  (daging) plus (enak) sama dengan (lemak).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 23,
+          "style": "strong"
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "style": "strong-em"
+        },
+        {
+          "start": 31,
+          "end": 54,
+          "style": "strong"
+        },
+        {
+          "start": 55,
+          "end": 60,
+          "style": "strong-em"
+        },
+        {
+          "start": 61,
+          "end": 90,
+          "style": "strong"
+        },
+        {
+          "start": 91,
+          "end": 97,
+          "style": "strong-em"
+        },
+        {
+          "start": 97,
+          "end": 98,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-74",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#../Images/Art_P164a.jpg",
+      "text": "月"
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-75",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#../Images/Art_P164b.jpg",
+      "text": "旨"
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-76",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#../Images/Art_P164c.jpg",
+      "text": "脂"
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-77",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#77",
+      "text": "Bab 5 … Komachi Hikigaya menganggap suatu hari nanti, kakaknya mungkin akan pergi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 24,
+          "style": "strong"
+        },
+        {
+          "start": 25,
+          "end": 82,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-78",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#78",
+      "text": "1 “Bancho Sarayashiki” adalah kisah hantu klasik. Meskipun ada sejumlah variasi dalam cerita ini, semua versi cerita melibatkan hantu seorang wanita yang menghitung piring dan selalu muncul satu buah piring pendek.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 22,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-79",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#79",
+      "text": "2 “Jika saya membuat lingkaran di kalender, itu akan menjadi Manto Manto Takoyaki.” “Karendaa ni Maru” (Lingkaran di kalender) adalah judul lagu penutup Takyoyaki Manto Man (Octopus ball Cape Man), sebuah anime tentang takoyaki memerangi kejahatan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 60,
+          "style": "strong"
+        },
+        {
+          "start": 61,
+          "end": 82,
+          "style": "strong-em"
+        },
+        {
+          "start": 82,
+          "end": 83,
+          "style": "strong"
+        },
+        {
+          "start": 153,
+          "end": 172,
+          "style": "em"
+        },
+        {
+          "start": 219,
+          "end": 227,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-80",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#80",
+      "text": "3 “Hei, apakah kamu melakukan lompatan waktu?” Ini adalah referensi ke Gadis yang Leapt Through Time, sebuah novel karya Yasutaka Tsutsui yang awalnya diterbitkan secara bertahap dari tahun 1965 hingga 1966. Novel ini telah diadaptasi berkali-kali, yang paling terkenal menjadi film animasi tahun 2006 yang disutradarai oleh Mamoru Hosoda.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 46,
+          "style": "strong"
+        },
+        {
+          "start": 71,
+          "end": 100,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-81",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#81",
+      "text": "4 “Kamakura mendengus funsu! dan berdiri dari tempat dia tergeletak di atas kakiku.” Funsu! adalah suara dengusan khas yang dikeluarkan Yui Hirasawa dari K-On! saat dia sedang bersemangat. Ini awalnya muncul di episode keenam anime.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 21,
+          "style": "strong"
+        },
+        {
+          "start": 22,
+          "end": 28,
+          "style": "strong-em"
+        },
+        {
+          "start": 29,
+          "end": 84,
+          "style": "strong"
+        },
+        {
+          "start": 85,
+          "end": 91,
+          "style": "em"
+        },
+        {
+          "start": 154,
+          "end": 159,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-82",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#82",
+      "text": "5 catbus dari film My Neighbor Totoro memiliki mulut yang sangat besar.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 8,
+          "style": "strong"
+        },
+        {
+          "start": 19,
+          "end": 37,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-83",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#83",
+      "text": "6 “Saya segera memulai melolong menuju masa depan.” “Mirai e no Houkou” (Melolong menuju masa depan) adalah judul lagu dari JAM Project, yang ditampilkan dalam game H Muv-Love Alternative.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 51,
+          "style": "strong"
+        },
+        {
+          "start": 167,
+          "end": 187,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-84",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#84",
+      "text": "7 “Mengapa kunang-kunang mati begitu cepat?” Ini adalah kutipan dari Setsuko dalam film Grave of the Fireflies, yang menandakan kematian dia dan kakaknya. Di Jepang, aksen Kansai-nya membuat baris ini semakin ikonik.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 44,
+          "style": "strong"
+        },
+        {
+          "start": 88,
+          "end": 110,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-85",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#85",
+      "text": "8 “…Oh, ini mengingatkan saya pada era Showa!” Era Showa berlangsung antara tahun 1926 hingga 1989, bertepatan dengan masa pemerintahan kaisar Showa, Hirohito. Era saat ini adalah Heisei, dimulai ketika Akihito naik takhta.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 4,
+          "style": "strong"
+        },
+        {
+          "start": 4,
+          "end": 45,
+          "style": "strong-em"
+        },
+        {
+          "start": 45,
+          "end": 46,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-86",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#86",
+      "text": "9 “Ini seperti bagaimana Anda akan mempelajari gerakan lebih cepat jika Anda membatalkan evolusi dengan tombol B.” Tentu saja yang dimaksud Hachiman adalah Pokémon yang berevolusi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 114,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-87",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#87",
+      "text": "10 “Komachi dan saya berhenti, menunggu di sana sampai Sable selesai mengunyah pemandangan.” Bahasa Jepang aslinya adalah “Sablé benar-benar makan rumput di pinggir jalan”, sebuah idiom Jepang yang berarti “membuang-buang waktu.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 92,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-88",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#88",
+      "text": "11 “…tetapi jika seekor kuda nil tiba-tiba muncul untuk menyambut saya dan merekomendasikan obat kumur, saya tidak akan merasa diberkati sama sekali.” Ini adalah referensi ke iklan Isodine (isojin) pada tahun 1995, larutan kumur untuk mencegah penyakit. Seorang wanita pulang ke rumah dan berkata, “Tidak ada seorang pun di sini yang menyambut saya pulang…” dan dia disambut oleh sepasang kuda nil mini (maskot untuk merek tersebut), dan mereka berkumur bersama.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 150,
+          "style": "strong"
+        },
+        {
+          "start": 190,
+          "end": 196,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-89",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#89",
+      "text": "12 “Kesepian apa yang kamu bicarakan? Apakah ini sesuatu yang akan kamu periksa, sesuatu yang akan kamu temukan di lingkunganmu Akihabara?” Hachiman merujuk pada iklan perusahaan elektronik Sato Musen tahun 1990-an (bergabung dengan Yamada Denki pada tahun 2008). Iklan tersebut menampilkan sepasang macan tutul (logo perusahaan menampilkan macan tutul) mengendarai skateboard dan menarik pemirsa untuk datang melihat-lihat, datang dan temukan sesuatu yang menakjubkan di lingkungan Anda, Akihabara. Mereka menggunakan kata bahasa Inggris sesuatu, yang di sini Hachiman coba berima dengan samishii (kesepian).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 139,
+          "style": "strong"
+        },
+        {
+          "start": 539,
+          "end": 546,
+          "style": "em"
+        },
+        {
+          "start": 589,
+          "end": 597,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-90",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#90",
+      "text": "13 “Saya akan tinggal di rumah sampai saya menikah… Kemudian sampai saya menikah.” Bahasa Jepang memiliki sejumlah kata berbeda untuk “pernikahan” yaitu spesifik gender. Totsugu, kata pertama yang dia gunakan adalah untuk wanita, karena dia meninggalkan keluarganya untuk menjadi ibu rumah tangga di keluarga suaminya. Mukogu adalah kata yang dibuat dari kata muko, yang berarti “menantu laki-laki”, dan mengacu pada praktik mukoiri, yang mana seorang laki-laki yang tidak memiliki anak laki-laki akan mengadopsi suami dari anak perempuannya sebagai ahli warisnya, dan menantu laki-lakinya akan menggunakan nama belakang ayah barunya. Hal ini jarang terjadi, namun kadang terjadi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 82,
+          "style": "strong"
+        },
+        {
+          "start": 170,
+          "end": 177,
+          "style": "em"
+        },
+        {
+          "start": 319,
+          "end": 325,
+          "style": "em"
+        },
+        {
+          "start": 360,
+          "end": 364,
+          "style": "em"
+        },
+        {
+          "start": 425,
+          "end": 432,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-91",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#91",
+      "text": "14 “Mereka sangat bagus, mereka bahkan bisa mengerjakan Ant King.” Chimera Ant King adalah antagonis dari salah satu arc selanjutnya dalam manga Hunter x Hunter karya Yoshihiro Togashi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 4,
+          "style": "strong"
+        },
+        {
+          "start": 4,
+          "end": 64,
+          "style": "strong-em"
+        },
+        {
+          "start": 64,
+          "end": 66,
+          "style": "strong"
+        },
+        {
+          "start": 145,
+          "end": 160,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-92",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#92",
+      "text": "15 Pengepungan Osaka adalah serangkaian pertempuran menjelang akhir era Sengoku yang dilakukan oleh Keshogunan Tokugawa melawan klan Toyotomi—Tokugawa menang. Kastil Osaka memiliki dua parit di sekelilingnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 20,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-93",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#93",
+      "text": "16 “Sheeeh!” adalah pose komik yang berasal dari karakter Iyami dalam manga klasik Osomatsu-kun karya Fujio Akatsuka. Pose ini menjadi tren pada tahun 1960-an dan seterusnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 12,
+          "style": "strong"
+        },
+        {
+          "start": 83,
+          "end": 95,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-94",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#94",
+      "text": "17 Ray Sefo adalah seorang kickboxer, petinju, dan seniman bela diri campuran asal Selandia Baru, yang terkenal karena lengah untuk mengejek lawannya, menyuruhnya terus maju dan melakukan pukulan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 11,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-95",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#95",
+      "text": "18 “Gatal. Enak.” adalah kalimat terkenal dari jurnal dalam game Resident Evil asli. Jurnal tersebut menggambarkan seorang penjaga hewan yang perlahan terinfeksi virus zombi dan kehilangan akal sehatnya. Satu-satunya hal yang tertulis di halaman terakhir adalah Gatal. Enak.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 17,
+          "style": "strong"
+        },
+        {
+          "start": 65,
+          "end": 78,
+          "style": "em"
+        },
+        {
+          "start": 262,
+          "end": 274,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-96",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#96",
+      "text": "Bab 6 … Dan Yui Yuigahama menghilang di tengah kerumunan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 11,
+          "style": "strong"
+        },
+        {
+          "start": 12,
+          "end": 25,
+          "style": "strong"
+        },
+        {
+          "start": 26,
+          "end": 57,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-97",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#97",
+      "text": "1 Hamtaro adalah protagonis dari serial manga dan buku cerita anak-anak dengan nama yang sama oleh Ritsuko Kawai, dengan adaptasi anime yang sangat populer. Dia seekor hamster.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 9,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-98",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#98",
+      "text": "2 “Satu-satunya hal yang terpikir oleh saya tentang film bisu ini adalah Seagal.” Dalam iklan Jepang untuk film yang dibintangi oleh bintang laga lama Steven Seagal, karakternya sering digambarkan sebagai “Si bisu _____.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 3,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 80,
+          "style": "strong-em"
+        },
+        {
+          "start": 80,
+          "end": 81,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-99",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#99",
+      "text": "3 Kabaya adalah perusahaan gula-gula Jepang. Mereka memiliki lini produk yang disebut “Ju-C.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 8,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-100",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#100",
+      "text": "4 Toei Animation adalah salah satu studio animasi paling terkenal dan sukses di Jepang, yang memproduksi banyak serial sukses jangka panjang yang populer di kalangan anak kecil, seperti waralaba Dragon Ball, One Piece, dan Pretty Cure. Perusahaan induk mereka, sebuah perusahaan film dan televisi, juga memproduksi serial sentai live-action seperti Kamen Rider. Seri ini khususnya sering ditampilkan pada tas permen kapas untuk menarik perhatian anak-anak.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 16,
+          "style": "strong"
+        },
+        {
+          "start": 322,
+          "end": 328,
+          "style": "em"
+        },
+        {
+          "start": 349,
+          "end": 360,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-101",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#101",
+      "text": "5 Jewelpet Pretty Cure adalah seri persilangan antara Pretty Cure dan waralaba Jewelpet, dan Pretty Rhythm adalah game arcade yang didasarkan pada Pretty Cure. Keduanya merupakan spin-off yang tidak jelas dari waralaba besar dan luas yang dipasarkan untuk gadis kecil. Namun, seperti acara gadis penyihir lainnya, ada juga penonton pria dewasa.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 22,
+          "style": "strong-em"
+        },
+        {
+          "start": 93,
+          "end": 106,
+          "style": "em"
+        },
+        {
+          "start": 147,
+          "end": 158,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-102",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#102",
+      "text": "6 Tokumei Research 200X adalah acara variety TV lama yang tayang dari tahun 1996 hingga 2004. Acara ini terutama berfokus pada topik okultisme.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 23,
+          "style": "strong-em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-103",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#103",
+      "text": "7 “Aku akan menjadi pohon!” Ini merujuk pada baris karakter Eru Chitanda dari novel misteri seri Kotenbu karya Honobu Yonezawa, yang diadaptasi menjadi anime Hyouka. Dia mempunyai kebiasaan mengatakan “Watashi, ki ni narimasu!” (“Saya penasaran!”). Hachiman telah melontarkan kalimat ini (seperti yang sering terjadi pada kalimat ini), membaca baris tersebut sebagai “Aku akan menjadi pohon!” dengan mengubah kanji untuk ki menjadi “pohon.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 27,
+          "style": "strong"
+        },
+        {
+          "start": 158,
+          "end": 164,
+          "style": "em"
+        },
+        {
+          "start": 202,
+          "end": 226,
+          "style": "em"
+        },
+        {
+          "start": 421,
+          "end": 423,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-104",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#104",
+      "text": "8 “Mengapa kamu membuatnya terdengar seperti Pertunjukan Renang Khusus Wanita?” Yuigahama berbicara tentang Doki! Marugoto Mizugi! Onna Darake no Suiei Taikai (Jantung berdebar kencang! Semua pakaian renang! Pertunjukan renang khusus perempuan!), merupakan spin-off dari variety show bintang pop idola Swimming Show yang dimulai pada tahun 1970, dengan tema renang. 1988 adalah musim pertama edisi khusus perempuan, yang berlanjut hingga tahun 2003.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 44,
+          "style": "strong"
+        },
+        {
+          "start": 45,
+          "end": 77,
+          "style": "strong-em"
+        },
+        {
+          "start": 77,
+          "end": 79,
+          "style": "strong"
+        },
+        {
+          "start": 108,
+          "end": 158,
+          "style": "em"
+        },
+        {
+          "start": 302,
+          "end": 315,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-105",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#105",
+      "text": "9 “Sudah menjadi kebiasaan saya untuk berjalan tanpa mengeluarkan suara.” Ini adalah kutipan dari karakter Killua dalam manga shonen Hunter X yang sudah berjalan lama. Pemburu oleh Yoshihiro Togashi. Killua dilatih sejak lahir untuk menjadi seorang pembunuh.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 73,
+          "style": "strong"
+        },
+        {
+          "start": 126,
+          "end": 132,
+          "style": "em"
+        },
+        {
+          "start": 133,
+          "end": 175,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-106",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#106",
+      "text": "10 “…seperti saya menghindari manusia kayu untuk menjadi biksu Shaolin…” Shaolin Wooden Men (1976) adalah film Jackie Chan. Adegan yang dimaksud Hachiman adalah upacara wisuda biksu Shaolin, yang melibatkan melewati koridor sambil menghindari tendangan dan pukulan dari manusia kayu di sepanjang jalan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 72,
+          "style": "strong"
+        },
+        {
+          "start": 73,
+          "end": 91,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-107",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#107",
+      "text": "11 “Dia menarik telingaku seperti yang dilakukan Sazae pada Katsuo.” Manga klasik Sazae-san mulai ditayangkan pada tahun 1946 di surat kabar daerah, akhirnya berakhir pada tahun 1974. Serial anime ini dimulai pada tahun 1969 dan berlanjut hingga hari ini, menjadikannya serial animasi terlama sepanjang masa, bahkan mengalahkan Doraemon. Ini pada dasarnya adalah komedi domestik tentang seorang ibu rumah tangga, Sazae-san, dan keluarganya. Katsuo adalah adik laki-lakinya—sepuluh tahun lebih muda dari Sazae—dan dia sering memegang telinganya seperti itu. Nakajima adalah sahabat Katsuo, dan Katsuo sering mengajaknya pergi bermain bisbol.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 68,
+          "style": "strong"
+        },
+        {
+          "start": 82,
+          "end": 91,
+          "style": "em"
+        },
+        {
+          "start": 328,
+          "end": 336,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-108",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#108",
+      "text": "12 “Saya tidak bermain-main… Itu tidak akan terjadi.” Teks asli di sini adalah sesuatu yang memberi efek seperti “Bermain-main? Menjadi serius? Hal itu tidak akan pernah terjadi. Itu sama tidak masuk akalnya dengan Motivasi! Energi! Iwaki! Saya tidak tahu apa yang dia ingin saya lakukan katakan, tapi itu tidak akan menjadi sesuatu yang bagus~zaki!” Dalam bahasa Jepang, ini adalah rangkaian kata yang diakhiri dengan suku kata ki. Yang pertama adalah uwaki (menipu/bermain-main) dan honki (serius). Kemudian dilanjutkan dengan permainan slogan kampanye mantan anggota LDP Nobuko Iwaki: Yaruki, genki, Iwaki! (Motivasi, energi, Iwaki!). Terakhir, ia merujuk pada frasa dari iklan politik Takenori Kanzaki, Sou wa Ikanzaki! (Itu Ikanzaki!), yang merupakan pelesetan dari frasa Sou wa ikan zo! (Kami tidak bisa memilikinya!)",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 53,
+          "style": "strong"
+        },
+        {
+          "start": 215,
+          "end": 239,
+          "style": "em"
+        },
+        {
+          "start": 344,
+          "end": 348,
+          "style": "em"
+        },
+        {
+          "start": 429,
+          "end": 431,
+          "style": "em"
+        },
+        {
+          "start": 453,
+          "end": 458,
+          "style": "em"
+        },
+        {
+          "start": 485,
+          "end": 490,
+          "style": "em"
+        },
+        {
+          "start": 588,
+          "end": 609,
+          "style": "em"
+        },
+        {
+          "start": 707,
+          "end": 723,
+          "style": "em"
+        },
+        {
+          "start": 777,
+          "end": 792,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-109",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#109",
+      "text": "13 “Ada begitu banyak dodonpa, aku berpikir, apakah kamu Mercenary Tao atau apa?” Dalam manga Dragon Ball karya Akira Toriyama, Mercenary Tao adalah karakter pertama yang ditampilkan menggunakan keterampilan Dodonpa, yang terkadang diterjemahkan sebagai “Dodon Ray” atau terkadang “Boom Wave.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 21,
+          "style": "strong"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "style": "strong-em"
+        },
+        {
+          "start": 29,
+          "end": 81,
+          "style": "strong"
+        },
+        {
+          "start": 94,
+          "end": 105,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-110",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#110",
+      "text": "14 “Itu di luar cangkang pelindung yang dibentengi; itu pada dasarnya adalah Gundam.” “Cangkang pelindung yang diperkaya” adalah nama setelan mecha dari manga Apocalypse Zero karya Takayuki Yamaguchi. Bentuknya kecil dan pas dengan tubuh manusia—kira-kira seukuran setelan Iron Man. Mobile suit dari waralaba Gundam jauh lebih besar—berukuran robot raksasa.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 85,
+          "style": "strong"
+        },
+        {
+          "start": 159,
+          "end": 174,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-111",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#111",
+      "text": "15 “Ya, saus ini memang bercita rasa anak laki-laki.” Ini adalah referensi ke baris dari manga Kodoku no Gurume (The Lonely Gourmet).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 53,
+          "style": "strong"
+        },
+        {
+          "start": 95,
+          "end": 111,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-112",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#112",
+      "text": "Bab 8 … Yukino Yukinoshita berdiri di tempatnya, sesaat.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 26,
+          "style": "strong"
+        },
+        {
+          "start": 27,
+          "end": 56,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-113",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#113",
+      "text": "1 “Saat hari kerja dan akhir pekan bersilangan, di situlah tempatnya Saya ingin menutup tirai kisah Hachiman Hikigaya.” Ini adalah plesetan dari tagline dari seri A Tertentu Magical Index oleh Kazuma Kamachi, yang asli adalah “Ketika ilmu pengetahuan dan sihir bertemu, sebuah cerita lahir.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 119,
+          "style": "strong"
+        },
+        {
+          "start": 163,
+          "end": 187,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-114",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#114",
+      "text": "2 “Periode di akhir liburan memiliki begitu banyak Energi Buruk disimpan, itu cukup buruk untuk membawa seluruh dunia ke Akhir Terburuk.” Ini adalah referensi ke konflik utama Smile Pretty Cure, seri kesembilan dari franchise Pretty Cure. Penjahatnya berasal dari tempat bernama Bad End Kingdom. Mereka melakukan perjalanan ke bumi untuk mengumpulkan Energi Buruk untuk menimbulkan Akhir Terburuk di seluruh dunia di alam semesta.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 137,
+          "style": "strong"
+        },
+        {
+          "start": 176,
+          "end": 193,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-115",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#115",
+      "text": "Kata Penutup",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 12,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-116",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#116",
+      "text": "1 “Ada lautan, lalu gunung, sungai, kekayaan… Tidak, tunggu, itu seorang enka penyanyi.” Yamakawa Yutaka adalah penyanyi enka yang namanya dieja dengan karakter untuk “gunung”, “sungai”, dan “kekayaan.” Enka adalah genre musik Jepang yang disukai oleh generasi tua yang gayanya menyerupai musik tradisional Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 72,
+          "style": "strong"
+        },
+        {
+          "start": 73,
+          "end": 77,
+          "style": "strong-em"
+        },
+        {
+          "start": 78,
+          "end": 88,
+          "style": "strong"
+        },
+        {
+          "start": 121,
+          "end": 125,
+          "style": "em"
+        },
+        {
+          "start": 203,
+          "end": 207,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-117",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#117",
+      "text": "2 “Saya akan bekerja keras untuk membalas kekuatan yang lebih tinggi, Shinran akan menangis bahagia di kuburnya!” Shinran (1173–1263 M) adalah seorang biksu Buddha dan pendiri sekte Buddha Joudo Shinshuu. Aliran ini mengajarkan ketergantungan pada kekuatan lain, yaitu mengandalkan Buddha Amitabha, daripada terlibat dalam tindakan tertentu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 113,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-catatan-penerjemah-appendix001-118",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#118",
+      "text": "3 “Karena kalian semua baru saja melewati tenggat waktu seperti Bojack Tidak terikat…” Dia adalah merujuk pada film Dragon Ball Z kesembilan, Bojack Unbound. Bagian pertama dari judul bahasa Jepangnya, Ginga Girigiri, berarti “galaksi di ambang”, dan dalam hal ini, mereka berada di ambang tenggat waktu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 1,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 63,
+          "style": "strong"
+        },
+        {
+          "start": 64,
+          "end": 70,
+          "style": "strong-em"
+        },
+        {
+          "start": 71,
+          "end": 84,
+          "style": "strong-em"
+        },
+        {
+          "start": 84,
+          "end": 86,
+          "style": "strong"
+        },
+        {
+          "start": 116,
+          "end": 129,
+          "style": "em"
+        },
+        {
+          "start": 142,
+          "end": 156,
+          "style": "em"
+        },
+        {
+          "start": 202,
+          "end": 216,
+          "style": "em"
+        }
+      ]
+    }
+  ]
+}

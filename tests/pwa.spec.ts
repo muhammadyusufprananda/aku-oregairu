@@ -47,3 +47,25 @@ test('English sections cache on visit and reload offline', async ({ page, contex
   await expect(page.locator('#reader')).toHaveAttribute('data-language', 'en');
   await expect(page.locator('#page-count')).toHaveText(/\d+ \/ \d+/);
 });
+
+test('Volumes 3–6 and their illustrations are available in the scoped offline cache', async ({ page, context }) => {
+  await page.goto('');
+  await page.evaluate(async () => {
+    await navigator.serviceWorker.ready;
+    if (!navigator.serviceWorker.controller) await new Promise<void>(resolve => navigator.serviceWorker.addEventListener('controllerchange', () => resolve(), { once: true }));
+  });
+  await context.setOffline(true);
+  for (const volume of [3, 4, 5, 6]) {
+    await page.goto(`baca/volume-${volume}/pembuka/`);
+    await expect(page.locator('#reader')).toHaveAttribute('data-volume', `volume-${volume}`);
+    await expect(page.locator('#page-count')).toHaveText(/\d+ \/ \d+/);
+    const illustration = await page.evaluate(async volume => {
+      const response = await fetch(`/aku-oregairu/assets/chapters/volume-${volume}/pembuka/Art_tit.webp`);
+      return response.ok && (await response.blob()).size > 100;
+    }, volume);
+    expect(illustration).toBeTruthy();
+  }
+  await page.goto('baca/volume-6/catatan-penerjemah/?pos=akhir');
+  await expect(page.locator('#page-count')).toHaveText(/\d+ \/ \d+/);
+  await expect(page.locator('#next')).toBeDisabled();
+});

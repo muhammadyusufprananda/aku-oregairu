@@ -322,10 +322,10 @@
     "id": "volume-3-en-bab-7",
     "volume": "volume-3",
     "slug": "bab-7",
-    "number": 7,
-    "kind": "chapter",
+    "number": null,
+    "kind": "backmatter",
     "order": 39,
-    "title": "BT",
+    "title": "Bonus track! “Like, This Sort of Birthday Song.”",
     "editorialStatus": "draft",
     "language": "en"
   },

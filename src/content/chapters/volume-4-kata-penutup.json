@@ -1,0 +1,144 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v4-kata-penutup-afterword-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/afterword.xhtml#0",
+      "headingLevel": 2,
+      "text": "Kata Penutup"
+    },
+    {
+      "id": "v4-kata-penutup-afterword-1",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#1",
+      "text": "Halo. Inilah Wataru Watari."
+    },
+    {
+      "id": "v4-kata-penutup-afterword-2",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#2",
+      "text": "Saat saya menulis cerita yang berlatar tengah musim panas selama pertengahan musim dingin, saya merasa sangat yakin bahwa inilah alasan saya menjadi penulis novel ringan. Jadi, bagaimana kabar kalian musim ini? Aku baik-baik saja."
+    },
+    {
+      "id": "v4-kata-penutup-afterword-3",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#3",
+      "text": "Maka, ceritanya akhirnya memasuki musim panas. Saat Anda memikirkan musim panas, Anda memikirkan musim di mana masa muda paling bersinar. Pakaian musim panas, pakaian renang, bra tipis! Tepat setelah saya menulis itu, saya menyadari bahwa, oh ya, ibu saya juga membaca buku ini… Jadi, musim panas. Ini sangat penting untuk komedi romantis sekolah menengah, Anda akhirnya menunggu di musim panas."
+    },
+    {
+      "id": "v4-kata-penutup-afterword-4",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#4",
+      "text": "Saya selalu merasa lebih sengsara di musim ini dibandingkan waktu lainnya—saya sangat membencinya—itu adalah babak yang menyakitkan dan menyedihkan dalam hidup saya. Saya selalu ingin menjadi perwakilan JSDF (Pasukan Pertahanan Terpencil Jepang), jika bisa, tinggal di rumah untuk memastikan rumah saya aman. Bahkan tidak aneh menyebutku seorang prajurit Jepang kuno, yang melindungi wilayah tugasku. Saya akan senang jika mereka memasukkan Jitaku no Moribito: Penjaga Rumah ke dalam seri Moribito. Itulah betapa aku membenci musim panas.",
+      "emphasis": [
+        {
+          "start": 441,
+          "end": 474,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-kata-penutup-afterword-5",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#5",
+      "text": "Maksudku, Hari Laut? Itu hanya diskriminatif. Beberapa orang tidak pergi ke laut pada musim panas. Saya pikir mereka harus mempertimbangkan hal itu dan menjadikan “Hari Rumah” dan menjadikan itu sebagai hari libur nasional. Sebenarnya aku hanya ingin hari libur lagi. Orang-orang berbicara tentang “liburan musim panas” atau apa pun, tetapi orang dewasa tidak memahaminya. Setelah Anda mendapatkan pekerjaan penuh waktu, liburan musim panas hanya tinggal tiga hari. Apakah kamu bercanda? Itu baru hari libur Bon! Dan saya juga sangat bersemangat karenanya! “Waktunya liburan!” kataku. “Aku bisa punya banyak waktu libur! Hore, liburan musim panas! Wataru suka liburan ini!” Saya pantas meminta maaf di sini.",
+      "emphasis": [
+        {
+          "start": 61,
+          "end": 66,
+          "style": "em"
+        },
+        {
+          "start": 191,
+          "end": 194,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-kata-penutup-afterword-6",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#6",
+      "text": "Jadi, ini adalah Jilid 4 dari Komedi Romantis Masa Muda Saya Salah, Seperti yang Saya Perkirakan. Silakan nantikan liburan musim panas Hachiman Hikigaya selengkapnya di buku berikutnya. Di bawah ini adalah ucapan terima kasih saya. Dalam bahasa Inggris, Anda mengucapkan terima kasih khusus, dan dalam bahasa Jerman, uh…danke schoen?",
+      "emphasis": [
+        {
+          "start": 30,
+          "end": 96,
+          "style": "em"
+        },
+        {
+          "start": 271,
+          "end": 290,
+          "style": "em"
+        },
+        {
+          "start": 320,
+          "end": 332,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-kata-penutup-afterword-7",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#7",
+      "text": "Holy Ponkan: Saya menulis buku ini hanya karena saya ingin melihat Anda menggambar pakaian renang untuk buku tersebut. Terima kasih juga untuk buku ilustrasinya. Terima kasih banyak. Baju renangnya terbaik!!"
+    },
+    {
+      "id": "v4-kata-penutup-afterword-8",
+      "kind": "separator",
+      "source": "OEBPS/Text/afterword.xhtml#../Images/Art_1.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v4-kata-penutup-afterword-9",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#9",
+      "text": "Mr. Hoshino, editor saya: kami hanya ngobrol santai tentang pembuatan CD drama atau buku ilustrasi edisi terbatas, lalu Anda mewujudkannya dalam kenyataan. Saya terpesona. Apakah kamu Shenlong atau apa? Terima kasih banyak."
+    },
+    {
+      "id": "v4-kata-penutup-afterword-10",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#10",
+      "text": "Bpk. Kenji Inoue: Terima kasih atas komentar Anda pada bungkus iklan tersebut, meskipun kita belum pernah bertemu. Karena aku kelelahan karena tenggat waktu yang demi tenggat waktu, kata-kata kalian sangat memberi semangat kepadaku."
+    },
+    {
+      "id": "v4-kata-penutup-afterword-11",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#11",
+      "text": "Semua teman penulisku: Terima kasih banyak telah berkumpul bersama ketika aku sedang sibuk minum-minum dan mengarang alibi untukku karena tenggat waktuku semakin dekat."
+    },
+    {
+      "id": "v4-kata-penutup-afterword-12",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#12",
+      "text": "Dan untuk semua pembacaku: Aku merasa bisa terus maju berkat kalian dukungan. Ada masa-masa sulit, tapi saya sangat menyukai pekerjaan ini. Terima kasih, sejujurnya, banyak. Saya harap Anda terus bersama saya."
+    },
+    {
+      "id": "v4-kata-penutup-afterword-13",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#13",
+      "text": "Baiklah, saya rasa sudah cukup. Aku akan meletakkan penaku di sini."
+    },
+    {
+      "id": "v4-kata-penutup-afterword-14",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#14",
+      "text": "Pada suatu hari di bulan Februari, di suatu tempat di Chiba, sambil minum Kopi MAX hangat,"
+    },
+    {
+      "id": "v4-kata-penutup-afterword-15",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#15",
+      "text": "Wataru Watari"
+    }
+  ]
+}

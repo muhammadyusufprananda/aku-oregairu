@@ -1,0 +1,2174 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v6-bab-4-chapter004-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter004.xhtml#1",
+      "headingLevel": 2,
+      "text": "Mendadak, Haruno Yukinoshita menyerang.",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 28,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004.xhtml#../Images/Art_P65.jpg",
+      "src": "assets/chapters/volume-6/bab-4/Art_P65.webp",
+      "width": 199,
+      "height": 415,
+      "text": "Saika versi chibi memakai seragam sekolah."
+    },
+    {
+      "id": "v6-bab-4-chapter004-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#3",
+      "text": "Beberapa hari setelah kunjungan Sagami ke ruang Klub Layanan, panitia diberitahu bahwa Yukinoshita akan mengambil alih jabatan wakil ketua. Sagami membuat pengumuman tersebut di awal pertemuan sehari setelahnya, dan dia terlihat sangat gembira mengenai hal tersebut."
+    },
+    {
+      "id": "v6-bab-4-chapter004-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#4",
+      "text": "Reaksi dari komite kebudayaan secara umum positif. Atsugi sudah mendukungnya sejak awal, dan Meguri sudah mengakui bakat Yukinoshita, jadi tentu saja mereka juga ikut serta. Bisa dibilang orang-orang mempunyai ekspektasi yang tinggi terhadapnya, dan kehadirannya datang di saat yang tepat."
+    },
+    {
+      "id": "v6-bab-4-chapter004-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#5",
+      "text": "Ini berarti salah satu anggota dikeluarkan dari bagianku sendiri, Records dan Miscellaneous, tapi tidak ada banyak pekerjaan yang harus kami lakukan sejak awal. Diputuskan bahwa ini tidak akan menjadi masalah besar. Mungkin aku tidak perlu datang… Pikiran itu terlintas di benak aku sesaat. Tapi karena disingkirkan aku bisa menghindari berpartisipasi dalam permainan kelas. Aku tidak boleh serakah di sini.",
+      "emphasis": [
+        {
+          "start": 216,
+          "end": 247,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#6",
+      "text": "Setelah ditunjuk, Yukinoshita langsung bekerja. Dia mengubah jadwal, menyebarkan informasi tersebut kepada panitia, dan mengatur agar setiap bagian menyajikan laporan kemajuan harian sementara dia memeriksa pekerjaan mereka. Bisnis berjalan dengan lancar."
+    },
+    {
+      "id": "v6-bab-4-chapter004-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#7",
+      "text": "Di timur, Publisitas dan Periklanan khawatir tentang di mana harus memasang poster, tapi Yukinoshita menghitung garis dan volume lalu lintas pejalan kaki di peta dan memberi mereka instruksi. Di barat, Manajemen Relawan berada dalam masalah karena mereka tidak memiliki cukup sukarelawan, jadi dia membuat pertunjukan tersebut menjadi sebuah kontes berhadiah."
+    },
+    {
+      "id": "v6-bab-4-chapter004-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#8",
+      "text": "Minion sepertiku tidak akan tahu banyak tentang urusan jajaran eksekutif, tapi aku tahu kalau Yukinoshita bekerja dengan kecepatan yang luar biasa."
+    },
+    {
+      "id": "v6-bab-4-chapter004-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#9",
+      "text": "Bagaimanapun, meskipun pemberitahuan resmi dikeluarkan atas nama ketua komite, Minami Sagami, mudah untuk melihat bahwa Yukinoshita melakukan hampir semuanya."
+    },
+    {
+      "id": "v6-bab-4-chapter004-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#10",
+      "text": "Sepertinya semuanya berjalan lancar."
+    },
+    {
+      "id": "v6-bab-4-chapter004-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#11",
+      "text": "Sementara itu, kami sedang menjalani banyak pertemuan."
+    },
+    {
+      "id": "v6-bab-4-chapter004-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#12",
+      "text": "Jam empat sore, tepat waktu."
+    },
+    {
+      "id": "v6-bab-4-chapter004-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#13",
+      "text": "Sagami melihat ke arah anggota komite kebudayaan di ruang konferensi dan memulai segalanya. “Baiklah, mari kita mulai rapatnya.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#14",
+      "text": "Semua orang mengucapkan salam resmi secara bersamaan dan membungkuk."
+    },
+    {
+      "id": "v6-bab-4-chapter004-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#15",
+      "text": "Pertama, kami mulai dengan laporan dari setiap bagian."
+    },
+    {
+      "id": "v6-bab-4-chapter004-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#16",
+      "text": "“Oke, Publisitas dan Iklan, silakan,” kata Sagami."
+    },
+    {
+      "id": "v6-bab-4-chapter004-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#17",
+      "text": "Kepala bagian berdiri untuk memberikan laporan kemajuan mereka. “Sejauh ini, kami telah memasang pemberitahuan di sekitar tujuh puluh persen papan buletin yang kami rencanakan, dan sekitar lima puluh persen poster juga telah selesai.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#18",
+      "text": "“Benarkah? Kedengarannya bagus.” Sagami mengangguk puas."
+    },
+    {
+      "id": "v6-bab-4-chapter004-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#19",
+      "text": "Tapi balasan hangatnya diikuti dengan jawaban yang jauh lebih dingin. “Tidak.Ini agak lambat.” Ucapan tak terduga itu menimbulkan keributan di ruangan itu. Namun meski begitu, Yukino Yukinoshita mengabaikan reaksinya dan melanjutkan, dengan nada menuduh. “Festival budayanya tiga minggu lagi. Kalau memperhitungkan waktu yang dibutuhkan para tamu untuk menyesuaikan jadwalnya, itu pasti sudah selesai sekarang. Apakah Anda sudah menegosiasikan penempatan di setiap papan buletin dan mengunggah pemberitahuan ke situs web sekolah?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#20",
+      "text": "“Belum…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#21",
+      "text": "“Tolong cepat. Calon siswa sekolah menengah dan walinya sering memeriksa situs web tersebut.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#22",
+      "text": "“O-oke.” Kepala bagian periklanan kembali tertunduk, kewalahan."
+    },
+    {
+      "id": "v6-bab-4-chapter004-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#23",
+      "text": "Keheningan menyelimuti ruang konferensi. Sagami, yang berada di samping, tampaknya tidak memahami apa yang baru saja terjadi. Dia ternganga melihat Yukinoshita."
+    },
+    {
+      "id": "v6-bab-4-chapter004-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#24",
+      "text": "“Lanjutkan, Sagami,” ajak Yukinoshita, dan akhirnya, rapat dilanjutkan."
+    },
+    {
+      "id": "v6-bab-4-chapter004-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#25",
+      "text": "“Oh, iya. Kalau begitu, Manajemen Relawan, silakan.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#26",
+      "text": "“…Saat ini, kami memiliki sepuluh kelompok sukarelawan yang berpartisipasi,” ketua kelompok mengumumkan dengan ragu-ragu."
+    },
+    {
+      "id": "v6-bab-4-chapter004-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#27",
+      "text": "Sagami sedikit canggung, tapi dia mengangguk. “Lebih banyak lagi yang mendaftar, ya? Itu pasti karena hadiah yang kami tawarkan sekarang. Selanjutnya...”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#28",
+      "text": "“Apakah para sukarelawan itu hanya dari dalam sekolah? Apakah Anda sudah mencari tahu kelompok lokal lainnya? Silakan lihat catatan dari tahun-tahun sebelumnya dan coba hubungi mereka. Jika jalur promosi kami setiap tahun adalah ikatan regional yang kuat, maka kami harus menjaga partisipasi dari kelompok regional tetap tinggi. Selain itu, apakah Anda sudah menjadwalkan semua tahapannya? Seberapa besar apakah kamu memperkirakan penontonnya akan seperti itu? Apakah kamu tahu staf yang kamu perlukan selama pertunjukan? Tolong buatkan jadwalnya dan kirimkan padaku.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#29",
+      "text": "Saat Sagami mencoba untuk melanjutkan, Yukinoshita menekan bagian itu dengan keras. Mereka tidak akan setengah-setengah melakukan apa pun di jam tangannya."
+    },
+    {
+      "id": "v6-bab-4-chapter004-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#30",
+      "text": "Selalu berjalan seperti itu, saat pertemuan beralih ke Kesehatan dan Sanitasi, lalu Akuntansi. Setiap kali, Yukinoshita menanyakan detail dan perintah ke kiri dan ke kanan."
+    },
+    {
+      "id": "v6-bab-4-chapter004-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#31",
+      "text": "“Selanjutnya, Catatan dan Lain-Lain.” Sebelum Anda menyadarinya, dialah yang mengambil kendali rapat."
+    },
+    {
+      "id": "v6-bab-4-chapter004-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#32",
+      "text": "“Tidak ada yang khusus,” kata anak laki-laki yang bertanggung jawab atas Records dan Miscellaneous itu dengan singkat. Sebagian besar pekerjaan kami di bagian ini sebenarnya hanya mengarsipkan hari festival, jadi pada tahap ini, tidak banyak pekerjaan yang harus dilakukan."
+    },
+    {
+      "id": "v6-bab-4-chapter004-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#33",
+      "text": "Sagami, sang ketua, juga memahami hal ini, dan dia mengangguk lalu melihat sekeliling, mencoba mengakhiri pertemuan. “Kalau begitu, itu saja untuk hari ini…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#34",
+      "text": "“Catatan, serahkan jadwal hari acara dan permohonan peralatan. Perlu diingat bahwa kami hanya memiliki akses terhadap peralatan perekam video dalam jumlah terbatas, jadi jika kelompok relawan juga ingin membuat film, mungkin ada konflik jadwal. Silakan berkonsultasi dengan mereka tentang pengiriman peralatan.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#35",
+      "text": "“Oke…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#36",
+      "text": "Meskipun kepala bagian itu adalah siswa kelas tiga dan lebih tua darinya, Yukinoshita tidak menahan diri. Agak menegangkan."
+    },
+    {
+      "id": "v6-bab-4-chapter004-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#37",
+      "text": "Tetapi itu harus berakhir sekarang. Laporan dari setiap bagian sudah selesai. Semua orang bernapas lega dan lelah, namun wakil ketua tidak mengakhiri pertemuan. “Juga…bisakah OSIS mengatur tamu?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#38",
+      "text": "“Ya, kami bisa mengatasinya,” jawab Meguri seketika. Dia masih penuh perhatian."
+    },
+    {
+      "id": "v6-bab-4-chapter004-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#39",
+      "text": "“Baiklah, silakan lakukan. Akan sangat membantu juga jika Anda dapat memperbarui daftar tamu dari tahun lalu dan membawanya ke saya. Selain itu, penerimaan tamu umum adalah tugas Kesehatan dan Sanitasi. Silakan serahkan daftar tamu terlebih dahulu.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#40",
+      "text": "“Baiklah. Roger!” Meguri mengangguk setuju. Kemudian dia mengungkapkan kesannya terhadap situasi tersebut secara singkat. “Wow, kamu luar biasa, Yukinoshita… Seperti yang kamu harapkan dari adik Haru,” dia menambahkan dengan penuh apresiasi."
+    },
+    {
+      "id": "v6-bab-4-chapter004-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#41",
+      "text": "Yukinoshita menanggapinya dengan menunjukkan kesopanan. “…Tidak, itu tidak seberapa.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#42",
+      "text": "Memang benar—Yukinoshita benar-benar menguasai bidangnya. Aku pikir dia juga sangat luar biasa. Namun cara dia melakukan hal ini sangatlah berbahaya."
+    },
+    {
+      "id": "v6-bab-4-chapter004-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#43",
+      "text": "Sekarang setelah masalah tersebut terungkap dalam laporan, ada beberapa diskusi tentang cara menanganinya, dan kemudian kami berbagi informasi tentang jadwal ke depannya. Sebagian besar hal yang harus dibicarakan hari itu telah selesai. Begitu kami bisa merasakan bahwa semuanya sudah berakhir, suasananya menjadi santai. Beberapa orang menggeliat dan mengerang."
+    },
+    {
+      "id": "v6-bab-4-chapter004-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#44",
+      "text": "Yukinoshita tampaknya menyadari bahwa dia telah mencuri peran mengarahkan pertemuan di tengah jalan dan menoleh ke Sagami. “Baiklah, Ketua.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#45",
+      "text": "“Oh ya. Um, kami juga akan mengandalkan Anda lagi besok. Kerja bagus, semuanya.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#46",
+      "text": "Sekarang dibubarkan, semua anggota komite kebudayaan mengucapkan selamat tinggal dan meninggalkan tempat duduk mereka. Aku bisa mendengar mereka mengobrol satu sama lain: Ya ampun, ya ampun, aku lelah, sangat lelah, tapi bukankah itu sesuatu, oh ya, sungguh, aku benar-benar merasa seperti kita sudah bekerja keras.",
+      "emphasis": [
+        {
+          "start": 171,
+          "end": 314,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#47",
+      "text": "Mereka semua memuji bakat Yukinoshita. Dia begitu kuat, begitu mencolok, sehingga beberapa pembuat rumor yang tidak bijaksana bahkan berkomentar bahwa mereka tidak tahu yang mana kursinya. Beberapa anggota OSIS, khususnya, bahkan menyebut dia sebagai calon ketua OSIS berikutnya. Seperti yang diharapkan dari Yukino Yukinoshita."
+    },
+    {
+      "id": "v6-bab-4-chapter004-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#48",
+      "text": "Orang yang berada di posisi terberat di sini tidak diragukan lagi adalah Sagami."
+    },
+    {
+      "id": "v6-bab-4-chapter004-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#49",
+      "text": "Mereka cukup mirip untuk dibandingkan. Kedua gadis itu adalah siswa kelas dua, tapi salah satu dari mereka baru saja mengambil kendali pertemuan. Salah satu dari mereka tertinggal, sementara yang lain telah menunjukkan bahwa dia bahkan bisa mengimbangi yang pertama."
+    },
+    {
+      "id": "v6-bab-4-chapter004-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#50",
+      "text": "Jika Yukinoshita melatih kemampuannya secara mandiri, lain ceritanya. Tapi sekarang Sagami dan Yukinoshita berada di posisi yang sebanding, perbedaan antara keduanya menjadi jelas. Hal ini jelas bagi semua orang, dan memuji Yukinoshita adalah bentuk penghinaan terhadap Sagami."
+    },
+    {
+      "id": "v6-bab-4-chapter004-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#51",
+      "text": "Saat Yukinoshita tetap tinggal di belakang untuk menangani beberapa tugas, aku melihat Sagami praktis melarikan diri bersama kedua temannya."
+    },
+    {
+      "id": "v6-bab-4-chapter004-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#52",
+      "text": "Sekarang setelah arahan dari komite kebudayaan ditetapkan, operasionalnya pasti menjadi lebih efisien. Metode kerja Yukinoshita patut dipuji."
+    },
+    {
+      "id": "v6-bab-4-chapter004-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#53",
+      "text": "Tapi apakah Yukinoshita sadar...dia tidak menyelamatkan siapa pun atau apa pun?"
+    },
+    {
+      "id": "v6-bab-4-chapter004-54",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter004.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v6-bab-4-chapter004-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#55",
+      "text": "Sepulang sekolah pada hari setelah Yukinoshita mengamuk—eh, tampil luar biasa di rapat komite kebudayaan, Hina Ebina tampil luar biasa—eh, mengamuk di ruang kelas 2-F."
+    },
+    {
+      "id": "v6-bab-4-chapter004-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#56",
+      "text": "“Tidaaaak! Saat kamu melepas dasi pebisnis, kamu harus lebih menggoda! Menurutmu jas itu untuk apa?!”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#57",
+      "text": "Apa gunanya kamu Menurutmu setelan itu untuk apa?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 11,
+          "style": "em"
+        },
+        {
+          "start": 17,
+          "end": 49,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#58",
+      "text": "Pelatihan akting Ebina yang penuh semangat membuat anak-anak menangis."
+    },
+    {
+      "id": "v6-bab-4-chapter004-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#59",
+      "text": "Tetapi tidak semua anak laki-laki berkubang dalam kesengsaraan. Beberapa dari mereka menerima perlakuan yang cukup baik."
+    },
+    {
+      "id": "v6-bab-4-chapter004-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#60",
+      "text": "“Um, bukankah ini sudah cukup?” Ucap Hayama, dengan nada malu-malu saat gadis-gadis mengelilinginya."
+    },
+    {
+      "id": "v6-bab-4-chapter004-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#61",
+      "text": "“Tidak terlalu jauh!”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#62",
+      "text": "“Kami baru saja mulai!” Sekelompok gadis menembaknya dengan gembira."
+    },
+    {
+      "id": "v6-bab-4-chapter004-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#63",
+      "text": "Para pemain sedang berlatih tata rias melalui banyak percobaan dan kesalahan dalam persiapan pertunjukan. Aku juga bisa melihat Sagami di antara mereka… Yah, masih ada waktu sampai rapat komite."
+    },
+    {
+      "id": "v6-bab-4-chapter004-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#64",
+      "text": "Totsuka juga memiliki tiga gadis yang ditugaskan kepadanya untuk tata rambut dan tata rias, dan dia benar-benar ketakutan."
+    },
+    {
+      "id": "v6-bab-4-chapter004-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#65",
+      "text": "“Totsuka, kulitmu cantik sekali!”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#66",
+      "text": "“Iya, cocok untuk riasan.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#67",
+      "text": "“U-um…ini hanya latihan, jadi kamu tidak perlu memakai terlalu banyak…” Totsuka berusaha menolaknya dengan sangat halus, tapi keimutannya menjadi bumerang."
+    },
+    {
+      "id": "v6-bab-4-chapter004-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#68",
+      "text": "“Kita harus berlatih juga!”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#69",
+      "text": "“Benar!” Tampaknya hal itu hanya menyulut antusiasme para gadis."
+    },
+    {
+      "id": "v6-bab-4-chapter004-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#70",
+      "text": "Dia semakin menyusut ke dalam dirinya sendiri. “Y-ya... aku—aku mengerti. Latihan itu penting... ya?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#71",
+      "text": "Aku merasa sedikit kasihan pada Totsuka yang dia layu, tapi membayangkan dia menjadi lebih manis melemahkan tekadku, dan aku tidak bisa memaksa diriku untuk menghentikannya."
+    },
+    {
+      "id": "v6-bab-4-chapter004-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#72",
+      "text": "Tapi tetap saja, tim tata rias sedang merawatnya. orang-orang tertentu sangat berbeda dari orang lain. Tobe dan Ooka telah dihabisi hanya dalam waktu lima menit. Dan tidak ada seorang pun yang mau menangani ketua kelas sama sekali, jadi dia kebanyakan melakukannya sendiri. Lebih buruk lagi, dia telah melakukan pekerjaan dengan baik, yang membuat gadis-gadis itu bertanya-tanya dengan curiga bagaimana dia tahu begitu banyak tentang hal itu…"
+    },
+    {
+      "id": "v6-bab-4-chapter004-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#73",
+      "text": "Aku bukan satu-satunya yang mengamati kejadian tersebut. Miura sedang memperhatikan Hayama dan yang lainnya ketika dia sepertinya mendapat ide. “Jadi, apa yang kita lakukan dengan foto-foto itu? Kita butuh poster, kan?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#74",
+      "text": "Ebina mendengar dia bergumam dan datang untuk memberinya acungan jempol yang antusias. “Bagus, Yumiko! Ya! Saat kamu menampilkan musikal yang menyentuh hati, mengunggah gambar karakter akan menghasilkan banyak perhatian. Penting untuk menyebarkan informasi pemeran dengan hati-hati. Kami sedikit menyimpang dari materi sumber dengan Hoshimyu, jadi kami mendorong kekuatan bintang sebagai gantinya!”",
+      "emphasis": [
+        {
+          "start": 333,
+          "end": 341,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#75",
+      "text": "Apa-apaan itu Singkatan Hoshimyu? Dan tunggu, apa urusanmu di sini?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 13,
+          "style": "em"
+        },
+        {
+          "start": 32,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#76",
+      "text": "Percakapan Miura dan Ebina membawa kelas ke topik lain. “Bagaimana dengan kostumnya? Apakah kita menyewanya?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#77",
+      "text": "“Tetapi jika kita menyewa, kita mungkin akan mengotorinya...” Gadis-gadis hmmbingung dalam mengambil keputusan.",
+      "emphasis": [
+        {
+          "start": 74,
+          "end": 77,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#78",
+      "text": "Sekali lagi, Ebina ikut campur. “Tidak, tidak. Paling tidak, Pangeran mempunyai sesuatu yang sangat spesifik gambarnya, jadi kita tidak bisa menggunakan kostum lain. Untuk yang lain… Ya, kita bisa meminjam itu.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#79",
+      "text": "“Apa masalahnya? Banyak orang yang belum pernah melihat gambarnya sebelumnya.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#80",
+      "text": "“Apakah Anda meremehkan penggemar karya aslinya?! terlupakan?!” Ebina memekik dramatis."
+    },
+    {
+      "id": "v6-bab-4-chapter004-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#81",
+      "text": "Kali ini, sebuah suara muncul dari arah yang berbeda. “Hmm, aku tidak tahu apakah kami bisa menyewa kostum. Kami hampir tidak punya anggaran. Sejujurnya, aku ingin menghabiskan uang itu untuk hal lain...” Yuigahama menggaruk kepalanya dengan pulpen sambil memasukkan beberapa angka ke dalam kalkulatornya dan menulis sesuatu di buku catatannya. Kamu terlihat seperti ibu rumah tangga di sana.",
+      "emphasis": [
+        {
+          "start": 345,
+          "end": 392,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#82",
+      "text": "“Mengapa kita tidak membuatnya saja?” Ratu menunjuk ke sebuah jarum."
+    },
+    {
+      "id": "v6-bab-4-chapter004-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#83",
+      "text": "Maka rakyat jelata mulai mempertimbangkan ide tersebut. “Apakah ada yang bisa menjahit?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#84",
+      "text": "“Tapi aku hanya pernah melakukannya di kelas…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#85",
+      "text": "Hah. Ada keseimbangan yang baik dalam cara mereka menangani hal ini. Aku sedang berdiri di dekat jendela sambil mengagumi pemandangan ketika aku melihat ekor kuda kebiruan di bidang penglihatan aku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 68,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#86",
+      "text": "Itu adalah Kawagoe…Aku rasa namanya adalah. Kawashima melirik penuh rasa ingin tahu pada percakapan gadis-gadis lain. Hal itu agak mengejutkan. Shimazaki adalah orang terakhir yang kukira akan tertarik dengan hal ini. Penasaran, aku memandang Okazaki lebih dekat. Dia sepertinya bereaksi terhadap kata-kata seperti membuat, pakaian, dan menjahit. Itu tidak seperti Okajima, pikirku sebelum aku memanggilnya.",
+      "emphasis": [
+        {
+          "start": 315,
+          "end": 322,
+          "style": "em"
+        },
+        {
+          "start": 324,
+          "end": 331,
+          "style": "em"
+        },
+        {
+          "start": 337,
+          "end": 345,
+          "style": "em"
+        },
+        {
+          "start": 347,
+          "end": 372,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#87",
+      "text": "Karena tidak bisa hanya berdiri di sana dan menonton, aku berkata, “Hei, jika kamu ingin melakukannya, menurutku kamu bisa bilang begitu saja.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#88",
+      "text": "“A-apa yang kamu bicarakan?! Bukannya aku ingin melakukannya!” Kawasaki melompat dari kursinya."
+    },
+    {
+      "id": "v6-bab-4-chapter004-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#89",
+      "text": "…Benar. Jawaban yang benar adalah Kawasaki. Okajima salah paham, bukan?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 71,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#90",
+      "text": "Bagus kalau aku mendapat jawaban yang benar, tapi tak peduli apa yang kukatakan, aku yakin dia pasti bertekad untuk menyangkalnya. Jadi, sebaiknya lakukan pendekatan ini secara tidak langsung."
+    },
+    {
+      "id": "v6-bab-4-chapter004-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#91",
+      "text": "“Hei, Yuigahama,” seruku."
+    },
+    {
+      "id": "v6-bab-4-chapter004-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#92",
+      "text": "“Ack! Tunggu sebentar!” Kawasaki menarik lengan bajuku, memohon agar aku berhenti. Namun, dia mungkin seharusnya berhenti demi kebaikannya sendiri; reaksi seperti itu cenderung membuat aku kesal."
+    },
+    {
+      "id": "v6-bab-4-chapter004-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#93",
+      "text": "“Apa?” Yuigahama menyelipkan pena merahnya ke belakang telinganya dan mendekat."
+    },
+    {
+      "id": "v6-bab-4-chapter004-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#94",
+      "text": "Apakah kamu seorang pria paruh baya yang sedang berada di arena pacuan kuda? Ayolah. “Kawasaki bilang dia ingin melakukannya.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 84,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#95",
+      "text": "“A-apa?! A-apa yang kamu bicarakan?! Aku tidak bisa! Tidak mungkin aku bisa melakukan hal semewah itu! Aku belum pernah mengenakan pakaian atau apa pun… Um, aku hanya akan menimbulkan masalah…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#96",
+      "text": "Jadi maksudnya dia membuat sesuatu yang lain?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#97",
+      "text": "Yuigahama menatap Kawasaki lama-lama dan menilai sambil mempertimbangkan kemungkinan tersebut. Karena merasa tidak nyaman, Kawasaki memutar tubuhnya yang tinggi dan ramping untuk menjadi sekecil mungkin. Mata Yuigahama terpaku pada satu titik. “Hei, apakah scrunchie itu buatan tangan?” dia bertanya."
+    },
+    {
+      "id": "v6-bab-4-chapter004-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#98",
+      "text": "Kawasaki mengangguk."
+    },
+    {
+      "id": "v6-bab-4-chapter004-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#99",
+      "text": "“Bolehkah saya melihat sebentar?” Tidak lama setelah Yuigahama mengatakannya, dia langsung meraih kuncir kuda Kawasaki. Rambutnya berkibar ke bawah dan menyebar di bahunya. Yuigahama mengamati ikat pinggang di tangannya dan ohhh menghargainya. Bola kecil dari kain itu mengingatkan kita pada pakaian dalam. Itu membuat jantungku berdebar kencang.",
+      "emphasis": [
+        {
+          "start": 224,
+          "end": 228,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#100",
+      "text": "“Hina. Kemarilah sebentar,” seru Yuigahama."
+    },
+    {
+      "id": "v6-bab-4-chapter004-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#101",
+      "text": "“Ayo!” Ebina melompat mendekat dan mengamati scrunchie itu dengan penuh minat."
+    },
+    {
+      "id": "v6-bab-4-chapter004-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#102",
+      "text": "“Itu…dijahit dengan tangan… Tapi aku juga membuatnya dengan mesin jahit,” kata Kawasaki, dan dia mengeluarkan scrunchie lainnya dari sakunya. Itu juga seperti pakaian dalam."
+    },
+    {
+      "id": "v6-bab-4-chapter004-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#103",
+      "text": "“Hmm, hmm… Jahitannya rapi, dan warnanya lucu…dan kamu bisa menjahit dengan tangan dan menggunakan mesin… Aku menyukainya! Kawasaki-san, aku memilihmu! Kami mengandalkanmu untuk kostum itu!”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#104",
+      "text": "“Hah? Hei, kamu tidak bisa begitu saja…” Saat Kawasaki mengikat rambutnya lagi, dia tampak gelisah dan malu atas permintaan Ebina yang sangat biasa-biasa saja."
+    },
+    {
+      "id": "v6-bab-4-chapter004-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#105",
+      "text": "Yuigahama turun tangan. “Hei, hei, Hina serius soal ini, Kawasaki. Kamu sudah mengganti seragammu, kan, seperti blus dan sejenisnya? Menurutku dia mungkin memilihmu karena dia tahu itu.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#106",
+      "text": "…Seperti yang diharapkan dari Yuigahama. Dia sangat perhatian pada orang lain."
+    },
+    {
+      "id": "v6-bab-4-chapter004-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#107",
+      "text": "“Oh ya, ya?” Kawasaki menjawab dengan samar, tersipu dan sedikit bingung. Dia mungkin terkejut dan tersanjung karena mereka mengetahui detail kecil seperti itu."
+    },
+    {
+      "id": "v6-bab-4-chapter004-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#108",
+      "text": "“Tepat sekali! Ada ideologi dan seni dalam menggunakan sumber daya yang terbatas untuk mendapatkan hasil yang maksimal. Itu sebabnya menurut saya kami dapat membiarkan Anda menangani hal ini. Jika terjadi sesuatu, saya akan bertanggung jawab!” Ebina memukul dadanya seolah berkata, Serahkan padaku! Sungguh membingungkan betapa normalnya Ebina, dengan caranya sendiri. Kadang-kadang, aku curiga dia hanya menyembunyikan kelihaiannya dan sering melakukan tindakan itu.",
+      "emphasis": [
+        {
+          "start": 282,
+          "end": 298,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#109",
+      "text": "“Jika itu yang kamu maksud, maka…aku akan melakukannya…” Wajah Kawasaki yang merah padam menghadap ke lantai."
+    },
+    {
+      "id": "v6-bab-4-chapter004-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#110",
+      "text": "Ebina memegang erat bahunya. “Ya, aku akan mengandalkanmu. Oh, dan lakukan beberapa perubahan pada kostum Narator juga. Buatlah agak kotor. Buatlah noda—yang tidak akan hilang.” Tidak ada sedikitpun kelihaian dalam hal itu."
+    },
+    {
+      "id": "v6-bab-4-chapter004_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_a.xhtml#../Images/Art_P74.jpg",
+      "src": "assets/chapters/volume-6/bab-4/Art_P74.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yui dan Yukino berbicara di ruang kelas."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#0",
+      "text": "Sebenarnya, aku sama sekali tidak memahaminya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 46,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#1",
+      "text": "Aku memperhatikan bahwa hal-hal yang berhubungan dengan kostum sudah mulai dimulai, dan sekarang semakin sedikit pekerjaan nyata yang harus aku lakukan. Setiap orang terlibat dalam perannya masing-masing."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#2",
+      "text": "Aku memang memiliki peran, kurang lebih, sesuatu yang tidak ingin dilakukan oleh siapa pun: pengorbanan kepada komite kebudayaan. Jadi ayo kita selesaikan.",
+      "emphasis": [
+        {
+          "start": 130,
+          "end": 155,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#3",
+      "text": "Yuigahama menyadari aku hendak keluar kelas, jadi dia melihat sekeliling dan memanggil Sagami. “Sagamin, kamu nggak usah ke panitia?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#4",
+      "text": "“Hah? Iya nggak apa-apa.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#5",
+      "text": "“Tapi…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#6",
+      "text": "“Oh…aku nggak bisa bantu banget banyak, dan menurutku aku hanya akan menghalangimu, tahu?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#7",
+      "text": "“Itu tidak benar. Sepertinya mereka punya banyak pekerjaan yang harus diselesaikan, jadi mungkin ada baiknya untuk meringankan sebagian beban tersebut.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#8",
+      "text": "“Tidak apa-apa, tidak apa-apa. Yukinoshita sangat bisa diandalkan. Selain itu, sebagian pekerjaanku adalah menulis proposal acara untuk kelas.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#9",
+      "text": "Aku diam-diam menutup pintu percakapan di belakangku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#10",
+      "text": "Tepat setelah meninggalkan kelas, aku bertemu Hayama. “Pergi ke komite kebudayaan sekarang?” dia bertanya. Dia sedang menggosok wajahnya dengan handuk untuk menghilangkan riasan. Dia pasti pergi ke kamar mandi untuk mencucinya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#11",
+      "text": "“…Ya.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#12",
+      "text": "“Baiklah. Kurasa aku akan pergi bersamamu.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#13",
+      "text": "“…?” Aku bertanya dengan ekspresiku sendiri. Mengapa? Apa yang kamu bicarakan? Maksudku, tidak apa-apa kalau kamu datang, tapi kita tidak harus pergi bersama, kan? Maksudku, kamu tidak perlu pergi sama sekali. Jelaskan saja ya?",
+      "emphasis": [
+        {
+          "start": 45,
+          "end": 227,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#14",
+      "text": "Hayama tersenyum. “Saya melamar ke kelompok sukarelawan. Saya akan mengambil dokumennya.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#15",
+      "text": "“Oh, saya mengerti.” Itu adalah alasan yang sangat mirip dengan Hayama. Dia sangat sadar betapa besar perhatian yang akan dia tarik. Tentu saja, sebagai orang seperti itu, dia juga akan diminati untuk menghadiri festival budaya ini, dan dia berusaha memenuhi ekspektasi tersebut sebaik mungkin."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#16",
+      "text": "Hayama tidak bertanya atau mengatakan apa pun lagi saat kami berjalan meninggalkan ruang kelas. Aku merasa seperti ada yang menatap ke belakangku, tapi itu mungkin hanya imajinasiku saja. Benar, Ebina?"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-17",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter004_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#18",
+      "text": "Aku meninggalkan kelas dan menuju ruang konferensi. Tidak ada pertemuan, tapi aku kecewa karena aku punya Catatan dan Pekerjaan lain-lain yang harus diselesaikan."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#19",
+      "text": "Yang lebih mengecewakan adalah kenyataan bahwa aku bersama Hayama."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#20",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#21",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#22",
+      "text": "Tak satu pun dari kami yang banyak bicara."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#23",
+      "text": "Dia mungkin menangkap aura “jangan bicara padaku”, dan inilah caranya mengakomodasiku. Aku meliriknya dari sudut mataku, tapi dia tidak bersikap bosan atau canggung. Dia tampak sangat normal. Dia bersenandung dengan santai, seolah-olah dia tidak terlalu mengkhawatirkanku sama sekali. Benar-benar tidak terpengaruh."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#24",
+      "text": "Bagiku, aku cukup gelisah."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#25",
+      "text": "Sekarang aku sadar betapa aku sendirian bersama Hayama, aku teringat perkemahan musim panas di Desa Chiba, dan ucapan dinginnya dari malam itu di kabin yang gelap. Memikirkan bagaimana perasaan Hayato Hayama seperti itu membuatku merinding. Bukannya aku takut padanya. Yang membuatku takut adalah dia hidup dengan emosi itu. Bahkan Hayama yang sempurna dan sukses, dicintai oleh semua orang sebagai pria baik yang tak terbantahkan."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#26",
+      "text": "Diam sepanjang waktu, kami berbelok di sudut lorong."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#27",
+      "text": "Saat kami sampai di pintu ruang konferensi, aku bisa melihat beberapa orang di dalam. Apakah ada kejadian atau apa? Namun insiden tidak terjadi di ruang konferensi. Itu terjadi di tempat kejadian."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#28",
+      "text": "“Ada apa?” Hayama bertanya dengan santai."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#29",
+      "text": "Seorang gadis berbalik dengan sedikit kesal, tapi ketika dia melihat itu adalah Hayama, dia memulai penjelasannya dengan cemas “Um…” Hei. Kenapa wajahmu memerah?",
+      "emphasis": [
+        {
+          "start": 133,
+          "end": 161,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#30",
+      "text": "Saat gadis pemalu ini mulai berbicara, sepertinya kami akan berada di sini untuk sementara waktu. Akan jauh lebih cepat bagiku untuk melihat diriku sendiri daripada mendengarkan dia. Aku menyentuh pegangan pintu, dan orang-orang di sekitar membiarkan aku lewat."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#31",
+      "text": "Begitu pintu terbuka, aku langsung menyesalinya. Yang terbaik adalah mengikuti penilaian massa."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#32",
+      "text": "Ruang konferensi praktis dipenuhi ketegangan. Beberapa orang bergeser ke sudut untuk membentuk galeri. Ada tiga orang yang berdiri di tengah:"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#33",
+      "text": "Yukino Yukinoshita."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#34",
+      "text": "Meguri Shiromeguri."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#35",
+      "text": "Haruno Yukinoshita."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#36",
+      "text": "Yukinoshita dan Haruno berdiri terpisah sekitar tiga langkah, saling berhadapan. Meguri gelisah di belakang Haruno, bingung."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#37",
+      "text": "“Untuk apa kamu datang ke sini, Haruno?” Yukinoshita menuntut seperti seorang pengacara yang memeriksa silang adiknya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#38",
+      "text": "“Ah, aku datang sebagai OG dari orkestra sekolah, karena aku mendapat pemberitahuan bahwa kamu sedang mencari kelompok sukarelawan.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#39",
+      "text": "OG… Untuk sesaat, aku pikir dia sedang berbicara tentang robot super, tapi itu mungkin bukan itu. Jadi kupikir dia mungkin akan mengungkapkan sejarahnya dengan geng, tapi ternyata tidak juga. Menurutku itu singkatan dari Gadis Tua? Hei, berhentilah memfitnah Bu Hiratsuka!",
+      "emphasis": [
+        {
+          "start": 221,
+          "end": 230,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#40",
+      "text": "Saat itulah Meguri turun tangan. “M-maaf, akulah yang menelponnya. Aku kebetulan bertemu dengannya di kota, lalu, tahukah kamu, kita sudah lama tidak bertemu, jadi kita membicarakan banyak hal, dan kita tidak punya cukup kelompok relawan, jadi aku bertanya-tanya apakah mungkin...”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#41",
+      "text": "Tidak ada yang “terjadi” begitu saja dengan Haruno Yukinoshita. Dia hanya membuatnya tampak seperti itu, itulah sebabnya dia menakutkan."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#42",
+      "text": "“Kamu belum masuk sekolah ini, Yukinoshita, jadi kamu mungkin tidak tahu, tapi ketika Haru berada di tahun ketiga, dia menjadi sukarelawan di sebuah band. Benar-benar luar biasa! Jadi aku berharap mungkin...” Meguri menatap Yukinoshita dengan pandangan ragu-ragu dan memohon. Mungkin?",
+      "emphasis": [
+        {
+          "start": 276,
+          "end": 284,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#43",
+      "text": "“Aku tahu…karena aku melihatnya. Tapi…” Yukinoshita mengertakkan giginya keras-keras dan menunduk ke lantai. Keheningan terjadi saat dia mengabaikan permintaan diam Meguri."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#44",
+      "text": "Kemudian Haruno menyela sambil tertawa malu. “Ah-ha-ha! Oh, tidak, Meguri, itu hanya untuk bersenang-senang. Tapi tahun ini, aku berencana untuk melakukan sesuatu yang lebih serius. Aku berharap kamu bisa membiarkan kami berlatih di sekolah sebentar... Jadi tidak apa-apa, kan, Yukino-chan? Jika kamu tidak punya cukup sukarelawan.” Haruno melingkarkan tangannya di bahu Yukinoshita untuk mengukurnya. “Aku hanya ingin melakukan apa yang aku bisa demi adik perempuanku yang menggemaskan!”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#45",
+      "text": "“Jangan beri aku itu… Pertama-tama, kamu—” Yukinoshita menepis tangan Haruno, mundur selangkah dengan tatapan tajam."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#46",
+      "text": "“Aku apa?” Haruno balas menatap, tidak mengalihkan pandangannya. Dia mempunyai senyum manis di wajahnya, tapi entah kenapa, hanya dengan melihatnya saja sudah membuat lututku terasa lemas."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#47",
+      "text": "“Kau…melakukannya lagi…” Yukinoshita menggigit bibirnya karena frustrasi dan dengan lembut memalingkan wajahnya. Kebetulan matanya bertemu dengan mataku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#48",
+      "text": "“…” Kami berdua diam-diam menunduk. Kami mungkin berdua fokus pada titik yang sama di lantai."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#49",
+      "text": "“Hah? Ini Hikigaya! Yahallooo!” Menyadariku, Haruno menyapaku dengan semangat yang sangat tidak sesuai dengan suasana hatinya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#50",
+      "text": "Ada apa dengan sapaan itu? Apakah ini akhir abad ini?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 53,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#51",
+      "text": "“Haruno…” Hayama mengikutiku ke dalam ruangan dan berdiri di sampingku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#52",
+      "text": "“Hei, Hayato.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#53",
+      "text": "Haruno mengangkat tangannya dengan santai, dan Hayama menjawab dengan anggukan santai."
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#54",
+      "text": "“Apa yang terjadi?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#55",
+      "text": "“Aku sedang berpikir untuk tampil dengan orkestra sukarelawan. Aku sudah memikirkannya. akan menarik jika mengumpulkan banyak alumni untuk itu. Bukankah itu terdengar menyenangkan?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_b-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#56",
+      "text": "“Baru saja bergabung lagi, Haruno?” Hayama menghela napas. Aku tahu mereka kenal, tapi ini aneh. Mungkin karena cara dia berbicara dengannya. Dasar nama depan, ya…?",
+      "emphasis": [
+        {
+          "start": 142,
+          "end": 164,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P79.jpg",
+      "src": "assets/chapters/volume-6/bab-4/Art_P79.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Hachiman dan Hayato berbicara."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#0",
+      "text": "Aku melihat ke antara mereka berdua, sampai Haruno menyadarinya dan menyeringai. “Hmm? Oh, Hayato sudah seperti adik bagiku. Kita sudah saling kenal sejak lama. Jika kamu mau, kamu juga bisa berbicara denganku secara informal, Hikigaya. Bagaimana kalau aku memanggilmu Hachiman saja?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#1",
+      "text": "“Ah-ha-ha.” Aku menolak dengan tawa kering. Aku sangat senang jika dia tidak mau. Satu-satunya orang yang diperbolehkan memanggilku Hachiman hanyalah orang tuaku dan Totsuka."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#2",
+      "text": "Gurauan kecil itu pasti membuatnya puas, dan dia mengembalikan pandangannya ke Yukinoshita. “Hei, Yukino-chan, aku bisa tampil, kan?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#3",
+      "text": "“Lakukan sesukamu… Lagipula, itu bukan keputusanku.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#4",
+      "text": "“Hah? Bukan? Aku pikir pasti kamu yang akan menjadi ketuanya. Tidak ada yang merekomendasikanmu untuk itu?” Dia telah direkomendasikan dengan keras untuk hal itu, dan menjadi adik perempuan Haruno Yukinoshita adalah salah satu alasannya juga. Haruno terkekeh seolah dia sudah mengetahui semuanya. Yukinoshita memalingkan wajahnya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#5",
+      "text": "“Jadi siapa ketua panitianya? Meguri…adalah siswa tahun ketiga, jadi bukan dia. Hikigaya?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#6",
+      "text": "Jika itu hanya lelucon, aku tidak tertawa. Aku mengangkat bahu, dan sikapku membuat jawabannya menjadi jelas.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#7",
+      "text": "Anehnya suasana menjadi tegang ketika seseorang membuka pintu ruang konferensi begitu saja. “Maaf! Aku pergi memeriksa kelas tapi akhirnya terlambat!” Minami Sagami sama sekali tidak tampak khawatir."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#8",
+      "text": "Yah, tidak ada rapat status hari ini, dan sebagian besar pekerjaan berjalan lebih cepat dari jadwal. Aku bisa mengerti kenapa dia membiarkan semuanya santai."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#9",
+      "text": "“Haru, ini ketua panitia,” kata Meguri, dan mata Haruno terfokus pada Sagami."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#10",
+      "text": "Tatapan itu lagi. Mata yang tajam, dingin, dan jahat itu, seolah dia mengukur nilaimu."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#11",
+      "text": "“…Oh, aku Minami Sagami.” Suaranya melemah, diliputi oleh kilatan mata Haruno."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#12",
+      "text": "“Hmm…” Haruno sepertinya tidak tertarik sama sekali, tapi dia menghela napas kecil dan melangkah mendekat. “Ketua Komite Festival Kebudayaan terlambat? Karena dia sedang memeriksa kelasnya? Hah...” Nada suaranya menakutkan. Itu seperti suara rendah dan diktator yang keluar dari inti tubuhnya, dan meresap ke setiap inci Sagami. Beberapa saat yang lalu, Haruno bertingkah begitu ceria, sehingga penampilannya yang sedingin es menjadi lebih buruk. Inilah yang membuat Haruno lebih menakutkan daripada Yukinoshita, dan bagian yang paling menakutkan adalah bagaimana dia tidak menyembunyikan perasaan gelapnya. Sikap itu memberitahumu bahwa selama kamu tunduk padanya, dia akan mendekatimu dengan ramah, tapi jika kamu menentangnya, dia tanpa ampun akan membantaimu dengan tangan kosong."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#13",
+      "text": "“Uh, um...” Sementara Sagami mati-matian mencari alasan, Haruno tiba-tiba tersenyum."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#14",
+      "text": "“Itulah yang kamu perlukan di kursi! Kamu harus menikmati festival budaya semaksimal mungkin! Aku menyukaimu! Aku menyukai kamu! Um, itu sesuatu-mi, kan? Amagami? Baiklah, terserah. Aku akan memanggilmu Ketua.”",
+      "emphasis": [
+        {
+          "start": 114,
+          "end": 122,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#15",
+      "text": "“Te-terima kasih banyak...” Sagami tetap menjaga ekspresinya tetap ceria, meskipun dia bingung dengan perubahan wajah Haruno. Ini mungkin pertama kalinya dia mendapat persetujuan sejak dia datang ke sini."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#16",
+      "text": "Saat Sagami tersipu, Haruno melanjutkan. “Jadi aku punya permintaan untukmu, Ketua. Kamu tahu, aku juga ingin bergabung dalam acara ini, dengan kelompok sukarelawan. Aku mencoba bertanya pada Yukino-chan, tapi sepertinya dia tidak tertarik. Dia tidak begitu menyukaiku...” Dia terisak dengan menyedihkan. Dia bersikap begitu jelas hingga terlihat memaksa, tapi juga manis di saat yang bersamaan. Aku tidak sanggup mengkritiknya karena hal itu."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#17",
+      "text": "“Hah…?” Sagami melihat ke arah Yukinoshita. Ekspresi marah Yukinoshita tetap terlihat jelas. Dia juga tidak melihat ke arah Sagami."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#18",
+      "text": "“…Tentu,” kata Sagami. “Kami tidak memiliki cukup dana, dan jika kami mendapatkan beberapa alumni yang berpartisipasi, kami dapat menekankan hubungan regional? Dan sebagainya.” Aku merasa dia hanya menirukan apa yang telah dia dengar, tapi Sagami bertindak seolah itu adalah idenya sendiri."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#19",
+      "text": "“Yeeek! Terima kasih!” Haruno memberi Sagami pelukan cepat dan terkesan dipaksakan. Namun dia langsung mundur dan kemudian bergumam dengan tatapan jauh di matanya, “Ya, ya, sungguh luar biasa memiliki almamater yang bisa kamu ikuti kembali, bahkan setelah lulus. Aku juga harus memberi tahu semua temanku. Mereka semua pasti iri.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#20",
+      "text": "“Benarkah?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#21",
+      "text": "“Ya. Terkadang, kamu benar-benar ingin kembali...dan ini juga berlaku untukku,” kata Haruno."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#22",
+      "text": "Untuk sesaat, Sagami mengambil pose termenung saat Hayama dan Yukinoshita menghela napas pendek dan pasrah. Jika Sagami menyadarinya, dia tidak memberikan indikasi bahwa dia melakukannya sambil bertepuk tangan. “...Benarkah? Oh, lalu kenapa teman-teman itu tidak ikut bergabung juga?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#23",
+      "text": "“Oh, ide bagus! Haruskah aku segera menghubungi mereka?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#24",
+      "text": "“Silakan, silakan,” kata Sagami, dan seketika itu, Haruno dengan riang mulai menekan nomor di ponselnya, dengan satu tangan."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#25",
+      "text": "Terlihat panik, Yukinoshita datang untuk menghentikannya. “Tunggu, Sagami.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#26",
+      "text": "Tetapi Sagami dengan polosnya bertanya, “Kenapa tidak? Kami sebenarnya kekurangan kelompok sukarelawan. Dan ini mencakup hal 'ikatan regional', kan?” Sagami menikmati kemenangannya. Tapi apakah dia menyadari bahwa Haruno Yukinoshita-lah yang telah membawanya ke hampir semua elemen rencana itu?"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#27",
+      "text": "“Lagipula, aku tidak tahu apa yang terjadi denganmu dan adikmu, tapi itu tidak ada hubungannya dengan ini, kan?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#28",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#29",
+      "text": "Siapa pun yang pernah melihat percakapan antara Yukinoshita dan Haruno pasti tahu bahwa mereka tidak akur. Sagami mengucapkan hal itu dengan penuh kesadaran akan hal itu, sehingga Yukinoshita tidak bisa berkata apa-apa lagi. Sagami tersenyum penuh kemenangan, setelah berhasil mengalahkan Yukinoshita untuk pertama kalinya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#30",
+      "text": "“Lihat itu akan terjadi…,” kata Hayama singkat."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#31",
+      "text": "Komentarnya yang serba tahu membuatku sedikit penasaran. Aku diam-diam meliriknya untuk mengetahui detailnya, tapi entah disengaja atau tidak, Hayama tidak menyinggungnya lebih jauh."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#32",
+      "text": "“Aku akan mengambil dokumen-dokumen ini dan pergi.” Dan begitu saja, Hayama meninggalkan ruang konferensi."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#33",
+      "text": "Satu-satunya benda asing yang tersisa di komite kebudayaan adalah Haruno Yukinoshita. Setelah dia selesai dengan panggilan teleponnya, dia mengambil satu set kertas lamaran sukarelawan dan kemudian memulai percakapan mendalam dengan Meguri, Sagami, dan teman-teman mereka."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#34",
+      "text": "Haruno secara teknis tidak menghalangi, tapi karena dia sangat menonjol, kehadirannya membuat komite kebudayaan gelisah. Tentu saja, mereka semua memperhatikan setiap gerakannya. Yukinoshita adalah satu-satunya yang dengan keras kepala menolak untuk melihatnya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#35",
+      "text": "Sagami dan teman-temannya sedang mengobrol dengan penuh semangat tentang sesuatu. Aku memperhatikan mereka, penasaran, melihat ketua kami bersenang-senang mengobrol dengan teman-temannya dan Meguri mengangguk ramah. Lalu ada Haruno Yukinoshita. Dia melirik ke arahku lalu berdiri."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#36",
+      "text": "Haruno berjalan mendekat dan dengan sengaja menjatuhkan diri tepat di sampingku. “Apakah kamu melakukan pekerjaan dengan baik, anak muda?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#37",
+      "text": "“…Ya, menurutku begitu.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#38",
+      "text": "“Ini sedikit mengejutkan. Menurutku kamu bukan tipe orang yang melakukan hal seperti ini.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#39",
+      "text": "“Agh. Aku juga tidak.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#40",
+      "text": "“Hmm… Shizuka-chan memelintir lenganmu?” Haruno mengangguk seolah itu masuk akal baginya. Meskipun ada anggota komite lain yang kehadirannya lebih sulit dijelaskan daripada aku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#41",
+      "text": "“Jika kita berbicara tentang kejutan, bukankah adikmu yang paling aneh?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#42",
+      "text": "“Menurutmu? Kukira dia akan melakukannya.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#43",
+      "text": "Tidak yakin, aku memiringkan kepalaku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#44",
+      "text": "Haruno mengamati wajahku lalu menambahkan, “Maksudku, klubnya sedikit tidak nyaman sekarang, dan kakak perempuannya bertindak sebagai ketua komite dulu. Itu cukup untuk membuatnya ingin melakukannya.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#45",
+      "text": "Meskipun aku merasa ada sikap merendahkan dalam cara dia mengatakannya, aku mempertimbangkan arti dari setiap bagian argumennya. Memang benar klub menjadi tidak menyenangkan. Dan yang paling penting, aku merasa sudah sedikit memahami apa arti Haruno bagi Yukinoshita."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#46",
+      "text": "“Yah, sepertinya yang pertama lebih merupakan masalah,” tambahnya, seolah-olah dia baru saja melihat sesuatu yang lucu."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#47",
+      "text": "Hubungan antara saudara perempuan ini lebih rumit daripada yang terlihat dari luar."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#48",
+      "text": "Baik mereka kakak atau adik, saudara kandung pasti akan dibandingkan. Seringkali, seseorang dipandang lebih unggul. Aku sendiri mempunyai seorang adik perempuan. Tapi mungkin karena dia perempuan dan aku laki-laki, atau mungkin karena kami dibesarkan untuk melengkapi kekurangan satu sama lain, aku tidak merasa kalau kami dibandingkan seperti itu."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#49",
+      "text": "Tapi dengan Yukinoshita bersaudari, mereka sama seperti saudara kembar: kakak perempuan yang luar biasa, dan adik perempuan yang sama-sama berbakat namun tetap inferior. Setidaknya jika salah satu dari mereka bodoh, maka mereka berdua mungkin tidak akan melakukan hal yang sebaliknya. Salah satu dari mereka mungkin memiliki kepribadian yang menyimpang."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#50",
+      "text": "Yukinoshita terus-menerus berjuang melawan ilusi kakaknya; dia merasa dia hampir bisa menang tetapi selalu gagal. Akan jauh lebih mudah baginya jika dia melarikan diri dari semua yang telah dilakukan Haruno. Tapi sepertinya harga dirinya, atau emosi kuat lainnya, tidak membiarkan dia melakukan hal itu."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#51",
+      "text": "Jika Haruno tahu, jika dia mengerti, maka tidak bisakah dia berbuat sesuatu? Tidak bisakah dia menemukan cara lain untuk berinteraksi dengan adik perempuannya?"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#52",
+      "text": "“Um…apa yang kamu pikirkan?” Aku bertanya terus terang padanya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#53",
+      "text": "Bagian yang menakutkan tentang Haruno adalah, pertama dan terpenting, kamu tidak tahu apa yang ada di kepalanya. Mungkin aneh bagiku untuk mengatakan ini, tapi aku sudah lama mengamati manusia (dalam cara yang paling buruk), dan bahkan jika aku kesulitan memahaminya, dia sangat ahli dalam apa yang dia lakukan."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#54",
+      "text": "“Apa yang harus aku katakan agar kamu percaya padaku?” jawabnya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#55",
+      "text": "“…” Aku tidak akan percaya apa pun. Kesanku terhadap Haruno Yukinoshita sudah sangat jelas. Dia bisa saja memberi tahuku beberapa alasan mendalam atau cita-cita besar, tapi aku tetap mengabaikannya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#56",
+      "text": "Rupanya, sikap diamku menyampaikan maksudnya dengan baik. “Kalau begitu jangan tanya.” Suaranya sangat dingin. Aku pikir itu mungkin asli. Tidak ada kepura-puraan, tidak ada rekayasa."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#57",
+      "text": "Setelah itu, dia tidak mengatakan apa pun. Haruno memiliki kepribadian yang ceria, tapi ketika dia seperti ini, dia sangat mengingatkanku pada Yukinoshita."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#58",
+      "text": "Sekarang setelah Haruno terdiam, semua suara di sekitar kami tiba-tiba terasa lebih keras bagiku. Itu berarti aku juga dapat dengan mudah mendengar orang lain mengobrol. Kelompok Sagami tampak asyik mengobrol dan cekikikan."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#59",
+      "text": "Tampaknya bersemangat sekarang, Sagami memanggil ke dalam ruangan dengan suara keras, “Semuanya, apakah kalian semua punya waktu sebentar?” Untuk sesaat, kebisingan di ruang konferensi mereda."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#60",
+      "text": "Saat aku melihatnya, Sagami telah berdiri dan mengamati ruangan. Dia berdehem dengan lembut untuk mempersiapkan diri dan dengan gugup mulai berbicara. “Aku sudah berpikir sedikit...dan menurutku mungkin komite kebudayaan sebaiknya bersenang-senang dengan festival ini. Misalnya, kalau kita sendiri tidak bersenang-senang, kita tidak bisa membuat festival ini menyenangkan bagi orang lain, menurutku...”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#61",
+      "text": "Aku pernah mendengarnya di suatu tempat sebelumnya…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 51,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#62",
+      "text": "“Menurutku, sisi kelas juga penting, jadi kita bisa menikmati festival budaya semaksimal mungkin. Semuanya berjalan lancar dan sesuai jadwal, jadi bagaimana kalau kita memperlambat langkahnya sedikit?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#63",
+      "text": "Ada jeda saat semua orang sepertinya mempertimbangkan usulan Sagami sejenak. Segalanya tidak berjalan seburuk itu. Yukinoshita telah menyampaikan kekhawatirannya satu demi satu, jadi bisa dibilang perkembangan kami lumayan."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#64",
+      "text": "Tapi Yukinoshita keberatan. “Sagami, menurutku itu bukan ide yang bagus. Kita harus menjaga jadwal yang agresif untuk menjaga buffer...”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#65",
+      "text": "Dia disela dengan kasar oleh suara ceria. “Oh! Itu ide yang bagus. Dulu, semua orang melakukan banyak pekerjaan di kelas mereka!” kata Haruno, bernostalgia dengan masa lalu yang indah. Yukinoshita melontarkan tatapan menuduh padanya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#66",
+      "text": "Tapi sikap itu justru membuat Sagami bersemangat. “Lihat? Ada presedennya. Lagipula... festival tahun itu sungguh seru, kan?” Sagami sepertinya mencari konfirmasi, tapi Yukinoshita tidak menjawab. Sagami menganggap itu sebagai jawaban ya dan terus melanjutkan. “Bagaimanapun, kita harus meniru apa yang mereka lakukan dengan benar. Maksudku, kita harus belajar dari kebijaksanaan pendahulu kita. Jangan membawa perasaan pribadi ke dalamnya. Mari kita pertimbangkan semuanya sekarang.”",
+      "emphasis": [
+        {
+          "start": 411,
+          "end": 427,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#67",
+      "text": "Meguri tampak berkonflik saat dia menyaksikan percakapan itu."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#68",
+      "text": "Sementara itu, anggota komite kebudayaan saling bertukar pandang, namun beberapa orang bertepuk tangan menandakan bahwa beberapa sudah menyetujui usulan Sagami. Tampaknya, rencana ini telah disetujui."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#69",
+      "text": "Sebagai hasilnya, atas perintah Minami Sagami, Keputusan Kembali ke Kelompok Kelas disahkan (bukan Keputusan Kembali ke Pertanian)."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#70",
+      "text": "Jika semua orang menyetujuinya, maka Yukinoshita tidak bisa membatalkan keputusan itu sendirian, tidak peduli seberapa banyak dia berdebat. Sagami tersenyum puas, sementara Yukinoshita kembali ke pekerjaannya dengan ekspresi sangat dingin. Dari cara Sagami melihatnya, dia pasti merasa seperti dia akhirnya berhasil melakukan tindakan yang sesuai dengan ketua panitia."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#71",
+      "text": "“Aku sangat menyukai potongan jibnya. Benar, Hikigaya?” Haruno, yang duduk tepat di sampingku, berkata kepadaku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#72",
+      "text": "Aku yakin aku tidak baik jika mencurigai bahwa ini juga merupakan bagian dari suatu plot, tapi…"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#73",
+      "text": "Ya, aku tidak terlalu menyukainya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-74",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter004_d.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#75",
+      "text": "Perubahan terjadi dengan segera."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#76",
+      "text": "Hanya dalam beberapa hari setelah kedatangan Haruno Yukinoshita, orang-orang mulai untuk melewatkan rapat komite di sana-sini. Rupanya komentar Sagami sudah menyebar ke seluruh anggota panitia. Tetap saja, mereka hanya datang terlambat tiga puluh menit atau tidak hadir dengan pemberitahuan. Kami tidak terlalu terpengaruh. Beban setiap orang sedikit meningkat, namun dengan waktu istirahat yang bergilir, kami membuat semacam jadwal shift."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#77",
+      "text": "Tetapi seiring dengan bertambahnya jumlah kelompok sukarelawan dan sejumlah tempat yang bersedia memasang papan iklan untuk Publisitas dan Iklan, hal ini menyebabkan perhitungan ulang anggaran yang cukup besar, dan beban kerja mulai tidak seimbang. Beban kerja Kesehatan dan Sanitasi serta Catatan dan Lain-Lain terkonsentrasi pada hari-hari festival budaya, jadi tidak akan menimbulkan masalah jika lebih banyak dari orang-orang ini yang bermalas-malasan. Tapi ada perasaan yang tidak dapat disangkal bahwa bagian manajemen relawan, periklanan, dan akuntansi kekurangan tenaga kerja."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#78",
+      "text": "Dalam kasus tersebut, para eksekutif akhirnya memikul beban, terutama OSIS dan Yukinoshita. Intervensi Yukinoshita sangat membantu, tapi tetap saja, pekerjaan sudah mulai menumpuk, dan tumpukan itu tidak kunjung hilang."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#79",
+      "text": "Sebagai anggota Records dan Miscellaneous, aku mendapatkan lebih banyak jenis pekerjaan lain-lain. Aneh…Aku dengar tidak banyak pekerjaan di sini…"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#80",
+      "text": "“Um…apakah Anda punya waktu sebentar?” Kepala bagian kami berbicara kepada aku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#81",
+      "text": "Fakta bahwa dia bertanya “Apakah Anda punya waktu sebentar?” daripada hanya “Hei” atau ada sesuatu yang tidak normal. Lonceng alarmku berbunyi."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#82",
+      "text": "Tetapi pada kesempatan seperti itulah aku memikirkan beberapa metode bagus untuk menghadapi upaya memberikan pekerjaan yang tidak perlu kepadaku. Aku beri judul Empat Strategi Menghadapi Upaya untuk Memberikan Pekerjaan yang Tidak Perlu kepada Anda.",
+      "emphasis": [
+        {
+          "start": 161,
+          "end": 248,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#83",
+      "text": "“Um, bolehkah saya meminta Anda melakukan ini?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#84",
+      "text": "Strategi Pertama: Selama mereka belum menyapa Anda nama, abaikan saja.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 70,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#85",
+      "text": "“Apakah kamu mendengarkan?” Dia menepuk-menepukbahuku. Cih. Gagal ya?",
+      "emphasis": [
+        {
+          "start": 32,
+          "end": 47,
+          "style": "em"
+        },
+        {
+          "start": 55,
+          "end": 69,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#86",
+      "text": "“Oh, saya? Eh-heh.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#87",
+      "text": "“Saya ingin meminta Anda melakukan ini.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#88",
+      "text": "Strategi Kedua: Jika kamu diminta melakukan sesuatu, berikan saja ekspresi keengganan pada mereka.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 98,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#89",
+      "text": "Tetapi kepala bagian itu pasti memiliki hati yang cukup kuat, dan dia langsung merengut ke arahku. “…Tolong lakukan itu.” Tatapan yang dia berikan padaku menunjukkan keengganan yang lebih besar daripada tatapanku, jadi aku kalah dalam manuver. Sial, itu pun tidak bagus?! Sekarang sudah sampai pada hal ini, lanjutkan ke metode berikutnya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#90",
+      "text": "“Haaah… Haaaaaah…”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 18,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#91",
+      "text": "Strategi Ketiga: Terus-terusan menghela napas saat sedang bekerja!",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 66,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#92",
+      "text": "Begitulah menjengkelkan, mereka tidak hanya tidak akan memberi Anda pekerjaan lagi, mereka bahkan akan melakukan upaya terakhir mereka: mengatakan Jika Anda tidak ingin melakukan ini, pergi saja. Ini sangat efektif bagiku sehingga ketika aku mempunyai pekerjaan paruh waktu, aku bahkan menggunakan ini untuk pergi begitu saja dan tidak pernah kembali lagi. Sudah dicoba dan benar.",
+      "emphasis": [
+        {
+          "start": 147,
+          "end": 194,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#93",
+      "text": "Tetapi kepala bagian tidak merasa terganggu sama sekali. Faktanya, dia hanya menaikkan kacamatanya dan datang untuk berbicara dengan aku. “Apakah kamu sudah selesai?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#94",
+      "text": "Tidak mungkin aku bisa menyelesaikannya dalam waktu sesingkat itu… Jika aku sebaik itu, aku tidak akan bekerja untukmu.",
+      "emphasis": [
+        {
+          "start": 67,
+          "end": 119,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#95",
+      "text": "Akhirnya, aku menggunakan teknik pamungkasku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#96",
+      "text": "Strategi Empat: Mengklik keyboard dengan keras dengan harapan dia akan keluar.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 78,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#97",
+      "text": "OSIS untuk sementara meminjamkan sejumlah komputer kepada komite kebudayaan. Mereka tidak hanya membuat pekerjaan menulis jauh lebih efisien, tapi juga membantu aku menjalankan strategi mengetik aku yang pemarah."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#98",
+      "text": "Taka, taka, taka. TAAAN! Bagaimana kamu menyukainya?! Penekanan yang begitu besar pada betapa aku tidak ingin bekerja telah membuatnya ingin menyerah…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 24,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#99",
+      "text": "“Sampai jumpa lagi. Aku pulang dulu. Setelah selesai, kamu boleh pergi. Kalau ada pertanyaan, tanyakan pada eksekutif.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#100",
+      "text": "“’Tchabye.” (Terjemahan: Oh, aku mengerti. Sampai nanti.)",
+      "emphasis": [
+        {
+          "start": 25,
+          "end": 56,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#101",
+      "text": "Heh-heh, aku melakukan pekerjaan yang luar biasa dalam menghindari pekerjaan… Sekarang beban kerja aku benar-benar minimum! Dengan tumpukan pekerjaan di atas meja di depan aku, aku merasa menang… Tunggu, apaaaaaaaaaat?!",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 123,
+          "style": "em"
+        },
+        {
+          "start": 196,
+          "end": 219,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#102",
+      "text": "Aku jelas punya pekerjaan di sini! Faktanya, yang berhasil aku lakukan hanyalah memberikan kesan buruk pada orang itu! Aku hanya bertingkah seperti orang brengsek! Terlebih lagi, “Kamu boleh pergi setelah kamu selesai” berarti “Jangan berani-berani pergi sampai kamu selesai,” bukan?! Tidaaaak!",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#103",
+      "text": "Kehidupan seorang karyawan memang sulit. Ini jauh di luar ekspektasi aku…"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#104",
+      "text": "Lebih buruk lagi, judul “lain-lain” pasti menimbulkan beberapa kesalahpahaman. Sekarang bahkan pekerjaan ekstra dari orang lain pun semuanya diserahkan kepada aku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#105",
+      "text": "“Um…kamu adalah Records dan Miscellaneous, kan? Bolehkah aku memintamu melakukan ini juga?”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#106",
+      "text": "“Agh, tapi…”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#107",
+      "text": "“Festival budaya adalah proyek kelompok! Begitulah! Kita harus saling membantu!” mereka menyatakan dengan cukup tegas."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#108",
+      "text": "Ayolah, menyalin poster jelas bukan pekerjaan aku. Selain itu, bagaimana Anda membantu aku di sini? Tapi karena yang berbicara adalah siswa yang lebih tua, aku tidak bisa menolak. Aku tidak pernah lagi mengutuk naluri Jepang yang tertidur dalam diri aku: tradisi senioritas berdasarkan masa kerja.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 72,
+          "style": "em"
+        },
+        {
+          "start": 78,
+          "end": 86,
+          "style": "em"
+        },
+        {
+          "start": 91,
+          "end": 99,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#109",
+      "text": "Beberapa orang bahkan menolak untuk melihat aku dan memegang cangkir ke arah aku. “Teh.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#110",
+      "text": "“Agh…” Kenapa aku? Hei, apa mereka pikir mereka bisa bicara padaku sesuka mereka, karena aku hanya pesuruh? Mungkin kamu sudah lupa, tapi antek juga manusia lho? Ayo. Jika aku terus bekerja seperti ini, aku akan menjadi karyawan penuh. Aku Bisa Menjadi Budak Perusahaan!",
+      "emphasis": [
+        {
+          "start": 7,
+          "end": 235,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#111",
+      "text": "Aduh…Seharusnya aku istirahat lebih awal.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 41,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#112",
+      "text": "Dengan proyek seperti ini, sejujurnya, Anda semakin rajin, semakin Anda mendapatkan ujung tongkat yang pendek. Sudah ada banyak sekali pekerjaan yang menumpuk di hadapanku, dan sejauh yang aku tahu, lebih dari yang bisa kuselesaikan dalam satu atau dua hari."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#113",
+      "text": "Secara refleks, aku menghela napas."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#114",
+      "text": "Saat itu, di saat yang hampir bersamaan, aku mendengar suara lain yang sangat dalam menghela napas. Melihat ke arah itu, aku melihat Yukinoshita memegangi pelipisnya dengan tangan, matanya terpejam. Apakah dia sakit kepala atau semacamnya?"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#115",
+      "text": "Penyebab yang jelas terlihat tepat di garis pandangnya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#116",
+      "text": "Di dekatnya, Haruno Yukinoshita sedang mengobrol ramah dengan Meguri sambil memutar pena di tangannya. Itu pasti dia."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-117",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#117",
+      "text": "Setelah mengumpulkan banyak alumni untuk kelompok sukarelawannya, dia sering datang ke sekolah untuk berlatih untuk pekerjaannya atau apa pun. Dalam perjalanannya, dia sering mampir ke komite kebudayaan. Dia sudah sepenuhnya terbiasa. Faktanya, dia adalah seorang pelanggan tetap."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-118",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#118",
+      "text": "“Hikigaya, teh untukku juga!” dia memanggilku."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-119",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#119",
+      "text": "“Um, itu bukan tugas bagian lain-lain, menurutku…” Aku tidak begitu yakin, jadi kalimatku menjadi malu-malu di akhir. Terlebih lagi, aku membuatkan teh untuknya meski aku mengeluh. Aku pada dasarnya adalah seorang budak perusahaan yang tragis. Aku sedang menuang teh yang mendidih dari teko ketika aku mendengar Yukinoshita diam-diam meletakkan pulpennya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-120",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#120",
+      "text": "Ketenangannya memiliki dampak yang sangat buruk."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-121",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#121",
+      "text": "“Haruno, jika kamu menghalangi, maka pergi.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-122",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#122",
+      "text": "Itu mungkin berhasil pada orang lain, tapi tidak pada Haruno. Seperti seorang pelawak melawan kartu as, Haruno sama sekali tidak merasa terganggu. “Jangan terlalu pemarah. Aku akan membantumu.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-123",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#123",
+      "text": "“Tidak apa-apa. Pergilah sekarang.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-124",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#124",
+      "text": "Tapi Haruno mengabaikannya dan mengambil beberapa cetakan di dekatnya, lalu menyeruput cangkir tehnya. “Coba kulihat. Kurasa aku akan membantumu mengerjakan pekerjaanmu, sebagai ucapan terima kasih atas tehnya.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-125",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#125",
+      "text": "“Hei, hentikan, jangan hanya—”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-126",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#126",
+      "text": "Lebih cepat dari kemampuan Yukinoshita untuk menghentikannya, Haruno mengambil kalkulator di satu tangan dan dengan cepat mulai mengoperasikannya. Dia menggaruk sesuatu dengan pena merah dengan penuh tekad dan melemparkan kertas itu ke arah Yukinoshita. “Pendapatan dan pengeluaran Anda tidak sesuai.”"
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-127",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#127",
+      "text": "“…Saya berencana untuk memeriksanya nanti.” Yukinoshita menyipitkan matanya karena tidak senang, tapi dia tetap menerimanya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-128",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#128",
+      "text": "“Kamu belum berubah, Haru.” Meguri menatap ke arah Yukinoshita bersaudari dengan senyuman ramah, dengan lembut meredakan ketegangan. Efek yang dia berikan bahkan membuatku merasa nyaman."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-129",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#129",
+      "text": "“Yah, tidak banyak. Aku sudah terbiasa. Haruskah aku mencoret-coret beberapa lagi?” Kata Haruno, mulai dari beberapa dokumen di dekatnya."
+    },
+    {
+      "id": "v6-bab-4-chapter004_d-130",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#130",
+      "text": "Kali ini, Yukinoshita tidak menghentikannya. Dia hanya mengatupkan bibirnya erat-erat dan tanpa perasaan melakukan pekerjaannya."
+    }
+  ]
+}

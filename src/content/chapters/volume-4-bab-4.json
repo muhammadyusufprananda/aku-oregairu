@@ -1,0 +1,2341 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v4-bab-4-chapter004_b-86"
+    ],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v4-bab-4-chapter004-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter004.xhtml#1",
+      "headingLevel": 2,
+      "text": "Mendadak, Hina Ebina mulai menyebarkan ajarannya.",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 20,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004.xhtml#../Images/Art_P67.jpg",
+      "src": "assets/chapters/volume-4/bab-4/Art_P67.webp",
+      "width": 336,
+      "height": 694,
+      "text": "Hina Ebina berdiri dengan seragam sekolah."
+    },
+    {
+      "id": "v4-bab-4-chapter004-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#3",
+      "text": "Saat berkemah, Anda selalu memikirkan kari."
+    },
+    {
+      "id": "v4-bab-4-chapter004-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#4",
+      "text": "Tentu saja, seorang ibu rumah tangga yang baik harus bisa membuat satu atau dua kari. Faktanya, aku sangat ahli dalam hal ini sehingga apa pun yang aku masak, hasilnya selalu berupa kari. Sejujurnya, selama Anda memasukkan blok roux, Anda bisa membuatnya dari apa saja. Bahkan tidak berlebihan jika dikatakan bahwa setiap jenis makanan merupakan bahan yang potensial."
+    },
+    {
+      "id": "v4-bab-4-chapter004-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#5",
+      "text": "Jika kita berbicara tentang kari Chiba, Sitar adalah restoran yang paling terkenal, namun tentu saja, di Desa Chiba, masakan tersebut dimasak dengan peralatan berkemah di luar ruangan. Sitarnya enak banget."
+    },
+    {
+      "id": "v4-bab-4-chapter004-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#6",
+      "text": "Bagaimanapun, makan malam adalah makanan pokok berkemah ini. Pertama, kami memulai dengan menyalakan api arang untuk menunjukkan kepada anak-anak cara melakukannya. Bu Hiratsuka lah yang mendemonstrasikan dengan menyalakan api untuk para guru. “Pertama, kami akan memberimu sebuah contoh,” katanya, dan bahkan sebelum dia selesai berbicara, dia sudah menumpuk arang dan memasukkan koran kusut ke bawahnya untuk menyalakan api. Dia menyalakan koran, dan koran itu mulai terbakar."
+    },
+    {
+      "id": "v4-bab-4-chapter004-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#7",
+      "text": "Dia berusaha setengah hati mengipasi api dengan kipas tangan plastik untuk membantu mereka mencapai arang, tapi menurut aku itu memakan waktu terlalu lama untuk seleranya. Beberapa saat kemudian, dia tiba-tiba menuangkan minyak goreng ke atas api. Tiang api segera berkobar tinggi di hadapannya."
+    },
+    {
+      "id": "v4-bab-4-chapter004-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#8",
+      "text": "Ini berbahaya, jadi jangan mencobanya di rumah, anak-anak. Anda bisa terluka parah."
+    },
+    {
+      "id": "v4-bab-4-chapter004_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_a.xhtml#../Images/Art_P68.jpg",
+      "src": "assets/chapters/volume-4/bab-4/Art_P68.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Hachiman menatap ke atas."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#0",
+      "text": "Penonton meledak dalam tangisan yang bukan sekedar sorak-sorai atau jeritan. Tapi Bu Hiratsuka tidak bergeming—jauh dari itu. Ada sebatang rokok di antara bibirnya saat dia membentuk senyuman dingin dan tidak menyenangkan. Bersandar ke arah api dengan rokok masih di mulutnya, dia menarik napas lalu menarik dan menghembuskannya. “Pada dasarnya seperti itu.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#1",
+      "text": "“Kamu sepertinya sudah terbiasa dengan ini,” komentarku. Dia sangat teliti dalam hal ini, dan dia bahkan memperkenalkan trik rahasia minyak gorengnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#2",
+      "text": "Dengan pandangan jauh, Bu Hiratsuka menjawab, “Heh, kamu mungkin tidak berpikir untuk melihatku, tapi ketika aku masih di universitas, aku sering mengadakan barbekyu bersama teman-temanku. Saat aku sibuk menyalakan api, semua pasangan akan menggoda dan bermain-main bersama… Cih, aku mulai merasa mual.” Dengan ingatan akan masa lalunya yang tidak menyenangkan, Bu Hiratsuka mundur dari kobaran api. “Anak-anak, kalian nyalakan apinya. Anak-anak perempuan, ikutlah denganku untuk mengambil perlengkapan memasak,” katanya sambil pergi bersama separuh anak-anaknya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#3",
+      "text": "Memisahkan anak laki-laki dan perempuan saat ini membuatku berpikir kalian masih menyimpan kebencian, Bu Hiratsuka… Apakah kalian baik-baik saja?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 145,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#4",
+      "text": "Jadi Totsuka, Hayama, Tobe, dan aku tertinggal. “Baiklah, ayo kita siapkan,” kata Hayama. Dia dan Tobe menarik sarung tangan kerja dan menumpuk arang, sementara Totsuka menyiapkan kayu bakar koran."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#5",
+      "text": "…Ups. Sepertinya aku menunggu terlalu lama untuk mendapatkan pekerjaan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 71,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#6",
+      "text": "Persiapannya berjalan lancar, dan pada akhirnya, satu-satunya hal yang harus dilakukan hanyalah tugas sederhana yaitu mengipasi dan mengipasi. Aku tidak memiliki ketabahan untuk hanya duduk di sana tanpa melakukan apa pun. Sejujurnya, kalau hanya Hayama dan Tobe yang ada di sana, aku tidak akan punya masalah untuk mengatakan, Baiklah, kalian bisa menangani ini, tapi tentu saja, aku tidak sanggup melakukan itu di depan Totsuka. Karena tidak ada pilihan lain, aku mengenakan sarung tangan kerja, mengambil kipas tangan plastik, dan dengan penuh semangat menyalakan api, seperti yang selalu mereka lakukan dengan belut bakar.",
+      "emphasis": [
+        {
+          "start": 328,
+          "end": 362,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#7",
+      "text": "“Kamu pasti kepanasan…,” komentar Totsuka dengan prihatin."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#8",
+      "text": "“Sepertinya…” Meskipun kami berada di dataran tinggi, aku tetap berada di dataran tinggi. masih pertengahan musim panas. Jika kamu bekerja keras tepat di dekat api terbuka, kamu akan mengeluarkan keringat."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#9",
+      "text": "“Aku akan mengambil minuman. Untuk semua orang,” kata Totsuka, lalu dia pergi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#10",
+      "text": "Tobe mengikutinya sambil berkata, “Jika kamu membelikannya untuk kita semua, Saya akan membantu!”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#11",
+      "text": "Mungkin dia sebenarnya pria yang baik, bertentangan dengan ekspektasi aku. Atau mungkin dia tipe pria jantan yang tidak ingin memaksa Totsuka membawa semua barang berat itu dengan tangannya yang ramping. Ya, lakukan itu, anak muda."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#12",
+      "text": "Setelah mereka pergi, hanya ada aku dan Hayama."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#13",
+      "text": "“…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#14",
+      "text": "Fwap, fwap.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 11,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#15",
+      "text": "“…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#16",
+      "text": "Fwap, fwap.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 11,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#17",
+      "text": "Aku mematikan otakku dan fokus sepenuhnya pada mengipasi dengan pikiran kosong. Saat arang hitam pekat perlahan-lahan berubah menjadi merah, aku mulai menikmatinya. Namun panas matahari dan api membuat keringat bercucuran di mataku. Saat aku mengangkat kepalaku untuk melepas sarung tangan, pandanganku bertemu dengan mata Hayama. Kontak mata itu berarti dia sedang memperhatikanku dan jika Ebina ada di sini, segalanya akan menjadi aneh."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#18",
+      "text": "“…Apa?” tanyaku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#19",
+      "text": "“Oh, tidak ada apa-apa,” jawab Hayama mengelak."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#20",
+      "text": "“...”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#21",
+      "text": "Masih mengepak ke arah api, aku memukul Hayama dengan panjang dan keras lihat."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#22",
+      "text": "“Bukan apa-apa kok,” ulangnya sambil terus menghindari pertanyaan itu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#23",
+      "text": "“Bukan apa-apa, bukan apa-apa.” Apakah kamu lagu pembuka Azuki-chan? Aku belum pernah melihat orang berkata Bukan apa-apa padahal sebenarnya bukan apa-apa. Aku menggunakan taktik yang sangat menjengkelkan dengan melirik ke arah Hayama setiap lima detik.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 56,
+          "style": "em"
+        },
+        {
+          "start": 67,
+          "end": 68,
+          "style": "em"
+        },
+        {
+          "start": 108,
+          "end": 121,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#24",
+      "text": "Dia akhirnya menyerah dan berbicara. “…Hikitani, Yu–”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#25",
+      "text": "“Maaf membuatmu menunggu, Hachiman.” Totsuka memotongnya sambil menempelkan cangkir kertas dingin ke pipiku. Sensasi dinginnya membuat jantungku berdebar kencang. Mendongak, aku melihat senyumnya yang murni dan polos, gembira atas keberhasilan kenakalannya. Aku kira dia bergegas kembali, karena dia sedikit terengah-engah. Pipinya yang memerah sangat menggemaskan. Sungguh polisi yang hebat. Itu hanya menambah keimutannya, meningkatkan skor malaikatnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#26",
+      "text": "Jantungku, seperti biasa, berdebar kencang dengan emosi yang tidak terlalu mengejutkan, tapi juga bukan kupu-kupu. Aku melakukan upaya sadar untuk menekan derai cemas itu dan terdengar tenang. “Hei. Terima kasih,” kataku dalam bahasa Inggris, dan aku sangat terguncang, suaraku menjadi serak dan pengucapanku menjadi lebih baik.",
+      "emphasis": [
+        {
+          "start": 199,
+          "end": 211,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#27",
+      "text": "Tobe berada tidak jauh di belakang Totsuka, memegang beberapa botol plastik. Ketika dia mendengar ucapanku, dia menatapku dengan tatapan aneh."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#28",
+      "text": "“…Aku akan bertukar denganmu,” Hayama menyarankan sambil tersenyum cepat, jadi aku menerima tawaran itu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#29",
+      "text": "Aku menyerahkan kipas angin, melepas sarung tangan kerja, dan menerima cangkir kertas berisi teh barley dari Totsuka. “Oke, sisanya bisa kamu tangani,” kataku pada Hayama. “…Tapi, apa yang ingin kamu katakan tadi?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#30",
+      "text": "“Kita bisa membicarakannya nanti.” Hayama menyeringai cerah padaku, tidak menunjukkan tanda-tanda kesusahan, dan kembali ke api arang dan mengipasinya dengan kuat."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#31",
+      "text": "Fiuh, aku lelah. Menyeruput teh jelai, aku memperhatikan punggung Hayama yang berjongkok di depan api. Hah… Jadi, apa yang Hayama katakan tadi? Yah, aku bisa membayangkan dua kemungkinan, tapi aku tidak bisa membayangkan kenapa Hayama menanyakanku tentang salah satu dari itu. Aku duduk di bangku di bawah sinar matahari dan menyesap teh, seperti istirahat ideal gaya orang tua. Saat itulah gadis-gadis itu kembali.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#32",
+      "text": "Saat Miura melihat api sudah siap, dia berteriak kegirangan. “Luar biasa, Hayato! ♪”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#33",
+      "text": "“Oh ya! Kamu cukup suka alam terbuka, ya, Hayato?” Ebina ikut memuji prestasinya. Dan mereka melirik ke arahku. Aku sangat mendengar Mengapa Hikitani bermalas-malasan?",
+      "emphasis": [
+        {
+          "start": 133,
+          "end": 167,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#34",
+      "text": "“Hikitani melakukan sebagian besar dari itu,” kata Hayama."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#35",
+      "text": "Oh-ho, dan dia dengan santainya membelaku. Hayama benar-benar pria yang baik. Masalahnya adalah hal itu menjadi bumerang, dan sekarang semua orang berpikir, Hayama sangat baik dalam melindunginya… Eek! ☆ Ya, begitulah yang terjadi di dunia ini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 77,
+          "style": "em"
+        },
+        {
+          "start": 157,
+          "end": 201,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#36",
+      "text": "“Kerja bagus, Hikki. Ini.” Yuigahama, yang telah kembali bersama Miura dan gadis-gadis lainnya, mengulurkan tisu wajah untukku. Dia tidak sedang menyindir atau apa pun."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#37",
+      "text": "“Oh, Hachiman bekerja keras! Benar-benar berhasil, sungguh!” Totsuka menegaskan sambil mengepalkan tangannya erat-erat. Memang benar bahwa tanpa konteks, situasinya akan terlihat seperti aku tidak melakukan apa pun."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#38",
+      "text": "“Aku tahu. Hikki menjadi serius karena hal-hal aneh.” Yuigahama tertawa."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#39",
+      "text": "Dari belakangnya, Yukinoshita menatapku. “Kami tahu. Jangan menyeka wajahmu dengan sarung tangan kerja. Kamu memalukan,” katanya seolah-olah dia pernah melihatku melakukannya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#40",
+      "text": "Oh, jadi wajahku kotor, ya? Sekarang aku akhirnya paham kenapa Yuigahama memberikanku tisu, aku menerimanya dengan penuh rasa terima kasih. “…Terima kasih,” kataku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 27,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#41",
+      "text": "Tetapi menurutku rasa terima kasihku tidak ditujukan kepada satu orang tertentu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-42",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter004_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#43",
+      "text": "Komachi mendekatiku bersama Bu Hiratsuka, membawa keranjang berisi sayuran. Mereka berdua terkikik karena sesuatu dengan tingkat kenikmatan yang mencurigakan. Entah bagaimana, aku bisa menebak topik pembicaraan mereka."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#44",
+      "text": "Kemungkinan besar, itu adalah aku. Aku sangat minder sehingga secara umum, setiap kali seseorang di kelas kami terkikik, aku berasumsi mereka sedang menertawakanku, dan itu adalah sebuah kebanggaan. Prediksi semacam ini adalah tugas sederhana bagi aku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#45",
+      "text": "Wah, menjadi populer itu sulit! …Sungguh menyebalkan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#46",
+      "text": "Saat aku bertanya-tanya apa yang dikatakan Bu Hiratsuka dan apa yang akan terjadi padaku selanjutnya, aku terkejut."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#47",
+      "text": "“Ada apa, Hikigaya?” dia bertanya padaku. “Kamu kelihatannya tidak sehat. Apakah para pecinta buku tidak menyukai alam bebas?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#48",
+      "text": "“Apa sih tukang buku itu…?” Memang benar aku memang menyukai buku, tapi bukan berarti aku memakannya atau apa pun. “Hei, Komachi. Apa yang kalian berdua bicarakan?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#49",
+      "text": "“Hah? Hanya membicarakan bisnis. Tadi kubilang kau mengizinkanku membaca esai lamamu dan membantuku membuat laporan bukuku seperti kakak yang sangat bisa diandalkan dan baik hati. Oh, itu gratis untuk semua poin Komachi itu. ♪”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#50",
+      "text": "“Oke. Sepertinya aku mengerti apa yang terjadi. Aku akan membuatmu menangis.” Sejak kapan sistem poin berlaku seperti itu? Dan dia pasti mengoceh isi laporan buku dan esaiku itu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#51",
+      "text": "“Aku melakukannya hanya demi kamu, Gan! Kayaknya aku nggak salah!” Komachi merengek."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#52",
+      "text": "Aku menyiapkan sentilan ke dahi adikku, tapi Bu Hiratsuka menyela pertengkaran kami. “Ayolah, itu sudah cukup. Kami sebenarnya hanya bercerita tentang betapa kami mencintaimu. Dia menceritakan banyak hal kepadaku, seperti kenangannya saat kamu masih muda.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#53",
+      "text": "“Waugh!” Komachi berteriak. “Hei, kamu tidak diperbolehkan mengatakan hal itu padanya! Itu berarti...skor Komachi cukup rendah...” Wajah adikku memerah di depan mataku, memaksakan batuk untuk mengalihkan perhatian dari wajahnya yang memerah, dan kemudian menatapku. “Ah…ah-ha, bercanda… Reaksi tadi bernilai banyak poin Komachi, bukan begitu?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#54",
+      "text": "“Kamu idiot…” Aku bahkan tidak bisa marah lagi. Aku terlalu sibuk untuk merasa jengkel, dan dia terlalu manis. “Hentikan obrolan bodoh itu dan mulailah makan kari. Kita punya nasi untuk dimasak.” Jika aku mempermainkan omong kosongnya, kami tidak akan pernah bisa makan. Aku mengambil keranjang itu darinya dan dengan cepat membawanya ke konter."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#55",
+      "text": "Komachi berdiri tertegun selama satu menit, tapi kemudian dia mengangguk pada dirinya sendiri dan berlari mengejarku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#56",
+      "text": "Aku menyebutnya counter, tapi pada dasarnya itu hanya wastafel besar. Kami akan mencuci beras dan melakukan persiapan di sana. Variasi bahannya tidak terlalu memuaskan, tapi tetap saja, itu lebih memuaskan daripada hidupku. Ada iga babi, wortel, bawang bombay, dan kentang. Daftar ini langsung mengingatkan kita pada rata-rata kari rumah tangga Jepang dengan nasi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#57",
+      "text": "“Ini adalah apa yang Anda harapkan dari masakan luar ruangan untuk anak-anak.” Yukinoshita mengutarakan pendapatnya yang paling normal. Kurasa maksudnya itu bukan sesuatu yang istimewa, tapi itu adalah pilihan aman yang tidak bisa kamu salahkan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#58",
+      "text": "“Ya, kurasa,” jawabku. “Tapi kalau kamu membuat kari di rumah, sebenarnya ada tingkat individualitas di dalamnya, tergantung siapa yang memasaknya. Kari yang dibuat ibuku punya banyak bahan di dalamnya. Seperti tahu goreng.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#59",
+      "text": "“Hmm. Sepertinya begitu.” Balasan Yukinoshita singkat. Yah, dia selalu singkat, tapi kali ini jawabannya lebih refleks. Nada suaranya jelas datar."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#60",
+      "text": "“Tidak, serius,” jawabku. “Kamu bisa membuat, misalnya, mie konjak, daikon, dan lain-lain… Menurutku, ini hot pot atau apa?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#61",
+      "text": "“Ya, ya, kamu bisa memasukkan chikuwa atau apa pun ke dalamnya, kan?” Tobe tiba-tiba ikut mengobrol.",
+      "emphasis": [
+        {
+          "start": 30,
+          "end": 37,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#62",
+      "text": "“Y-ya.” Aku sangat terkejut, aku tidak dapat memberikan jawaban yang layak. Hei, kawan, jangan bersikap seperti teman-teman denganku. Aku akan mulai bertanya-tanya apakah kita berteman atau semacamnya.",
+      "emphasis": [
+        {
+          "start": 76,
+          "end": 201,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#63",
+      "text": "Tapi Tobe tidak terlihat terlalu bermasalah saat dia bergumam, “Chikuwa itu seperti makanan laut. Serius?” Aku tidak begitu mengerti apa yang dia bicarakan. Tapi kalau dia berusaha berhubungan denganku, mungkin dia orang baik juga. Namun jika itu masalahnya, maka aku merasa tidak enak karena ketidakmampuan aku untuk melanjutkan percakapan. Begitu buruknya hingga aku memutuskan untuk tidak berbicara dengannya lagi agar tidak mengganggunya.",
+      "emphasis": [
+        {
+          "start": 64,
+          "end": 71,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#64",
+      "text": "Di sampingnya, Yuigahama bersenandung sambil mengupas kentang. Karena dia menggunakan alat pengupas, kupikir dia sudah menyerah pada pisau setelah pertama kali melakukannya. “Itu memang terjadi pada kari yang dibuat ibumu, lho,” katanya. “Seperti beberapa waktu yang lalu, ada daun aneh di dalam diriku. Kadang-kadang dia bisa menjadi pelindung luar angkasa.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#65",
+      "text": "Anda adalah pelindung luar angkasa di sini. Itu harus turun temurun. Tolong, potong mata kentangnya. Kamu akan membunuh kami dengan solanine.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 141,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#66",
+      "text": "“Oh, hei, lihat! Persis seperti ini,” katanya, membiarkan kulitnya setengah matang sambil berlari menuju ranting di pohon, memetik sehelai daun, dan menunjukkannya kepada kami. Tidak ada yang istimewa dari itu, hanya, Ini memang daun!",
+      "emphasis": [
+        {
+          "start": 218,
+          "end": 234,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#67",
+      "text": "…Oh, tunggu, apakah dia berbicara tentang daun salam? Namun menurutku itu adalah bumbu yang cukup umum.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 103,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#68",
+      "text": "“Mungkin daun dalam kari Anda adalah daun dari laurier…?” Yukinoshita menyarankan.",
+      "emphasis": [
+        {
+          "start": 47,
+          "end": 54,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#69",
+      "text": "“Hah? Lolie?” kataku. Pilihan kosakata Yukinoshita memicu imajinasiku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#70",
+      "text": "“Waaah… Ada daun di kariku…” —Nona Lolie Kecil (enam tahun)",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 59,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#71",
+      "text": "Aku harus mencarinya di Pixiv kalau sudah sampai home…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 54,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#72",
+      "text": "Yukinoshita menatapku dengan tatapan kotor. “Asal tahu saja, laurier adalah nama pohon daun salam. Istilah ini berasal dari bahasa Perancis. Dalam bahasa Inggris, itu adalah bay laurel. Jelas, Pak Lolicon?”",
+      "emphasis": [
+        {
+          "start": 61,
+          "end": 68,
+          "style": "em"
+        },
+        {
+          "start": 174,
+          "end": 184,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#73",
+      "text": "Erk! Apakah kamu paranormal?! Tapi siapa yang dia tuduh memiliki kompleks Lolita? Aku adalah tipe pria yang memiliki sifat sister-complex… “Aku juga tahu apa itu bay laurel,” kataku. Hikki tahu semua tentang itu. Aku tahu kalau daun salam berasal dari pohon salam.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 138,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#74",
+      "text": "Tapi tentu saja, Yuigahama tidak tahu dan terlihat sedikit terkejut. “Laurier…bukan berarti pembalut…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#75",
+      "text": "Gen tersebut tidak diturunkan begitu saja. Mereka telah berevolusi. Warp berevolusi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#76",
+      "text": "Tidak banyak pemikiran yang masuk ke dalam pembagian kerja, namun demikian, kami telah menyelesaikan semua pemotongan sayuran dan pencucian beras. Sekarang kami siap untuk memasak. Kami menata peralatan kami lalu menumis daging dan sayuran di dalam panci. Selagi hal ini berlangsung, aku mendengar Ebina bergumam, “Wortel itu sayuran yang sangat cabul…,” tapi Miura memukul kepalanya. Mungkin Miura sebenarnya orang yang baik di sini. Tidak ada orang lain yang mau menjadi orang jujur ​​dalam rutinitas ini, tetapi dia mengambil tindakan. Meskipun, karakter utama yang suka memukul orang lain tidak sepopuler saat ini, jadi aku sarankan dia mengabaikan Ebina mulai sekarang."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#77",
+      "text": "Kami menuangkan air ke dalam panci dan, setelah mendidih, masukkan dua jenis kubus kari. Lemak pada iga babi akan memunculkan rasa, dan potongan dadu akan membuatnya enak dan pedas. Selanjutnya, yang perlu dilakukan hanyalah membiarkannya mendidih perlahan. Tentu saja, kami adalah anak-anak yang sudah besar, dan beberapa dari kami bahkan memasak setiap hari, jadi kami menyelesaikan prosesnya tanpa hambatan serius."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#78",
+      "text": "Saat aku mengamati area tersebut, aku dapat melihat asap dari berbagai macam api di sekitar. Ini akan menjadi pengalaman memasak luar ruangan pertama bagi anak-anak sekolah dasar. Dari apa yang aku lihat, beberapa kelompok sedang mengalami masa sulit. “Jika Anda tidak mempunyai pekerjaan apa pun, Anda dapat melihat-lihat dan membantu mereka,” kata Bu Hiratsuka. Tersirat dalam pernyataannya adalah Aku tidak ingin melakukannya. Aku merasakan hal yang sama. Aku bertanya-tanya mengapa kaum normal menikmati semua pertukaran sosial itu. Bukankah itu caramu keluar dari jalan raya?",
+      "emphasis": [
+        {
+          "start": 400,
+          "end": 428,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#79",
+      "text": "Namun, Hayama tampaknya setuju dengan gagasan itu. “Lagipula, kami tidak punya banyak kesempatan untuk ngobrol dengan anak-anak sekolah dasar.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#80",
+      "text": "“Eh, tapi ada masalah.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#81",
+      "text": "“Ya. Jadi menurutku kita hanya bisa memeriksa satu grup terdekat.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#82",
+      "text": "Bukan itu yang aku maksud ketika aku mengatakan itu… Untuk beberapa alasan, dia bertindak dengan asumsi bahwa aku telah menyetujui hal ini. Biasanya, Anda akan berpikir, Ada panci di atas api, jadi aku tidak bisa pergi. Benar? Itulah yang aku maksud. Mengapa dia menganggapnya sebagai nasihat tentang cara melakukan ini? “Aku akan mengawasi potnya…,” kataku, segera mundur, tapi putaran balikku segera dicegat.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 52,
+          "style": "em"
+        },
+        {
+          "start": 170,
+          "end": 218,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#83",
+      "text": "“Jangan khawatir, Hikigaya. Aku akan menjaga potnya.” Bu Hiratsuka yang menyeringai menghalangi jalanku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#84",
+      "text": "Begitu. Jadi ini bagian dari pelatihanku dalam seni “bergaul”, ya…?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#85",
+      "text": "Hayama memimpin, dan kami mendekati kelompok terdekat. Bukannya aku peduli, tapi dia lebih seperti kapten Klub Layanan dibandingkan Yukinoshita. Sepertinya anak-anak menganggap kedatangan kami, siswa sekolah menengah, sebagai acara istimewa, dan kami menerima sambutan yang antusias. Mereka membocorkan isi karinya, dan meski belum matang, mereka terus mendesak kami untuk ayo, makan, makan seperti sekelompok nenek-nenek desa. Nah, dengan kari Jepang, Anda selalu mencapai ambang rasa tertentu, apa pun keahlian Anda. Aku ragu mereka akan memikirkan sesuatu yang terlalu aneh.",
+      "emphasis": [
+        {
+          "start": 373,
+          "end": 390,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#86",
+      "text": "Hayama dan yang lain dikelilingi anak-anak, dan mereka semua benar-benar akrab. Andai saja aku bisa menganggap itu semata-mata berkat kepiawaiannya bergaul, seperti, Memang hebat kaum normal. Namun, sebenarnya bukan hanya dia alasan anak-anak bersikap begitu. Anak-anak pada usia itu justru paling tidak gentar terhadap orang dewasa. Mereka tidak tahu apa yang menjadikan orang dewasa itu dewasa, jadi mereka menganggap orang yang lebih tua bukan masalah besar. Sumber: diriku di masa lalu. Mereka tidak tahu nilai uang, pentingnya belajar, atau makna cinta. Mereka menganggap semua yang diberikan sebagai hal wajar dan tak tahu dari mana asalnya. Pada usia itu, mereka merasa yakin memahami cara kerja dunia, padahal baru menggores permukaannya. Begitu masuk SMP, kau mengenal kegagalan, penyesalan, serta keputusasaan; kau mulai menghargai betapa sulitnya hidup di dunia. Atau, kalau kau anak yang cerdas, mungkin kau sudah menyadarinya lebih dahulu.",
+      "emphasis": [
+        {
+          "start": 166,
+          "end": 190,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#87",
+      "text": "Misalnya, seorang gadis yang dikeluarkan dari grup dan berusaha untuk menjadi tidak terlihat sendirian. Anak-anak lain mungkin melihatnya sendirian setiap hari, jadi mereka tidak terlalu memikirkannya. Namun dari sudut pandang orang luar, ini adalah pemandangan yang menawan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#88",
+      "text": "“Apakah kamu suka kari?” Hayama mencoba mendekati Rumi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#89",
+      "text": "Ketika Yukinoshita melihat usahanya, dia menghela napas begitu kecil sehingga kamu mungkin akan melewatkannya. Aku bersamanya di sana. Itu adalah langkah yang buruk."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#90",
+      "text": "Jika Anda ingin mencoba mengobrol dengan seorang penyendiri, Anda harus selalu melakukannya secara diam-diam, tanpa terlihat. Anda harus mengambil tindakan pencegahan terbaik untuk memastikan mereka tidak dipermalukan di depan umum. Seorang siswa sekolah menengah yang berbicara dengan Rumi, terutama tokoh terkemuka seperti Hayama, hanya akan semakin menonjolkan keunikannya dan membuat rasa kesepiannya menjadi lebih lega. Sebagai analogi sederhana, ini seperti betapa lebih memalukan berpasangan dengan guru daripada berakhir sendirian. Simpati dan rasa kasihan adalah bagian terburuknya. Aku akan berkata, Berhenti bersikap baik padaku; Aku lebih suka Anda mengabaikan aku saja. Saat Anda sendirian, Anda tidak terlihat, dan Anda lolos tanpa cedera. Namun ketika Anda harus bermitra dengan guru, Anda tidak lagi “terselubung oleh tirai rahasia” dan lebih “gagal seperti perawan NEET.” Itu sebabnya itu adalah ide yang buruk.",
+      "emphasis": [
+        {
+          "start": 610,
+          "end": 681,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#91",
+      "text": "Saat Hayama melakukan sesuatu, orang-orang di sekitarnya akan mengikutinya. Anak-anak sekolah menengah adalah selebriti, dan anak-anak akan mengikuti apa pun yang dilakukan objek kekaguman mereka. Rumi langsung menjadi sorotan. Dia sekarang menjadi pusat perhatian, seorang penyendiri yang langsung menjadi bintang. Bagus sekali, ya? Sungguh kisah Cinderella. Cinderella Super Dimensi. Dan mereka semua hidup bahagia selamanya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#92",
+      "text": "Tentu saja tidak."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#93",
+      "text": "Jika aku harus menebak apa yang terlintas dalam pikiran mereka, itu bukanlah Eek! Anak SMA itu sedang berbicara dengan Rumi! Dia sangat keren! Ayo berteman denganku juga! Mungkin seperti, Hah? Kenapa dia? Rumi sekarang mendapat kecaman—pandangan penasaran dari anak-anak yang sudah besar dan kecemburuan serta kebencian dari teman-teman sekelasnya.",
+      "emphasis": [
+        {
+          "start": 77,
+          "end": 170,
+          "style": "em"
+        },
+        {
+          "start": 188,
+          "end": 204,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#94",
+      "text": "Dia terjebak. Tidak peduli bagaimana dia menjawab pertanyaan Hayama, orang-orang pasti akan membencinya karenanya. Jika dia membalasnya dengan ramah, mereka akan berkata, Dia pikir dia cukup baik untuk berbicara dengannya, ya? Dan jika dia bersikap dingin padanya: Dia pikir dia ini siapa? Wow, penuh dengan dirinya sendiri. Terkutuklah jika kamu melakukannya, sial jika kamu tidak melakukannya.",
+      "emphasis": [
+        {
+          "start": 171,
+          "end": 226,
+          "style": "em"
+        },
+        {
+          "start": 265,
+          "end": 324,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#95",
+      "text": "Rumi tampak terkejut melihat Hayama berbicara kepadanya. “…Tidak juga. Aku tidak terlalu peduli dengan kari,” jawabnya dingin, berpura-pura tenang, lalu berjalan pergi dengan tenang. Dalam situasi seperti ini, tidak ada pilihan selain mundur secara taktis. Tidak ada kartu lain yang tersedia untuk dimainkan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#96",
+      "text": "Rumi menarik diri ke lokasi paling pribadi yang dia bisa, dikeluarkan dari lingkaran sosial. Dengan kata lain, ke arahku. Ngomong-ngomong, meski Yukinoshita menjauhkan dirinya dariku, dia juga ada di dekatnya. Seorang penyendiri yang bergaya menyendiri memiliki lingkaran ruang pribadi yang luas dan memancarkan aura negatif yang kuat yang membuat orang lain menjauhinya. Efeknya sangat kuat sehingga Anda bahkan bisa menyebutnya sebagai Reality Marble. Sederhananya, mereka hanya menjauhkan orang. Wah, aku terlalu blak-blakan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#97",
+      "text": "Pokoknya, Rumi mendekati suatu tempat sekitar satu meter jauhnya, tepat di antara Yukinoshita dan aku, lalu berhenti. Dia cukup dekat sehingga kami hampir tidak bisa melihat satu sama lain dari luar."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#98",
+      "text": "Karena bingung, Hayama tersenyum sedih pada Rumi dan segera kembali berinteraksi dengan anak-anak lain. “Baiklah, ini acara spesial, jadi ayo tambahkan bahan rahasia! Bagaimana? Apakah ada yang mau menambahkan sedikit tambahan?” ucapnya riang, memesona orang-orang di sekitarnya dan menarik perhatian mereka. Tatapan bermusuhan dengan cepat menjauh dari Rumi. Anak-anak mengangkat tangan sambil berteriak Aku! Aku! saat mereka menyarankan segala macam ide, seperti kopi, cabai, dan coklat.",
+      "emphasis": [
+        {
+          "start": 405,
+          "end": 414,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#99",
+      "text": "“Oh! Menurutku buah pasti enak! Seperti buah persik atau semacamnya!”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#100",
+      "text": "Ngomong-ngomong, dia adalah Yuigahama. Mengapa dia berpartisipasi…? Bahkan wajah Hayama sedikit menegang. Dia tidak hanya turun ke level anak-anak. Usulannya jelas merupakan hasil dari kemampuan memasak terburuk di antara mereka."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#101",
+      "text": "Hayama segera mengadopsi ekspresi lembutnya yang biasa dan mengatakan sesuatu kepada Yuigahama. Bahunya terkulai, dan dia berjalan dengan susah payah ke arah kami. Dari penampilannya, dia dengan lembut memintanya untuk pergi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#102",
+      "text": "“Dasar idiot…,” gumamku tanpa berpikir pada diriku sendiri."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#103",
+      "text": "Suara lembut seperti bisikan menggema di telingaku. “Mereka benar-benar sekelompok orang bodoh…,” kata Rumi Tsurumi dingin. Ya, itu sudah cukup. Nama panggilannya mulai sekarang adalah Rumi-Rumi. Apakah ini Nadesico?",
+      "emphasis": [
+        {
+          "start": 207,
+          "end": 215,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#104",
+      "text": "“Yah, seperti itulah kebanyakan orang di dunia. Untunglah kamu mengenalinya sejak dini,” kataku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#105",
+      "text": "Rumi memberiku penilaian aneh yang membuatku sedikit tidak nyaman."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#106",
+      "text": "Yukinoshita memotong di antara kita. “Dan kamu adalah bagian dari mayoritas itu.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#107",
+      "text": "“Hei, jangan remehkan aku,” balasku. “Saya sangat berbakat, saya bisa berakhir sendirian bahkan ketika saya berada di arus utama.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#108",
+      "text": "“Saya tidak tahu orang lain yang bisa mengatakan hal seperti itu dengan bangga,” jawabnya. “Aku bahkan tidak jengkel lagi. Aku menghina.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#109",
+      "text": "“Setelah kamu melewati rasa jengkel, bukankah biasanya kamu akan merasa hormat...?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#110",
+      "text": "Rumi mendengarkan percakapan kami tanpa tersenyum, dalam diam. Dia bergeser sedikit lebih dekat ke kami dan kemudian berbicara kepadaku. “Nama.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#111",
+      "text": "“Hah? Sebutkan apa?” Aku balik bertanya, tidak yakin dengan apa yang dia maksud dengan satu-satunya kata itu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#112",
+      "text": "Rumi dengan angkuh menyatakan kembali dengan rasa tidak senang yang mendalam, “Aku menanyakan namamu. Kebanyakan orang pasti sudah mengetahui hal itu.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#113",
+      "text": "“…Kamu menyebutkan namamu sendiri terlebih dahulu sebelum bertanya pada seseorang milik orang lain,” jawab Yukinoshita dengan tatapan tajam yang berbahaya. Itu mungkin yang paling menakutkan baginya. Anda bahkan tidak bisa menyebutnya sebagai tatapan tajam; itu lebih seperti kematian karena penikaman visual. Yukinoshita tidak berniat bersikap lunak pada Rumi meskipun usianya masih muda. Faktanya, dia bertingkah lebih parah dari biasanya. Mungkin dia tidak terlalu menyukai anak-anak."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#114",
+      "text": "Tata tajam Yukinoshita juga membuat Rumi takut, dan dia dengan canggung membuang muka. “…Rumi Tsurumi,” gumamnya dengan nada cemberut, meski cukup terdengar hingga aku bisa menangkapnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#115",
+      "text": "Yukinoshita mengangguk, sepertinya dia juga mendengarnya. “Aku Yukino Yukinoshita. Dan di sana ada...Hiki...Hikiga...Hikiguana, kan?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#116",
+      "text": "“Hei, bagaimana kamu tahu nama panggilan kelas empatku? Pada akhirnya, mereka hanya memanggilku ‘Iguana’…” Pada titik tertentu, hubungan dengan nama keluargaku telah hilang, dan aku hanyalah kadal bagi mereka. Kata-kata memang memiliki kehidupannya sendiri. “Saya Hachiman Hikigaya.” Jika aku tidak mengatakan sesuatu, orang-orang akan memanggilku Hikiguana lagi, jadi aku melakukan perkenalan diri dengan benar."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-117",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#117",
+      "text": "“Dan ini Yui Yuigahama.” Aku menunjuk gadis yang dimaksud, yang sedang mendekati kami."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-118",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#118",
+      "text": "“Hah? Ada apa?” Yuigahama melihat ke arah kami bertiga dan menyatukannya, kurang lebih. “Oh, ya, ya. Namaku Yui Yuigahama. Rumi Tsurumi, ya? Senang bertemu denganmu.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-119",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#119",
+      "text": "Tapi Rumi hanya mengangguk sebagai jawaban pada Yuigahama. Dia bahkan tidak melirik gadis yang lebih tua itu. Dengan tatapannya ke tanah di dekat kakinya, dia berbicara dengan ragu-ragu. “Seperti, kalian berdua tampak berbeda. Berbeda dari orang-orang itu.” Kata-katanya tidak jelas, jadi sulit untuk memahami maksudnya, tapi kupikir dia mencoba mengatakan bahwa Yukinoshita dan aku tidak menyukai “orang-orang itu”—dengan kata lain, Hayama dan yang lainnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-120",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#120",
+      "text": "Yah, kami memang berbeda. Melihat kelompok tersebut di atas, mereka tampak menikmati usaha mereka untuk membuat “kari spesial.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-121",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#121",
+      "text": "“Aku juga berbeda,” Rumi berkata perlahan, seolah meluangkan waktu untuk mencerna kata-katanya. Mungkin dia membenarkan ide itu pada dirinya sendiri dengan menyatakannya keras-keras."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-122",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#122",
+      "text": "Ekspresi Yuigahama berubah menjadi serius. “Beda bagaimana caranya?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-123",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#123",
+      "text": "“Mereka semua hanyalah anak-anak. Yah, aku cukup akrab dengan mereka untuk sementara waktu. Tapi itu hanya buang-buang waktu, jadi aku membuang mereka. Sepertinya aku baik-baik saja kalau sendirian.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-124",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#124",
+      "text": "“T-tapi…Aku memikirkan kenangan masa SDmu persahabatan di sekolah itu cukup penting.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-125",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#125",
+      "text": "“Tapi kamu tidak membutuhkannya. Begitu aku masuk sekolah menengah, aku bisa berteman dengan anak-anak yang berasal dari sekolah lain.” Dia diam-diam mengangkat kepalanya, matanya menatap ke langit. Matahari akhirnya tenggelam melewati cakrawala, dan langit berwarna nila, seolah-olah ada yang menumpahkan tinta encer ke atasnya. Di sana sini, bintang mulai berkelap-kelip. Rumi mempunyai tatapan sedih dan jauh di matanya, tapi pada saat yang sama, sebuah harapan indah bersemayam di dalamnya. Rumi Tsurumi masih percaya dan masih beriman. Dia yakin bahwa di lingkungan baru, segalanya bisa berubah."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-126",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#126",
+      "text": "Tetapi harapan itu tidak nyata."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-127",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#127",
+      "text": "“Maaf, tapi itu tidak akan terjadi,” tegas Yukino Yukinoshita dengan blak-blakan. Rumi memberinya tatapan mencela. Tapi Yukinoshita menatap kembali ke matanya dan dengan tenang mengungkapkannya dengan tegas. “Anak-anak di sekolah dasarmu akan bersekolah di sekolah menengah yang sama, bukan? Maka semuanya akan sama. Dan 'anak-anak dari sekolah lain' akan bersama mereka.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-128",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#128",
+      "text": "Saat kamu berpindah dari sekolah dasar negeri ke sekolah menengah negeri, semua hubunganmu sampai saat itu terus berlanjut seperti sebelumnya. Saat Anda mulai masuk sekolah menengah, Anda masih memiliki nilai negatif yang sama dengan yang Anda dapatkan di masa muda Anda. Anda mungkin berasumsi bahwa Anda bisa mendapatkan teman baru, tetapi tanggung jawab masa lalu Anda akan menyelinap masuk. Suka atau tidak suka, riwayat pribadi Anda menjadi domain publik dalam bentuk cerita lucu dan anekdot. Mereka bersenang-senang, menggunakannya sebagai alat komunikasi yang nyaman, dan semuanya berakhir."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-129",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#129",
+      "text": "“…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-130",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#130",
+      "text": "Tidak ada keberatan yang diajukan. Aku tidak mau membantah, dan Yuigahama terdiam dengan tidak nyaman. Rumi tidak menjawab."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-131",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#131",
+      "text": "“Jangan bilang kamu belum tahu?” Yukinoshita mendaratkan pukulan terakhirnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-132",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#132",
+      "text": "Rumi tidak mampu membalas. Yukinoshita memperhatikannya seolah-olah dia menahan diri untuk tidak mengatakan lebih banyak, mulutnya terkatup rapat. Mungkin dia melihat jejak masa lalunya pada gadis muda itu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-133",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#133",
+      "text": "“Aku sudah tahu…” Rumi terdiam dan pasrah. “Aku benar-benar sangat bodoh.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-134",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#134",
+      "text": "“Apa yang terjadi?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-135",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#135",
+      "text": "Saat Rumi bergumam pada dirinya sendiri karena menyalahkan diri sendiri, Yuigahama dengan lembut mendesak untuk meminta informasi lebih lanjut."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-136",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#136",
+      "text": "“Hal ini terjadi beberapa kali. Seseorang akan melakukannya, dan kemudian kami berhenti berbicara dengan mereka. Namun, pada akhirnya, hal itu akan selalu berakhir, dan setelah selesai, kami akan berbicara lagi. Itu hanya sebuah fase. Seseorang akan selalu memulainya, dan kemudian semua orang akan melakukannya.” Rumi mengatakannya tanpa basa-basi, tapi ceritanya membuatku merinding."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-137",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#137",
+      "text": "Apa-apaan ini. Itu benar-benar menakutkan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-138",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#138",
+      "text": "“Dan kemudian hal itu terjadi pada seorang gadis yang berteman denganku dan sering berbicara denganku, dan aku agak menjauh darinya, tapi… Tapi tiba-tiba, itu adalah aku. Meskipun aku tidak melakukan apa pun.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-139",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#139",
+      "text": "Aku yakin alasan apa pun bisa melakukannya. telah bekerja. Tidak, mereka tidak perlu mempunyai pembenaran yang jelas. Hanya ada perasaan aneh bahwa memang seharusnya begitu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-140",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#140",
+      "text": "“Dan aku sudah menceritakan banyak hal padanya…” Seseorang yang menjadi temanmu suatu hari akan membocorkan rahasiamu di hari berikutnya, hanya untuk membuat orang lain tertawa. Dia siswa kelas enam, jadi dia mungkin naksir. Anda tidak tahu bagaimana menghadapi perasaan romantis yang asing ini, jadi Anda ingin mengungkapkannya. Namun hal itu memang memalukan, jadi bukalah hatimu dan curhatlah pada orang yang kamu percaya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-141",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#141",
+      "text": "Mengapa semakin sering kamu mengatakan jangan beritahu siapa pun, semakin mereka menyebarkannya? Ini seperti, apakah Anda Klub Burung Unta? Aku bisa menertawakannya sekarang, tapi pada saat itu, itu adalah pengalaman yang menyakitkan, sulit, dan menyiksa. Anda mengira Anda memercayai seseorang dengan membagikan rahasia Anda kepadanya, namun detail pribadi tersebut hanya berfungsi sebagai amunisi.",
+      "emphasis": [
+        {
+          "start": 39,
+          "end": 64,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-142",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#142",
+      "text": "Tidak ada seorang pun di dunia ini yang cocok dengan gambaran klasik penjahat. Biasanya, semua orang baik atau setidaknya biasa saja. Namun dalam keadaan yang tepat, hal itu bisa berubah secara tiba-tiba, dan inilah yang membuatnya begitu menakutkan. Seseorang harus selalu waspada.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 282,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-143",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#143",
+      "text": "Bagian ini tiba-tiba terlintas di benak aku. Tidak ada orang yang terlahir jahat. Semua orang percaya akan hal itu, termasuk aku sendiri. Anda yakin bahwa Anda sendiri adalah orang baik. Namun begitu sesuatu yang Anda ingin manfaatkan terancam, saat itulah cakarnya akan lepas."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-144",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#144",
+      "text": "Anda mengatakan pada diri sendiri bahwa Anda tidak jahat, jadi ketika Anda melakukan sesuatu yang buruk, Anda mencari alasan untuk membenarkan tindakan Anda. Untuk menghindari disonansi kognitif setelah Anda berubah, Anda membalikkan dunia agar sesuai dengan identitas baru Anda. Orang-orang yang tadinya keren sehari yang lalu sekarang penuh dengan diri mereka sendiri, dan orang-orang yang kebijaksanaan dan kecerdasannya pernah Anda hormati sekarang merasa hina, karena mereka harus mencemooh orang-orang yang kurang akademis. Orang yang tadinya Anda gambarkan sebagai orang yang energik dan aktif, kini dijuluki sebagai orang yang menyebalkan dan terlalu bersemangat."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-145",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#145",
+      "text": "Jadi, Anda menggunakan pedang keadilan Anda, menjatuhkan penilaian Anda terhadap dunia yang terbalik. Namun Anda tidak bisa memvalidasi keyakinan Anda sendirian. Itu sebabnya Anda mengumpulkan konspirator. Anda bersatu dan berputar-putar tentang betapa tidak bermoral dan tidak bermoralnya mereka, seolah-olah itu adalah fakta yang sudah pasti. Anda memupuk rasa keadilan Anda di ruang gema itu, mengambil benih ketidakpuasan yang sangat kecil itu dan menumbuhkannya menjadi pohon besar. Jika itu tidak bohong, lalu apa itu?"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-146",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#146",
+      "text": "Terperangkap dalam gelembung Anda sendiri, Anda gemetar ketakutan, berpikir mungkin inilah giliran Anda selanjutnya. Itu sebabnya Anda mencari pengorbanan baru sebelum hal itu terjadi pada Anda. Dan demikianlah siklus itu terus berlanjut. Tidak ada akhir. Apa makna persahabatan yang dibangun di atas pengorbanan harga diri orang lain?"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-147",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#147",
+      "text": "“Mungkin akan berakhir seperti ini lagi…bahkan di sekolah menengah.” Suaranya bergetar dengan awal isak tangis."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-148",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#148",
+      "text": "Sorak-sorai meledak dari kelompok besar, menenggelamkannya. Meski jarak kami kurang dari sepuluh meter, kejadian di sana mungkin terjadi di negeri asing yang jauh."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-149",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#149",
+      "text": "Aku bisa mendengar suara peralatan makan dan sendok berdenting. Kami mengantar Rumi yang terdiam saat dia kembali ke kelompoknya dengan ekspresi setengah pasrah, lalu kami langsung kembali ke base camp kami."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-150",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#150",
+      "text": "Saat Bu Hiratsuka mengawasi panci untuk kami, kentangnya sudah melunak dengan baik, dan nasinya sepertinya sudah matang juga. Ada meja kayu dan sepasang bangku di dekat area memasak. Setiap orang menyajikan sepiring makanan, dan pencarian tempat duduk pun dimulai."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-151",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#151",
+      "text": "Yang pertama duduk adalah Yukinoshita. Dia mengambil kursi sudut di bangku tanpa ragu-ragu. Komachi mengikuti, tentu saja menjatuhkan diri tepat di samping Yukinoshita, dan Yuigahama tetap mempertahankan polanya. Saat aku bertanya-tanya siapa yang berikutnya, cukup mengejutkan, itu adalah Ebina, dan kemudian Miura mengambil posisi di sisi yang berlawanan. Aku sudah berpikir pasti bahwa Miura ingin menempatkan dirinya tepat di tengah, tapi ternyata tidak."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-152",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#152",
+      "text": "Sedangkan untuk yang laki-laki, Tobe mengambil tempat duduk di hadapan Miura. Ahh, sepertinya dia menyukainya, ya? Di sampingnya duduk Hayama. Aku tipe pria yang tidak peduli di mana aku duduk, jadi aku berniat memilih kursi mana pun yang tersisa pada akhirnya. Faktanya, aku selalu menjadi yang terakhir dalam pengambilan keputusan kelompok seperti itu. Ini seperti, Anda tahu, aku adalah tipe pria berhati terbuka yang akan dengan murah hati membiarkan orang lain menjadi yang pertama. Kemungkinan besar, baik Totsuka, Bu Hiratsuka, atau akulah yang akan duduk di samping Hayama.",
+      "emphasis": [
+        {
+          "start": 78,
+          "end": 114,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-153",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#153",
+      "text": "“Um…” Totsuka sedang memikirkan apa yang harus dilakukan, melihat bolak-balik antara aku dan Bu Hiratsuka. “Di-di mana kamu ingin duduk, Hachiman?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-154",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#154",
+      "text": "“Aku baik-baik saja di mana pun. Aku akan pergi ke mana pun yang tersisa.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-155",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#155",
+      "text": "“Seperti pepatah, ‘Ada keberuntungan di balik apa yang tertinggal’?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-156",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#156",
+      "text": "“Tidak, sebenarnya bukan itu alasannya,” jawab aku. Entah bagaimana, semuanya berakhir seperti itu. Kehendak bebas atau keyakinan pribadi aku tidak ada hubungannya dengan hal itu… Sebenarnya tidak ada hubungannya sama sekali."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-157",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#157",
+      "text": "“Ada keberuntungan dalam apa yang tertinggal, ya…? Begitu!” Bu Hiratsuka tiba-tiba bergumam pada dirinya sendiri. “Itu dia… Ya… itu pasti benar.” Ekspresinya seperti dia baru saja menerima wahyu ilahi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-158",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#158",
+      "text": "Itu reaksi yang agak ekstrem terhadap ungkapan tertinggal… Serius, ada yang bisa memberi wanita ini keberuntungan. “Baiklah, ayo kita duduk dimana saja,” kataku. “Kamu mau duduk di mana, Totsuka?”",
+      "emphasis": [
+        {
+          "start": 47,
+          "end": 57,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-159",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#159",
+      "text": "“Di mana saja tidak masalah, asalkan aku di sampingmu.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-160",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#160",
+      "text": "“…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-161",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#161",
+      "text": "Aku tadi kaget. Totsuka mengatakannya seolah itu bukan apa-apa. Itu sebabnya aku sangat lambat bereaksi. Dia pasti menyadari apa yang dia katakan juga, saat dia diam-diam menutup mulutnya sebagai tanda pengakuan. “I-Itu cara yang aneh untuk mengatakannya, tapi, um, kami sangat sibuk menyiapkan makan siang dan membantu anak-anak, kami tidak punya banyak kesempatan untuk berbicara, jadi…” Namun usahanya untuk menjelaskan dirinya sendiri tidak benar-benar mengubah arti dari apa yang dia katakan. Itu hanya membuat dadaku sedikit sesak."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-162",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#162",
+      "text": "“Baiklah, terserah. Ayo duduk.” Sekarang karena merasa sangat malu dan malu, aku mendorong punggung Totsuka untuk mempercepatnya. Ya ampun, kenapa punggungnya begitu kurus dan ramping? Dia pasti tidak terlalu berat, karena tidak ada perlawanan sama sekali."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-163",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#163",
+      "text": "“Baiklah. Kalau begitu aku duduk di sini ya?” Totsuka memberi isyarat padaku dengan mengibaskan tangannya ke bawah meja, sehingga tidak ada orang lain yang bisa melihatnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-164",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#164",
+      "text": "“…Oke.” Dia tidak perlu menanyakanku seperti itu; Lagipula aku akan duduk di sana. Aku khawatir wajahku akan menjadi senyuman jika aku tidak hati-hati. Aku berpura-pura menguap, menutup mulutku dengan satu tangan untuk menyembunyikannya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-165",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#165",
+      "text": "“Baiklah, ayo makan.” Akhirnya, Bu Hiratsuka duduk di sampingku di bagian paling ujung. Atas isyaratnya, semua orang di meja menyatukan tangan dan mengucapkan terima kasih singkat. Kalau dipikir-pikir lagi, aku menyadari sudah lama sejak terakhir kali aku makan bersama dengan kelompok besar seperti ini. Terakhir kali terjadi dua tahun lalu, tapi sekarang rasanya seperti sejarah kuno."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-166",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#166",
+      "text": "“Ini seperti saat kita makan siang di sekolah,” bisik Totsuka di telingaku. Aku kira hal yang sama juga terlintas dalam pikirannya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-167",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#167",
+      "text": "Karena gelisah karena kedekatannya yang tidak biasa, aku akhirnya memberinya jawaban yang lugas dan jujur. “Ya, dan menu karinya juga.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-168",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#168",
+      "text": "“Anak laki-laki pasti suka kari, ya? Dulu, mereka sangat bersemangat saat hari kari,” kata Yuigahama dengan nada sedih. Rupanya, makan siang di sekolah, kari, dan anak laki-laki yang berisik adalah kenangan universal. Hal serupa juga terjadi di sekolahku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-169",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#169",
+      "text": "“Ya, ya,” jawabku. “Kemudian anak yang mendapat giliran menyajikan itu mengetuk seluruh panci, dan semua orang memberinya omong kosong.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-170",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#170",
+      "text": "Tobe terkekeh di kursinya yang jauh sambil melahap makanannya. “Ya ampun, aku ingat itu! Bung!”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-171",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#171",
+      "text": "“Dan seluruh kelas mengunyah anak ini,” lanjutku, “dan dia masih mengenakan seragam pelayan putih dengan kari di atasnya. Dia berkeliling ke semua kelas lain, mencoba membuat mereka berbagi, tapi mereka tidak ingin dia mengambil kari mereka, jadi mereka segera mulai mengamuk padanya, dan dia berakhir dengan sangat menyedihkan bahwa dia pergi ke lorong untuk menangis. Tapi bagian terburuknya adalah noda di seragam putihnya tidak hilang, dan ketika dia meneruskannya ke anak berikutnya yang bertugas melayani, pria itu berkata kepadanya, 'Seragam ini bau seperti kari, LOL,' dan semua orang mulai memanggilnya 'Curry Stink.'”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-172",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#172",
+      "text": "Sendok Yuigahama berhenti. “Eh, aku tidak ingat itu…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-173",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#173",
+      "text": "Begitu pula dengan Yukinoshita. “Mengapa cerita itu begitu detail...? Apakah kamu berbicara dari pengalaman pribadi?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-174",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#174",
+      "text": "“Noda itu memang tidak akan hilang,” kata Komachi. “Saya tidak tahu harus berbuat apa…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-175",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#175",
+      "text": "Tiba-tiba, awan rasa kasihan terhadap aku menyelimuti meja. Berkat keheningan total, aku bisa mendengar kicauan bel kriket awal."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-176",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#176",
+      "text": "Hayama dengan santai berdeham dan berusaha meredakan momen canggung itu. “Yah, anak laki-laki memang suka kari, jadi mereka sangat bersemangat karenanya. Mereka juga menyukainya saat hari jeli malt.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-177",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#177",
+      "text": "Ya ampun, aku rindu itu. Agar-agar misterius itu memiliki rasa unik yang sangat mirip dengan Milo. Itu sangat bagus. Tidak ada hari lain di mana aku sangat berharap agar semua orang bolos sekolah."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-178",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#178",
+      "text": "Hayama melanjutkan, “Saya bertanya kepada beberapa teman dari prefektur lain tentang hal ini, dan rupanya, Chiba adalah satu-satunya prefektur di mana mereka menyajikannya dalam makan siang sekolah.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-179",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#179",
+      "text": "“Hah?!” Yuigahama tersentak."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-180",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#180",
+      "text": "“Serius?!” Miura menggema."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-181",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#181",
+      "text": "“A-apakah itu benar…?” kata Komachi. Tidak ada yang bisa menahan keterkejutan mereka."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-182",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#182",
+      "text": "“Sial, semua orang di empat puluh enam prefektur lainnya harus menjalani kehidupan yang sangat malang…” Aku sangat terkejut, aku hampir bertanya-tanya apakah ini akan menurunkan peringkat kualitas hidup Jepang."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-183",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#183",
+      "text": "Ebina juga tidak bisa berkata-kata. Kehebohan melanda semua orang. Pengetahuan Hayama tentang Chiba telah menemukan momennya. Tapi tetap saja, aku tidak bisa membiarkan dia menyatakan dirinya sebagai Chibapedia hanya karena satu fakta belaka. Aku tidak peduli jika aku tertinggal di area lain, namun jika menyangkut Chiba, aku tidak ingin kalah! “Tahukah kamu kalau kacang miso hanya disajikan saat makan siang di sekolah di Chiba?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-184",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#184",
+      "text": "“Ya, saya tahu,” jawab Hayama."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-185",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#185",
+      "text": "“Mengapa kita berpikir sebaliknya?” tambah Yukinoshita."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-186",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#186",
+      "text": "“Dan, sepertinya, di sini di Chiba satu-satunya tempat kita memakannya di rumah, jadi,” kata Miura."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-187",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#187",
+      "text": "Kalian semua bereaksi terlalu dingin terhadap hal ini. Selain itu, tampaknya mereka makan kacang miso seperti biasanya di rumah tangga Miura. Bahkan aku tidak memakannya terlalu banyak di rumah. Aku tidak punya teman di prefektur lain, jadi aku tidak tahu apakah mereka disajikan di luar Chiba.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 54,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-188",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#188",
+      "text": "Ketel yang dilengkapi peluit mulai berbunyi. Potnya tidak memenuhi syarat untuk berukuran besar, tapi peluitnya tajam dan keras. Komachi dengan cepat berdiri dan mulai menuangkan teh ke dalam cangkir yang dilengkapi teh celup."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-189",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#189",
+      "text": "Malam di dataran tinggi sedikit dingin, dan saat anak-anak sekolah dasar mulai mundur dan suasana menjadi tenang, malam semakin dingin. Puncak pepohonan berdesir tertiup angin, dan aku bisa mendengar suara sungai di kejauhan. Sudah waktunya bagi anak-anak untuk tidur. Namun malam ini akan dihabiskan bersama teman-teman mereka, jadi tidak mungkin malam ini akan menjadi malam yang damai. Mereka mungkin akan melempar bantal, mengeluarkan camilan sebelum tidur, dan berbicara satu sama lain sepanjang malam."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-190",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#190",
+      "text": "Tetapi satu subbagian anak-anak akan tertidur dengan cepat. Anak-anak yang tidak diperbolehkan masuk ke dalam lingkaran pergaulan akan berusaha semaksimal mungkin untuk tidur lebih awal, dan bukan hanya karena mereka tidak dapat mengatasi keterasingan mereka sendiri. Mereka juga berusaha untuk bersikap perhatian, sehingga anak-anak lain tidak memperhatikan mereka dan dapat dengan mudah berpura-pura tidak ada di sana dan menikmati malam itu. Ya, tidak ada yang akan memperhatikan upaya mereka."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-191",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#191",
+      "text": "Dengarkan teman-teman, itu sebabnya aku ingin kalian berhenti melakukan lelucon. Jangan main-main denganku saat aku tertidur lalu tertawa sendiri atau bermain-main mengambil fotoku, oke? Baiklah? Sebenarnya aku mencoba untuk bersikap perhatian di sini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 252,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-192",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#192",
+      "text": "Gelas kertas Hayama mendarat di atas meja dengan ketukan lembut. “Mungkin mereka sedang melakukan percakapan malam hari yang selalu dilakukan semua orang saat karyawisata saat ini,” katanya. Sesuatu dalam nada bicaranya terdengar sedih sejak dulu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-193",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#193",
+      "text": "Kami belum melakukan karyawisata sekolah menengah. Itu dijadwalkan untuk semester kedua tahun kedua. Tugas sederhana yaitu berjalan tiga langkah di belakang teman-teman sekelasku dan kemudian langsung tidur kembali menantiku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-194",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#194",
+      "text": "Tetapi satu-satunya alasan mengapa hal ini mudah bagiku sekarang adalah karena aku telah mengatasi semua kesulitan itu di masa lalu. Bagi mereka yang masih terjebak dalam pusaran yang berputar-putar itu, hal itu sungguh memalukan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-195",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#195",
+      "text": "“Aku ingin tahu apakah dia baik-baik saja…,” kata Yuigahama kepadaku, terdengar sedikit khawatir."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-196",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#196",
+      "text": "Aku tidak perlu bertanya siapa yang dia maksud. Itu adalah Rumi Tsurumi. Hanya aku, Yukinoshita, dan Yuigahama yang mendengarkannya secara langsung, tapi bukan hanya kami yang menyadari pengecualiannya. Semua orang pernah. Dan bukan hanya orang-orang yang ada di meja ini—siapa pun pasti akan mengalaminya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-197",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#197",
+      "text": "Sebuah korek api tergores dan terbakar. Profil Bu Hiratsuka yang menyendiri diterangi sejenak dalam kegelapan di bawah pepohonan. Dia menghirup sedikit rokoknya, asapnya mengepul ke atas. Dia melepaskan dan menyilangkan kembali kakinya saat asap beterbangan di udara. “Hmm. Sesuatu yang kamu khawatirkan?” dia bertanya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-198",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#198",
+      "text": "Hayama yang menjawab. “Nah, ada seorang gadis kecil yang tidak punya teman…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-199",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#199",
+      "text": "“Ya, kasihan sekali.” Balasan Miura mungkin hanya upaya refleksif dalam percakapan. Dia mengatakannya seolah-olah itu adalah respons yang sudah jelas."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-200",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#200",
+      "text": "Itu sedikit menggangguku. “...Kamu salah paham, Hayama. Kamu tidak mengerti masalah sebenarnya di sini. Tidak punya teman dan sendirian tidak apa-apa, kalau hanya itu. Masalahnya adalah anak-anak lain dengan jahat mengusirnya.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-201",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#201",
+      "text": "“Hah? Apa bedanya?” Aku tadi berbicara dengan Hayama, tapi Miura-lah yang menjawab. Menakutkan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-202",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#202",
+      "text": "“Beberapa orang sendirian karena mereka ingin sendiri, dan beberapa orang tidak ingin sendirian, namun tetap saja berakhir seperti itu… Itukah yang Anda maksud?” Hayama bertanya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-203",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#203",
+      "text": "“Ya, itu idenya.” Itu sebabnya masalah yang harus diselesaikan bukanlah keterasingannya, melainkan lingkungan yang memaksanya untuk mengasingkan diri."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-204",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#204",
+      "text": "“Jadi, apa yang ingin kalian lakukan?” Bu Hiratsuka bertanya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-205",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#205",
+      "text": "“Baiklah…” aku terdiam. Kami semua terdiam. Apa yang ingin aku lakukan? Aku sebenarnya tidak ingin melakukan apa pun. Aku hanya ingin menyampaikan pendapat aku. Pada dasarnya, hal ini tidak ada bedanya dengan saat Anda menonton film dokumenter di TV tentang perang atau kemiskinan, dan Anda berkata, Aduh, ini pasti sangat sulit, kita harus melakukan apa yang kita bisa untuk mengatasi hal ini, sembari Anda makan makanan enak di rumah yang nyaman. Pada akhirnya, hal itu akan menyebabkan sesuatu dilakukan, katamu, tapi itu bohong. Anda mulai menjadikan segalanya tentang diri Anda dan berpikir, Sekarang aku menyadari betapa beruntungnya aku, dan itu saja. Mungkin Anda akan menyumbangkan sepuluh atau seratus yen. Namun hanya sebatas itu saja.",
+      "emphasis": [
+        {
+          "start": 44,
+          "end": 117,
+          "style": "em"
+        },
+        {
+          "start": 300,
+          "end": 393,
+          "style": "em"
+        },
+        {
+          "start": 449,
+          "end": 506,
+          "style": "em"
+        },
+        {
+          "start": 597,
+          "end": 643,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-206",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#206",
+      "text": "Tentu saja, beberapa orang sadar akan masalah ini dan dengan tulus berusaha mengubahnya. Itu sungguh mulia, dan aku menghormati serta mengaguminya. Bahkan sumbangan tersebut mungkin akan membantu orang-orang yang berada dalam kesulitan. Tapi bukan kami. Aku, Hayama, Miura—tidak ada dari kami yang akan melakukan apa pun dengan serius, bahkan kami pun tidak bisa melakukannya. Anda tahu hal itu, dan Anda menggunakan fakta bahwa hal itu bukan dalam kemampuan Anda sebagai alasan karena Anda masih ingin percaya bahwa Anda baik hati."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-207",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#207",
+      "text": "Setelah Anda melihat sesuatu yang tidak ada hubungannya dengan Anda, Anda tidak bisa mengaku tidak tahu. Tapi kamu masih tidak berdaya. Jadi paling tidak, Anda ingin membiarkan diri Anda merasa kasihan dan berhenti di situ. Emosi tersebut indah dan mulia, tetapi juga merupakan alasan yang kejam dan buruk. Itu tidak lebih dari perpanjangan ideologi pemuda yang penuh tipu daya yang sangat aku benci."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-208",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#208",
+      "text": "“Aku…” Hayama membuka mulutnya setelah beberapa saat terdiam. “Saya ingin melakukan apa yang saya bisa untuknya, jika memungkinkan.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-209",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#209",
+      "text": "Itu adalah ungkapan yang sangat mirip dengan Hayama. Kata-katanya baik. Mereka bersimpati tidak hanya pada Rumi, tapi juga pada orang-orang di sini yang mendengarkannya. Itu adalah kebohongan yang baik hati yang tidak akan menyakiti siapa pun. Dia menggantungkan harapan di depan kami, namun sikapnya yang tidak langsung dalam mengungkapkan harapan itu berkonotasi dengan keputusasaan. Dia menyiratkan bahwa mungkin hal itu tidak dapat dilakukan dan memberikan ruang bagi orang lain untuk menafsirkannya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-210",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#210",
+      "text": "“Itu tidak mungkin bagi Anda. Anda sudah melakukan upaya, bukan?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-211",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#211",
+      "text": "Yukinoshita masuk dan membongkar basa-basinya yang samar-samar dan nyaman. Dalam kegelapan malam, diterangi oleh lentera, dia menyisir rambutnya ke belakang dan menusuk Hayama dengan tatapan dingin. Dia menyatakan perspektifnya seolah-olah itu adalah kebenaran yang sudah ada, begitu aksiomatik sehingga tidak perlu memintanya menjelaskan atau membenarkan dirinya sendiri. Kupikir yang dia maksud adalah saat Hayama mencoba berbicara dengan Rumi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-212",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#212",
+      "text": "Untuk sesaat, wajah Hayama berkedip-kedip dengan ekspresi seperti terbakar di dalam. “Ya, mungkin kamu benar…tapi kali ini akan berbeda,” jawabnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-213",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#213",
+      "text": "“Hmm. Aku yakin,” jawab Yukinoshita dingin, sambil mengangkat bahu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-214",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#214",
+      "text": "Saat percakapan tak terduga antara keduanya, keheningan menyelimuti meja. Aku juga tutup mulut, mengamati mereka. Aku sudah menyadarinya sebelumnya, ketika Hayama masuk ke ruang Klub Layanan di lain waktu. Yukinoshita bertingkah berbeda saat berada di dekat Hayama, lebih kaku dari biasanya. Penampilan luarnya yang dingin hanyalah ekspresi keterasingannya, tapi ada sesuatu yang disengaja dalam cara dia berbicara dengannya. Ternyata ada sesuatu di antara mereka berdua yang tidak kusadari. Kalau begitu, lalu kenapa? Bukannya aku peduli dengan masalah mereka, tapi mereka membuat segalanya menjadi sangat aneh dan membuatku takut."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-215",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#215",
+      "text": "“Astaga…,” kata Bu Hiratsuka. Seolah-olah ingin memberikan dirinya kehadiran tertentu, dia menyalakan sebatang rokok lagi, perlahan-lahan menghisap semuanya selama lima menit, menghancurkannya di asbak sebelum dia mencoba mendapatkan masukan lebih lanjut. “Bagaimana denganmu, Yukinoshita?” dia bertanya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-216",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#216",
+      "text": "Yukinoshita meletakkan tangannya di dagunya. “…Izinkan saya menanyakan satu hal terlebih dahulu.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-217",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#217",
+      "text": "“Dan itu adalah?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-218",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#218",
+      "text": "“Anda bilang perkemahan ini juga merupakan kegiatan Klub Layanan, Bu Hiratsuka. Apakah hal ini termasuk dalam kegiatan tersebut?” dia bertanya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-219",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#219",
+      "text": "Bu Hiratsuka berpikir sejenak dan kemudian dengan tenang menjawab setuju. “...Hmm. Ya. Karena aku sudah menyatakan membantu perjalanan ini sebagai sukarelawan, maka itu menjadikannya bagian dari kegiatan klubmu. Sebenarnya, itu harusnya termasuk dalam kategori itu,” jawabnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-220",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#220",
+      "text": "“Begitu...” Yukinoshita menutup matanya. Angin yang tadinya berbisik melalui dedaunan di pepohonan terhenti. Seolah-olah hutan berusaha mendengarkan apa yang dia katakan. Tidak ada yang berbicara sepatah kata pun saat kami menunggu. “Aku… Jika dia membutuhkan bantuan, aku akan menggunakan segala cara yang ada untuk menemukan solusinya,” Yukino Yukinoshita menyatakan dengan tegas dan tegas. Pernyataannya membawa martabat yang elegan, tekad yang tak tergoyahkan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-221",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#221",
+      "text": "Kau keren sekali, Yukinoshita. Jika aku perempuan, aku pasti akan jatuh cinta padanya saat ini. Maksudku, lihat Yuigahama dan Komachi. Mereka berdua hampir pingsan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 164,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-222",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#222",
+      "text": "Aku kira jawaban itu sudah cukup bagi Bu Hiratsuka, saat dia mengangguk tegas. “Jadi, apakah dia membutuhkan bantuanmu?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-223",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#223",
+      "text": "“…Aku tidak tahu,” jawab Yukinoshita. Memang benar Rumi tidak menanyakan apa pun kepada kami. Kami belum memastikan apa yang dia inginkan secara nyata."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-224",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#224",
+      "text": "Yuigahama menarik baju Yukinoshita beberapa kali. “Yukinon. Mungkin dia ingin bertanya, tapi dia tidak bisa.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-225",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#225",
+      "text": "“Karena tidak akan ada yang percaya padanya atau semacamnya?” tanyaku."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-226",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#226",
+      "text": "Yuigahama sedikit ragu dalam menjawabnya. “Ya, ada juga, tapi juga...seperti yang dikatakan Rumi. Hal ini pernah terjadi sebelumnya. Dan saat itu adalah orang lain, dia juga ikut serta. Itu sebabnya aku berpikir, mungkin, dia tidak akan membiarkan kita menyelamatkannya saja. Dan menurutku bukan hanya dia saja yang bersalah. Menurutku semua orang juga begitu... Kadang-kadang, itu seperti, meskipun kamu ingin berbicara dengan seseorang dan menjadi temannya, kamu tidak bisa karena suasananya. Tapi kamu masih merasa bersalah…” Yuigahama terdiam. Dia menarik napas beberapa kali dan kemudian terkikik ta-ha-ha seolah meremehkan beratnya perkataannya. “Yah, itu agak…sangat memalukan untuk dibicarakan, tapi, sepertinya…membutuhkan banyak keberanian untuk berbicara dengan seseorang ketika tidak ada orang di sekitarmu.”",
+      "emphasis": [
+        {
+          "start": 602,
+          "end": 610,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-227",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#227",
+      "text": "Yukinoshita nampaknya terpesona, dan matanya terpaku pada senyuman gadis itu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-228",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#228",
+      "text": "Yuigahama benar. Biasanya, mungkin dibutuhkan keberanian untuk berbicara dengan orang yang penyendiri. Awalnya, dia gugup memasuki ruang klub. Tapi dia berhasil mengatasinya dan memulai percakapan dengan Yukinoshita dan aku. Menurutku itu akan sangat melelahkan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-229",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#229",
+      "text": "“Tapi di kelas Rumi, sepertinya, itu bukanlah sesuatu yang bisa kamu lakukan, tahu? Saat kamu berpikir, seperti, ‘Kalau aku bicara dengannya, mereka akan menghinaku juga,’ kamu hanya mengabaikannya untuk saat ini. Misalnya, kamu hanya butuh waktu untuk merasa siap, tapi kemudian kamu mungkin malah tidak melakukan apa-apa… Ahhh! Apakah semua ini terdengar sangat kejam?!” Bingung dan bingung, Yuigahama memeriksa semua orang di sekitar untuk melihat bagaimana reaksi mereka. Tapi tak seorang pun yang hadir menunjukkan niat buruk padanya. Semua orang bereaksi dengan cara yang sedikit berbeda—ada yang getir, ada yang takjub, dan ada yang terharu—tapi semuanya tersenyum."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-230",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#230",
+      "text": "Kamu benar-benar luar biasa, Yuigahama. Kalau aku perempuan, aku pasti ingin menjadi temanmu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 93,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-231",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#231",
+      "text": "“Tidak apa-apa. Menurutku kamu juga merasa seperti itu,” jawab Yukinoshita dengan berbisik lembut. Meskipun suaranya sangat pelan dan kecil, namun mengandung banyak emosi. Yuigahama tampak malu mendengarnya, tersipu dan terdiam."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-232",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#232",
+      "text": "Bu Hiratsuka tersenyum pada kedua gadis itu. “Apakah ada yang keberatan dengan kesimpulan Yukinoshita?” Dia berhenti sejenak dan perlahan menoleh untuk melihat bagaimana reaksi setiap orang. Namun tidak ada satu pun suara yang berbeda pendapat di antara kami. Namun, jika aku harus menjelaskannya, akan lebih akurat untuk mengatakan bahwa tidak ada seorang pun yang bisa berbeda pendapat. Jika aku mencoba mengatakan, Tidak mungkin aku membantu siapa pun! Aku akan kembali ke kamarku! itu hanya akan menyebabkan kematianku.",
+      "emphasis": [
+        {
+          "start": 366,
+          "end": 370,
+          "style": "em"
+        },
+        {
+          "start": 418,
+          "end": 484,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-233",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#233",
+      "text": "“Baiklah. Kalau begitu, kalian pikirkan tindakan terbaik. Aku akan tidur.” Bu Hiratsuka menahan menguap dan berdiri dari tempat duduknya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-234",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#234",
+      "text": "Hanya beberapa menit setelah diputuskan dengan suara bulat bahwa kami akan menangani masalah ini, diskusi sudah berubah menjadi kacau. Topiknya: Apa yang harus dilakukan untuk memastikan Rumi Tsurumi bisa akur dengan anak-anak lainnya?"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-235",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#235",
+      "text": "Yang memulai perdebatan adalah Miura. “Dia manis, jadi, sepertinya, dia sebaiknya bergaul dengan gadis-gadis cantik lainnya, ya? Jadi, dia hanya pergi dan ngobrol dengan mereka, dan, sepertinya, mereka menjadi teman. Tenang, kan?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-236",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#236",
+      "text": "“Itu dia! Man, kamu pintar, Yumiko!” kata Tobe."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-237",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#237",
+      "text": "Dia mendengus. “Duh.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-238",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#238",
+      "text": "Wah, Miura. Itu mengesankan. Itu adalah teori yang hanya bisa dikemukakan oleh orang kuat. Dan jika itu masuk akal bagi Tobe, dia sama mengesankannya dengan dia. Aku harus menghormati hal itu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 28,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-239",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#239",
+      "text": "“K-kamu hanya bisa melakukan itu karena kamu Yumiko…,” Yuigahama tergagap. Benar saja, dia tidak mendukung gagasan itu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-240",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#240",
+      "text": "Tapi aku mengerti sekarang. Salah satu alasan Miura ingin jalan-jalan dengan Yuigahama adalah karena penampilannya ya? Yah, dia tampan. Dia juga orang yang berharga di dalam. Tapi dia juga seorang idiot yang naif, jadi dia pasti akan marah suatu hari nanti."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-241",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#241",
+      "text": "“Yumiko tidak menyampaikannya dengan cara yang terbaik,” kata Hayama, “tapi idenya untuk menciptakan perasaan pada Rumi adalah ide yang bagus. Namun, dengan keadaan saat ini, mengajaknya berbicara dengan seseorang mungkin terlalu sulit untuk ditanyakan.” Hayama mendukung Miura dan secara bersamaan dengan lembut membantahnya. Benar-benar cara yang matang dalam menangani perselisihan."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-242",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#242",
+      "text": "Miura terlihat sedikit tidak puas, tapi dia mundur dengan singkat, “Begitu.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-243",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#243",
+      "text": "Kali ini Ebina mengangkat tangannya, penuh percaya diri."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-244",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#244",
+      "text": "“Silakan, Hina.” Hayama memanggilnya untuk berbicara."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-245",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#245",
+      "text": "Siapa sebenarnya Hina? pikirku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 22,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-246",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#246",
+      "text": "Saat itulah Totsuka menarik bajuku. “Hina adalah nama depan Ebina,” katanya. “Kamu menulisnya dengan karakter putri dan bagian na dari bunga nanohana,” dia diam-diam berbisik di telingaku. Aku kira kebingungan aku sudah jelas. Nafasnya benar-benar menggelitik saat menyentuh telingaku, dan baunya harum. Sialan! Dia laki-laki! Kenapa dia begitu berbunga-bunga? Jadi nama lengkap Ebina adalah Hina Ebina. Chii sedang belajar. Aku sedang belajar, tetapi aku tidak pernah menggunakan informasinya. Serius.",
+      "emphasis": [
+        {
+          "start": 110,
+          "end": 115,
+          "style": "em"
+        },
+        {
+          "start": 127,
+          "end": 129,
+          "style": "em"
+        },
+        {
+          "start": 141,
+          "end": 149,
+          "style": "em"
+        },
+        {
+          "start": 304,
+          "end": 360,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-247",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#247",
+      "text": "Ebina berbicara dengan tenang. “Tidak apa-apa. Dia hanya perlu menekuni hobinya. Saat kamu mengabdi pada sesuatu, kamu pergi ke konvensi dan sebagainya, lalu memperluas jaringan sosialmu, tahu? Aku yakin dia akan menemukan tempat yang cocok untuknya. Dia akan menyadari bahwa sekolah bukanlah segalanya, dan sekolah membuat banyak hal menjadi lebih menyenangkan.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-248",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#248",
+      "text": "Itu adalah respons yang lebih normal daripada yang kuperkirakan, dan terus terang, aku terkejut. Bagian tentang sekolah bukanlah segalanya terutama di bagian hidung. Bagi anak-anak usia sekolah dasar atau menengah, sekolah dan keluarga adalah keseluruhan hidup mereka. Itu sebabnya ketika Anda ditolak dalam situasi tersebut, rasanya seperti dipecat dari seluruh dunia. Tapi Ebina mengatakan itu bukan gambaran keseluruhan, bahwa Rumi harus mencari tempat di mana dia bisa merasa nyaman dan berjalan dengan kepala tegak."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-249",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#249",
+      "text": "Huh, itu masuk akal. Jika dia bisa menemukan kelompok sosial lain, dia akan punya tempat untuk menyesuaikan diri, dan kemungkinan besar hal-hal lain juga bisa berkembang dari sana. Selain itu, dari penjelasan Ebina, dia mungkin berbicara berdasarkan pengalaman."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-250",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#250",
+      "text": "“Aku berteman melalui BL! Tidak ada gadis yang membenci yaoi! Jadi, Yukinoshita, kamu dan aku harus—”",
+      "emphasis": [
+        {
+          "start": 56,
+          "end": 60,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-251",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#251",
+      "text": "“Yumiko, kamu dan Hina ambilkan kami teh.” Hayama dengan cepat memotongnya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-252",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#252",
+      "text": "Miura berdiri dan meraih lengannya. “Oke, ayo berangkat, Ebina.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-253",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#253",
+      "text": "“Ahh! Tapi aku masih belum selesai mengubahmu!” Ebina meronta, tapi Miura memukul kepalanya dan menyeretnya pergi, dan mereka berdua menghilang."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-254",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#254",
+      "text": "Yukinoshita memperhatikan mereka pergi dengan ekspresi ngeri. “Aku ingin tahu apa yang akan dia sarankan agar aku lakukan…”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-255",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#255",
+      "text": "“Kau tidak ingin tahu, Yukinon…,” Yuigahama menjawab dengan letih."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-256",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#256",
+      "text": "Begitu. Jadi dia mencoba mengubahmu juga, ya?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-257",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#257",
+      "text": "Lagi pula, meskipun kamu berteman melalui BL, kamu hanya terlibat perang kapal, atau berteman dengan seseorang dengan asumsi dia menyukai BL, namun ternyata tidak, dan itu membuat hubunganmu hancur… Apa pun bisa terjadi. Dunia hobi memiliki komplikasi uniknya sendiri, dan banyak kesulitan yang menantinya di sana."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-258",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#258",
+      "text": "Setelah keluarnya Ebina dan Miura, kami memberikan beberapa saran di sana-sini, tapi tidak ada yang punya rencana praktis yang bagus. Dan ketika diskusi tidak berjalan, tentu saja orang-orang berhenti mengajukan lebih banyak ide. Sumber: pertemuan kelas di mana tidak ada seorang pun yang benar-benar peduli."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-259",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#259",
+      "text": "Mengapa mereka hanya bisa mengemukakan banyak pendapat padahal mereka semua mencoba mengeroyok aku karena melakukan kesalahan? Mereka lebih sering mengangkat tangan dibandingkan saat kami berada di kelas."
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-260",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#260",
+      "text": "Selama jeda yang hening, Hayama berbicara seolah dia baru menyadari sesuatu: “…Saya kira kita tidak dapat mencapai resolusi mendasar kecuali kita menemukan cara agar semua orang bisa berteman.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_b-261",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#261",
+      "text": "Tawa kering spontan keluar dari diriku, dan Hayama menatapku tajam. Tapi aku tidak akan memalingkan muka atau memasang wajah serius dan menjawab ya, tidak untuk hal seperti ini. Aku terkekeh di depan wajah Hayama dengan keyakinan penuh."
+    },
+    {
+      "id": "v4-bab-4-chapter004_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P94.jpg",
+      "src": "assets/chapters/volume-4/bab-4/Art_P94.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Komachi dan Yui memakai topi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#0",
+      "text": "Dia benar-benar gagal memahami masalah ini pada tingkat dasar. Dia tidak dapat memahami bahwa konsep bahwa setiap orang harus berteman adalah akar masalahnya. Itu tidak tulus dan berperilaku seperti kutukan. Tuntutan itu merupakan bentuk pemaksaan. Ini adalah geas, hukum yang jahat.",
+      "emphasis": [
+        {
+          "start": 260,
+          "end": 264,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#1",
+      "text": "Begitu banyak guru yang menerapkan batasan ini pada dunia kecil yang menjadi ruang kelas mereka. Mereka menegakkan hukum yang setiap orang harus akur, sehingga menimbulkan perselisihan, namun seringkali mereka mengabaikan masalah dan membiarkannya mengakar. Beberapa orang tidak akan pernah mengklik, apa pun yang Anda lakukan. Akan ada orang-orang yang tidak Anda sukai. Jika Anda bisa dengan jelas mengatakan Aku benci dia atau Aku tidak ingin terlibat dengannya, maka segalanya masih bisa berkembang dari sana. Ada kemungkinan Anda dapat memperbaiki situasi dan memulai diskusi. Namun dengan menghambat semuanya dan mencurahkan upaya Anda untuk menciptakan keharmonisan kelas, Anda membuat semua itu mustahil. Masalahnya adalah implikasi tak terucapkan dari kebohongan malas tersebut: Jika Anda menyembunyikannya, maka itu tidak menjadi masalah. Itu sebabnya aku tidak setuju dengan Hayama.",
+      "emphasis": [
+        {
+          "start": 126,
+          "end": 149,
+          "style": "em"
+        },
+        {
+          "start": 411,
+          "end": 424,
+          "style": "em"
+        },
+        {
+          "start": 430,
+          "end": 464,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#2",
+      "text": "Dan aku bukan satu-satunya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#3",
+      "text": "“Itu tidak akan terjadi. Tidak dalam sejuta tahun.” Kata-kata dingin Yukinoshita, yang jauh lebih menggigit daripada tawaku, menghancurkan argumentasinya dan kemampuannya menjaga kontak mata."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#4",
+      "text": "Hayama menghela napas pendek dan membuang muka."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#5",
+      "text": "Menyaksikan kejadian itu, Miura melolong. “Hei, Yukinoshita? Apa masalahmu?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#6",
+      "text": "“Apa maksudmu?” Yukinoshita menjawab permintaan agresif itu dengan ketenangan yang keren."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#7",
+      "text": "Tetapi api Miura semakin membara. “Aku sedang membicarakan tentang sikapmu itu. Kami berusaha membantu semua orang rukun di sini, jadi kenapa kamu harus bertindak seperti itu? Aku bahkan tidak menyukaimu, sama sekali, dan aku hanya bertahan denganmu demi bersenang-senang di perjalanan.”",
+      "emphasis": [
+        {
+          "start": 85,
+          "end": 93,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#8",
+      "text": "“H-hei, ayolah, Yumiko...” Yuigahama mencoba untuk menenangkan Miura saat dia dengan tidak bijaksana dan dengan kasar melampiaskan emosinya."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#9",
+      "text": "Tapi Yukinoshita juga tidak punya niat untuk mundur. “Oh? Aku terkejut kamu mempunyai kesan yang baik terhadapku. Tapi aku membencimu.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#10",
+      "text": "“K-kamu juga, Yukinon, jangan terlalu kasar!” Yuigahama yang terpaksa berdiri di antara kedua gadis itu, kini berusaha memadamkan amarah Yukinoshita."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#11",
+      "text": "Kau punya nyali, Nak! Anda seorang petugas pemadam kebakaran cilik.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#12",
+      "text": "Tetapi air tidak selalu merupakan cara yang tepat untuk memadamkan api. Jika Anda mengalami kebakaran kimia, menuangkan air ke dalamnya hanya akan membuatnya semakin panas. Inilah yang sebenarnya terjadi."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#13",
+      "text": "“Hai, Yui?” kata Miura."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#14",
+      "text": "“…Kamu di pihak siapa di sini?” tuntut Yukinoshita."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#15",
+      "text": "Mata ratu api melebar lebar, dan nada suara penyihir es itu bisa membekukanmu. Bersama-sama, mereka gigih. Apakah ini Medoroa? Ini sangat buruk, bahkan Raja Iblis Agung Vearn pun akan mendapat masalah."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#16",
+      "text": "“Eek!” Yuigahama menyusut ketakutan, gemetar seperti daun."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#17",
+      "text": "Ya ampun. Menakutkan sekali. “Teh ini sungguh enak ya, Totsuka?” aku berkomentar. “Aku teringat, aku bertanya-tanya bagaimana keadaan Zaimokuza saat ini. Aku ingin tahu apakah dia baik-baik saja.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 28,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#18",
+      "text": "“Jangan abaikan kenyataan, Hachiman...”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#19",
+      "text": "Tidak. Terlalu menakutkan, tidak akan terjadi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 46,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#20",
+      "text": "Yukinoshita dan Miura saling melotot. Tapi untungnya, ada tiga orang di antara mereka, jadi sepertinya konflik tidak akan meluas lebih jauh dari itu. Yang bisa Anda lakukan terhadap anak-anak yang tidak akur hanyalah memisahkan mereka, itu benar. Jika kamu menempatkan mereka di ujung yang berlawanan pada baris yang sama, mereka bahkan tidak akan melihat wajah satu sama lain."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#21",
+      "text": "Komachi, yang berada di zona penyangga, berbicara seolah-olah dia baru saja mendapatkan kilatan kecemerlangan. “Pada pandangan pertama, Rumi memiliki kepribadian yang cukup kuat, jadi mungkin akan sulit baginya untuk cocok dengan gadis-gadis SD, tapi setelah dia bertambah dewasa, menurutku dia mungkin bisa berteman dengan tipe grup A, tahu?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#22",
+      "text": "Komachi benar. Jika kamu mempertimbangkan prospek masa depan Rumi, dia mungkin tipe orang yang akan menikmati sekolah. Bahkan jika dia tidak memiliki hubungan yang baik dengan gadis-gadis lain, para lelaki pasti akan menyukainya, dan beberapa gadis mungkin akan berteman dengannya untuk mengantisipasi hal itu. Ugh, bodoh sekali."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#23",
+      "text": "Hayama mengangguk setuju. “Itu benar. Dia agak kedinginan...atau menurutku dia agak kedinginan.”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#24",
+      "text": "“Dingin?” jawab Miura. “Lebih seperti merendahkan. Dia berada di atas kudanya, bukan begitu? Dia mempunyai sikap seolah-olah dia pikir dia lebih baik dari semua orang, dan itulah sebabnya mereka mengucilkannya. Sama seperti seseorang yang kita kenal.” Miura terkikik seolah mencoba memprovokasi Yukinoshita."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#25",
+      "text": "Tapi jawaban Yukinoshita acuh tak acuh. “Itu hanya omonganmu yang rumit tentang penganiayaan. Mungkin kamu merasa aku meremehkanmu karena kamu sadar akan inferioritasmu sendiri?”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#26",
+      "text": "Miura berdiri dari bangku cadangan dengan suara keras. “Ngh! Dengar, itu karena kamu mengatakan omong kosong seperti itu—”"
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#27",
+      "text": "“Hentikan, Yumiko.” Permintaan rendah Hayama menahan Miura. Entah bagaimana, itu berbeda dari nada kurang ajar yang dia gunakan selama ini; suaranya kuat dan intens. Sejujurnya, itu sedikit menakutkan…"
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#28",
+      "text": "“Hayato… Hmph!” Miura tampak terkejut sesaat dengan sikapnya, tapi dia mundur tanpa protes. Tidak ada sepatah kata pun yang keluar dari mulutnya setelah itu."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#29",
+      "text": "Keheningan berat juga menyelimuti seluruh meja. Pada akhirnya, tidak ada seorang pun yang berminat untuk membicarakan lebih lanjut, dan yang benar-benar diputuskan adalah bahwa masalah tersebut akan ditunda untuk hari berikutnya. Ya, itulah politik."
+    },
+    {
+      "id": "v4-bab-4-chapter004_d-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#30",
+      "text": "Tapi tahukah Anda…jika kami para siswa sekolah menengah tidak bisa akur, kami tidak mungkin bisa menyuruh siswa sekolah dasar untuk melakukan hal tersebut."
+    },
+    {
+      "id": "v4-bab-4-chapter004_e-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P98.jpg",
+      "src": "assets/chapters/volume-4/bab-4/Art_P98.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Profil Yumiko Miura dan Hina Ebina."
+    },
+    {
+      "id": "v4-bab-4-chapter004_e-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Profil Yumiko Miura dan Hina Ebina",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P98.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-bab-4-chapter004_e-0-companion-1",
+      "kind": "text",
+      "text": "Yumiko Miura — Ulang tahun: 12 Desember. Keahlian: tenis, menghias kuku. Hobi: berbelanja, karaoke. Kegiatan akhir pekan: berbelanja, bekerja paruh waktu, berkumpul dan melakukan apa saja.",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P98.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-bab-4-chapter004_e-0-companion-2",
+      "kind": "text",
+      "text": "Hina Ebina — Ulang tahun: 14 Juli. Keahlian: menggambar ilustrasi, mengantre sangat lama. Hobi: membaca, terutama novel sejarah Tiga Kerajaan atau zaman keshogunan; menggambar. Kegiatan akhir pekan: konvensi, berbelanja di Ikebukuro, berkumpul dengan teman.",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P98.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

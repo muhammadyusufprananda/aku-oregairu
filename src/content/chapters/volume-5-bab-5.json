@@ -1,0 +1,1364 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v5-bab-5-chapter005-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter005.xhtml#1",
+      "headingLevel": 2,
+      "text": "Komachi Hikigaya memikirkan bahwa suatu hari, kakaknya mungkin pergi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter005.xhtml#../Images/Art_P83.jpg",
+      "src": "assets/chapters/volume-5/bab-5/Art_P83.webp",
+      "width": 337,
+      "height": 598,
+      "text": "Haruno versi chibi melambaikan tangan."
+    },
+    {
+      "id": "v5-bab-5-chapter005-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#3",
+      "text": "Saat itu mendekati pertengahan Agustus, saat perasaan liburan musim panas mulai memudar. Saat aku menghitung hari-hari yang tersisa, rasa melankolis menyelimutiku. Kata-kata itu terasa menakutkan saat keluar dari mulutku, seperti hantu di “Bancho Sarayashiki.” Tanggal 1 Agustus… Sampai tanggal 2 Agustus… Aku kekurangan dua bulan! Terus terang, aku ingin tiga bulan lagi.",
+      "emphasis": [
+        {
+          "start": 261,
+          "end": 331,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#4",
+      "text": "Aku mencoret satu hari lagi di kalender lemari es dengan rasa cemas karena menghitung hari hingga dunia hancur. Jika aku membuat lingkaran di kalender, itu adalah Takoyaki Manto Man. Liburan musim panas tinggal dua minggu lagi. Hei, apakah kamu melakukan lompatan waktu? Aku meletakkan jariku di kalender sekali lagi untuk memastikan. Serius, apa aku salah menghitungnya atau apa? Saat itulah sesuatu merangkak naik ke kakiku.",
+      "emphasis": [
+        {
+          "start": 163,
+          "end": 181,
+          "style": "em"
+        },
+        {
+          "start": 335,
+          "end": 380,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#5",
+      "text": "“…Apa?” Aku menunduk dan melihat kucing keluarga, Kamakura, menatapku dengan perasaan tidak senang."
+    },
+    {
+      "id": "v5-bab-5-chapter005-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#6",
+      "text": "Kami saling menatap selama beberapa detik. Kemudian Kamakura mendengus dan menjatuhkan diri ke atas kakiku. Kau menghalangi, kawan. Sepertinya dia menuntut perhatian.",
+      "emphasis": [
+        {
+          "start": 108,
+          "end": 131,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#7",
+      "text": "Kalau dipikir-pikir, Komachi selalu bersama Sable selama dua atau tiga hari terakhir. Aku kira Kamakura tidak senang dengan hal itu dan malah terpaksa datang kepada aku. Aku duduk di lantai dengan oof dan mulai mengelus seluruh tubuhnya. Awalnya aku mengelusnya perlahan dari kepala hingga ekor searah dengan bulunya. Setelah beberapa saat, dia mulai mendengkur, jadi aku mulai menggosok-gosoknya dengan jari-jari aku seperti pijatan lembut. Kamakura menutup matanya, terengah-engah kenikmatan. Dia tampak sangat lelah.",
+      "emphasis": [
+        {
+          "start": 197,
+          "end": 200,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#8",
+      "text": "Yah, tidak mengherankan. Sepanjang waktu Sable bersama kami, dia mengejar Kamakura. Bahkan di sini, di rumah kami, Sable berlari kesana kemari dan ke mana pun dengan kegelisahan yang tak terkendali seperti seekor anjing kecil. Dan sepertinya ini adalah pertemuan pertamanya dengan seekor kucing. Sable sangat penasaran dengan Kamakura dan menyerangnya seolah-olah berkata, Bermainlah denganku! Dan setiap saat, Kamakura akan berlari ke tempat yang tidak dapat dijangkau oleh Sable, seperti di atas lemari es atau di belakang meja rias.",
+      "emphasis": [
+        {
+          "start": 373,
+          "end": 393,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#9",
+      "text": "Dan yang lebih buruk lagi, Sable mengalihkan perhatian Komachi dari Kamakura dengan mengganggunya tanpa henti dengan satu atau lain hal, lalu pergi kucing itu tanpa pilihan selain mendatangiku. Maaf hanya aku satu-satunya pilihanmu.",
+      "emphasis": [
+        {
+          "start": 194,
+          "end": 232,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#10",
+      "text": "“Yah, kamu tahu. Bersabarlah dengannya dan biarkan dia melakukan apa yang dia inginkan sampai akhir hari ini… Kamu adalah kakak laki-lakinya, kamu tahu.” Aku memberikan pidato kepada Kamakura seperti yang aku terima ketika aku masih kecil. Aku tidak tahu berapa umur Sable, tapi Kamakura memiliki sejarah yang lebih panjang di rumah tangga Hikigaya, sehingga memberinya senioritas. Seperti yang mungkin dilakukan oleh pemain muda dengan karier yang lebih panjang."
+    },
+    {
+      "id": "v5-bab-5-chapter005-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#11",
+      "text": "Setelah upaya aku untuk membujuk, Kamakura menampar ekornya ke lantai: jawabannya yang enggan. Maaf."
+    },
+    {
+      "id": "v5-bab-5-chapter005-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#12",
+      "text": "Aku terus membelai bulunya, mengelus cakarnya, dan menggembungkan perutnya. Saat itulah pintu ruang tamu terbuka."
+    },
+    {
+      "id": "v5-bab-5-chapter005-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#13",
+      "text": "“Kak! …Oh-ho, kombinasi yang langka.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#14",
+      "text": "Mendengar namaku, aku mengangkat kepalaku untuk melihat Komachi dengan Sable di pelukannya. Hei, betapa jarangnya melihat kucing bersama tuannya? Apa yang ingin kamu katakan di sini? “Aku punya ketertarikan pada kucing,” kataku.",
+      "emphasis": [
+        {
+          "start": 92,
+          "end": 182,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#15",
+      "text": "“Kamu memang terlihat seperti kucing.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#16",
+      "text": "Aku tidak mengerti apa yang dia maksud dengan kalimat itu. Apa aku benar-benar teritorial atau semacamnya? Namun aku sengaja memilih untuk menafsirkan ucapannya secara positif. “Sepertinya. Aku memang raja para binatang buas.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#17",
+      "text": "“Uhhh… Tentu saja.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#18",
+      "text": "“Kenapa tiba-tiba tidak ada komentar? Jangan menatapku dengan kasihan. Tahukah kamu? Singa jantan tidak melakukan pekerjaan apa pun.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#19",
+      "text": "“Kamu benar-benar raja para binatang buas!” serunya."
+    },
+    {
+      "id": "v5-bab-5-chapter005-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#20",
+      "text": "“Benar?” Aku mendengus penuh kemenangan."
+    },
+    {
+      "id": "v5-bab-5-chapter005-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#21",
+      "text": "Sablé menyalak dari pelukan Komachi seolah membalas. Kamakura mendengus funsu! dan berdiri dari tempatnya tergeletak di atas kakiku. Dia menguap lebar seperti catbus dan pergi. Saat dia pamit, dia mengibaskan ekornya ke depan dan ke belakang seperti sedang melambaikan tangan. Aku melihatnya pergi dengan sedikit senyum masam di wajahku.",
+      "emphasis": [
+        {
+          "start": 72,
+          "end": 78,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#22",
+      "text": "“Jadi, apakah kamu menginginkan sesuatu?” Tanyaku sambil mendorong diriku untuk berdiri."
+    },
+    {
+      "id": "v5-bab-5-chapter005-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#23",
+      "text": "Komachi menjawab dengan kaget seolah-olah hanya mengingat untuk apa dia datang ke sini. “Oh! Ya, ya. Pinjamkan ponselmu, Kak.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#24",
+      "text": "“Baiklah, tapi untuk apa?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#25",
+      "text": "“Hmm, ya, aku dengar ada aplikasi bernama Dog-lingual? Anjingmu menggonggong ke dalamnya, dan aplikasi ini memberitahumu bagaimana perasaannya!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#26",
+      "text": "“Hah. Jadi itu menarik?” Kedengarannya berguna. Mereka harus menguasai bahasa Manusia. Apa yang orang katakan belum tentu mencerminkan apa yang sebenarnya mereka rasakan."
+    },
+    {
+      "id": "v5-bab-5-chapter005-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#27",
+      "text": "“Ayo, ayo!” Komachi mendesakku, jadi aku mengangkat telepon yang kutinggalkan di meja. Jari-jariku meluncur dengan terampil di sepanjang permukaan ponsel hingga layar pengunduhan terbuka. Di antara aplikasi yang terdaftar, tidak hanya ada Bahasa Anjing tetapi juga Bahasa Kucing."
+    },
+    {
+      "id": "v5-bab-5-chapter005-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#28",
+      "text": "“Oh, dapatkan Bahasa Kucing selagi Anda menggunakannya,” kata Komachi."
+    },
+    {
+      "id": "v5-bab-5-chapter005-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#29",
+      "text": "“Baiklah.” Aku mengunduh aplikasi Bahasa Anjing dan aplikasi Bahasa Kucing seperti yang diinstruksikan. “Di Sini.” Aku meluncurkan Dog-lingual dan menyerahkannya kepada Komachi."
+    },
+    {
+      "id": "v5-bab-5-chapter005-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#30",
+      "text": "Dia meletakkan anjingnya dan segera mencoba aplikasinya. “Ayo! Ayo, Sable! Katakan sesuatu!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#31",
+      "text": "“Yip!” (Mainkan dengan aku!)"
+    },
+    {
+      "id": "v5-bab-5-chapter005-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#32",
+      "text": "“Yah, menurutku itu saja.” Pesan yang ditampilkan di aplikasi berbahasa Anjing sesuai dengan apa yang aku harapkan. Itu adalah hasrat anjing yang cukup normal."
+    },
+    {
+      "id": "v5-bab-5-chapter005-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#33",
+      "text": "Komachi terus mengarahkan aplikasinya ke arah Sable. Aku rasa, Sable, seperti pemiliknya, pandai menangkap apa yang diinginkan orang lain, karena dia rajin menggonggong di telepon."
+    },
+    {
+      "id": "v5-bab-5-chapter005-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#34",
+      "text": "“Yip!” (Mainkan dengan aku!)"
+    },
+    {
+      "id": "v5-bab-5-chapter005-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#35",
+      "text": "“Yip!” (Mainkan dengan aku!)"
+    },
+    {
+      "id": "v5-bab-5-chapter005-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#36",
+      "text": "“Yip!” (Mainkan dengan aku!)"
+    },
+    {
+      "id": "v5-bab-5-chapter005-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#37",
+      "text": "“Yip!” (Mainkan dengan aku!)"
+    },
+    {
+      "id": "v5-bab-5-chapter005-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#38",
+      "text": "Hah? Apa yang terjadi? Apa ini sekedar copy-paste?"
+    },
+    {
+      "id": "v5-bab-5-chapter005-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#39",
+      "text": "“Mungkin rusak gan,” ucap Komachi."
+    },
+    {
+      "id": "v5-bab-5-chapter005-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#40",
+      "text": "“Enggak, aku belum cukup pakai ponsel itu untuk merusaknya.” Mungkin aku bisa menggonggong seperti anjing untuk mengujinya. Jika bahasa Anjing menampilkan sesuatu yang lain, itu berarti aplikasi berfungsi dengan baik. Aku segera mulai melolong ke masa depan."
+    },
+    {
+      "id": "v5-bab-5-chapter005-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#41",
+      "text": "“Bowwow!” (Aku tidak ingin mendapat pekerjaan, aku tidak mau!)"
+    },
+    {
+      "id": "v5-bab-5-chapter005-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#42",
+      "text": "Sangat akurat. Bahkan seorang ahli pun tidak dapat menerjemahkannya dengan begitu elegan. “Sepertinya tidak rusak sama sekali.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#43",
+      "text": "“Iya, kamu yang rusak di sini, Gan.” Komachi sangat jengkel; dia hampir menyerah. Dia memiliki ekspresi tercerahkan seperti seorang biksu agung."
+    },
+    {
+      "id": "v5-bab-5-chapter005-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#44",
+      "text": "Aku ingin semua orang di keluarga aku tahu bahwa bahkan aku sedikit terluka ketika darah dan daging aku sendiri menatap aku dengan begitu hangat. “…Ngomong-ngomong, dia bilang dia ingin bermain,” kataku."
+    },
+    {
+      "id": "v5-bab-5-chapter005-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#45",
+      "text": "“Hmm. Kalau begitu, sepertinya dia perlu jalan-jalan,” jawabnya."
+    },
+    {
+      "id": "v5-bab-5-chapter005-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#46",
+      "text": "“Ya, kalau begitu, ayo.” Maka aku tidak perlu mendengarnya menyalak padaku untuk sementara waktu. Dia lucu, tapi menjengkelkan kalau dia berlarian di rumah 24/7."
+    },
+    {
+      "id": "v5-bab-5-chapter005-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#47",
+      "text": "“Kalau begitu, ambilkan tali pengikatnya. ♪”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#48",
+      "text": "“Ya, ya.” Aku melakukan apa yang Komachi katakan, menarik tali pengikat Sable dari peralatan yang Yuigahama tinggalkan pada kami."
+    },
+    {
+      "id": "v5-bab-5-chapter005-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#49",
+      "text": "“Terima kasih. Oke, kalau begitu pakaikan padanya. Aku akan menahannya.” Komachi meraih Sable dan memeluknya seolah berkata, Serahkan ini padaku; silakan saja! Selagi dia masih memegangnya, aku memasangkan tali pengikatnya.",
+      "emphasis": [
+        {
+          "start": 125,
+          "end": 159,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#50",
+      "text": "“Oke, apakah ini baik-baik saja?” Tanyaku sambil mengayunkan pegangan tangan ke depan dan ke belakang."
+    },
+    {
+      "id": "v5-bab-5-chapter005-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#51",
+      "text": "Komachi mengangguk puas. “Ya. Baiklah, ayo kita jalan-jalan dengan anjing ini!” Dia menunjuk ke pintu dengan seluruh lengannya."
+    },
+    {
+      "id": "v5-bab-5-chapter005-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#52",
+      "text": "“Kamu menyuruhku melakukannya?” tanyaku."
+    },
+    {
+      "id": "v5-bab-5-chapter005-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#53",
+      "text": "“Lebih tepatnya aku mengantarmu. Kalau aku tidak melakukan ini, kamu tidak akan pernah keluar rumah.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#54",
+      "text": "Ya, itu benar. Mereka tidak memanggilku Hikki tanpa alasan. Aku menghela napas panjang, menekankan dengan seluruh tubuh dan jiwaku betapa aku tidak ingin pergi. Tapi Komachi tampaknya tidak peduli sedikit pun, mendorongku dari belakang sambil mendesakku."
+    },
+    {
+      "id": "v5-bab-5-chapter005-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#55",
+      "text": "“Ayo, ayo. Aku akan pergi bersamamu.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-56",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter005.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v5-bab-5-chapter005-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#57",
+      "text": "Matahari telah terbenam, dan dalam sapuan tinta di atas langit nila, bulan putih sedang menarik busurnya. Kawasan tempat aku tinggal tergolong sepi, semacam blok perumahan dengan tampilan berusia satu generasi yang dapat Anda temukan di kota mana pun, namun Anda dapat menemukan segelintir ladang di tepi sungai yang mengalir di sepanjang jalan utama, dan jalan tersebut dipenuhi dengan tempat tinggal dan bekerja para petani. Dahulu kala—ketika ibu aku masih muda, kira-kira tiga puluh tahun yang lalu—tampaknya ada kunang-kunang di sekitar sini, di tepi sungai dan ladang. Dengan kata lain, sudah tidak ada lagi. Mengapa kunang-kunang mati begitu cepat?"
+    },
+    {
+      "id": "v5-bab-5-chapter005-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#58",
+      "text": "Saat mengingat apa yang dia katakan, aku melihat ke sawah, berpikir mungkin aku akan melihatnya."
+    },
+    {
+      "id": "v5-bab-5-chapter005-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#59",
+      "text": "Ada yang berdesir. Angin yang lewat membengkokkan bulir-bulir padi. Setelah banyak terkena sinar matahari di siang hari dan menyedot air serta unsur hara dari tanah, nasi menjadi penuh dan matang. Seolah-olah angin bertiup melintasi lapangan. Ketika aku masih kecil, aku sering berpikir itu tampak seperti hasil karya sesuatu yang supranatural."
+    },
+    {
+      "id": "v5-bab-5-chapter005-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#60",
+      "text": "Aku tidak melihat kunang-kunang atau roh sekarang."
+    },
+    {
+      "id": "v5-bab-5-chapter005-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#61",
+      "text": "Mengapa orang-orang begitu terbawa oleh nostalgia? Orang-orang menyatakan, Dulu lebih baik atau Masa lalu yang indah atau Oh, ini mengingatkan aku pada era Showa! Semakin tua zamannya, semakin banyak orang yang cenderung melihatnya dalam sudut pandang positif. Mereka memikirkan masa lalu dan merindukan masa lalu, atau mereka meratapi dan meratapi apa yang telah berubah, apa yang telah berubah. Bukankah itu berarti, pada dasarnya, perubahan menyebabkan kesedihan? Apakah pertumbuhan, evolusi, dan transisi benar-benar menggembirakan, benar, dan menakjubkan? Bahkan jika Anda tidak berubah, dunia dan segala sesuatu di sekitar Anda akan berubah. Bagaimana jika semua orang mati-matian mengejar orang banyak karena tidak ingin ketinggalan?",
+      "emphasis": [
+        {
+          "start": 75,
+          "end": 90,
+          "style": "em"
+        },
+        {
+          "start": 96,
+          "end": 116,
+          "style": "em"
+        },
+        {
+          "start": 122,
+          "end": 162,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#62",
+      "text": "Ketika tidak ada perubahan, tidak ada kesedihan yang datang ke dunia. Menurut aku, mencegah lahirnya sesuatu yang negatif memiliki keuntungan yang serius, meski berarti tidak ada yang lahir sama sekali. Jika Anda memeriksa neraca dan tidak berada dalam posisi merah, maka Anda sedang menuju ke arah yang benar, secara ekonomi."
+    },
+    {
+      "id": "v5-bab-5-chapter005-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#63",
+      "text": "Itulah mengapa aku tidak mengesampingkan pilihan untuk tidak pernah berubah. Aku sama sekali tidak punya niat untuk menyangkal siapa aku di masa lalu atau siapa aku di masa sekarang. Perubahan pada akhirnya adalah tentang melarikan diri dari situasi Anda saat ini. Jika Anda memilih untuk tidak lari, Anda harus tetap sama; kamu harus berdiri teguh di sana. Ada hal-hal yang bisa diperoleh jika kita tidak berubah. Ini seperti bagaimana Anda akan mempelajari gerakan lebih cepat jika Anda membatalkan evolusi dengan tombol B. Aku menjawab pertanyaan itu sendiri pada suatu saat… Aku merasa itu sudah lama sekali."
+    },
+    {
+      "id": "v5-bab-5-chapter005-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#64",
+      "text": "Komachi memegang tali pengikatnya seolah-olah dia menikmati perasaan ditarik. “Hei, hei, awas. Ada mobil.” Kendaraan itu melewati kami."
+    },
+    {
+      "id": "v5-bab-5-chapter005-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#65",
+      "text": "Sablé mendengus dan mengendus rumput, lalu mulai menyisirnya. Baik anjing maupun kucing memakan rumput seperti ini agar mereka bisa batuk hingga mengeluarkan bola-bola rambut, jadi ini adalah proses yang perlu dilakukan saat berjalan-jalan. Komachi dan aku berhenti, menunggu Sable selesai mengunyah pemandangan."
+    },
+    {
+      "id": "v5-bab-5-chapter005-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#66",
+      "text": "Komachi membandingkan aku dan Sable, lalu memberiku senyuman senang. “Wah, sudah lama sekali sejak terakhir kali kita jalan-jalan bersama.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#67",
+      "text": "“Ya.” Memang sudah cukup lama sejak kami berjalan-jalan bersama. Aku cenderung lebih suka menghabiskan waktuku di rumah, jadi kecuali kami mempunyai tujuan yang jelas seperti berbelanja atau melihat hewan peliharaan, aku jarang berjalan-jalan dengan Komachi."
+    },
+    {
+      "id": "v5-bab-5-chapter005-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#68",
+      "text": "Sablé menarik tali pengikatnya, dan Komachi tersenyum padanya. Okeydoke.Ayo pergi. Sable menyalak sebagai tanggapan dan meluncurkan ciri khas jalan hoppity-hop dari miniatur dachshund. Aku mengikuti mereka."
+    },
+    {
+      "id": "v5-bab-5-chapter005-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#69",
+      "text": "Begitu banyak lampu yang bercampur—cahaya samar di langit barat, lampu jalan dengan jarak yang sama menyala secara bersamaan, dan berbagai lampu di setiap rumah. Di kota yang perlahan meredup, arus orang mengalir ke berbagai arah: pegawai yang pulang ke rumah, ibu rumah tangga yang pergi berbelanja untuk makan malam, anak-anak sekolah dasar yang berlari di samping sepeda bersama teman-temannya, anak-anak sekolah menengah yang mengobrol di toko swalayan dalam perjalanan pulang dari klub, anak-anak sekolah menengah yang hendak jalan-jalan, dan para ibu yang akan menjemput anak-anaknya. Adegan itu dipenuhi dengan nostalgia dan kehangatan yang sering kali Anda anggap remeh."
+    },
+    {
+      "id": "v5-bab-5-chapter005-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#70",
+      "text": "“Sungguh suatu berkah memiliki seseorang di sana untuk menyambut Anda pulang,” gumam Komachi."
+    },
+    {
+      "id": "v5-bab-5-chapter005-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#71",
+      "text": "“Ya, menurutku. Namun, tidak dalam setiap situasi.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#72",
+      "text": "“Wow, kamu benar-benar mematikan,” kata Komachi, jelas-jelas muak denganku."
+    },
+    {
+      "id": "v5-bab-5-chapter005-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#73",
+      "text": "Tapi hei, maksudku, ada pengecualian untuk setiap aturan. Aku mungkin seperti, Oh, tidak ada seorang pun di sini yang menyambut aku pulang…, tetapi jika seekor kuda nil tiba-tiba muncul untuk menyambut aku dan merekomendasikan aku obat kumur, aku tidak akan merasa diberkati sama sekali.",
+      "emphasis": [
+        {
+          "start": 79,
+          "end": 139,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#74",
+      "text": "“Kamu mungkin sangat menyenangkan, tapi saya tetap senang ketika Anda menyambut saya pulang.” Komachi mengalihkan pandangan dariku ke arah Sable."
+    },
+    {
+      "id": "v5-bab-5-chapter005-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#75",
+      "text": "Saat langkahnya melambat, aku melewatinya. Aku harus mendukungnya di belakangku, atau dia akan melihat wajahku menjadi rileks dan tersenyum. “Tapi sebenarnya aku tidak melakukannya untukmu. Aku hanya kebetulan ada di sana, oke?” balasku, merasa malu, dan terjadi jeda sedikit saja."
+    },
+    {
+      "id": "v5-bab-5-chapter005-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#76",
+      "text": "“Tetap saja. Menyenangkan,” katanya hangat, dan tanpa berpikir panjang, aku berbalik. Komachi menutup matanya dan meletakkan satu tangannya ke dadanya. Seolah ingin memastikan panas yang samar tapi perlahan menghangat, dia mengucapkan setiap kata perlahan. “Baru saja Adik Komachi yang Terpuji dan Mulia sedang memamerkan keimutannya.” Senyumannya adalah senyuman paling palsu yang pernah kulihat sepanjang musim panas."
+    },
+    {
+      "id": "v5-bab-5-chapter005-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#77",
+      "text": "“Uh-huh…” Menjengkelkan sekali… Aku menegakkan bahuku agar tidak terkulai dan mulai berjalan lagi, meninggalkan Sable dan Komachi di belakang. Astaga, dia benar-benar tidak lucu kalau menyangkut hal-hal penting. Biasanya, dia manis. Super imut.",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 31,
+          "style": "em"
+        },
+        {
+          "start": 143,
+          "end": 244,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#78",
+      "text": "Komachi menendang kerikil dengan ujung sandalnya dan menatap bintang-bintang yang berkelap-kelip yang mulai bersinar. “Saat kamu pergi ke rumah sakit, Kaa ada di sana untukku. Dia benar-benar datang ke pintu untukku.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#79",
+      "text": "“Dia tidak datang ke pintu untukku. Dia hanya menatapku dari beranda.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#80",
+      "text": "“Itu hanya karena dia tidak menyenangkan untuk menyembunyikan betapa dia peduli,” canda Komachi sambil terkikik. “Sungguh sulit hidup dikelilingi oleh kalian tipe hinedere.”",
+      "emphasis": [
+        {
+          "start": 163,
+          "end": 171,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#81",
+      "text": "“Itu lagi? Aku tidak diam-diam lembut dan perhatian.” Faktanya, aku juga bukan orang yang tidak menyenangkan. Sebaliknya, tidak ada orang yang lebih jujur ​​dari aku. Aku tampak terpelintir meskipun hidupku terhormat karena dunia begitu menyesatkan dan terdistorsi."
+    },
+    {
+      "id": "v5-bab-5-chapter005-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#82",
+      "text": "“Yah, senang rasanya ada yang menyambutku pulang, hinedere atau tidak.” Kali ini, dia tertawa kecil.",
+      "emphasis": [
+        {
+          "start": 50,
+          "end": 58,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#83",
+      "text": "“Apa? Aku tidak akan ada selamanya. Kamu harus melepaskan tali celemek kakakmu.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#84",
+      "text": "“Hah…? Kamu mau pindah, Gan?” Komachi berhenti di tempatnya dan menoleh ke arahku. Hilang sudah senyum yang dibuat-buat dan ditempel. Sekarang, dia tampak seperti baru tertembak secara tiba-tiba."
+    },
+    {
+      "id": "v5-bab-5-chapter005-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#85",
+      "text": "“Tentu saja tidak. Saya tidak akan pernah pergi tanpa alasan.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#86",
+      "text": "“Lega rasanya…”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#87",
+      "text": "“Tinggal di rumah adalah hal yang menyenangkan.” mudah sekali, bagus sekali. Aku akan mengatasi pengangguran hingga batasnya. Begitulah caraku bekerja.“"
+    },
+    {
+      "id": "v5-bab-5-chapter005-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#88",
+      "text": "“…atau tidak. Aku cemas dengan masa depanmu…” Komachi memegangi kepalanya dengan tangannya."
+    },
+    {
+      "id": "v5-bab-5-chapter005-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#89",
+      "text": "Aku meletakkan tanganku di atas tangannya dan memukul kepalanya dengan lembut. “Saya bisa tinggal di rumah saat saya pergi ke sekolah, dan saya berencana memilih universitas tempat saya bisa berangkat. Saya tidak akan pergi kecuali terjadi sesuatu yang drastis.” Jika aku bisa masuk universitas di kota Chiba, perjalanannya memakan waktu sekitar satu jam, dan itu sudah cukup. Nah, kalau itu kampus di Kanagawa atau Tama, aku harus berpikir. Dan Tokorozawa… Tempat itu sangat terpencil, aku harus pergi dengan mengenakan baju besi berat."
+    },
+    {
+      "id": "v5-bab-5-chapter005-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#90",
+      "text": "“Menurutku itu agak aneh untuk pria seusiamu. Apa kamu tidak ingin pindah sama sekali?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#91",
+      "text": "“Eh, tidak juga,” kataku. “Orang tua kami cukup laissez-faire, dan mereka berdua bekerja, jadi aku punya waktu untuk diriku sendiri. Sebenarnya tidak ada hal yang merepotkan dalam hal ini.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#92",
+      "text": "“...Atau begitulah dia membenarkan hal itu pada dirinya sendiri, tapi sebenarnya, dia hanya tidak ingin pindah karena dia akan terlalu kesepian jika tinggal terpisah dari Komachi.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#93",
+      "text": "“Ada apa dengan monolog aneh itu?” Ha-ha-ha, jangan terlalu bodoh, ha-ha-ha. “Tak ada manfaatnya hidup sendiri. Itu membutuhkan uang, dan aku harus menghabiskan waktu dan tenaga untuk melakukan pekerjaan rumah. Bagaimana kamu bisa melakukan pekerjaan rumah ketika kamu tidak mendapatkan apa pun darinya? Tidakkah kamu tahu prinsip pertukaran yang setara?”",
+      "emphasis": [
+        {
+          "start": 35,
+          "end": 76,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#94",
+      "text": "Keluarga Hikigaya tidak dalam kondisi yang buruk. Ayah kami sama sekali tidak berharga, tapi sebenarnya hanya idenya dan semua yang dia katakan hanyalah sampah. Aku tidak punya keluhan apa pun tentang dia selain itu. Aku tidak pernah secara serius mempertimbangkan untuk pindah, jadi dalam hal ini, aku tidak punya keinginan nyata untuk mandiri. Lagipula, bukan tanpa alasan. Yah, menurutku orang yang tinggal sendiri pasti punya alasan atas perbuatannya."
+    },
+    {
+      "id": "v5-bab-5-chapter005-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#95",
+      "text": "“Oh, kamu!” kata Komachi. “Kami semua tahu kamu sebenarnya sangat kesepian!”",
+      "emphasis": [
+        {
+          "start": 59,
+          "end": 65,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#96",
+      "text": "“Hah? Kesepian apa yang kamu bicarakan ini? Apakah ini sesuatu yang akan kamu periksa, sesuatu yang akan kamu temukan di lingkunganmu di Akihabara?” Aku tidak mengalami emosi seperti itu. Aku tipe orang yang menyukai waktu sendirian lebih dari apa pun, jadi bagiku, kesepian adalah sesuatu yang luar biasa. ♪"
+    },
+    {
+      "id": "v5-bab-5-chapter005-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#97",
+      "text": "“Tapi aku akan kesepian.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#98",
+      "text": "Dia sama sekali mengabaikan leluconku. Ngh, menurutku itu sedikit dipaksakan! Komachi menggiring percakapan melewatiku seperti pemain sepak bola profesional, jadi aku membuang lelucon itu dan melanjutkannya. “Yah, mungkin kamu akan begitu, tapi aku—”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#99",
+      "text": "“Aku tidak hanya membicarakanmu. Maksudku, Yukino tinggal sendirian, bukan? Aku bertanya-tanya tentang dia… Aku ingin tahu apakah dia baik-baik saja.” Dia sepertinya menyiratkan bahwa mungkin Yukino Yukinoshita pun mengalami sedikit kesepian dalam hidupnya. Meskipun Yukinoshita berperilaku sempurna, dia kadang-kadang mengungkapkan kerapuhannya. Atau mungkin Anda bisa menyebut apa pun itu sebagai perasaan kefanaan. Tapi aku masih belum paham maksudnya.",
+      "emphasis": [
+        {
+          "start": 418,
+          "end": 455,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#100",
+      "text": "“Dan…,” lanjut Komachi, “Menurutku orang-orang yang tertinggal juga merasa kesepian.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#101",
+      "text": "…Ya, itu benar. Aku heran kenapa aku mengira yang akan kesepian hanyalah orang yang pergi, padahal orang yang ditinggalkan pasti akan merasakan hal yang sama. Jika Komachi menikah dan pindah, aku tahu aku akan menangis seperti bayi."
+    },
+    {
+      "id": "v5-bab-5-chapter005-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#102",
+      "text": "Komachi menarik tali pengikatnya untuk meminta Sable pergi. Aku mengambil tali pengikatnya seolah-olah sedang mengambil tongkat darinya."
+    },
+    {
+      "id": "v5-bab-5-chapter005-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#103",
+      "text": "“Kak?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#104",
+      "text": "“Kamu pasti lelah. Aku akan mengatasinya.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#105",
+      "text": "Dia jelas tidak akan lelah dari berjalan-jalan dengan anjing sekecil itu. Hanya gadis yang sangat lemah yang akan lelah karenanya. Komachi menatapku penasaran sebelum tiba-tiba tersenyum. “Iya terima kasih. Akan kupastikan kamu tidak pergi kemana-mana,” katanya sambil meremas tanganku."
+    },
+    {
+      "id": "v5-bab-5-chapter005-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#106",
+      "text": "“Kubilang aku tidak akan kemana-mana. Aku akan diam di rumah sampai aku menikah.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#107",
+      "text": "“…Apakah ‘menikah’ benar-benar berlaku untuk suami rumah tangga juga?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#108",
+      "text": "“Kalau begitu sampai aku menikah.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#109",
+      "text": "“Yah, menurutku…itu tidak terlalu penting.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#110",
+      "text": "Sudah lama sekali sejak terakhir kali kita mengambil ini jalan, dan kota telah berubah dari sebelumnya. Ayo kita jalan-jalan dan pulang."
+    },
+    {
+      "id": "v5-bab-5-chapter005-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#111",
+      "text": "Tepat ketika makan malam hampir siap, bel pintu berbunyi. Komachi sedang berdiri di depan panci di atas kompor, jadi aku memutuskan untuk mengambilnya. Aku bisa melihat Yuigahama di layar interkom, dengan riang merapikan rambutnya. Aku pikir dia ada di sana untuk menjemput Sable. Setelah memeriksa interkom, aku keluar untuk mempersilahkan dia masuk."
+    },
+    {
+      "id": "v5-bab-5-chapter005_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter005_a.xhtml#../Images/Art_P93.jpg",
+      "src": "assets/chapters/volume-5/bab-5/Art_P93.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Haruno dan Hachiman berbicara di tepi jalan."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#0",
+      "text": "Saat aku membuka pintu, dia melambai. “Oh, halo!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#1",
+      "text": "“’Sup.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#2",
+      "text": "“Ini suvenirmu,” katanya sambil menyodorkan kantong kertas padaku."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#3",
+      "text": "Dari ukuran dan beratnya, sepertinya itu bukan pedang kayu. Sayang sekali. Aku akan lebih senang jika menerima gantungan kunci berupa pedang kecil dengan naga acak yang meliuk di sekelilingnya atau gantungan kunci tengkorak yang menyala dalam gelap."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#4",
+      "text": "“Kamu hanya bisa mendapatkannya di sana!” katanya."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#5",
+      "text": "“Hah…”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#6",
+      "text": "Aku melihat ke dalam kantong kertas, seperti yang diinstruksikan Yuigahama, dan di dalamnya ada permen dari perjalanannya. Ya, itu adalah makanan ringan versi daerah yang sering Anda lihat dijual. Itu adalah pilihan yang cukup aman. Itu menunjukkan ke mana dia pergi, dan dia juga berhati-hati dalam memilih sesuatu yang tidak disukai sedikit orang. Permen tersebut dikemas dalam kemasan yang dibungkus satu per satu, sehingga mudah untuk dibagikan di tempat kerja atau sekolah. Itu adalah suvenir yang sangat bijaksana. Tapi melihat hadiahnya tiba-tiba mengingatkanku pada kejadian tertentu. “Ini adalah…”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#7",
+      "text": "“Hah? Kamu tidak menyukainya?” Yuigahama mengintip ke dalam kantong kertas di tanganku, terlihat khawatir."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#8",
+      "text": "“Tidak, tidak apa-apa, tapi…para gadis selalu membeli sesuatu seperti ini sebagai oleh-oleh, bukan? Lalu mereka membagikannya kepada semua gadis lain di kelas.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#9",
+      "text": "“Ya, itu benar. Tapi beberapa orang tidak. Suka Yumiko.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#10",
+      "text": "Miura, ya? Aku tidak mengharapkan hal lain dari sang ratu. Dia menganggap wajar bahwa orang lainlah yang harus membelikan barang untuknya, dan aku menghargainya. “Suatu ketika, ada yang memasukkan bungkus jajanan daerah ke dalam kotak sepatuku,” kataku. “Itu pasti salah satu gadis di kelasku. Dia juga jelas tidak punya keinginan untuk menyembunyikan kejahatannya. Kepercayaan dirinya hanya membuatnya semakin sakit...” Tawa kecil terdengar di tenggorokanku."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#11",
+      "text": "Karena panik, Yuigahama berusaha memperbaiki situasi. “I-tidak apa-apa—kali ini hal itu tidak akan terjadi!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#12",
+      "text": "“Saya harap tidak.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#13",
+      "text": "“Semua akan baik-baik saja!” Yuigahama bersikeras sambil mengepalkan tangannya. “Tidak ada seorang pun yang cukup menyadari keberadaanmu hingga melakukan hal seperti itu.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#14",
+      "text": "“Itu benar.” Keterampilan menghiburnya praktis tidak ada, tapi dia sebenarnya meyakinkan, jadi terserah. Aku sangat senang kemampuan sembunyi-sembunyi aku telah memberikan hasil. Mereka sangat bagus, mereka bahkan bisa mengerjakan Raja Semut. Aku lega mendengar aku bisa menghabiskan semester kedua dengan damai dan tenang.",
+      "emphasis": [
+        {
+          "start": 105,
+          "end": 242,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#15",
+      "text": "Namun, Yuigahama mengintip ke dalam rumah dari pintu dengan sedikit khawatir. “Jadi bagaimana kabar Sable?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#16",
+      "text": "“Oh, dia bagus,” kataku padanya. “Komachi!” Aku memanggil ke dalam rumah."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#17",
+      "text": "Komachi datang ke pintu sambil menggendong Sable. Dia menyalak."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#18",
+      "text": "Saat dia melihatnya, Yuigahama tersenyum. “Terima kasih, Komachi!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#19",
+      "text": "“Bukan apa-apa,” jawab adikku."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#20",
+      "text": "Yuigahama mengelus anjing itu di pelukan Komachi dan bertanya, “Dia tidak menyusahkanmu?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#21",
+      "text": "“Oh, tidak, tidak sama sekali,” jawab Komachi. “Kami bermain bersama dengan Bahasa Anjing dan sejenisnya. Menyenangkan.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#22",
+      "text": "“Bahasa Anjing? Oh, benda itu. Saya ingat mereka dulu pernah memilikinya.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#23",
+      "text": "“Sekarang ada aplikasinya,” kataku, tapi karena akan lebih cepat jika menunjukkan padanya, Aku meluncurkan program tersebut."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#24",
+      "text": "“Coba saya lihat, coba saya lihat.” Yuigahama berputar-putar untuk melihat ponselku dengan lebih baik, lalu untuk mengujinya, dia mencoba memanggil anjingnya. “Ayo, Sable! Ini aku!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#25",
+      "text": "Sable memiringkan kepalanya, tampak bingung. “Melambai?” (Siapa dia?)"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#26",
+      "text": "“Sablé?!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#27",
+      "text": "Keputusasaan dalam nada suaranya mungkin mengejutkannya, saat dia menyalak dan berlari mengitari pergelangan kakiku. Aku mengangkatnya ke dalam pelukanku dan kemudian dengan lembut memasukkannya ke dalam gendongan yang dibawakan Komachi. Aku menutup ritsletingnya dan menyerahkannya pada Yuigahama. “Ini. Dia akan mengingatmu dalam beberapa hari.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#28",
+      "text": "“Ngh… Aku benar-benar ingin dia mengingatnya...” Dia setengah menangis, tapi dia memegang gendongannya dengan kuat dan hati-hati. Sable menempelkan hidungnya ke jaring dan merengek."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#29",
+      "text": "“…Sampai jumpa,” kataku. Aku tidak terlalu memihak pada anjing itu, tapi sekarang tiba waktunya untuk berpisah, ada sesuatu yang muncul dalam diriku. Jika dia mulai menyalak sebagai bentuk protes, maka itu akan lebih parah lagi."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#30",
+      "text": "“Bawa Sable lagi suatu saat nanti untuk bermain, Yui.” Komachi, matanya sedikit basah, meraih tangan Yuigahama. Dia terpaku pada tamu kita selama tiga hari terakhir."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#31",
+      "text": "“Aku akan melakukannya! Pasti!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#32",
+      "text": "“Ya, silakan,” kata Komachi. “Saat orang tua kita ada di sini, dengan sekotak kue, saat kamu sedang memberi salam.” Mata Komachi berkilat curiga."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#33",
+      "text": "“Iya, sapa ayahmu… Tunggu, apa?! Tidak! Tidak, aku sama sekali tidak akan pergi!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#34",
+      "text": "Komachi mendecakkan lidahnya pelan, ekspresinya dengan cepat berubah kembali normal. “Bagaimanapun, saya harap Anda datang lagi suatu saat nanti. Saya akan menunggu.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#35",
+      "text": "“Ya, terima kasih.” Yuigahama mengungkapkan rasa terima kasihnya, lalu mengangkat Sable dan barang-barang doggy lainnya. Sudah waktunya dia pergi."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#36",
+      "text": "Dan saat itulah aku teringat. “Oh ya, tentang Yukinoshita. Dia mungkin hadir di pertunjukan kembang api. Bu Hiratsuka mengatakan bahwa karena ini adalah acara kota, banyak tamu VIP yang akan datang bersama keluarga mereka.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#37",
+      "text": "“Oh, benarkah? Baiklah. Saya akan pergi dan memeriksanya.” Yuigahama berhenti sejenak seolah ada sesuatu yang tiba-tiba terlintas di benaknya. Dia diam-diam menarik napas dalam-dalam dan fokus padaku. “U-um...j-jadi kamu mau pergi melihat kembang api bersama? Sebagai ucapan terima kasih karena telah menjaga Sable. Aku akan membelikanmu makanan di sana.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#38",
+      "text": "“Kau dengar itu, Komachi? Ayo kita pergi ke pesta kembang api,” kataku."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#39",
+      "text": "Kita berdua berangkat sendirian bersama tidak pernah menjadi pilihan. Selain itu, maksudku, jika ini adalah ucapan terima kasihnya, Komachi harusnya bertindak sebagai orang yang telah merawat Sable."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#40",
+      "text": "Komachi rupanya mengerti maksudku. Dia meletakkan tangannya di pinggul dan mendesah kecil karena jengkel. “Astaga,” gumamnya, “sama sekali tidak berguna, seperti biasanya,” tapi aku mengabaikannya. Komachi meminta maaf pada Yuigahama. “Oh, aku benar-benar tersanjung dengan undanganmu. Tapi aku sangat sibuk belajar untuk ujian. Aku tahu kamu ingin melakukan sesuatu untukku, tapi aku tidak tahu apakah aku bisa keluar...”",
+      "emphasis": [
+        {
+          "start": 244,
+          "end": 255,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#41",
+      "text": "“Oh…tentu saja.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#42",
+      "text": "“Ya, Maafkan aku.Tapi! Tapi, tapi! Ada beberapa barang yang aku ingin kamu bantu beli. Tapi, ya… Agh, aku tidak punya waktu untuk pergi! Aku sangat menginginkannya, tapi aku tidak punya waktu untuk pergi berbelanja! Apa pun yang harus aku lakukan?! twit menatap ke arahku.",
+      "emphasis": [
+        {
+          "start": 17,
+          "end": 22,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#43",
+      "text": "Yuigahama menyadari apa maksudnya dan memanfaatkan kesempatan itu dengan penuh semangat. “Oh! Y-ya! Hikki! Kenapa kamu tidak ikut denganku untuk membelikan hadiah terima kasih untuk Komachi? Lagipula, dia sudah melakukan banyak hal untukmu!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#44",
+      "text": "“U-uh... Yah, um...” Aku memutar otak untuk menjawab, tapi Yuigahama menatap lurus ke arahku."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#45",
+      "text": "Aku bisa mendengar Komachi berbisik pelan di belakangku. “Aku khawatir jika ada seorang gadis yang pergi sendirian ke pertunjukan kembang api, lho! Di luar sana sangat berbahaya akhir-akhir ini... Oh, kalau saja saat ini ada laki-laki yang punya waktu untuk pergi...”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#46",
+      "text": "“U-um, kalau kamu punya rencana untuk pergi dengan seseorang, atau kalau kamu sedang sibuk, kamu...tidak...harus melakukannya...” Yuigahama melakukan lindung nilai, memberiku sebuah pandangan sekilas."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#47",
+      "text": "Saat aku mengatakan aku “tidak melakukan banyak hal”, sebenarnya aku tidak melakukan apa pun. Jadi tentu saja aku juga ada waktu luang pada hari kembang api itu. Ditambah lagi, dalam menghadapi permohonan seperti itu, tidak mungkin aku bisa menolaknya. Parit dalam dan luar sudah terisi. Rasanya seperti kampanye musim panas Pengepungan Osaka."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#48",
+      "text": "“Yah, karena ini juga untuk Komachi. Hubungi aku kapan saja,” kataku, kembali ke ruang tamu."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#49",
+      "text": "Tepat sebelum aku menutup pintu, jawaban cerianya terdengar punggungku. “Ya, saya akan mengirim email kepada Anda nanti!”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-50",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter005_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#51",
+      "text": "Dengan kepergian Sable, rumah kini menjadi sunyi. Suasana begitu hening, seolah-olah gonggongan 24/7 belum pernah terjadi. Saat aku mencuci piring, dentingannya terdengar jelas. Saat aku mematikan keran di depan aku, aku bisa mendengar suara serangga di kejauhan. Keluarga Hikigaya mungkin akan tetap dalam suasana tenang seperti ini sampai orang tua kami pulang."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#52",
+      "text": "Dari dapur, aku bisa melihat Komachi duduk di sofa, entah kenapa terlihat tidak ceria sambil menghela napas panjang. Aku mengisi gelas dengan teh jelai yang diambil dari lemari es dan menyerahkannya padanya. “Untuk semua kerja kerasmu.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#53",
+      "text": "Dia menerima gelas yang disodorkan dan menenggak semuanya sekaligus, memberikan ahhh puas sebelum mengembalikan gelas itu kepadaku sambil mendengus. “Astaga, aku lelah… Aku merasa seperti baru saja mengirim anakku ke dunia nyata.” Komachi terlihat sangat tua, dengan ekspresi tenang seperti nenek-nenek yang sedang berada di beranda.",
+      "emphasis": [
+        {
+          "start": 80,
+          "end": 84,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#54",
+      "text": "“Gawat sekali…?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#55",
+      "text": "“Tapi ini Yui, jadi mungkin aku bisa santai dan menyerahkan urusan ini padanya…”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#56",
+      "text": "“Dia tidak pernah menjadi anjingmu sejak awal. Betapa tidak tahu malunya kamu…?” Aku menghela napas."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#57",
+      "text": "Komachi menatapku, memiringkan kepalanya. “Hah? Oh, kita sedang membicarakan Sable?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#58",
+      "text": "“Apa? Kita tidak? Lalu apa yang kita bicarakan?”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#59",
+      "text": "“Tidak ada!” Di atas sofa, Komachi menjatuhkan diri dan berguling-guling dengan malas. Dia mengulurkan tangan untuk menarik bantal ke arahnya tetapi dicegah oleh Kamakura yang tertidur tergeletak di atasnya. Kucing itu tampak lebih santai dari biasanya. Dia biasanya tidur meringkuk, tapi kali ini dia dibaringkan begitu saja, dengan satu kaki direntangkan di atas kepala, satu kaki di dada, dan satu kaki ditekuk seperti pria yang selalu berkata “Sheeeh!” Aku kira sekarang setelah Sable pergi, dia akhirnya bisa lengah. Perutnya yang berbulu halus benar-benar terbuka dan rentan. Itu adalah jenis strategi tanpa penjagaan yang bahkan akan membuat Black Panther Selatan Ray Sefo secara refleks bersikap defensif."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#60",
+      "text": "Saat Komachi melihat itu, matanya berbinar. “Kaaaa-yutie!” Dia menerkamnya, membenamkan wajahnya di perutnya, memukul-mukul cakarnya begitu keras hingga bisa lepas dan mendengkur serempak dengannya. “Oh! Kita bisa tanya apa yang sebenarnya dia rasakan saat ini! Kak, Bahasa Kucing! Buruan ambil! Ayo, ayo!”",
+      "emphasis": [
+        {
+          "start": 51,
+          "end": 56,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#61",
+      "text": "“B-baiklah.” Sesuai instruksi, aku buru-buru mengambil ponselku, membuka aplikasinya, dan segera menyerahkan ponselku pada Komachi. Komachi menusukkannya ke wajah Kamakura."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#62",
+      "text": "“Mendengkur, mendengkur, mendengkur.” (Aku tercekik… Tolong… Gatal. Enak.)",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 37,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#63",
+      "text": "“Kaa?!” Komachi panik."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#64",
+      "text": "Hei, apa kucing ini baik-baik saja? Dan apakah orang yang membuat aplikasi ini baik-baik saja? Dialah yang mengacau ya?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 119,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#65",
+      "text": "Setelah kejadian kecil itu, Komachi bermain dengan Kamakura tanpa henti seolah ingin menghilangkan kesepiannya. Meskipun Sable sudah lama tidak bersama kami, dia telah memberinya banyak perhatian dan kasih sayang."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#66",
+      "text": "Permainan mereka menghasilkan pemandangan yang menawan, dan setelah aku menontonnya sebentar, Komachi mengintip ponselku. “Oh, Kak,” katanya. “Bateraimu hampir habis.” Dia mengulurkannya padaku."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#67",
+      "text": "“Mm-hmm. Oke,” kataku sambil menerimanya. Memang, masa pakai baterainya turun hingga beberapa persen. Jusnya akan habis kapan saja. Aku perhatikan jam kecil yang ditampilkan di sudut atas layar—hari sudah agak larut. “Waktunya tepat. Kamu harus kembali belajar.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#68",
+      "text": "“Okaaay!” Komachi memberi Kamakura satu hewan peliharaan terakhirnya dan turun dari sofa untuk meninggalkan ruang tamu. Dia mungkin akan belajar di kamarnya sendiri."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#69",
+      "text": "Akhirnya terlepas dari cengkeraman Komachi, Kamakura berjalan ke arahku seperti saat Sable bersama kami, terlihat mengantuk dan lelah. Kamu juga telah bekerja keras.",
+      "emphasis": [
+        {
+          "start": 135,
+          "end": 165,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#70",
+      "text": "Saat aku sedang mencari charger agar ponselku tetap menyala, Kamakura mengeong dengan nada tinggi. Aplikasi berbahasa Cat masih berjalan, dan beberapa karakter muncul di layar."
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#71",
+      "text": "Aku tertawa terbahak-bahak saat melihatnya. “Ya, jangan bercanda.”"
+    },
+    {
+      "id": "v5-bab-5-chapter005_b-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#72",
+      "text": "Kamakura mengeong sekali lagi sebagai balasan, tapi layarnya sudah menjadi gelap."
+    },
+    {
+      "id": "v5-bab-5-chapter005_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter005_c.xhtml#../Images/Art_P100.jpg",
+      "src": "assets/chapters/volume-5/bab-5/Art_P100.webp",
+      "width": 1800,
+      "height": 1270,
+      "text": "Percakapan ponsel Hachiman dan Komachi pada ulang tahunnya, 8 Agustus."
+    },
+    {
+      "id": "v5-bab-5-chapter005_c-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Percakapan ponsel Hachiman dan Komachi pada ulang tahunnya, 8 Agustus",
+      "source": "OEBPS/Text/chapter005_c.xhtml#../Images/Art_P100.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-5-chapter005_c-0-companion-1",
+      "kind": "text",
+      "text": "Komachi · 00:00 · Tanpa judul: “Selamat ulang tahun!” Hachiman · 03:19 · Re: “Makasih.”",
+      "source": "OEBPS/Text/chapter005_c.xhtml#../Images/Art_P100.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-5-chapter005_c-0-companion-2",
+      "kind": "text",
+      "text": "Komachi · Re2: “Serangan balasan tertunda itu kejam!” Hachiman · 03:21 · Re3: “Masih bangun? Tidur sana.”",
+      "source": "OEBPS/Text/chapter005_c.xhtml#../Images/Art_P100.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-5-chapter005_c-0-companion-3",
+      "kind": "text",
+      "text": "Komachi · 03:21 · Re4: “((_ _))…zzzZZ” Hachiman · 03:22 · Re5: “Selamat malam.”",
+      "source": "OEBPS/Text/chapter005_c.xhtml#../Images/Art_P100.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

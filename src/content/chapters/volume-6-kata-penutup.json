@@ -1,0 +1,218 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v6-kata-penutup-afterword-5"
+    ],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v6-kata-penutup-afterword-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/afterword.xhtml#0",
+      "headingLevel": 2,
+      "text": "Kata Penutup"
+    },
+    {
+      "id": "v6-kata-penutup-afterword-1",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#1",
+      "text": "Selamat malam. Saya Wataru Watari."
+    },
+    {
+      "id": "v6-kata-penutup-afterword-2",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#2",
+      "text": "Kita sudah memasuki musim gugur. Musim gugur membaca, musim gugur seni, musim gugur olahraga: Ada banyak musim gugur di luar sana. Musim gugur kecil seperti apa yang pernah Anda temukan?"
+    },
+    {
+      "id": "v6-kata-penutup-afterword-3",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#3",
+      "text": "Akhir musim gugur—",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 18,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-kata-penutup-afterword-4",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#4",
+      "text": "bagaimana kehidupan tetangga saya",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 33,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-kata-penutup-afterword-5",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#5",
+      "text": "tetangga tinggal?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 17,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-kata-penutup-afterword-6",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#6",
+      "text": "Tidak tahukah Anda? Saya sedang bekerja."
+    },
+    {
+      "id": "v6-kata-penutup-afterword-7",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#7",
+      "text": "Musim gugur persalinan. Musim gugur perbudakan perusahaan… Saya sudah muak dengan ini!"
+    },
+    {
+      "id": "v6-kata-penutup-afterword-8",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#8",
+      "text": "Jadi dengan rendah hati saya menyampaikan kepada Anda Komedi Romantis Masa Muda Saya Salah, Seperti yang Saya Harapkan, Volume 6. Ceritanya juga memasuki musim gugur, dan meskipun berjalan lambat, semuanya berjalan perlahan.",
+      "emphasis": [
+        {
+          "start": 54,
+          "end": 118,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-kata-penutup-afterword-9",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#9",
+      "text": "Sudah satu setengah tahun sejak saya mulai menulis seri ini, dan dalam waktu satu setengah tahun sejak saya mulai menulis seri ini, dan dalam waktu satu setengah tahun sejak saya mulai menulis seri ini, timeline cerita, sudah enam bulan. Tapi baru belakangan ini aku sadar bahwa aku sendiri akhirnya bisa mengenal semua karakternya—walaupun aku yakin sampai saat ini, aku hanya merasa seperti aku mengenal mereka."
+    },
+    {
+      "id": "v6-kata-penutup-afterword-10",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#10",
+      "text": "Ya, jalan masih panjang. Saya harap mulai saat ini dan seterusnya, kita bisa mengenal mereka secara perlahan, sedikit demi sedikit. Saya harap Anda semua, para pembaca, juga akan terus membaca saya untuk beberapa waktu lagi."
+    },
+    {
+      "id": "v6-kata-penutup-afterword-11",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#11",
+      "text": "Dan di bawah ini, ucapan terima kasih:"
+    },
+    {
+      "id": "v6-kata-penutup-afterword-12",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#12",
+      "text": "Kepada Holy Ponkan: Dengan setiap buku, ilustrasi indah Anda mencapai tahap evolusi baru. Apakah Anda Psaro? Apakah Anda memegang rumus rahasia evolusi? Terima kasih banyak."
+    },
+    {
+      "id": "v6-kata-penutup-afterword-13",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#../Images/Art_1a.jpg",
+      "text": "⑧"
+    },
+    {
+      "id": "v6-kata-penutup-afterword-14",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#14",
+      "text": "Kepada editor saya, Tuan Hoshino: Saya sangat, sangat menyesal karena selalu memaksakan jadwal yang berantakan pada Anda. Tidak, Anda salah paham! Ini karena, lho, batuk, batuk. Terima kasih.",
+      "emphasis": [
+        {
+          "start": 164,
+          "end": 176,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-kata-penutup-afterword-15",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#15",
+      "text": "Kepada Tuan Koushi Tachibana: Kalau dipikir-pikir, Andalah yang datang dengan memberikan singkatan -gairu pada seri ini. Berkatmu, segalanya menjadi kacau balau. Apakah serial ini memiliki julukan Hamachi? Apakah itu Oregairu? Saya tidak akan pernah memaafkan Anda atas komentar yang Anda buat pada band buku.",
+      "emphasis": [
+        {
+          "start": 99,
+          "end": 105,
+          "style": "em"
+        },
+        {
+          "start": 197,
+          "end": 204,
+          "style": "em"
+        },
+        {
+          "start": 217,
+          "end": 225,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-kata-penutup-afterword-16",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#16",
+      "text": "Kepada semua penulis: Saya hampir tidak mengikuti perkembangan kali ini, jadi Anda tidak dapat mengundang saya ke pesta minum itu, tetapi Wataru Watari percaya bahwa itu bukan karena Anda membenci saya, tetapi karena Anda perhatian. Terima kasih."
+    },
+    {
+      "id": "v6-kata-penutup-afterword-17",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#17",
+      "text": "Kepada semua orang di Media Mix: Terima kasih banyak atas banyak hal yang tidak dapat saya muat di sini. Saya juga akan mengandalkan Anda untuk terus maju."
+    },
+    {
+      "id": "v6-kata-penutup-afterword-18",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#18",
+      "text": "Selain itu, saat menulis buku ini, saya merujuk pada The Little Prince karya Antoine de Saint-Exupéry, diterjemahkan oleh Natsuki Ikezawa, diterbitkan oleh Shueisha.",
+      "emphasis": [
+        {
+          "start": 53,
+          "end": 70,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-kata-penutup-afterword-19",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#19",
+      "text": "Dan akhirnya, untuk semua pembaca saya: Seri ini telah berlalu dengan cepat, dan kita sudah berada di Volume 6. Berkat semua dukungan Anda, saya akhirnya mencapai titik balik. Terima kasih banyak. Ini akan terus berlangsung sedikit lebih lama, lho?"
+    },
+    {
+      "id": "v6-kata-penutup-afterword-20",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#20",
+      "text": "Nah, pada catatan itu, saya akan meletakkan pena saya di sini."
+    },
+    {
+      "id": "v6-kata-penutup-afterword-21",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#21",
+      "text": "Pada suatu hari di bulan Oktober, di suatu tempat di Chiba, pada malam musim gugur yang panjang, sambil menyeruput panas Kopi MAX,",
+      "emphasis": [
+        {
+          "start": 115,
+          "end": 120,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-kata-penutup-afterword-22",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#22",
+      "text": "Wataru Watari"
+    }
+  ]
+}

@@ -303,3 +303,12 @@ This structure is guidance, not a mandate to create empty files or unnecessary a
 - Chapters 2/5 and Afterword are AI-translated; Chapters 3/4 and Translation Notes started with Google Translate and received preliminary AI editing, not a complete semantic/literary review. Preserve transparent method disclosures.
 - Six new sections preserve 1,401 source blocks and 16 illustrations. Three email spreads have 20 translated companion blocks. See `docs/editorial/volume-2.md` and `volume-2-sources.json`.
 - `tools/prepare_volume2.py` defaults to all nine sections. Back matter uses null number, `kind: backmatter`, orders 7/8. Preserve existing V1, V2 Pembuka/Prolog/Bab 1 anchors, English editions, settings/progress version 2, and shared reader.
+
+## 18. Volume 3–6 Indonesian drafts
+
+- Owner requested translation of Volumes 3–6. All 45 narrative/front/back-matter sections are present as independent drafts: 9/11/11/14 sections respectively. No section is human-reviewed.
+- Volume 3 has six numbered chapters plus a separate Bonus Track (`kind: backmatter`, null number, slug `bonus-track`); do not call the bonus Bab 7. Its provided EPUB has no separate afterword. Volume 6 has a Prolog (`frontmatter`, null number), never Bab 0.
+- Initial prose drafts use Google Translate with preliminary AI editing/terminology normalization, not a full semantic or literary review. Titles and illustrated companions are AI-translated. Maintain disclosures in `docs/editorial/volumes-3-6.md` and the About page.
+- `volumes-3-6-sources.json` maps 8,392 source blocks and 127 uncropped illustrations. Thirty-two illustrated text pages have 208 translated companion blocks. Inline arrows, circled 8, and small Japanese character examples remain text rather than image pages.
+- `tools/prepare_volumes3_6.py` prepares local inputs from existing English editions; translation services/OCR do not run in production or CI. Do not regenerate Indonesian prose automatically from machine output.
+- Preserve Volume 1–2 anchors/content, all English editions, shared reader behavior, white defaults, and settings/progress schema 2. Volume 6.5 remains untranslated and outside this request.

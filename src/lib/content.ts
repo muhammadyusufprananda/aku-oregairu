@@ -3,6 +3,7 @@ import { resolve } from "node:path";
 import openingProvenance from "../../docs/editorial/volume-1-pembuka-sources.json";
 import provenance from "../../docs/editorial/volume-1-bab-1-sources.json";
 import remainingProvenance from "../../docs/editorial/volume-1-remaining-sources.json";
+import continuationProvenance from "../../docs/editorial/volumes-3-6-sources.json";
 import volume2Provenance from "../../docs/editorial/volume-2-sources.json";
 import { sections, url, type Block, type ReadingSection } from "./catalog";
 const imported = import.meta.glob<{ default: unknown }>(
@@ -95,6 +96,32 @@ export function blocksFor(chapter: ReadingSection): Block[] {
       throw Error(
         `Pemetaan sumber Volume 2 tidak lengkap atau berubah: ${chapter.id}`,
       );
+  }
+  if (Object.hasOwn(continuationProvenance, chapter.volume)) {
+    const mapping = continuationProvenance as Record<
+      string,
+      {
+        sections: Record<
+          string,
+          { blocks: { id: string; source: string; kind: string }[] }
+        >;
+      }
+    >;
+    const expected = mapping[chapter.volume].sections[chapter.slug]?.blocks;
+    if (!expected) throw Error(`Pemetaan sumber tidak tersedia: ${chapter.id}`);
+    const expectedIds = new Set(expected.map((b) => b.id));
+    const actual = record.blocks.filter((b) => expectedIds.has(b.id));
+    if (
+      actual.length !== expected.length ||
+      actual.some(
+        (b, i) =>
+          b.id !== expected[i].id ||
+          b.source !== expected[i].source ||
+          b.kind !== expected[i].kind,
+      )
+    ) {
+      throw Error(`Urutan atau referensi sumber berubah: ${chapter.id}`);
+    }
   }
   if (chapter.volume === "volume-1" && chapter.kind === "frontmatter") {
     const expected = openingProvenance.files.flatMap((f) =>

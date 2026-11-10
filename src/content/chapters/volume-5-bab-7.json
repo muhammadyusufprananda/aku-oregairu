@@ -1,0 +1,172 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v5-bab-7-chapter007-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter007.xhtml#1",
+      "headingLevel": 2,
+      "text": "Sedangkan Hachiman Hikigaya…",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 27,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-7-chapter007-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter007.xhtml#../Images/Art_P139.jpg",
+      "src": "assets/chapters/volume-5/bab-7/Art_P139.webp",
+      "width": 248,
+      "height": 512,
+      "text": "Komachi versi chibi menggendong Kamakura."
+    },
+    {
+      "id": "v5-bab-7-chapter007-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#3",
+      "text": "Musim panas sudah berakhir, tapi hanya berdasarkan kalender. Hari terakhir musim panas tiba, dan sekolah dimulai keesokan harinya. Jangkrik yang mengumumkan musim gugur berkicau keras, tapi cuaca masih panas. Mungkin butuh waktu lebih lama sebelum cuaca menjadi dingin."
+    },
+    {
+      "id": "v5-bab-7-chapter007-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#4",
+      "text": "Matahari terbenam terakhir di bulan Agustus sudah mulai terbenam. Dengan sisa cahaya, aku bersiap untuk memulai sekolah keesokan harinya. Aku memasukkan pekerjaan rumah yang sudah lama kuselesaikan ke dalam tasku."
+    },
+    {
+      "id": "v5-bab-7-chapter007-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#5",
+      "text": "Di antara makalah aku adalah proyek penelitian independen Komachi. Tampaknya aku telah mencampurkannya ketika aku telah mencetak semua yang aku perlukan untuk penyerahan. Aku membalik-balik laporan yang aku buat tentang reaksi api untuk terakhir kalinya."
+    },
+    {
+      "id": "v5-bab-7-chapter007-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#6",
+      "text": "Reaksi apilah yang memberi warna pada kembang api. Jika Anda menyentuhkan logam atau garam ke nyala api, setiap elemen akan membakar warna yang khas. Nyala api biru-putih juga akan terlihat berbeda tergantung elemen mana yang disentuhnya."
+    },
+    {
+      "id": "v5-bab-7-chapter007-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#7",
+      "text": "Sebenarnya mirip seperti manusia. Saat dua orang bersentuhan, Anda akan mendapat semacam reaksi. Dan ada berbagai kemungkinan warna. Bahkan satu orang pun akan menunjukkan reaksi yang berbeda-beda, bergantung pada orang yang melakukan kontak dengannya. Anda menciptakan warna yang sangat berbeda setiap kali, seperti kembang api warna-warni."
+    },
+    {
+      "id": "v5-bab-7-chapter007-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#8",
+      "text": "Misalnya, saat Saki Kawasaki bertemu dengannya, dia bilang dia sulit untuk didekati. Meskipun kedua gadis itu memiliki tipe yang sama, dan mereka berdua menjaga jarak, Kawasaki tidak merasa mereka bisa menjadi teman. Jadi mungkin bentuk komunikasi terbaik bagi mereka adalah tanpa campur tangan."
+    },
+    {
+      "id": "v5-bab-7-chapter007-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#9",
+      "text": "Atau ketika Taishi Kawasaki melihatnya, dia menggambarkannya sebagai sosok yang cantik namun juga menakutkan. Jika Anda hanya melihat sekilas dalam mengungkapkan siapa dia, Anda tidak bisa lebih akurat. Dilihat dari jauh, dia mungkin terlihat seperti tebing yang menjulang di atas lautan es."
+    },
+    {
+      "id": "v5-bab-7-chapter007-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#10",
+      "text": "Dan kemudian ada Yoshiteru Zaimokuza. Ketika dia berhadapan dengannya, dia menyimpulkan bahwa sikap blak-blakan wanita itu berarti dia tidak keberatan menyakitinya. Jika kita hanya berbicara tentang aspek spesifik dari dirinya, menurut aku dia benar-benar tepat. Namun demikian, aku tidak percaya pertanyaannya adalah apakah dia mempunyai keberatan; dia mungkin tidak tahu cara lain yang harus dilakukan."
+    },
+    {
+      "id": "v5-bab-7-chapter007-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#11",
+      "text": "Dan kemudian, ketika Saika Totsuka mendekatinya, dia memanggilnya orang yang bermartabat dan serius. Dan itu benar: Memang benar. Dia setia pada aturan dan prinsip. Meskipun aturan dan prinsipnya didasarkan pada rasa keadilan internalnya sendiri."
+    },
+    {
+      "id": "v5-bab-7-chapter007-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#12",
+      "text": "Namun, ketika Komachi Hikigaya melakukan kontak dengannya, dia merasa gadis yang lebih tua itu tampak kesepian. Baik orang yang meninggalkan rumah maupun orang yang ditinggalkan sama-sama merasakan sakitnya kesendirian. Tentu saja, penilaian Komachi tidak lebih dari sekedar simpati dari pihak luar. Tidak ada yang tahu bagaimana perasaannya yang sebenarnya, mungkin termasuk dirinya sendiri."
+    },
+    {
+      "id": "v5-bab-7-chapter007-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#13",
+      "text": "Sebaliknya, Shizuka Hiratsuka mengawasinya, percaya bahwa dia adalah orang yang baik dan juga sering kali saleh. Bu Hiratsuka juga berkata bahwa dunia ini tidak baik dan tidak benar, jadi ini pasti merupakan tempat yang sulit baginya. Memang benar—hampir segala sesuatu di sekitarnya bisa menjadi belenggunya. Hanya satu hal yang bisa menyelamatkannya, kata guru itu: “teman.” Tapi dia kemungkinan besar telah disiksa belasan kali lebih banyak oleh “teman” yang sama—tidak, ratusan kali."
+    },
+    {
+      "id": "v5-bab-7-chapter007-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#14",
+      "text": "Dan Haruno Yukinoshita, yang tinggal bersamanya, tertawa seolah mengatakan dia tidak berharga. Dengan senyuman tidak berperasaan, dia berkomentar bahwa adik perempuannya selalu mengejarnya, dan itulah mengapa dia selalu menjadi pecundang. Dia adalah adik perempuan Haruno yang menyedihkan, menggemaskan, dan tidak dipilih. Aku tidak tahu siapa yang tidak memilihnya. Mungkin itu teman, keluarga, orang tua, atau bahkan takdir. Apapun itu, hanya orang kuat seperti Haruno Yukinoshita yang bisa merasa kasihan padanya. Aku belum pernah merasa seperti itu."
+    },
+    {
+      "id": "v5-bab-7-chapter007-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#15",
+      "text": "Tapi kemudian Yui Yuigahama, yang berada di sisinya selama ini, berteriak bahwa dia menyukainya. Tidak ada yang berbunga-bunga dalam cara dia mengungkapkan perasaannya yang kikuk, tidak bijaksana, dan terus terang, tapi aku belum pernah mendengar pengakuan yang begitu indah. Bahkan Yui Yuigahama merasakan adanya tembok antara dia dan gadis lain, tapi itu hanya membuatnya semakin ingin mengatasi jarak tersebut. Dia sangat ingin membantunya, sampai-sampai dia bahkan meminta bantuan dari orang sepertiku."
+    },
+    {
+      "id": "v5-bab-7-chapter007-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#16",
+      "text": "Dan untuk Hachiman Hikigaya…"
+    },
+    {
+      "id": "v5-bab-7-chapter007-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#17",
+      "text": "Apakah aku tidak melihat apa-apa sama sekali?"
+    },
+    {
+      "id": "v5-bab-7-chapter007-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#18",
+      "text": "Terkadang, aku memang bisa memahami secara samar tindakannya dan psikologi yang mendasarinya. Tapi itu tidak berarti aku mengerti perasaannya. Hanya saja kami berada di posisi serupa di lingkungan serupa, sehingga membuat aku membuat analogi. Analogi-analogi tersebut tidak lebih dari sekedar perkiraan saja."
+    },
+    {
+      "id": "v5-bab-7-chapter007-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#19",
+      "text": "Orang-orang hanya melihat apa yang ingin mereka lihat."
+    },
+    {
+      "id": "v5-bab-7-chapter007-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#20",
+      "text": "Aku pikir aku sedang mengasah sesuatu yang familiar bagi aku dalam dirinya. Cara dia bertahan dalam sikap acuh tak acuhnya, dalam rasa keadilannya sendiri, dan tidak menyesali betapa dia disalahpahami atau betapa dia menyerah dalam memahami orang lain. Dia tidak diragukan lagi memiliki sifat manusia super sempurna yang ingin aku kuasai."
+    },
+    {
+      "id": "v5-bab-7-chapter007-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#21",
+      "text": "Aku…tidak merasakan keinginan untuk mengetahui lebih banyak tentang dia."
+    },
+    {
+      "id": "v5-bab-7-chapter007-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#22",
+      "text": "Yukino Yukinoshita yang pernah aku lihat selalu cantik dan jujur ​​serta tidak pernah berbohong—pernyataan kasarnya sering kali mengatakan lebih dari yang seharusnya. Dia tidak punya siapa pun untuk diandalkan, namun dia terus berdiri di atas kedua kakinya sendiri."
+    },
+    {
+      "id": "v5-bab-7-chapter007-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#23",
+      "text": "Cara dia berdiri di sana, cantik seperti api biru yang membeku, begitu fana, bahkan tragis…"
+    },
+    {
+      "id": "v5-bab-7-chapter007-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#24",
+      "text": "Yukino Yukinoshita itu…"
+    },
+    {
+      "id": "v5-bab-7-chapter007-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter007.xhtml#25",
+      "text": "…adalah orang yang aku kagumi."
+    }
+  ]
+}

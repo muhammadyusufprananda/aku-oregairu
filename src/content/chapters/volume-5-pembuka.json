@@ -1,0 +1,303 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v5-pembuka-cover-0",
+      "kind": "image",
+      "source": "OEBPS/Text/cover.xhtml#../Images/9781975359843.jpg",
+      "src": "assets/chapters/volume-5/pembuka/9781975359843.webp",
+      "width": 1600,
+      "height": 2400,
+      "text": "Sampul Oregairu Volume 5."
+    },
+    {
+      "id": "v5-pembuka-insert001-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert001.xhtml#../Images/Art_insert001.jpg",
+      "src": "assets/chapters/volume-5/pembuka/Art_insert001.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Ilustrasi sampul berwarna Oregairu Volume 5."
+    },
+    {
+      "id": "v5-pembuka-insert002-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert002.xhtml#../Images/Art_insert002.jpg",
+      "src": "assets/chapters/volume-5/pembuka/Art_insert002.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Daftar isi berwarna; terjemahannya tercantum pada daftar isi pembuka."
+    },
+    {
+      "id": "v5-pembuka-insert003-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg",
+      "src": "assets/chapters/volume-5/pembuka/Art_insert003.webp",
+      "width": 1800,
+      "height": 1013,
+      "text": "Yui berbicara tentang Sablé pada musim panas."
+    },
+    {
+      "id": "v5-pembuka-insert003-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Liburan musim panas",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-insert003-0-companion-1",
+      "kind": "text",
+      "text": "Yui Yuigahama: “Oh, iya. Selama kami pergi, aku berharap kalian bisa menjaga Sablé.”",
+      "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-insert005-0",
+      "kind": "image",
+      "source": "OEBPS/Text/insert005.xhtml#../Images/Art_insert005.jpg",
+      "src": "assets/chapters/volume-5/pembuka/Art_insert005.webp",
+      "width": 1199,
+      "height": 1800,
+      "text": "Yui menggendong Sablé."
+    },
+    {
+      "id": "v5-pembuka-titlepage-0",
+      "kind": "image",
+      "source": "OEBPS/Text/titlepage.xhtml#../Images/Art_tit.jpg",
+      "src": "assets/chapters/volume-5/pembuka/Art_tit.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Halaman judul Oregairu Volume 5: Wataru Watari; ilustrasi Ponkan8."
+    },
+    {
+      "id": "v5-pembuka-attribution",
+      "kind": "text",
+      "text": "Oregairu Volume 5. Penulis: Wataru Watari. Ilustrator: Ponkan8. Draf Indonesia disusun dari edisi Inggris terjemahan Jennifer Ward, Yen Press/Yen On; bukan terjemahan langsung dari bahasa Jepang. Halaman administrasi penerbit diringkas sebagai atribusi.",
+      "source": "copyright.xhtml (ringkasan atribusi)"
+    },
+    {
+      "id": "v5-pembuka-toc-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/toc.xhtml#0",
+      "headingLevel": 2,
+      "text": "Daftar isi"
+    },
+    {
+      "id": "v5-pembuka-toc-6",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#6",
+      "text": "Bab 1 · Mendadak, ketenangan keluarga Hikigaya runtuh."
+    },
+    {
+      "id": "v5-pembuka-toc-7",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#7",
+      "text": "Bab 2 · Tentu saja, dia melupakan Saki Kawasaki."
+    },
+    {
+      "id": "v5-pembuka-toc-8",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#8",
+      "text": "Bab 3 · Selera Saika Totsuka ternyata cukup bersahaja."
+    },
+    {
+      "id": "v5-pembuka-toc-9",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#9",
+      "text": "Bab 4 · Sayangnya, tak seorang pun tahu ke mana benang merah Shizuka Hiratsuka pergi."
+    },
+    {
+      "id": "v5-pembuka-toc-10",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#10",
+      "text": "Bab 5 · Komachi Hikigaya memikirkan bahwa suatu hari, kakaknya mungkin pergi."
+    },
+    {
+      "id": "v5-pembuka-toc-11",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#11",
+      "text": "Bab 6 · Dan begitulah Yui Yuigahama menghilang di tengah kerumunan."
+    },
+    {
+      "id": "v5-pembuka-toc-12",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#12",
+      "text": "Bab 7 · Sedangkan Hachiman Hikigaya…"
+    },
+    {
+      "id": "v5-pembuka-toc-13",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#13",
+      "text": "Bab 8 · Yukino Yukinoshita berhenti di tempatnya, hanya sesaat."
+    },
+    {
+      "id": "v5-pembuka-toc-14",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#14",
+      "text": "Kata Penutup"
+    },
+    {
+      "id": "v5-pembuka-toc-15",
+      "kind": "text",
+      "source": "OEBPS/Text/toc.xhtml#15",
+      "text": "Catatan Penerjemah Edisi Inggris"
+    },
+    {
+      "id": "v5-pembuka-preface001-0",
+      "kind": "image",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg",
+      "src": "assets/chapters/volume-5/pembuka/Art_P1.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Pengenalan tokoh."
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Pengenalan tokoh",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-1",
+      "kind": "text",
+      "text": "Hachiman Hikigaya: Tokoh utama. Siswa kelas dua SMA. Berkepribadian bengkok.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-2",
+      "kind": "text",
+      "text": "Yukino Yukinoshita: Ketua Klub Layanan. Perfeksionis.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-3",
+      "kind": "text",
+      "text": "Yui Yuigahama: Teman sekelas Hachiman. Cenderung mencemaskan pendapat orang lain.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-4",
+      "kind": "text",
+      "text": "Yoshiteru Zaimokuza: Kutu buku. Bercita-cita menjadi penulis novel ringan.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-5",
+      "kind": "text",
+      "text": "Saika Totsuka: Anggota klub tenis. Sangat manis, tetapi laki-laki.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-6",
+      "kind": "text",
+      "text": "Saki Kawasaki: Teman sekelas Hachiman. Agak seperti berandal.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-7",
+      "kind": "text",
+      "text": "Shizuka Hiratsuka: Guru bahasa Jepang. Guru bimbingan konseling.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-8",
+      "kind": "text",
+      "text": "Komachi Hikigaya: Adik perempuan Hachiman. Siswi SMP.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-9",
+      "kind": "text",
+      "text": "Taishi Kawasaki: Adik laki-laki Saki Kawasaki. Mengikuti bimbingan belajar yang sama dengan Komachi.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-10",
+      "kind": "text",
+      "text": "Haruno Yukinoshita: Kakak perempuan Yukino. Mahasiswi.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-11",
+      "kind": "text",
+      "text": "Kamakura: Kucing keluarga Hikigaya.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface001-0-companion-12",
+      "kind": "text",
+      "text": "Sablé: Anjing keluarga Yuigahama.",
+      "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0",
+      "kind": "image",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg",
+      "src": "assets/chapters/volume-5/pembuka/Art_P2.webp",
+      "width": 1800,
+      "height": 1335,
+      "text": "Tugas liburan musim panas: penelitian mandiri — Misteri Kembang Api."
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Tugas liburan musim panas: penelitian mandiri — Misteri Kembang Api",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-1",
+      "kind": "text",
+      "text": "Komachi Hikigaya. Musim panas berarti kembang api! Kalian bisa melihatnya di seluruh Chiba.☆ Dalam laporan ini, aku akan menyelami misteri kembang api!",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-2",
+      "kind": "text",
+      "text": "1. Apa yang membuat warna kembang api berbeda? Warna nyalanya berbeda berkat suatu gejala bernama reaksi nyala!",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-3",
+      "kind": "text",
+      "text": "2. Apa itu reaksi nyala? Reaksi nyala terjadi ketika garam logam alkali atau alkali tanah seperti tembaga terkena api. Setiap unsur logam terbakar dengan warna khasnya. Gejala ini digunakan untuk analisis kualitatif logam dan untuk mewarnai kembang api. Katanya begitu. Oh, tapi kalau kakakku ada bersamaku, duniaku selalu penuh warna! Wah, barusan dapat banyak poin Komachi!",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-4",
+      "kind": "text",
+      "text": "3. Macam-macam reaksi nyala. Berikut contoh yang umum: litium—merah tua; natrium—kuning; kalium—ungu muda; kalsium—jingga; stronsium—merah menyala; barium—hijau pucat; tembaga—hijau kebiruan.",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-5",
+      "kind": "text",
+      "text": "Natrium klorida, alias garam dapur, juga menghasilkan warna. Garam bisa dibeli di minimarket, jadi kalau memakai kartu anggota, kalian bisa mengumpulkan poin! Dan barusan aku juga dapat banyak poin pelanggan setia!",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-6",
+      "kind": "text",
+      "text": "4. Cara mengingat warna reaksi nyala. Soal reaksi nyala sering keluar dalam ujian, jadi ayo buat lagu agar warnanya mudah diingat! Sekarang tidak akan lupa lagi! Litium (Li)—merah; tembaga (Cu)—hijau; barium (Ba)—hijau; besi (Fe)—tidak bereaksi. “Aku nggak suka membaca, dan aku anggur kecil yang manis~ ♪” “Fwehhh… tidak ada reaksi nyala…” ♪",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-7",
+      "kind": "text",
+      "text": "Kesimpulan: Dengan mengamati reaksi nyala, kita mungkin bisa mengetahui identitas logam dan zat tertentu! Kalau dilihat dari sudut lain, kembang api yang memakai reaksi nyala mungkin membantu kita mengetahui perasaan dan pikiran orang yang ditaksir! Namun, orang yang terlalu bersemangat saat melihat kembang api biasanya berpikiran mesum, jadi mungkin sebaiknya tidak usah tahu!",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-pembuka-preface002-0-companion-8",
+      "kind": "text",
+      "text": "“Tembakkan dan campurkan! Fuh! Dasar kembang api mesum!”",
+      "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

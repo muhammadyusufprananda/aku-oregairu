@@ -1,0 +1,3091 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v3-bab-4-chapter004-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter004.xhtml#1",
+      "headingLevel": 2,
+      "text": "Komachi Hikigaya menyusun siasat dengan cerdik.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004.xhtml#../Images/Art_P59.jpg",
+      "src": "assets/chapters/volume-3/bab-4/Art_P59.webp",
+      "width": 207,
+      "height": 440,
+      "text": "Komachi versi chibi membawa boneka."
+    },
+    {
+      "id": "v3-bab-4-chapter004-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#3",
+      "text": "Itu tadi Minggu. Langit cerah memberikan jeda singkat dari musim hujan. Ini adalah hari pertemuanku dengan Yukinoshita. Saat itu baru sekitar jam sepuluh tepat."
+    },
+    {
+      "id": "v3-bab-4-chapter004-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#4",
+      "text": "Sepertinya aku datang lebih awal. Rupanya kejadian drastis ini membuatku terpukul. Aku tidak percaya aku benar-benar mendengar Yukino Yukinoshita berkata, Aku ingin kamu pergi bersamaku.",
+      "emphasis": [
+        {
+          "start": 155,
+          "end": 186,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#5",
+      "text": "Apa yang harus aku lakukan…? Kurasa aku harus menolaknya. Aku bingung ketika dia bertanya padaku bahwa… Ajakan Yukinoshita yang menggelikan telah merampas kemampuanku untuk menilai secara rasional. Aku menahan keinginan untuk memegangi kepalaku dan berteriak Gwaaaaagh! ketika seseorang memanggil dari belakangku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 103,
+          "style": "em"
+        },
+        {
+          "start": 259,
+          "end": 269,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#6",
+      "text": "“Maaf membuatmu menunggu.” Yukino Yukinoshita berjalan santai ke arahku, membawa hembusan angin yang menyegarkan bersamanya. Bahan roknya yang tampak lembut memberinya kesan feminin. Kuncir kudanya, menari ringan tertiup angin, diikat lebih tinggi di kepalanya dari biasanya. Mungkin itu gaya akhir pekannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#7",
+      "text": "“…Saya belum lama berada di sini.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#8",
+      "text": "“Begitu. Bagus. Kalau begitu, ayo pergi.” Sambil menyesuaikan tas anyaman rotan di bahunya, Yukinoshita mengamati area tersebut untuk mencari orang lain."
+    },
+    {
+      "id": "v3-bab-4-chapter004-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#9",
+      "text": "“Komachi baru saja mampir ke sebuah toko serba ada. Tunggu sebentar.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#10",
+      "text": "“Begitu… Tapi aku merasa kasihan karena memaksa dia menemani kita di akhir pekan.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#11",
+      "text": "“Kita tidak punya banyak pilihan. Jika kamu dan aku mendapatkan hadiah ulang tahun untuk Yuigahama sendirian, kita pasti akan mendapatkan sesuatu yang buruk. Ditambah lagi, Komachi dengan senang hati datang, jadi itu bukan masalah besar.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#12",
+      "text": "“Yah, aku harap kamu benar…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#13",
+      "text": "Dan inilah pengungkapan besarnya. Apa-apaan ini—apakah ini World Great TV?",
+      "emphasis": [
+        {
+          "start": 59,
+          "end": 73,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#14",
+      "text": "Saat Yukinoshita mengajakku berkencan dengannya, dia hanya ingin aku membantunya membelikan Yuigahama hadiah ulang tahun. Dan aku bahkan bukan orang yang dia incar. Komachi adalah orang yang sangat dia inginkan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#15",
+      "text": "Yah, logikanya masuk akal. Di lain waktu, kami mungkin akan mengandalkan Yuigahama untuk tugas seperti ini, tapi karena hadiah ini untuk Yuigahama, kami jelas tidak bisa meminta bantuannya. Dan Yukinoshita tidak bergaul dengan banyak orang, jadi Komachi sepertinya satu-satunya pilihan lain."
+    },
+    {
+      "id": "v3-bab-4-chapter004-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#16",
+      "text": "Kami berdiam diri selama sekitar dua menit, lalu Komachi kembali. Mungkin karena kami bergabung dengan Yukinoshita hari ini, tapi pakaian Komachi agak tertutup dibandingkan biasanya. Rompi musim panas menutupi blus lengan pendek, dan di bawahnya dia mengenakan rok lipit, kaus kaki selutut, dan sepatu pantofel di kakinya. Dengan ansambel itu, dia bisa dianggap sebagai gadis muda kaya yang berkelas. Topi tukang koran yang diletakkan tipis di atas kepalanya menciptakan citra yang periang. Dia menggenggam botol plastik berisi teh di tangannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#17",
+      "text": "“Hei, ini Yukino! Halo!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#18",
+      "text": "“Aku minta maaf karena memintamu datang jauh-jauh di akhir pekan,” Yukinoshita meminta maaf."
+    },
+    {
+      "id": "v3-bab-4-chapter004-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#19",
+      "text": "“Tidak, tidak! Aku juga ingin memberi Yui hadiah ulang tahun, dan aku tak sabar untuk bisa jalan-jalan bersamamu.” Komachi menyeringai cerah. Dia cukup menyukai Yukinoshita dengan caranya sendiri, jadi kupikir dia jujur. Tapi kawan, gadis-gadis bodoh pasti memilih Yukinoshita, bukan? Di antara orang-orang yang kukenal, dia adalah orang terpopuler kedua di kalangan perempuan setelah Hayama.",
+      "emphasis": [
+        {
+          "start": 221,
+          "end": 392,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#20",
+      "text": "“Kereta akan segera datang, jadi ayo berangkat.” Aku mendesak pasangan itu untuk terus berjalan, dan kami berjalan menuju pintu putar."
+    },
+    {
+      "id": "v3-bab-4-chapter004-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#21",
+      "text": "Tujuan kami hari ini terkenal sebagai tempat kencan populer bagi siswa sekolah menengah di Chiba: mal LaLaport di Teluk Tokyo yang tercinta. Ini adalah tempat nongkrong terbesar di prefektur, dengan berbagai toko, bioskop, dan ruang acara. Singkatnya, tempat ini tidak akan pernah aku datangi."
+    },
+    {
+      "id": "v3-bab-4-chapter004-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#22",
+      "text": "Bagian dalam kereta cukup penuh. Kami berpegangan pada pegangan di atas kami, dan kereta mengguncang kami selama sekitar lima menit. Jika hanya aku dan Yukinoshita, kami mungkin akan tetap diam, tapi karena Komachi menemani kami hari itu, dia mencoba beberapa taktik berbeda untuk memulai percakapan dengan gadis lain. “Apakah kamu sudah memutuskan apa yang akan dibeli, Yukino?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#23",
+      "text": "“…Tidak. Aku mempertimbangkan beberapa hal, tapi aku tidak yakin,” kata Yukinoshita dan menghela napas kecil. "
+    },
+    {
+      "id": "v3-bab-4-chapter004-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#24",
+      "text": "Sepertinya Yukinoshita sedang menelusuri majalah itu di ruang klub beberapa hari yang lalu untuk mencari ide. Aku ragu kedua gadis itu memiliki selera yang sama. "
+    },
+    {
+      "id": "v3-bab-4-chapter004-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#25",
+      "text": "“Lagipula, aku belum pernah menerima hadiah ulang tahun dari teman, jadi…” Yukinoshita membiarkan komentar itu berlalu dengan ekspresi melankolis."
+    },
+    {
+      "id": "v3-bab-4-chapter004-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#26",
+      "text": "Ucapan itu membuat ekspresi Komachi menjadi sedikit sedih juga, dan keheningan pun terjadi. Dia kesulitan menemukan hal lain untuk didiskusikan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#27",
+      "text": "“Hmph, kamu benar-benar hebat. Berbeda denganku—aku sebenarnya pernah mendapatkannya sebelumnya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#28",
+      "text": "“Hah? Kamu bercanda,” kata Yukinoshita."
+    },
+    {
+      "id": "v3-bab-4-chapter004-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#29",
+      "text": "Sungguh cara yang tidak sopan untuk mengungkapkan keterkejutanmu. “Tidak. Kenapa aku harus memalsukan hal seperti itu sekarang?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#30",
+      "text": "Yukinoshita mengangguk menghargai jawabanku. “Kamu benar... Itu adalah cara yang tidak bijaksana untuk mengungkapkannya. Aku minta maaf. Aku tidak bisa meragukanmu sepanjang waktu. Mulai sekarang, keyakinanku pada sifat menyedihkanmu tidak akan pernah goyah.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#31",
+      "text": "“Hei, jika menurutmu itu pujian, kamu salah besar.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#32",
+      "text": "“Jadi hadiahnya apa? Maukah Anda memberi tahu saya, sebagai informasi?” dia bertanya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#33",
+      "text": "“Jagung…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#34",
+      "text": "Mata besar Yukinoshita berkedip. “Hah?” dia menjawab, seolah telinganya telah menipunya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#35",
+      "text": "“Jagung…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#36",
+      "text": "“Apa itu tadi?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#37",
+      "text": "“Dengar! Keluarganya adalah sekelompok petani. Dan FYI, itu benar-benar bagus! Ibuku mengukusnya untukku!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#38",
+      "text": "“K-Kak, kamu tidak perlu berlinang air mata…,” kata Komachi."
+    },
+    {
+      "id": "v3-bab-4-chapter004-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#39",
+      "text": "Aku tidak menangis. Aku sama sekali tidak menangis. Ini, lho, mataku berair. “Ya, saat liburan musim panas di kelas empat…”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 76,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#40",
+      "text": "“Ini dia sebuah anekdot…,” Komachi berkomentar dengan letih, tapi Yukinoshita mendorongku untuk melanjutkan dengan menundukkan kepalanya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#41",
+      "text": "“Takatsu datang ke rumahku karena ibu kami adalah teman atau semacamnya. Itu adalah pertama kalinya teman sekelas berkunjung pada hari ulang tahunku, jadi aku sangat bersemangat. Saat aku membuka pintu depan, dia memberiku sebuah benda misterius yang terbungkus koran, masih mengangkangi sepeda gunung lima kecepatannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#42",
+      "text": "“'Hari ini hari ulang tahunmu, kan? Ibuku menyuruhku untuk memberikan ini padamu,’ katanya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#43",
+      "text": "“Aku menjawab, 'Te-terima kasih…'"
+    },
+    {
+      "id": "v3-bab-4-chapter004-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#44",
+      "text": "“……"
+    },
+    {
+      "id": "v3-bab-4-chapter004-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#45",
+      "text": "“'……Maukah kamu datang masuk?’"
+    },
+    {
+      "id": "v3-bab-4-chapter004-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#46",
+      "text": "“'Hah? Eh, aku sudah berjanji akan pergi bermain di rumah Shin.’"
+    },
+    {
+      "id": "v3-bab-4-chapter004-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#47",
+      "text": "“'O-oh…' Apa-apaan ini. Aku tidak diundang. Aku mengira Shin adalah temanku juga, jadi saat itu aku hampir menangis."
+    },
+    {
+      "id": "v3-bab-4-chapter004-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#48",
+      "text": "“Takatsu berkata, 'Sampai jumpa!' dan mengayuh sepeda gunungnya. Saat aku membuka bungkusan itu, aku menemukan jagung segar, bertaburan embun pagi. Sebelum aku sempat menghentikannya, setetes garam memercik ke jagung, disusul tetesan yang lain...” Aku mengakhiri ceritaku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#49",
+      "text": "Yukinoshita mendesah pelan. “Pada akhirnya, kamu belum pernah menerima hadiah dari seorang teman, kan?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#50",
+      "text": "“…Kamu benar! Takatsu dan aku bukan teman!” Aku menyadari bahwa aku telah hidup dalam kebohongan selama tujuh tahun terakhir. Sekarang aku ragu apakah Shin adalah temanku juga."
+    },
+    {
+      "id": "v3-bab-4-chapter004-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#51",
+      "text": "Kurasa memencet jeritan jiwaku telah menyentuh hati Yukinoshita, jika tatapannya yang jauh bisa menjadi indikasi. “Tapi itu benar,” gumamnya. “Kadang-kadang kamu menjalin hubungan melalui pertemanan orang tuamu. Orang dewasa mengumpulkan anak-anak mereka saat mereka sibuk mengobrol... Aku benar-benar berharap mereka tidak melakukan itu.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#52",
+      "text": "“Ya, memang begitu. Klub anak-anak dan penitipan anak setelah sekolah sangat sulit. Aku hampir tidak bisa bergaul dengan anak-anak seusiaku, dan nilai-nilai lain juga ada di sana. Aku menghabiskan waktu dengan membaca sendirian... Aku memang belajar banyak hal buku-buku bagus berkat hal itu, jadi semuanya berhasil pada akhirnya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#53",
+      "text": "“Sebagian besar kenanganku adalah tentang membaca juga… Aku selalu menikmati seni sastra, jadi aku menghabiskan waktu dengan menyenangkan.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#54",
+      "text": "“A-wah! Aku tidak percaya cuaca bagus seperti ini!” seru Komachi. Aku kira, karena tidak dapat menahan kesuraman yang menyesakkan lagi, dia tiba-tiba menemukan pemandangan di luar jendela sangat menakjubkan. Langit biru cerah sejauh mata memandang, menandakan awal musim panas."
+    },
+    {
+      "id": "v3-bab-4-chapter004-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#55",
+      "text": "Sepertinya hari ini akan menjadi hari yang panas.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 49,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-56",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter004.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v3-bab-4-chapter004-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#57",
+      "text": "Segera setelah meninggalkan Stasiun Minami-Funabashi, ada IKEA di sisi kiri. Ini adalah toko furnitur trendi dan salah satu tempat paling populer di sini. Wilayah ini selalu mempunyai reputasi sebagai tempat rekreasi, dan dulunya terdapat labirin raksasa, dan setelah itu, bukit ski dalam ruangan. Tentu saja ini merupakan bentuk lampau karena mereka sudah tidak ada lagi."
+    },
+    {
+      "id": "v3-bab-4-chapter004-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#58",
+      "text": "Waktu benar-benar cepat. Rasanya seperti belum ada waktu sama sekali, dan inilah jalan menuju kedewasaan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#59",
+      "text": "Slogan mereka, “Datang tanpa perlengkapan sama sekali!” sangat nostalgia sekarang. Saat ini kita teringat akan hubungan seks tanpa kondom. Waktu benar-benar cepat. Rasanya seperti belum ada waktu sama sekali, dan inilah jalan menuju kedewasaan…"
+    },
+    {
+      "id": "v3-bab-4-chapter004-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#60",
+      "text": "Jembatan penyeberangan yang terhubung langsung ke pintu masuk pusat perbelanjaan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#61",
+      "text": "Yukinoshita melipat tangannya, memikirkan peta fasilitas di dalam mal. “Aku kaget… Lumayan besar.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#62",
+      "text": "“Iya,” jawab Komachi. “Ini agak dipisahkan menjadi beberapa zona berbeda, jadi sebaiknya persempit apa yang Anda cari.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#63",
+      "text": "Aku tidak tahu persis seberapa besar mal ini, tapi ini adalah mal terbesar di sekitar sini. Jika Anda berjalan-jalan tanpa tujuan, Anda akan menghabiskan waktu sepanjang hari. Jika kami ingin nongkrong di sini, kami perlu menyusun rencana yang konkrit. “Itu berarti kita perlu memprioritaskan efisiensi dalam pencarian kita,” kataku. “Saya akan mengambil area ini.” Aku menunjuk ke sisi kanan peta."
+    },
+    {
+      "id": "v3-bab-4-chapter004-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#64",
+      "text": "Yukinoshita menunjuk ke kiri. “Baiklah, kalau begitu aku akan menangani sisi sebaliknya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#65",
+      "text": "Bagus, sekarang kita sudah mengurangi separuh pekerjaannya. Setelah kita menugaskan Komachi ke area targetnya untuk efisiensi maksimum, itu akan menjadi sempurna. “Kalau begitu kamu lakukan bagian ini dari belakang, Komachi.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 59,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#66",
+      "text": "“Tunggu! ♪” Komachi mencabut jariku dari peta."
+    },
+    {
+      "id": "v3-bab-4-chapter004-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#67",
+      "text": "“Apa? Dan jariku terluka…,” rengekku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#68",
+      "text": "Komachi mendesah ke arahku dengan mengangkat bahu yang dramatis, seperti, Wah, orang ini tidak mengerti.",
+      "emphasis": [
+        {
+          "start": 74,
+          "end": 104,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#69",
+      "text": "Hei, sikap itu menjengkelkan lho.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 33,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#70",
+      "text": "Rupanya, aku bukan satu-satunya anggota kelompok kami yang kebingungan, karena Yukinoshita memiringkan kepalanya dan menanyai Komachi. “Apakah ada masalah?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#71",
+      "text": "“Kamu dan kakakku harus berhenti otomatis melakukan segala sesuatunya sendirian. Kita semua berkumpul untuk ini, jadi kenapa kita tidak berbelanja secara berkelompok? Kita bisa saling memberi nasihat seperti itu, jadi lebih baik.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#72",
+      "text": "“Tetapi kita tidak akan bisa mempertimbangkan semuanya.” pilihannya…,“ kata Yukinoshita."
+    },
+    {
+      "id": "v3-bab-4-chapter004-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#73",
+      "text": "“Tidak apa-apa! Menurutku, mengingat selera Yui, akan lebih baik jika kita tetap menggunakan area ini saja,” kata Komachi sambil mengambil salah satu pamflet dari rak di bawah peta dan membukanya. Dia menunjukkan satu blok lebih jauh di lantai pertama yang menampung sejumlah toko dengan nama seperti Love Craft atau Lisa Lisa dan hal-hal lain yang terdengar seperti horor kosmik atau di suatu tempat di mana Anda akan mempelajari seni Ripple. Kurasa target konsumen dari kelompok usaha tersebut adalah gadis remaja.",
+      "emphasis": [
+        {
+          "start": 301,
+          "end": 311,
+          "style": "em"
+        },
+        {
+          "start": 317,
+          "end": 326,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#74",
+      "text": "“Kalau begitu, ayo pergi,” kataku, dan Yukinoshita juga mengangguk tanpa keberatan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#75",
+      "text": "Dan dengan demikian, kami berangkat."
+    },
+    {
+      "id": "v3-bab-4-chapter004-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#76",
+      "text": "Distrik girly berada dua atau tiga bagian di depannya. Di sepanjang jalan, toko-toko yang berjejer di sepanjang lorong menjual barang-barang pria, barang-barang untuk audiens yang tidak ditentukan, aneka barang, dan produk-produk dari berbagai merek yang akan membuat Anda terkagum-kagum."
+    },
+    {
+      "id": "v3-bab-4-chapter004-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#77",
+      "text": "Karena keadaan, aku yang memimpin, tapi biasanya, aku tidak akan pernah mengunjungi pusat perbelanjaan besar seperti ini, jadi aku tidak tahu apakah jalan yang kami tempuh benar. Yukinoshita memutar kepalanya kesana kemari, dengan penuh rasa ingin tahu mengamati sekeliling kami dengan ketidakpastian yang sama. Tapi ekspresinya tidak menunjukkan apa-apa selain senyuman tenang, dan setidaknya dia tidak terlihat bosan. Kadang-kadang, dia berhenti untuk memeriksa beberapa barang, tetapi saat staf toko mendekat, dia merasakan kehadiran barang tersebut dan diam-diam pergi."
+    },
+    {
+      "id": "v3-bab-4-chapter004-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#78",
+      "text": "…Oh, aku tahu perasaan itu. Aku benar-benar berharap mereka tidak mencoba berbicara dengan aku ketika aku sedang memilih pakaian. Pegawai toko pakaian harus benar-benar belajar seni menangkap aura Jangan bicara padaku seorang penyendiri. Ini akan bagus untuk bisnis.",
+      "emphasis": [
+        {
+          "start": 197,
+          "end": 217,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#79",
+      "text": "Akhirnya, kami mencapai pertigaan dimana kami dapat melanjutkan ke blok kanan atau kiri. Di setiap sisi ada eskalator naik. Mengingat peta sebelumnya, aku kembali menghadap Komachi dan menunjuk ke kanan. “Komachi, kita terus berjalan lurus ke bawah, kan?” Tapi Komachi tidak ada disana. “H-hah?” Aku mencarinya kemana-mana tapi tidak menemukan apa pun."
+    },
+    {
+      "id": "v3-bab-4-chapter004-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#80",
+      "text": "Apa yang kulihat adalah Yukinoshita dengan sungguh-sungguh meremas boneka panda aneh dengan mata jahat, cakar tajam, dan taring berkilauan. Beruang panda gemuk itu adalah Ginnie the Grue, karakter populer dari Tokyo Destiny Land. “Perburuan Bambu Grue” adalah atraksi yang sangat populer, Anda harus menunggu dua atau tiga jam untuk masuk."
+    },
+    {
+      "id": "v3-bab-4-chapter004-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#81",
+      "text": "Tokyo Destiny Land adalah tempat yang populer dan terkenal. Lucunya, kota ini merupakan kebanggaan Chiba sekaligus sumber rasa malu yang mendalam karena menyandang nama Tokyo meskipun lokasinya berada di Chiba. Aku diberitahu bahwa itu dibangun di Maihama karena kedengarannya seperti “Pantai Miami” atau semacamnya. Ini adalah akhir pelajaran di prefektur Chiba hari ini.",
+      "emphasis": [
+        {
+          "start": 169,
+          "end": 174,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#82",
+      "text": "“Yukinoshita,” panggilku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#83",
+      "text": "Dia mengembalikan boneka mewah itu ke rak tanpa mengucapkan sepatah kata pun dan dengan tenang menyisir rambutnya ke belakang. Apa? dia diam-diam menantang.",
+      "emphasis": [
+        {
+          "start": 127,
+          "end": 131,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#84",
+      "text": "Uh, baiklah…tidak ada apa-apa, sungguh… Mempertimbangkan perilakunya selama insiden dengan kucing baru-baru ini, tidak menggodanya tentang hal ini adalah pilihan yang tepat. “Apakah kamu melihat Komachi? Sepertinya dia kabur ke suatu tempat.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 39,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#85",
+      "text": "“Sekarang setelah kamu menyebutkannya, belum. Mengapa kamu tidak mencoba meneleponnya?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#86",
+      "text": "“Ya.” Aku segera melakukan hal itu. Aku disambut lagi oleh jingle asing. Sungguh, kenapa ponselnya bernyanyi? Meski panggilannya tersambung, Komachi tidak mengangkatnya. Setelah aku menunggu dua putaran penuh, aku menyerah dan mengakhirinya. “Dia tidak mengangkatnya…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#87",
+      "text": "Saat aku sibuk menghubungi adikku, tas Yukinoshita bertambah satu. Bersamaan dengan tas awalnya yang terbuat dari anyaman rotan, ia juga memegang sebuah kantong plastik berwarna primer yang norak. Jadi dia membelinya, ya…? Dia pasti menyadari keterkejutanku, tapi dia pura-pura tidak menyadarinya sambil memasukkan pembeliannya ke dalam dompetnya. Dalam upaya untuk mengarahkan kita kembali ke jalur yang benar, dia menyarankan, “Mungkin Komachi menemukan sesuatu yang menarik perhatiannya. Memang tergoda untuk berhenti sejenak ketika ada begitu banyak barang yang dipajang.”",
+      "emphasis": [
+        {
+          "start": 197,
+          "end": 222,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#88",
+      "text": "“Ya, sama seperti kamu.” Tatapanku beralih ke dompetnya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#89",
+      "text": "Yukinoshita tiba-tiba berdeham. “Bagaimanapun, Komachi tahu tujuan kita, jadi sebaiknya kita menemuinya di sana. Tidak ada gunanya berlama-lama di sini.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#90",
+      "text": "“Ya, kamu benar.” "
+    },
+    {
+      "id": "v3-bab-4-chapter004-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#91",
+      "text": "Aku mengirim SMS ke Komachi dan berkata, Hubungi aku, idiot. Kami menuju ke area yang Anda tunjukkan kepada kami, dan memutuskan untuk melanjutkan. ",
+      "emphasis": [
+        {
+          "start": 41,
+          "end": 112,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#92",
+      "text": "“…Jadi kita jalan ke kanan lalu lurus ke depan, kan?” Aku meminta konfirmasi."
+    },
+    {
+      "id": "v3-bab-4-chapter004-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#93",
+      "text": "Tapi Yukinoshita hanya menatap kosong ke belakang. “Bukankah di kiri?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#94",
+      "text": "Jawaban yang benar adalah benar."
+    },
+    {
+      "id": "v3-bab-4-chapter004-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#95",
+      "text": "Suasananya jelas telah berubah. Aroma bunga dan sabun tercium di tengah palet warna pastel dan nuansa cerah. Kami memang telah tiba di sektor anak perempuan, dengan toko pakaian dan aksesori, toko khusus kaus kaki, toko perlengkapan dapur, dan, tentu saja, toko pakaian dalam. Dari sudut pandangku, apa yang ada di hadapan kita adalah dimensi alternatif yang sangat tidak nyaman."
+    },
+    {
+      "id": "v3-bab-4-chapter004-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#96",
+      "text": "“Sepertinya begitu,” kata Yukinoshita, tenang."
+    },
+    {
+      "id": "v3-bab-4-chapter004-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#97",
+      "text": "Sebaliknya, aku benar-benar kelelahan. “Ya, aku tidak percaya kita mengambil empat langkah yang salah. Kamu benar-benar buruk dalam bagian geometri matematika, bukan?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#98",
+      "text": "“Kamu adalah orang terakhir yang ingin aku kritik atas kecerdasan matematikaku.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#99",
+      "text": "“Kamu tidak perlu matematika untuk masuk ke sekolah seni swasta. Aku berhenti repot-repot dengan mata pelajaran itu di awal. Jadi meskipun saya berada di posisi terakhir, tidak masalah.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#100",
+      "text": "“Tempat terakhir? Nilai seperti apa yang kamu perlukan untuk mendapatkan peringkat serendah itu, ya…?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#101",
+      "text": "“Sembilan persen menempatkan Anda di posisi terakhir. Sumber: saya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#102",
+      "text": "“…Bukankah kamu akan gagal tahun ini jika seperti itu?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#103",
+      "text": "Mereka memaksamu mengikuti pelajaran tambahan dan memberimu ujian tata rias. Soal-soalnya selalu sama dengan handout review, jadi setelah pelajaran tambahan, yang ditanyakan hanyalah soal hafalan saja. Ya, akan merepotkan guru jika aku mengulang tahunnya. Aku tidak heran mereka menggunakan strategi seperti itu jika tidak ada masalah dengan kehadiran."
+    },
+    {
+      "id": "v3-bab-4-chapter004-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#104",
+      "text": "“Jadi, apa yang akan kamu beli?” tanyaku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#105",
+      "text": "“…Yah, mungkin sesuatu yang biasa dia gunakan tapi juga cukup tahan lama untuk bertahan lama,” jawab Yukinoshita."
+    },
+    {
+      "id": "v3-bab-4-chapter004-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#106",
+      "text": "“Kalau begitu, mungkin sebaiknya kamu membelikannya alat tulis atau semacamnya.” Tidak peduli bagaimana kamu melihatnya, menurutku itu adalah hadiah standar untuk seorang gadis remaja."
+    },
+    {
+      "id": "v3-bab-4-chapter004-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#107",
+      "text": "“Aku sudah mempertimbangkannya, tapi—”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#108",
+      "text": "“Kamu melakukannya?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#109",
+      "text": "“—tapi itu bagiku itu bukan sesuatu yang disukai Yuigahama... Aku ragu dia akan senang menerima pulpen atau seperangkat peralatan.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#110",
+      "text": "“Itu penilaian yang masuk akal...” "
+    },
+    {
+      "id": "v3-bab-4-chapter004-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#111",
+      "text": "Memang benar, aku tidak bisa membayangkan Yuigahama akan berseru, Wow, aku selalu menginginkan ini set obeng! Oh, dan bahkan ada kunci hex! YA AMPUN! Dan linggis! Terima kasih banyak, Yukinon! Meskipun aku juga merasakan perasaan mekanik wanita saat ini. ",
+      "emphasis": [
+        {
+          "start": 66,
+          "end": 192,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#112",
+      "text": "“Jadi, Anda ingin menemukan sesuatu yang relevan dengan minatnya?” tanyaku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#113",
+      "text": "“Ya. Jika aku akan memberinya hadiah, aku ingin itu membuatnya bahagia.” Yukinoshita memasang senyuman tenang di wajahnya. Menurutku, Yuigahama pasti sangat senang melihatnya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#114",
+      "text": "“Kalau begitu, ayo kita pilih yang mana,” kataku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#115",
+      "text": "“Tunggu dulu. Bagaimana dengan adikmu?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#116",
+      "text": "Oh ya. Sekarang setelah dia menyebutkannya, aku belum mendengar kabar darinya. Kami tidak akan mengetahui saran mendalam tersebut tanpa Komachi. Dia telah mempersempit hal-hal yang Yuigahama sukai ke dalam kategori tertentu, tapi kita tidak bisa membeli apa pun jika kita tidak tahu apa yang harus didapatkan. Aku ragu untuk terlalu bergantung pada nasihat Komachi, tapi ide Yukinoshita hanyalah sebuah pulpen dan seperangkat alat, jadi penilaiannya bahkan lebih dipertanyakan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-117",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#117",
+      "text": "Aku memeriksa ponselku, tapi Komachi belum membalas SMSku. Kupikir aku akan mencoba meneleponnya lagi. Ketika aku melakukannya, aku dapat mendengar doo dee dee doo yang familiar seperti yang selalu aku lakukan sejauh ini. Sungguh, kicauan apa ini?",
+      "emphasis": [
+        {
+          "start": 148,
+          "end": 163,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-118",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#118",
+      "text": "“Halo, halo!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-119",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#119",
+      "text": "“Hei! Kamu di mana sekarang? Kami di sini. Kami sudah menunggumu, jadi cepatlah.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-120",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#120",
+      "text": "“Hah? Oh…ada banyak belanjaan yang ingin aku lakukan, jadi aku benar-benar lupa.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-121",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#121",
+      "text": "“Aku tidak percaya otak kakakku sendiri menjadi begitu mengecewakan… Kakakmu sedikit terkejut.” Ayolah, apakah dia ingat ikan mas? Pantas saja dia selalu dipusingkan dengan mata pelajaran yang banyak hafalannya, pikirku.",
+      "emphasis": [
+        {
+          "start": 96,
+          "end": 210,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-122",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#122",
+      "text": "Sebagai tanggapan, aku menerima desahan yang sangat menghina dari ujung telepon yang lain. “...Hmph, kurasa kamu tidak akan mengerti, tidak peduli apa yang aku katakan. Oh baiklah. Sepertinya aku akan berada sekitar lima jam lagi, jadi aku akan pulang sendiri. Semoga berhasil, kalian berdua!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-123",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#123",
+      "text": "“Hei, tunggu, tunggu sebentar!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-124",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#124",
+      "text": "“Apa? Apakah kamu gugup sendirian dengan Yukino? Jangan khawatir! Kamu akan baik-baik saja! Mungkin.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-125",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#125",
+      "text": "“Tidak, aku tidak peduli tentang itu. Apakah kamu baik-baik saja sendirian? Agak aneh bagi seorang siswa sekolah menengah untuk sendirian di tempat seperti ini… ”Mal itu penuh dengan orang di akhir pekan. Dia bisa mengalami kecelakaan atau semacam insiden. Ditambah lagi, Komachi masih duduk di bangku SMP perempuan. Dan dia adalah adik perempuanku, jadi tentu saja dia manis. Dia bisa jadi nakal dan terkadang menjengkelkan, tapi aku benar-benar khawatir padanya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-126",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#126",
+      "text": "“…Huh. Aku harap kamu begitu peduli pada hal lain. Yang kita bicarakan di sini adalah aku. Aku akan baik-baik saja.”",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-127",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#127",
+      "text": "“Tidak, Aku khawatir karena itu kamu.” Kamu akan pergi dengan siapa pun yang baru saja menggantungkan permen atau uang tunai di depan wajahmu…",
+      "emphasis": [
+        {
+          "start": 21,
+          "end": 27,
+          "style": "em"
+        },
+        {
+          "start": 39,
+          "end": 141,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-128",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#128",
+      "text": "“Kak, menurutmu aku ini siapa? Aku adik kamu.”",
+      "emphasis": [
+        {
+          "start": 40,
+          "end": 44,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-129",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#129",
+      "text": "Oh-ho, itu agaknya menyentuh."
+    },
+    {
+      "id": "v3-bab-4-chapter004-130",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#130",
+      "text": "“Jadi aku baik-baik saja sendirian! Bahkan, aku punya lebih banyak energi saat sendirian!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-131",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#131",
+      "text": "Sungguh alasan yang sangat menyedihkan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-132",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#132",
+      "text": "Meskipun begitu, Sebenarnya aku juga lebih bersemangat saat sendirian, jadi aku tidak bisa membantah. Anda tahu, ketika aku bermain video game dan sejenisnya, aku banyak bicara. Agh, ada apa dengan itu?! atau Oh-ho, ini dia! atau Aku mencintaimu, Rinko, dll. Dan berkat itu, ibuku bertanya padaku, Apakah kamu punya teman? dan aku harus tergagap, H-huh? A-Aku sedang menelepon… Aku tidak bisa lagi bermain Love Plus di rumah.",
+      "emphasis": [
+        {
+          "start": 178,
+          "end": 203,
+          "style": "em"
+        },
+        {
+          "start": 209,
+          "end": 224,
+          "style": "em"
+        },
+        {
+          "start": 230,
+          "end": 252,
+          "style": "em"
+        },
+        {
+          "start": 298,
+          "end": 322,
+          "style": "em"
+        },
+        {
+          "start": 347,
+          "end": 376,
+          "style": "em"
+        },
+        {
+          "start": 406,
+          "end": 415,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-133",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#133",
+      "text": "“Aku mengerti… Baiklah, jika terjadi sesuatu, segera hubungi aku. Sebenarnya, telepon aku meskipun tidak terjadi apa-apa,” kataku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-134",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#134",
+      "text": "“Ya, ya. Oke, Aku menutup teleponnya sekarang! Berusahalah sebaik mungkin, kawan!” Dan dia menutup telepon. Yang aku dengar setelah itu hanyalah bip, bip, bip mekanis.",
+      "emphasis": [
+        {
+          "start": 145,
+          "end": 158,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-135",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#135",
+      "text": "Tapi kamu tidak memerlukan banyak usaha untuk membeli hadiah…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 61,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-136",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#136",
+      "text": "Aku menyimpan ponselku dan menghadap Yukinoshita lagi. “Rupanya, Komachi ingin berbelanja, jadi dia benar-benar meninggalkan kita.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-137",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#137",
+      "text": "“Begitu… Yah, dia memang bersusah payah keluar bersama kita di akhir pekan, jadi aku tidak punya hak untuk mengeluh,” kata Yukinoshita, agak kecewa, sebelum melanjutkan seolah-olah mencoba mengembalikan motivasinya. “Tapi kita sudah mengetahui hal-hal apa yang mungkin disukai Yuigahama, jadi sekarang mari kita lakukan apa yang kita bisa dari sini.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-138",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#138",
+      "text": "Astaga, aku sangat tidak nyaman dengan hal ini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 47,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-139",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#139",
+      "text": "Yukinoshita mengabaikan kegelisahanku dan berjalan menuju toko pakaian terdekat. Dia masuk ke dalam dan mengambil beberapa barang yang dipajang, memeriksanya dengan cermat. Aku memutuskan untuk mengikuti Yukinoshita…tapi aku tahu aku tidak akan bertahan lama."
+    },
+    {
+      "id": "v3-bab-4-chapter004-140",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#140",
+      "text": "Pertama-tama, pelanggan wanita menyapa pria yang memasuki toko mereka dengan tatapan tajam seolah-olah aku adalah sejenis serangga. Dan kemudian para staf berkumpul di sekitarku seolah mereka menganggapku mencurigakan. Mereka benar-benar membentuk formasi serangan hanya untuk menghadapiku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-141",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#141",
+      "text": "Ke-kenapa…? Ada orang lain di toko selain aku! Apakah ini diskriminasi? Hei, ini diskriminasi, bukan?! Tapi sebenarnya, pelanggan pria lainnya terlihat seperti kaum normal. Mereka mengenakan syal di leher mereka meskipun cuaca tidak dingin, dan mereka mengenakan rompi seperti pemburu. Untuk menilai buku dari sampulnya, orang-orang ini adalah kaum normal. Tali aneh apa yang ada di celanamu itu? Untuk apa Anda menggunakannya?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 102,
+          "style": "em"
+        },
+        {
+          "start": 357,
+          "end": 427,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-142",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#142",
+      "text": "“Um, Pak…bisakah saya membantu Anda menemukan sesuatu?” Salah satu petugas berbicara kepada aku, menutupi kecurigaannya dengan senyum yang ditempelkan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-143",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#143",
+      "text": "“Uh, baiklah, um…m-maaf,” aku meminta maaf secara refleks."
+    },
+    {
+      "id": "v3-bab-4-chapter004-144",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#144",
+      "text": "Permintaan maaf aku yang ambigu pasti membuat staf semakin waspada, karena petugas lain muncul. Oh, sial, dia disebut bala bantuan! Itu hanyalah tanda bahaya satu demi satu! Partyku akan musnah! Kalau terus begini, jika aku bertahan, mereka pasti akan memanggil lebih banyak sekutu. Tapi tepat ketika aku memutuskan untuk segera melarikan diri, seseorang melemparkan tali kepadaku.",
+      "emphasis": [
+        {
+          "start": 96,
+          "end": 194,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-145",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#145",
+      "text": "“Hikigaya…apa yang kamu lakukan? Mencoba pakaian? Bisakah kamu tidak melakukan aktivitas seperti itu di rumahmu sendiri?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-146",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#146",
+      "text": "“Aku juga tidak melakukan 'aktivitas seperti itu' di rumah! Dan aku belum pernah melakukan 'aktivitas seperti itu' di rumah! bahkan melakukan apa pun…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-147",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#147",
+      "text": "Ketika Yukinoshita dan sikap merendahkannya semakin dekat, kecurigaan para petugas berkurang. Mengesankan seperti biasanya, Yukinoshita. Dia ahli dalam hal mengusir orang."
+    },
+    {
+      "id": "v3-bab-4-chapter004-148",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#148",
+      "text": "“Oh, jadi kamu datang ke sini bersama pacarmu. Luangkan waktumu,” kata petugas itu seolah-olah dia sudah mengambil kesimpulan sendiri, lalu dia mencoba untuk pergi."
+    },
+    {
+      "id": "v3-bab-4-chapter004-149",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#149",
+      "text": "“Eh, dia bukan pacarku…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-150",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#150",
+      "text": "“Dia tidak? Maka kamu seharusnya tidak berada di sini...” Matanya berubah dari biru netral menjadi merah menyerang! Aku memilih opsi yang salah! Kalau terus begini, aku hanya bisa membayangkan laporan polisi dan akhir buruk yang akan terjadi di masa depanku."
+    },
+    {
+      "id": "v3-bab-4-chapter004-151",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#151",
+      "text": "Huh. “Hikigaya, ayo pergi.” Yukinoshita menarik tanganku keluar dari kerumunan pegawai yang berjalan ke arahku. Hal itu saja yang menghentikan pendekatan mereka.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 4,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-152",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#152",
+      "text": "Setelah kami meninggalkan toko, kecemasan aku akhirnya mengendurkan cengkeramannya. “…Apakah aku begitu mencurigakan?” Dengan ekspresi kusam di wajahku, mataku pasti terlihat jutaan kali lebih busuk dari biasanya. Bisa dibilang kejadian ini hanya akan menambah keburukan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-153",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#153",
+      "text": "Bahkan Yukinoshita tidak bersimpati padaku dan tidak menyalahkanku sama sekali karena bersikap mencurigakan. “Sepertinya seorang pelanggan laki-laki dipandang dengan kecurigaan. Dari apa yang saya lihat, semua laki-laki di toko itu sedang bersama pacarnya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-154",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#154",
+      "text": "Aku mengerti. Jadi itu adalah zona khusus perempuan/pasangan, seperti purikura. Singkatnya, tidak ada yang bisa aku lakukan di sini. Aku tidak punya keberanian lagi untuk berani mengunjungi toko itu. “… Kalau begitu, aku akan ke sana,” kataku sambil menunjuk ke bangku yang agak jauh dari situ. Meskipun kami berada di luar toko, area tersebut penuh dengan perempuan. Jika aku tinggal di sini sendirian, aku dapat dengan mudah membayangkan semua penampilan aneh yang akan aku dapatkan. Maksudku, aku mendapatkannya hanya dengan duduk di ruang kelas di sekolah.",
+      "emphasis": [
+        {
+          "start": 70,
+          "end": 78,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-155",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#155",
+      "text": "Tetapi jika aku tetap duduk di bangku dekat pinggiran, tentu saja aku tidak akan dilaporkan ke polisi. Selama aku tidak melakukan apa pun yang mengundang ketidakpercayaan, aku akan baik-baik saja. Menurutku, aku mungkin akan baik-baik saja. Mungkin aku akan baik-baik saja. Pokoknya, kupikir aku akan sedikit menguatkan diriku dan mulai duduk di bangku cadangan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-156",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#156",
+      "text": "“Tunggu.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-157",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#157",
+      "text": "“Hmm?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-158",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#158",
+      "text": "Di belakangku, Yukinoshita mendekat dengan langkah cepat. “Apakah kamu berniat menyerahkan keputusan ini sesuai seleraku?” dia bertanya. “Aku tidak bangga dengan hal ini, tapi standar pribadiku tidak sesuai dengan standar rata-rata gadis SMA.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-159",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#159",
+      "text": "“Jadi, kamu sadar…” Nah, inilah gadis yang ide pertamanya tentang hadiah adalah seperangkat alat."
+    },
+    {
+      "id": "v3-bab-4-chapter004-160",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#160",
+      "text": "“Jadi, um…akan sangat membantu jika kamu bisa memberi bantu aku.” Yukinoshita sedang menatap ke bawah, seolah permintaan itu sangat sulit untuk dia buat. Tatapannya yang lebih rendah bergerak ke sana kemari dengan gelisah."
+    },
+    {
+      "id": "v3-bab-4-chapter004-161",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#161",
+      "text": "Jika dia bertanya padaku, dia pasti sangat bingung. Asal tahu saja, aku belum pernah membelikan hadiah sungguhan untuk seorang gadis sebelumnya. Namun, aku telah menampilkan diri dan ditutup total. “Yah, aku ingin membantumu, tapi aku tidak bisa pergi ke toko mana pun,” jawabku.",
+      "emphasis": [
+        {
+          "start": 156,
+          "end": 161,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-162",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#162",
+      "text": "Yukinoshita menghela napas seolah pasrah. “Tidak ada yang bisa dihindari kali ini. Cobalah untuk tidak menyimpang terlalu jauh dariku.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-163",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#163",
+      "text": "“Hah? Apa?” Aku menatapnya dengan bingung."
+    },
+    {
+      "id": "v3-bab-4-chapter004-164",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#164",
+      "text": "Yukinoshita sedikit cemberut. “Haruskah saya jelaskan agar Anda mengerti? Jika yang mampu Anda lakukan hanyalah menyedot dan mengeluarkan udara, AC di sana jauh lebih unggul dari Anda.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-165",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#165",
+      "text": "Itu benar. Mesin-mesin yang berguna ini membersihkan atmosfer dan menghemat listrik serta barang-barang lainnya. Tak lama lagi, mereka bahkan akan bisa membaca suasananya juga. Aku harap."
+    },
+    {
+      "id": "v3-bab-4-chapter004-166",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#166",
+      "text": "“Dengan kata lain, saya mengatakan bahwa saya akan mengizinkan Anda bertindak seolah-olah Anda adalah pacar saya untuk hari ini saja.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-167",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#167",
+      "text": "“Nah, itu tidak terdengar sombong sama sekali.” Wah, dia menjengkelkan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-168",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#168",
+      "text": "Yukinoshita sepertinya menyadari kekesalanku, lalu dia memelototiku. “Apakah kamu punya keberatan?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-169",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#169",
+      "text": "“Tidak juga.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-170",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#170",
+      "text": "“A—aku mengerti…” Yukinoshita terlihat sangat terkejut. Bahkan kecewa."
+    },
+    {
+      "id": "v3-bab-4-chapter004-171",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#171",
+      "text": "Tapi tidak ada yang perlu dikejutkan. Tidak mungkin aku setuju menjadi pacarnya, tapi aku tidak keberatan berpura-pura. Yukinoshita tidak berbohong. Jadi kalau dia bilang ini hanya untuk hari ini, maka itu akan tepat untuk satu hari. Dan jika dia mengatakan “seolah-olah kamu adalah pacarku,” yang dia maksud tentu bukan pacarnya sebenarnya. Itu sebabnya aku sangat nyaman mengikuti sarannya. Sama seperti Yukinoshita yang memiliki keyakinan teguh bahwa aku adalah sampah, aku pun juga memiliki keyakinan mutlak bahwa kami tidak akan pernah pergi ke mana pun. Mungkin ini adalah sesuatu yang bisa disebut kepercayaan. Apa-apaan. Tapi ini sama sekali tidak damai.",
+      "emphasis": [
+        {
+          "start": 330,
+          "end": 340,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-172",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#172",
+      "text": "Sepertinya Yukinoshita menyadari ekspresinya agak bingung, lalu dia berbalik untuk menyembunyikan ekspresi itu dan menjawab dengan sesuatu yang sangat tidak terduga. “…Saya pikir pasti Anda akan membenci gagasan itu.”",
+      "emphasis": [
+        {
+          "start": 144,
+          "end": 150,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-173",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#173",
+      "text": "“Yah, tidak ada alasan nyata untuk menolak. Dan, misalnya, bukankah Anda membenci gagasan itu?” Aku memukul bolanya kembali ke lapangannya.",
+      "emphasis": [
+        {
+          "start": 68,
+          "end": 72,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-174",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#174",
+      "text": "Yukinoshita menghadapku lagi, sekarang tenang. “Aku tidak terlalu peduli. Sepertinya tidak ada orang yang kukenal akan melihatku. Aku akan dikelilingi oleh orang asing, jadi aku tidak perlu khawatir orang akan salah paham dan merusak reputasiku.” Itu dia, dengan santai memperlakukanku seperti orang asing. Yah, aku tidak peduli. “Baiklah, ayo pergi,” katanya sebelum menuju ke toko berikutnya.",
+      "emphasis": [
+        {
+          "start": 247,
+          "end": 329,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-175",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#175",
+      "text": "Aku juga melangkah maju, mengikuti langkah di sampingnya. Aku pikir kurangnya ekspektasi mungkin menjadi penyebab hubungan kami begitu nyaman. Ini seperti, Anda tahu—mereka mengatakan bahwa di dalam kotak Pandora terdapat semua kemalangan dunia, ditambah harapan. Seperti itulah. Itu adalah harapan dan kemalangan."
+    },
+    {
+      "id": "v3-bab-4-chapter004-176",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#176",
+      "text": "Segala sesuatunya berjalan lancar di toko pakaian berikutnya. Dunia ini jauh lebih mudah dan sederhana daripada yang aku yakini. Yang harus kami lakukan hanyalah berjalan bersama sebagai seorang remaja laki-laki dan perempuan, dan orang-orang mengira kami adalah pasangan. Memang benar, sekarang aku memikirkannya. Bahkan aku mulai melantunkan makian dalam hati ketika aku melihat seorang anak SMA dan seorang gadis berpasangan. Cukup mengejutkan, mungkin memang begitulah yang terjadi."
+    },
+    {
+      "id": "v3-bab-4-chapter004-177",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#177",
+      "text": "Kedekatan Yukinoshita sudah cukup untuk menghilangkan rasa was-was bahkan dari staf yang telah membuatku begitu keras hingga aku bertanya-tanya apakah latihan mereka melampaui tim nasional sepak bola Jepang. Yukinoshita telah melupakan semua hubungan dengan orang-orang di sekitarnya, jadi seperti yang diduga, dia menolak staf yang mendekat hanya dengan mengatakan “Aku baik-baik saja” sambil dengan tegas menyaring pakaiannya. Kadang-kadang, dia mengambil sesuatu yang dia sukai dan menariknya dengan kencang dari samping, atau dari atas ke bawah."
+    },
+    {
+      "id": "v3-bab-4-chapter004-178",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#178",
+      "text": "Aku menduga mungkin ada sesuatu yang tidak biasa pada standar penilaiannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-179",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#179",
+      "text": "“Bagaimana kalau kita lanjutkan?” Dia dengan cepat melipat pakaian di tangannya dan mengembalikan semuanya ke rak. Rupanya, dia meragukan ketahanannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-180",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#180",
+      "text": "“Dengar, kamu akan menghabiskan sisa hidupmu untuk mencoba membuat keputusan jika kamu mendasarkannya pada daya tahan,” kataku. “Menurutku Yuigahama tidak mencari bonus pertahanan apa pun dalam pakaiannya.” Dia baik-baik saja dengan pakaian biasa. Sepertinya tidak ada slime atau skeleton disekitarnya.",
+      "emphasis": [
+        {
+          "start": 207,
+          "end": 302,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-181",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#181",
+      "text": "“…Huh. Mau bagaimana lagi. Aku tidak tahu harus berbuat apa lagi selain mendasarkan keputusanku pada kualitas jahitan dan bahan…tidak tahu apa yang disukai Yuigahama atau apa yang dia minati.” Desahan itu lebih dalam dari sebelumnya, dan lebih menyedihkan. Dia mungkin menyesal karena dia tidak pernah mencoba mencari tahu.",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-182",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#182",
+      "text": "Jika demikian, kekecewaannya tidak ada artinya. “Tapi kamu sebenarnya tidak perlu tahu. Faktanya, dia hanya akan kesal jika kamu bertindak seolah-olah kamu tahu segalanya padahal kamu hanya menggunakan sedikit pengetahuan. Ini seperti mengirim kacang dari tempat lain ke orang Chiba.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004-183",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#183",
+      "text": "“Contohmu begitu Chiba, aku tidak mengerti apa yang kamu bicarakan…,” kata Yukinoshita, lembut jengkel."
+    },
+    {
+      "id": "v3-bab-4-chapter004-184",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#184",
+      "text": "Hmph, sehingga tidak ada yang bekerja untuknya. Pada dasarnya, kami orang Chiban sangat teliti dalam hal kacang. Ada alasan mengapa kami bangga menjadi produsen kacang tanah nomor satu di tanah air. Sebenarnya, agak aneh kalau 70 persen kacangnya berasal dari Chiba. Omong-omong, 20 persennya berasal dari Ibaraki. Mereka juga menyebutnya negeri kacang Nanking. Aku bertanya-tanya mengapa mereka menyebut kacang tanah sebagai kacang Nanking padahal ditanam di Jepang. “Untuk menggunakan analogi yang lebih familiar, ini seperti mengirimkan hadiah anggur kepada sommelier ketika Anda tidak tahu banyak tentang anggur,” kata aku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 4,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-185",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#185",
+      "text": "“Saya mengerti… Anda ada benarnya.” Dia menunjukkan pengertiannya dengan anggukan setuju."
+    },
+    {
+      "id": "v3-bab-4-chapter004-186",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#186",
+      "text": "Ya. Itu adalah sesuatu yang sering dilakukan ayahku dengan hadiah ulang tahun. Seperti bagaimana dia mencampuradukkan PlayStation dan Saturnus. Dan bagaimana mereka keluar dari Super Nintendo dan dia berkata, Yah, Mega Drive, 3DO, semuanya sama saja, apa pun akan baik-baik saja. Saat Anda mencoba memberikan hadiah berupa sesuatu yang Anda tidak mengerti, hadiahnya biasanya berakhir dengan sampah.",
+      "emphasis": [
+        {
+          "start": 209,
+          "end": 279,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-187",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#187",
+      "text": "“…Jadi sistem nilai Anda yang menyimpang bisa gunakan.” Dia mengatakannya seolah dia setengah terkesan, tapi aku curiga itu sama sekali bukan pujian. “Tapi kamu benar. Saat kamu berkompetisi di bidang yang menjadi spesialisasi lawanmu, kamu memiliki peluang menang yang kecil. Untuk menang, kamu harus mencari titik lemah mereka...”",
+      "emphasis": [
+        {
+          "start": 41,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-188",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#188",
+      "text": "Bahkan membeli hadiah pun merupakan perjuangan bagimu? Apakah kamu berasal dari suku Amazon atau apa? “Yah, mencari titik lemahnya—yakni, memberikan kompensasi—bisa saja berhasil. Menurutku itu akan memenuhi persyaratan kepraktisanmu.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 101,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-189",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#189",
+      "text": "“Baiklah, jika itu masalahnya, maka…” Yukinoshita pasti mendapat ide, saat dia menuju ke toko berikutnya."
+    },
+    {
+      "id": "v3-bab-4-chapter004-190",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#190",
+      "text": "Berhenti di depan toko pakaian dalam di seberang toko pakaian…sebenarnya, aku berhenti, dan Yukinoshita menghilang ke toko perlengkapan dapur di sebelahnya. Apakah aku satu-satunya yang menganggap pakaian dalam yang terisolasi di department store jauh lebih erotis daripada penekanan terang-terangan pada seksi dan imut? Selain itu, menurut aku saat di bulan Juni ketika mereka menjual pakaian renang sekolah bahkan lebih erotis.",
+      "emphasis": [
+        {
+          "start": 157,
+          "end": 320,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-191",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#191",
+      "text": "Tapi kembali ke pokok permasalahan. Di toko peralatan dapur, selain peralatan memasak dasar seperti penggorengan dan panci, ada berbagai pilihan barang baru seperti sarung tangan oven yang mengingatkanku pada Boneka Muppet dan peralatan makan yang dibuat berdasarkan boneka matryoshka.",
+      "emphasis": [
+        {
+          "start": 274,
+          "end": 284,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-192",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#192",
+      "text": "“Begitu… Ini memang titik lemah Yuigahama.” Yuigahama adalah juru masak yang buruk. Bukan, juru masak yang sangat buruk. Aku pernah memakan kue buatannya, tapi rasanya tidak enak, seperti arang yang mereka jual di toko perkakas. Honda yang menyenangkan, khususnya. Bagaimanapun, rasanya sama menjijikkannya dengan kelihatannya. Aku bahkan tidak akan menyebutnya “rasa”. “Stimulasi pengecapan” akan lebih akurat. Bukan hanya aku yang memakannya—Yukinoshita juga pernah memakannya. Meskipun di bawah bimbingan Yukinoshita, Yuigahama telah mencapai tingkat kemajuan minimal. Jika dia mencoba memasak sesuatu yang lebih rumit, aku ragu hasilnya akan memuaskan.",
+      "emphasis": [
+        {
+          "start": 107,
+          "end": 113,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-193",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#193",
+      "text": "Tetap saja, toko ini menyenangkan. Wah, ada apa dengan tutup panci itu? Bagian pegangannya terbuka jadi bisa dimasukkan bumbu? Itu menarik. Oh tidak, aku bertingkah sangat bodoh.",
+      "emphasis": [
+        {
+          "start": 35,
+          "end": 178,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-194",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#194",
+      "text": "Saat kupikir yang mereka punya hanyalah peralatan kecil yang berguna, ternyata mereka bahkan punya wajan asli. Ya ampun, ini membuatku ingin tertawa seperti Ka-ka-ka-ka! dan melambaikannya ke mana-mana. Aku juga melakukan hal seperti ini dengan toko DIY dan toko ratusan yen, tapi menjelajahi gadget dan peralatan saja sudah membuatku bersemangat.",
+      "emphasis": [
+        {
+          "start": 111,
+          "end": 156,
+          "style": "em"
+        },
+        {
+          "start": 170,
+          "end": 202,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004-195",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#195",
+      "text": "“Hikigaya, di sini.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_a.xhtml#../Images/Art_P75.jpg",
+      "src": "assets/chapters/volume-3/bab-4/Art_P75.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Komachi menoleh sambil memegang buku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#0",
+      "text": "Aku pergi ke sana ketika dia meneleponku dan menemukan Yukino Yukinoshita dalam keadaan celemek. Ternyata warna hitamnya terang untuk warna yang begitu gelap, dan pada dirinya, bahkan tampak segar. Bagian dadanya dihiasi dengan cetakan kaki kucing kecil."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#1",
+      "text": "Ikatan pita mungil yang melingkari bagian tengahnya mempertegas pinggang Yukinoshita yang ketat. Dia berputar-putar dalam lingkaran penuh, seolah-olah sedang menari waltz, untuk memastikan ikatan di leher dan lengannya aman dan menguji kemudahan geraknya saat memakainya. Ikatan yang terurai membuntuti di belakangnya seperti ekor. “Bagaimana menurut Anda?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#2",
+      "text": "“Saya tidak tahu apa yang saya katakan…kecuali itu benar-benar cocok untuk Anda.” Tidak ada lagi yang bisa aku katakan. Mungkin karena rambut hitamnya, tapi busana sederhana seperti itu sangat cocok untuknya.",
+      "emphasis": [
+        {
+          "start": 102,
+          "end": 106,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#3",
+      "text": "Meskipun aku memuji dengan tulus, Yukinoshita pertama-tama fokus pada cermin besar untuk memeriksa bahu, dasi, dan rok celemeknya. Hanya cermin yang bisa melihat ekspresi wajahnya. “...Begitu. Terima kasih. Tapi maksudku bukan aku. Aku menanyakan pendapatmu tentang memberikan ini sebagai hadiahku untuk Yuigahama.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#4",
+      "text": "“Menurutku itu tidak cocok untuknya. Bukankah dia akan lebih bahagia dengan sesuatu yang lebih empuk, menggembung, dan bodoh?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#5",
+      "text": "“Itulah cara yang tidak baik untuk mengatakannya, tapi kamu benar, jadi aku tidak tahu harus berkata apa…,” Yukinoshita berkata dan melepas celemeknya sebelum melipatnya dengan hati-hati. “Jadi, ada sesuatu yang lain dari sekitar sini?” Masih memegang kain itu, dia mencari mangsa berikutnya. Kali ini dia hanya memeriksa jumlah kantong dan kain serta yang lainnya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#6",
+      "text": "Memang memeriksa kualitas kain itu perlu. Aku pikir asbes atau bahan tahan api lainnya bisa menjadi pilihan yang baik. Aku mendapat kesan bahwa Yuigahama bisa menimbulkan bahaya kebakaran.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 188,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#7",
+      "text": "Pada akhirnya, Yukinoshita memilih celemek berwarna merah muda pucat tanpa terlalu banyak hiasan. “Saya akan memilih yang ini.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#8",
+      "text": "“Ya, itu akan berhasil.” Ada satu saku kecil di setiap sisi dan saku 4D besar di tengah. Anda dapat memasukkan permen sebanyak atau apa pun yang Anda inginkan di sana. Itu akan cocok untuk Yuigahama."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#9",
+      "text": "Yukinoshita mengenakan celemek merah mudanya dan menuju ke kasir dengan celemek hitam dan celemek hitamnya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#10",
+      "text": "“Di antara boneka binatang ini dan itu, kamu sangat cerdik dalam menyelinapkan belanjaanmu sendiri ke dalam perjalanan ini, ya?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#11",
+      "text": "“…Tapi saya tidak berencana membeli celemek tersebut.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#12",
+      "text": "“Jadi ini pembelian impulsif? Nah, hal itu sering terjadi saat Anda pergi berbelanja.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#13",
+      "text": "“…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#14",
+      "text": "Yukinoshita membuka mulutnya seolah ingin membalas tapi berhenti di tengah jalan. Dia mengalihkan pandangannya dan pergi ke kasir sendirian."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#15",
+      "text": "Jadi itu bukan pembelian impulsif? Aku hanya tidak mengerti. Namun, satu hal yang tahu aku tahu adalah dia sudah berencana membeli boneka panda aneh itu sejak awal.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 60,
+          "style": "em"
+        },
+        {
+          "start": 82,
+          "end": 86,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-16",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter004_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#17",
+      "text": "Aku membeli beberapa barang di toko hewan peliharaan dan menelepon pembelianku di konter. Yukinoshita tidak bersamaku. Tapi dia tidak meninggalkanku untuk langsung pulang. Dia tidak begitu tidak berperasaan. Aku sudah bilang aku ingin berbelanja sendiri, dan dia langsung menerimanya. Itu saja. Tunggu, tidak, itu sebenarnya tidak berperasaan.",
+      "emphasis": [
+        {
+          "start": 182,
+          "end": 188,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#18",
+      "text": "Aku berpikir untuk meneleponnya, tapi tempat yang bisa dia datangi di toko seperti ini terbatas jumlahnya, jadi aku hanya berjalan melalui lorong di area barang hewan peliharaan menuju kandang dan menemukan Yukinoshita di sana, terkejut, terkejut. Dia sedang berjongkok dengan kaki dipeluk ke dada, senyum lembut di bibirnya, sambil dengan takut-takut dia membelai anak kucing dan sesekali menepuk-nepuk bulunya. Kemungkinan besar, dia tidak akan mengeong karena ada orang di sekitarnya. Dia begitu asyik mengelus kucing itu, sampai-sampai sulit bagiku untuk menyelanya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#19",
+      "text": "Saat aku berhenti sejenak, mempertimbangkan, telinga kucing itu terangkat dan bergerak ke arahku, dan Yukinoshita pun menoleh ke arahku. “Oh, itu cepat sekali.” (Terjemahan: Aku ingin mengelus kucing lagi…)",
+      "emphasis": [
+        {
+          "start": 174,
+          "end": 205,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#20",
+      "text": "“Maaf.” Aku tidak bisa memastikan apakah maksudku Maaf membuatmu menunggu atau Maaf karena segera kembali, tapi aku tetap meminta maaf.",
+      "emphasis": [
+        {
+          "start": 50,
+          "end": 73,
+          "style": "em"
+        },
+        {
+          "start": 79,
+          "end": 105,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#21",
+      "text": "Yukinoshita melontarkan teguran enggan untuk terakhir kalinya pada anak kucing itu dan mengucapkan meong perpisahan tanpa suara saat dia pergi. “Jadi, apa yang kamu dapat? Tapi sepertinya aku punya ide.”",
+      "emphasis": [
+        {
+          "start": 99,
+          "end": 104,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#22",
+      "text": "“Yah, terutama seperti yang kamu harapkan.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#23",
+      "text": "“Saya mengerti.” Jawabannya acuh tak acuh, tapi wajahnya menunjukkan sedikit kepuasan. Dia tampak senang karena ternyata benar. “Tapi aku kaget kamu mau membelikan hadiah untuk Yuigahama,” katanya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#24",
+      "text": "Aku tidak tahu harus berkata apa tentang itu. “...Ini bukan masalah besar. Ini hanya bagian dari kontes kita. Aku hanya memutuskan untuk bersekutu denganmu untuk saat ini.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#25",
+      "text": "“Sungguh kejadian yang langka... Apakah kamu sakit?” Mata Yukinoshita melebar karena terkejut."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#26",
+      "text": "Hei, itu tidak sopan. Maksudku, memotivasi Yuigahama untuk kembali dengan merayakan ulang tahunnya bukanlah ide yang buruk. Hanya saja untuk melakukan hal itu, aku perlu hubunganku dan Yuigahama diselesaikan dengan baik. Aku merasa jika aku tidak melakukan apa pun, pada akhirnya hal yang sama akan terulang kembali. “Kita sudah melakukan apa yang harus kita lakukan, jadi ayo pergi,” kataku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 21,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#27",
+      "text": "“Tentu.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#28",
+      "text": "Waktunya sekitar pukul dua. Kami menghabiskan banyak waktu di mal, meskipun niat awal aku adalah langsung masuk, membeli apa yang aku perlukan, dan langsung menuju rumah."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#29",
+      "text": "Aku memimpin hingga kami mencapai pintu keluar. Entah kenapa aku ragu kita akan bisa kabur dari tempat itu jika aku membiarkan Yukinoshita menemukan jalan pulang juga. Aku baik-baik saja meninggalkan labirin raksasa yang dulunya merupakan peninggalan masa lalu."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#30",
+      "text": "Dalam perjalanan keluar, kami melewati sebuah arcade yang ditujukan untuk keluarga dan pasangan. Ada permainan medali, permainan derek, penembak co-op, permainan balap yang mengimpor foto wajah Anda, dan purikura. Pada dasarnya, semua mesin itu untuk menghabiskan waktu sambil tertawa-tawa bersama teman-teman Anda. Dengan kata lain, bukan tempat yang pernah aku kunjungi.",
+      "emphasis": [
+        {
+          "start": 204,
+          "end": 212,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#31",
+      "text": "Saat aku mencoba melewatinya, Yukinoshita menghentikan langkahnya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#32",
+      "text": "“Apa? Apakah kamu ingin bermain game atau apalah?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#33",
+      "text": "“Aku tidak punya tertarik pada permainan,” katanya, tapi dia terpaku pada mesin derek. Sebenarnya, setelah diperiksa lebih dekat, hal itu tidak benar. Menelusuri garis pandangnya, dia sedang mengamati satu unit—satu unit penuh dengan boneka binatang yang terlihat familier. Mata suram yang telah menyaksikan kegelapan dunia, cakar yang pasti bisa mengiris bambu dan binatang buas, dan taring menakutkan yang bersinar dalam cahaya buatan. Tentu saja, itu adalah Ginnie si Grue. Boneka binatang itu memancarkan aura kegelapan yang membayangi, aku mengerti mengapa mereka memanggilnya “si Grue.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#34",
+      "text": "“…Apakah kamu ingin mencoba?” tanyaku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#35",
+      "text": "“Aku baik-baik saja. Bukannya aku benar-benar ingin memainkan game apa pun.” (Terjemahan: Aku hanya ingin boneka binatang itu.)",
+      "emphasis": [
+        {
+          "start": 90,
+          "end": 126,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#36",
+      "text": "Aku secara mental menafsirkan pernyataan Yukinoshita dengan sangat terampil sehingga aku mulai bertanya-tanya apakah aku sudah memakan jeli terjemahan aneh Doraemon. “Yah, kalau kamu menginginkannya, kenapa kamu tidak mencobanya saja? Tapi menurutku kamu tidak akan bisa melakukannya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#37",
+      "text": "“Itu adalah perkataan yang cukup menghasut. Apa menurutmu aku tidak mampu?” Ucapanku pasti membuatnya kesal. Rasa dingin yang khas pada Yukinoshita telah kembali."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#38",
+      "text": "“Tidak, aku tidak mencoba meremehkan kemampuanmu atau apa pun. Hal ini akan sulit jika kamu tidak berlatih. Komachi telah mencobanya berulang kali, tapi dia tidak pernah berhasil.” Pemandangan Komachi dengan hampir seluruh tabungannya sambil memasukkan koin demi koin sungguh menyedihkan."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#39",
+      "text": "Tapi tentu saja, membandingkan Yukinoshita dengan Komachi tidak akan menyurutkan semangat kompetitif teman sekelasku. Dia memasukkan uang seribu yen ke dalam mesin uang kembalian. “Kalau begitu aku harus berlatih saja,” katanya, dan dia menumpuk koin seratus yen di samping slot koin, siap untuk memasukkannya satu demi satu. Saat dia masuk ke dalam mesin yang pertama, mesin itu mengeluarkan suara fweeeeh yang terdengar bodoh dan mekanis.",
+      "emphasis": [
+        {
+          "start": 399,
+          "end": 406,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#40",
+      "text": "Yukinoshita menatap tajam ke arah perangkat itu seolah mencoba memastikan sesuatu—berkonsentrasi, tidak bergerak, diam. "
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#41",
+      "text": "“…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#42",
+      "text": "Gawat seperti biasa, dia sepertinya menghadapinya dengan kekuatan kemauannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#43",
+      "text": "Tunggu… Apakah dia…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 19,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#44",
+      "text": "Apakah dia tidak tahu cara mengoperasikan mesin…?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 49,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#45",
+      "text": "“Kamu pindahkan derek ke samping dengan menekan tombol di sisi kiri,” kataku padanya. “Tombol di sebelah kanan menggerakkannya ke arah belakang. Tombol ini hanya bergerak saat Anda menahan tombolnya. Setelah Anda melepaskan jari, tombol tersebut akan berhenti.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#46",
+      "text": "“O-oh…terima kasih.” Tersipu, Yukinoshita memulai permainannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#47",
+      "text": "Pertama, dia memindahkan derek ke arah kanan… Ya, oke, itu hampir benar. Lalu dia memindahkannya ke belakang. Mm-hmm, menurutku posisinya cukup bagus. Kemudian burung bangau itu merengek fweeeeeh dan mencoba meraih boneka binatang itu. A-ada apa dengan derek ini? Tangisannya lucu sekali…",
+      "emphasis": [
+        {
+          "start": 46,
+          "end": 72,
+          "style": "em"
+        },
+        {
+          "start": 110,
+          "end": 150,
+          "style": "em"
+        },
+        {
+          "start": 187,
+          "end": 195,
+          "style": "em"
+        },
+        {
+          "start": 236,
+          "end": 288,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#48",
+      "text": "“…Aku mengerti,” aku mendengar Yukinoshita berbisik. Ketika aku melirik ke arahnya, dia mengepalkan tangannya dan melakukan gerakan tinju kecil."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#49",
+      "text": "Tetapi Bangau kecil yang manis menangis fweeeh dan menjatuhkan mainannya sebelum kembali ke posisi semula dan terdiam.",
+      "emphasis": [
+        {
+          "start": 40,
+          "end": 46,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#50",
+      "text": "Gagal."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#51",
+      "text": "“Lihat? Awalnya sulit,” kataku, mencoba menghiburnya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#52",
+      "text": "Tapi Yukinoshita hanya menatap tajam ke arah Crane kecil yang malang. “...Dengar, aku baru saja meraihnya dengan sempurna, bukan? Bagaimana aku bisa menjatuhkannya ke dalam saluran?” Yukinoshita menekan Crane kecil untuk meminta jawaban, seperti biasanya dia menekanku. Dia begitu intens, aku ragu untuk berbicara. Dia benar-benar menakutkan."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#53",
+      "text": "“Y-yah, sepertinya yang kamu lakukan tadi memindahkannya ke posisi yang sedikit lebih baik. Caranya adalah dengan memindahkannya sedikit demi sedikit.” Aku membaca kata demi kata dari petunjuk yang tertulis di mesin."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#54",
+      "text": "“Begitu. Jadi, kamu mengimbangi kelemahan lengan itu melalui beberapa kali percobaan, ya?” Sekarang setelah dia memahami idenya, dia menambahkan seratus yen lagi."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#55",
+      "text": "Fweeeh…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 7,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#56",
+      "text": "“…Ngh! Jangan lagi.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#57",
+      "text": "Fweeeh, fweeeeh.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#58",
+      "text": "“Hentikan itu…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#59",
+      "text": "Fweeh…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#60",
+      "text": "“Agh!…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#61",
+      "text": "Dari suara mereka saja, terdengar seperti Yukinoshita sedang menindas Crane kecil yang malang. Wajah Yukinoshita berkata tenang dan tenang, tapi tangannya dengan cepat memasukkan koin lain.",
+      "emphasis": [
+        {
+          "start": 121,
+          "end": 138,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#62",
+      "text": "Dia akan melanjutkan? Jika terus begini, dia tidak akan pernah menang, tidak peduli berapa kali pun dia mencobanya. “…Kamu payah dalam hal ini.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 115,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#63",
+      "text": "“Ap…? Nah, jika kamu ingin menjadi seperti itu, maka kamu sendiri pasti cukup baik, hmm?” Yukinoshita berkata sambil menatap tajam ke arahku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#64",
+      "text": "Aku menjawab dengan sangat percaya diri, “Ya, karena aku sudah melakukan ini sejak lama, seperti setiap kali Komachi menggangguku untuk mendapatkan sesuatu untuknya. Hal ini membawa banyak kemajuan…di pihak Komachi. Saat menggangguku…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#65",
+      "text": "“Jadi dia yang meningkat…?”",
+      "emphasis": [
+        {
+          "start": 6,
+          "end": 9,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#66",
+      "text": "Tapi sungguh, kapan aku pertama kali sepenuhnya berada di bawah belas kasihan Komachi, aku bertanya-tanya…? Aku tidak punya martabat sebagai kakak laki-laki. “Minggir. Aku akan mengambilkannya untukmu,” aku menyatakan, dan Yukinoshita dengan enggan menyerahkan posisinya kepadaku dengan rasa tidak percaya yang sangat besar. “Lihatlah, teknik rahasiaku.” Lalu aku perlahan-lahan mengangkat tangan kananku lurus ke atas.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 157,
+          "style": "em"
+        },
+        {
+          "start": 168,
+          "end": 176,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#67",
+      "text": "Yukinoshita memperhatikan tanganku dengan penuh rasa ingin tahu dan antisipasi."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#68",
+      "text": "Belum…belum… Pengaturan waktu adalah kuncinya di sini. Lalu aku menangkap bayangan yang bergerak lembut di tepi pandanganku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 12,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#69",
+      "text": "Sekarang! “U-um, permisi! Saya ingin mengambil ini…”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 9,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#70",
+      "text": "“Ya, Pak. Ini Ginnie the Grue, kan? Oke, ini dia!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#71",
+      "text": "Fweeh…, teriak Bangau kecil, dan kudengar suara dentuman lembut mainan itu jatuh ke tempatnya. “Ini dia, Tuan.” Gadis arcade itu mengulurkan Grue-bear kepada kami dengan senyum berseri-seri. Saat ini banyak arcade yang menyediakan mainannya untukmu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#72",
+      "text": "“Ah, terima kasih,” kataku. Gadis itu menjawab dengan senyum lebar dan pergi."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#73",
+      "text": "Yukinoshita, sebaliknya, menatapku dengan lebih murung dari biasanya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#74",
+      "text": "“A-apa…?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#75",
+      "text": "“Tidak ada... Aku hanya ingin tahu apakah kamu malu untuk hidup.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#76",
+      "text": "“Dengar, Yukinoshita. Tidak ada yang lebih berharga daripada kehidupan. Malu karena menganggapnya sebagai hal yang sangat memalukan. Jadi orang-orang yang tertawa dan mengejekku, Ohh, betapa memalukan! adalah manusia yang sama sekali tidak berharga.”",
+      "emphasis": [
+        {
+          "start": 179,
+          "end": 201,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#77",
+      "text": "“Sentimen yang bagus, tapi ada terlalu banyak hal yang tidak masuk akal dalam kesimpulannya.” Yukinoshita mengibaskan rambutnya dengan jengkel dan menghela napas pendek. “Astaga… Aku sempat mengira kamu menganggap serius sesuatu, tapi kemudian kamu melakukannya…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#78",
+      "text": "“Aku sendiri tidak pernah bilang aku akan memenangkannya. Aku hanya bilang aku akan membelikannya untukmu. Ini, ini milikmu.” Aku mendorong Grue-bear ke arah Yukinoshita."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#79",
+      "text": "Tapi dia mendorongnya kembali. “Kaulah yang memenangkannya. Saya mungkin tidak setuju dengan metode Anda, tapi saya akan mengakui pencapaian Anda.” Bahkan dengan hal-hal sepele seperti itu, Yukinoshita berusaha untuk bersikap sopan. Aku kira Anda akan menyebutnya sebagai ketelitian. Atau sebenarnya, keras kepala. Tunggu, tidak, dia hanya keras kepala.",
+      "emphasis": [
+        {
+          "start": 233,
+          "end": 353,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#80",
+      "text": "Tetapi aku tidak akan kalah dalam kompetisi di arena itu. “Tapi aku tidak menginginkannya. Dan, sepertinya, uang kamu yang digunakan untuk ini. Pada dasarnya kamulah yang membayarnya. Jadi, kamu wajib menerimanya,” kataku, dan ketika aku melakukannya, dorongan Yukinoshita melemah, dan aku melemparkan boneka binatang itu ke dalam pelukannya.",
+      "emphasis": [
+        {
+          "start": 113,
+          "end": 117,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#81",
+      "text": "“…O-oke.” Yukinoshita mengamati makhluk yang ada di pelukannya, lalu dia menatapku. “…Saya tidak akan mengembalikannya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#82",
+      "text": "“Sudah kubilang aku tidak menginginkannya.” Lagi pula, siapa yang menginginkan boneka binatang yang tampak jahat? Selain itu, dia memegangnya dengan sangat hati-hati dan penuh hormat, aku tidak bisa memintanya kembali sekarang. Jadi dia memang punya sisi imut. Aku pikir darahnya menjadi lebih dingin dari itu."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#83",
+      "text": "Mungkin dia melihat bibirku terangkat ke atas, karena dia memalingkan muka dengan sedikit malu-malu dengan pipi yang sedikit merah. “...Menurutmu itu tidak cocok untukku? Lebih mudah membayangkan Yuigahama atau Totsuka dengan sesuatu seperti ini, bukan?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#84",
+      "text": "“Aku tidak tahu tentang yang pertama, tapi yang terakhir, pastinya.” Totsuka dan boneka binatang berpadu seperti kue dan susu. “Sejujurnya, aku terkejut melihatmu seperti boneka,” aku berseru."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#85",
+      "text": "Tapi Yukinoshita tidak bereaksi dengan kemarahan apa pun. Dia perlahan mengelus Grue-bear. “...Aku tidak terlalu tertarik dengan boneka binatang lainnya. Aku hanya menyukai Ginnie the Grue.” Yukinoshita meraih lengan beruang itu dan melambaikannya. Cakar Grue-bear bergesekan dengan suara yang menyeramkan. Jika aku bisa mengabaikan suara itu, itu akan sangat lucu. “Aku selalu mengoleksi barang mewah dan barang berlisensi, tapi tidak seperti barang yang didistribusikan secara normal, sayangnya kamu hanya bisa mendapatkannya dengan memenangkannya sendiri. Aku sudah mempertimbangkan untuk membeli dari situs lelang online, tapi aku selalu khawatir barang tersebut mungkin tidak dalam kondisi terbaik, dan penjual bisa dengan mudah memposting foto yang dimanipulasi, jadi aku tidak akan pernah memaksakan diri untuk melakukannya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#86",
+      "text": "Alasannya tidak masuk akal dalam hal ini.“ semuanya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 52,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#87",
+      "text": "Aku menghela napas. “Ngomong-ngomong, kamu sangat menyukai Grue-bear, ya?” Menanggapi obsesinya yang tidak ada gunanya ini, komentar asal-asalan keluar dari mulutku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#88",
+      "text": "Yang mengejutkan, mata Yukinoshita kabur dan fokus pada sesuatu yang jauh. “…Ya. Aku mendapatkannya saat aku masih kecil.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#89",
+      "text": "“Boneka?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#90",
+      "text": "“Bukan, novel aslinya dalam bahasa Inggris.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#91",
+      "text": "“Apa? Ada bukunya?” Saking kagetnya, aku bertanya tanpa pikir panjang."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#92",
+      "text": "Itu sebuah kesalahan. Yukinoshita segera mulai mengoceh sambil melamun. “Judul novelnya adalah Halo, Tuan Panda, namun judul edisi pertama adalah Taman Panda. Menurut kepercayaan populer, ketika ahli biologi Amerika Rand Macintosh pindah ke Tiongkok bersama keluarganya untuk penelitian, dia mulai menulis cerita ini untuk putranya, yang tidak bisa beradaptasi dengan lingkungan baru.”",
+      "emphasis": [
+        {
+          "start": 95,
+          "end": 111,
+          "style": "em"
+        },
+        {
+          "start": 146,
+          "end": 157,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#93",
+      "text": "“…Wah, Yukipedia,” godaku sambil mundur."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#94",
+      "text": "Tapi Yukinoshita sama sekali tidak menyadarinya dan terus berbicara. “...Versi Destiny yang lebih terkenal menekankan karakter dan menampilkan lebih banyak seni kartun, tapi novel aslinya juga sangat bagus. Ini adalah metafora yang ditulis dengan terampil tentang budaya Timur dan Barat yang merangkai semuanya menjadi satu narasi yang koheren. Dan yang paling penting, Anda merasakan pesan cinta yang ditujukan kepada putranya dalam setiap kata.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#95",
+      "text": "“Hah? Itu tentangnya? Saya pikir begitu hanya kisah aneh tentang seekor panda yang seperti, Aku ingin makan banyak bambu dua puluh empat tujuh, mabuk, dan melakukan Fist Drunken.”",
+      "emphasis": [
+        {
+          "start": 92,
+          "end": 120,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#96",
+      "text": "“Versi Destiny memang menonjolkan aspek itu; aku tidak dapat menyangkalnya. Tapi itu hanya sebagian kecil dari novel aslinya. Terjemahannya lebih dari cukup untuk digunakan, tetapi saya merekomendasikan membacanya dalam bahasa aslinya.” Yukinoshita pasti senang membicarakannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#97",
+      "text": "Oh, tapi aku tahu perasaan itu. Aku menjadi seperti itu ketika aku berbicara tentang topik yang aku sukai. Saat SMP, aku merasa aneh dengan calon temanku ketika aku terus mengoceh tentang beberapa manga yang kusuka selama setengah jam. Akhirnya, dia hanya berkata, “Kamu biasanya cukup pendiam, Hikigaya, tapi kamu banyak bicara kalau itu tentang manga. Agak…uh...”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#98",
+      "text": "Tapi menurutku, ada gunanya membicarakan hal-hal yang kamu sukai sepuasnya, tidak peduli apakah itu aneh atau tidak dapat diterima oleh masyarakat umum. Jika aku harus memilih antara meninggalkan sesuatu yang kucintai atau meninggalkan orang yang padahal belum tentu menyukaiku…itu bahkan bukan sebuah keputusan."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#99",
+      "text": "Tapi tetap saja, rekomendasinya untuk membaca buku dalam bahasa Inggris sedikit berlebihan. Aku akan membaca indeks ajaib tertentu.",
+      "emphasis": [
+        {
+          "start": 96,
+          "end": 100,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#100",
+      "text": "“Tunggu, jadi kamu sudah bisa membaca bahasa Inggris sejak kamu masih kecil?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#101",
+      "text": "“Tentu saja tidak. Saat pertama kali menerima buku itu, aku tidak bisa memahaminya, tapi itulah yang membuatku ingin belajar. Saya membacanya dengan setengah membaca kamus. Itu seperti teka-teki yang saya nikmati setiap menitnya.” Mata Yukinoshita tampak sayu dan lembut, memandangi kenangan yang jauh, dan kemudian dia berbisik pelan, “...Itu adalah hadiah ulang tahun. Mungkin itu sebabnya aku sangat tertarik padanya. Jadi...um...” Yukinoshita dengan malu-malu membenamkan wajahnya di boneka binatang itu, menyembunyikan ekspresinya saat matanya menoleh ke arahku. “Um… Terima kasih—”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#102",
+      "text": "“Hah? Yukino-chan? Oh, itu itu kamu!” ",
+      "emphasis": [
+        {
+          "start": 27,
+          "end": 30,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#103",
+      "text": "Sapaan keras memotong ucapannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#104",
+      "text": "Saat aku menemukan sumber suara yang terdengar familier itu, aku tercengang. Dia adalah gambaran seseorang yang kukenal, dengan rambut hitam berkilau, kulit halus dan bening, serta wajah cantik dan proporsional. Ketampanannya yang bersinar dan luar biasa disertai dengan citranya yang rapi secara keseluruhan, dan senyum ramahnya memberikan daya tarik yang glamor."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#105",
+      "text": "Wanita di depan mataku adalah kecantikan yang menakjubkan. Dia pasti sedang berkumpul dengan teman-temannya, sambil berkata, “Maaf, kalian terus berjalan tanpa saya,” kepada sekelompok pria dan wanita yang berjalan di belakangnya dan mengatupkan kedua tangannya sebagai tanda permintaan maaf."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#106",
+      "text": "Aku diserang oleh déjà vu. Tidak hanya itu, tapi ada sesuatu dalam dirinya yang membuatku sangat tidak nyaman."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#107",
+      "text": "“Ugh, adikku...” Sikap Yukinoshita yang terbuka dan tidak berseni menghilang dan berubah menjadi kengerian total. Suaranya menarik perhatianku, dan aku melihatnya meremukkan boneka beruang panda di genggamannya. Bahunya kaku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#108",
+      "text": "“Hah? Kakak? Apa?” Aku secara visual membandingkan pendatang baru itu dengan Yukinoshita. Dia tampak berusia dua puluhan. Pakaiannya terdiri dari kain putih mengalir dengan pinggiran renda berkibar, lengan dan kakinya yang panjang menarik perhatian pada kulitnya yang indah. Ansambel tersebut memperlihatkan sebagian besar tubuhnya, tetapi secara misterius memberikan kesan berkelas pada dirinya secara keseluruhan. Dia memang mirip dengan Yukinoshita. Jika Yukinoshita benar-benar cantik, maka wanita ini dipenuhi dengan karisma yang cair."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#109",
+      "text": "“Apa yang kamu lakukan di sini? Ohhh! Kamu sedang berkencan! Pasti berkencan! Oh, kamu bajingan!” "
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#110",
+      "text": "“…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#111",
+      "text": "Wanita itu dengan gembira menyikut adik perempuannya dengan sikunya. Namun, yang dia dapatkan dari usahanya hanyalah kekesalan sedingin es."
+    },
+    {
+      "id": "v3-bab-4-chapter004_b-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#112",
+      "text": "Oh-ho. Meskipun secara lahiriah mereka mirip, tampaknya watak mereka tidak sama. Dengan mempersenjatai diri dengan sudut pandang obyektif, aku mengamati sejumlah kesenjangan di antara keduanya. Pertama: dada mereka. Tidak seperti Yukinoshita yang sederhana, dada kakak perempuan itu terasa penuh. Penjajaran sosok ramping dengan rak yang luas sungguh mencolok. Aku mengerti sekarang! Perasaan aneh itu hanyalah perbedaan ukuran payudara! Tunggu, tidak, masih ada lagi.",
+      "emphasis": [
+        {
+          "start": 361,
+          "end": 468,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P85.jpg",
+      "src": "assets/chapters/volume-3/bab-4/Art_P85.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Komachi tersenyum sambil memegang biskuit."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#0",
+      "text": "“Soooo apakah ini pacartemanmu, Yukino-chan? Hah?” goda wanita itu.",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 6,
+          "style": "em"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#1",
+      "text": "“…Tidak. Kita sekelas,” jawab Yukinoshita."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#2",
+      "text": "“Oh, kamu. Kamu tidak perlu terlalu malu padaku!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#3",
+      "text": "“…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#4",
+      "text": "Wah, Yukinoshita menatap tajam ke arah adiknya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 47,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#5",
+      "text": "Tapi adiknya sangat cerah, benar-benar kebal terhadap antipati yang mengerikan seperti itu."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#6",
+      "text": "“Aku adik Yukino-chan, Haruno. Bersikaplah baik padanya, oke?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#7",
+      "text": "“Uh-huh. Aku Hikigaya.” Dia memperkenalkan dirinya kepadaku, jadi aku menjawabnya dengan baik. Rupanya, nama adiknya adalah Haruno Yukinoshita. Lihat, Chii sedang belajar."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#8",
+      "text": "“Hikigaya, ya…?” Haruno dengan termenung menyusupkan dirinya di antara kami sejenak dan memberiku gerakan cepat dari ujung jari kaki hingga ujung kepalaku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#9",
+      "text": "Aku menggigil kedinginan. Aku terkunci di tempat."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#10",
+      "text": "“Jadi, Hikigaya? Oh, senang bertemu denganmu! ♪”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#11",
+      "text": "Tapi senyumannya yang berseri-seri meluluhkan perasaan itu. Apa itu tadi…? Apa aku gugup karena seorang wanita cantik menatapku?"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#12",
+      "text": "Haruno cerah dan hangat seperti yang disarankan oleh kanji sinar matahari dalam namanya. Meskipun dia dan Yukinoshita memiliki ciri yang mirip, keduanya memberikan kesan yang sangat berbeda. Meskipun Yukinoshita adalah gletser yang hidup, ekspresi Haruno selalu berubah. Aku tidak pernah menyadari ada begitu banyak cara berbeda untuk tersenyum. Jadi meski dengan bagian yang sama, kamu bisa memanfaatkannya dengan cara yang berbeda untuk membuat gambar yang benar-benar berbeda, pikirku, terkesan.",
+      "emphasis": [
+        {
+          "start": 346,
+          "end": 478,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#13",
+      "text": "Meskipun aku sudah mengetahui apa yang membedakannya, rasa tidak nyaman yang menggelitik tulang punggungku tetap tidak kunjung hilang. Mungkin sumbernya adalah sesuatu yang lain. Aku mengamati Haruno dengan curiga."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#14",
+      "text": "Dia menatap mataku sejenak sebelum segera menoleh ke Yukinoshita. “Oh, boneka itu. Itu Ginnie the Grue, bukan?” dia berseru sambil meraih mainan itu. “Aku sangat menyukai pria ini! Aww, dia lembut sekali! Aku sangat iri, Yuki!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#15",
+      "text": "“Jangan sentuh itu.” Jawaban tajam Yukinoshita membuat telingaku mati rasa. Suaranya tidak terlalu keras, tapi penolakan terakhirnya sangat menyakitkan telingaku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#16",
+      "text": "Mungkin Haruno juga merasakannya, saat senyum abadinya membeku di wajahnya. “… A-wah, kamu mengagetkanku! M-maaf! Aku mengerti—ini hadiah dari pacarmu, ya? Aku sedikit tidak peka.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#17",
+      "text": "“Tapi aku bukan pacarnya,” kataku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#18",
+      "text": "“Ohh, kamu gila, juga, ya? Kamu tidak akan mudah lolos jika membuat Yukino-chan menangis!” Haruno menusukkan jarinya ke pipiku, memutarnya dengan kesakitan. “Tidak!”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#19",
+      "text": "Hei, itu menyakitkan! Dan kamu terlalu dekat! Mundur, mundur, wangimu harum! Kedekatannya dengan orang-orang memberi tahu aku tentang keterampilan sosialnya. Jika Haruno mau bergerak sedekat ini, dia pasti sangat cerdik.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 76,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#20",
+      "text": "“Apakah kamu sudah selesai, Haruno? Jika kamu tidak punya urusan tertentu, kami akan pergi,” kata Yukinoshita."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#21",
+      "text": "Tetapi Haruno tidak menunjukkan niat untuk mendengarkan dan terus mendorong aku. “Ayo ayo! Berkencanlah! Kapan kalian berdua mulai berkencan?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#22",
+      "text": "“Hei, serius! Bisakah kalian hentikan itu?!” kataku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#23",
+      "text": "Tapi bor jarinya tetap ada, dan sebelum aku menyadarinya, Haruno sudah menempel di tubuhku. Tunggu, mereka menyentuhku! Oh, sekarang tidak lagi. Dan mereka melakukan kontak lagi! Teknik outboxing sempurna dari payudara Haruno! Apakah dia Muhammad Ali…?",
+      "emphasis": [
+        {
+          "start": 92,
+          "end": 252,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#24",
+      "text": "“…Haruno. Sudah cukup.” Nada bicara Yukinoshita begitu pelan sampai-sampai kata-kata itu mengalir di tanah. Sama sekali tidak berusaha menyembunyikan kekesalannya, dia dengan cepat menyisir rambutnya ke belakang dan menusuk Haruno dengan belati yang menghina."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#25",
+      "text": "“Oh… Maaf, Yukino-chan. Sepertinya aku sedikit terbawa suasana,” Haruno meminta maaf sambil tersenyum lemah. Itu seperti perjodohan dengan kakak perempuan yang lugu dan adik perempuan yang sensitif. Lalu dia diam-diam berbisik ke telingaku—Serius, terlalu dekat—“Maaf. Dia gadis yang sensitif...jadi jagalah dia baik-baik, oke, Hikigaya?”",
+      "emphasis": [
+        {
+          "start": 240,
+          "end": 261,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#26",
+      "text": "Saat itu, perasaan meresahkan itu mencapai puncaknya. Secara refleks aku menjauhkan kepalaku darinya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#27",
+      "text": "Haruno memiringkan seluruh tubuh bagian atasnya ke kanan karena terkejut, menyipitkan mata ke arahku dalam diam Huuuh? Sungguh menggemaskan sehingga semua pria di dekatnya menyadarinya, hanya untuk sesaat. “Apakah aku melakukan sesuatu yang membuatmu kesal? Jika aku melakukannya, aku minta maaf,” katanya sambil menjulurkan lidah merah mudanya. Postur tubuhnya memicu dorongan protektif dalam diri aku yang membengkak menjadi banjir rasa bersalah. Aku harus mencari alasan untuk kelakuanku!",
+      "emphasis": [
+        {
+          "start": 112,
+          "end": 118,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#28",
+      "text": "“Oh, uh, tidak juga… Hanya saja, um, telingaku sensitif, jadi…”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#29",
+      "text": "“Hikigaya, jangan umumkan fetishmu pada wanita yang baru kamu temui. Kamu tidak akan punya kaki untuk berdiri jika kamu dituntut.” Yukinoshita dengan lembut menekan dahinya seolah kesakitan."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#30",
+      "text": "Sedangkan Haruno, dia kembali ke senyuman ramahnya yang dulu. “Eh-heh! ♪ Hikigaya, kamu lucu sekali!” Alasanku pasti menggelitik tulang lucu Haruno atau semacamnya, entahlah, tapi dia tertawa terbahak-bahak dan mulai memukul punggungku. Aku tidak bercanda. Mundur. “Oh ya, Hikigaya. Jika kamu mau, maukah kamu minum teh bersamaku? Sebagai kakak perempuan Yukino-chan, aku perlu tahu apakah kamu cukup baik untuknya.” Haruno membusungkan dadanya dalam sebuah pose dan dengan santai mengedipkan mata ke arahku.",
+      "emphasis": [
+        {
+          "start": 237,
+          "end": 264,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#31",
+      "text": "“…Sudahlah. Sudah kubilang, kita hanya satu kelas.” Ucapan keras itu dilontarkan bersamaan dengan dinginnya badai salju Arktik yang menyengat. Itu adalah penolakan kasar terhadap godaan Haruno. Penutupan terakhir Yukino Yukinoshita."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#32",
+      "text": "Tapi Haruno hanya menyeringai dan menepisnya. “Tapi sepertinya... ini pertama kalinya aku melihatmu berkencan dengan seseorang. Tentu saja aku berasumsi dia adalah pacarmu. Aku hanya ikut berbahagia untukmu.” Dia terkikik seolah menganggap seluruh situasi itu lucu. “Kamu hanya sekali muda, jadi kamu harus menikmatinya lho! Oh, tapi jangan terbawa suasana, oke?” Haruno meletakkan tangan kirinya di pinggulnya dan mencondongkan tubuh ke depan untuk mengibaskan jari telunjuk kanannya sebagai peringatan yang lucu. Lalu dia mendekat ke telinga Yukinoshita, dan berbisik pelan, “Karena Ibu masih marah karena kamu tinggal sendirian.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#33",
+      "text": "Saat dia mendengar kata Ibu, Yukinoshita menjadi tegang. Tirai keheningan menyelimuti panggung. Aku bahkan mempunyai ilusi bahwa keributan di arcade di sekitar kami telah surut seperti air pasang. Berhenti sejenak, Yukinoshita memeluk boneka panda itu seolah memastikan boneka itu masih ada di sana. “Itu sebenarnya bukan urusanmu.” Saat dia berbicara, dia tidak melihat lurus ke depan tetapi ke tanah. Yukino Yukinoshita, yang selalu berdiri tegak dan menatap matamu. Yukino Yukinoshita, yang tidak pernah menyerah pada siapa pun atau merendahkan pandangannya, selamanya.",
+      "emphasis": [
+        {
+          "start": 24,
+          "end": 27,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#34",
+      "text": "Dari tempat aku berdiri, ini adalah fenomena yang mengejutkan. Meskipun Yukinoshita terkadang menjadi sedikit murung, aku belum pernah melihatnya menekuk lututnya kepada siapa pun."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#35",
+      "text": "Tiba-tiba, bibir Haruno membentuk ekspresi menyenangkan yang tidak sampai ke matanya. “Oh. Kurasa begitu. Itu bukan urusanku, kan?” katanya, dan dia langsung melompat menjauh dari adiknya. “Selama kamu sadar, itu sudah cukup. Kurasa sebaiknya aku tidak ikut campur. Maaf, maaf.” Haruno mengedipkan giginya sambil tertawa kecil seolah-olah itu akan membuat segalanya menjadi lancar dan mengembalikan percakapan kepadaku. “Hikigaya. Jika kamu berakhir dengan Yuki, ayo kita minum teh bersama. Sampai nanti!” Dengan seringai cerianya yang terakhir, dia melambaikan tangan kecilnya sebagai ucapan selamat tinggal di depan dadanya dan bergegas pergi. Seolah-olah wataknya yang cerah telah terwujud dalam aura di sekelilingnya, aku hampir tidak bisa mengalihkan pandanganku darinya sampai dia benar-benar hilang dari pandangan."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#36",
+      "text": "Kemudian, baik Yukinoshita dan aku mulai berjalan lagi, tidak ada satu pun dari kami yang memimpin."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#37",
+      "text": "“Adikmu benar-benar sesuatu…,” aku berkomentar."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#38",
+      "text": "Yukinoshita mengangguk. “Setiap orang yang bertemu dengannya mengatakan hal itu.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#39",
+      "text": "“Pasti. Saya paham alasannya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#40",
+      "text": "“Ya. Fisiknya sempurna, dia tak tertandingi secara akademis, dia cerdas dan atletis, dan dia baik hati serta penuh perhatian. Saya ragu ada orang yang sesempurna dia. Semua orang memujinya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#41",
+      "text": "“Hah? Kamu tidak jauh berbeda. Apa itu versi membualmu?” kataku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#42",
+      "text": "Yukinoshita menatapku, terperangah. “…Apa?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#43",
+      "text": "“Saat aku mengatakan dia ‘benar-benar sesuatu’, maksudku lebih seperti, bagaimana aku mengatakannya… Dia mengenakan topeng seperti cangkang pelindung.” "
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#44",
+      "text": "Cangkang pelindung yang diperkuat…atau, tidak, mungkin mobile suit. Bagaimanapun, itulah sumber kekhawatiran yang Haruno Yukinoshita berikan padaku. Mungkin akan lebih tepat untuk mengatakan dia berlindung dalam aura seperti itu. "
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#45",
+      "text": "“Adikmu bertingkah seperti wanita idaman perawan kesepian. Dia ramah dan tidak keberatan mendekatimu, dia selalu tersenyum, dan dia mencoba berbicara denganku secara normal. Selain itu, um…dia agak terlalu fisik, dan, seperti…lembut saat disentuh.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#46",
+      "text": "“Apakah kamu sadar betapa menjijikkannya suaramu…?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#47",
+      "text": "“J-jangan bodoh! Maksudku tangannya, tangannya! Tangannya lembut!” Alasanku tidak mengurangi beban cemoohan Yukinoshita. Dalam upaya untuk mengembalikan percakapan, aku sedikit meninggikan suaraku. “Tapi cita-cita tetaplah cita-cita. Ini bukan kenyataan. Jadi, hal ini dianggap palsu.”",
+      "emphasis": [
+        {
+          "start": 37,
+          "end": 46,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#48",
+      "text": "Aku ragu ada orang yang lebih realis daripada orang yang selalu menyendiri. Tiga Prinsip Non-Koneksi dari Yang Selamanya terukir dalam jiwaku: Yang selamanya tidak akan memiliki harapan atau membuat kelemahan di dalam hati, juga tidak akan mengizinkan masuknya apa pun yang kedengarannya terlalu bagus ke dalam wilayah selamanya. Prajurit teladan yang bergulat siang dan malam dengan musuh utama yaitu kenyataan tidak akan tertipu oleh trik murahan seperti itu."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#49",
+      "text": "Di dunia ini, meskipun ada “wanita baik”, tidak ada yang namanya “wanita ya”.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 77,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#50",
+      "text": "—Hachiman Hikigaya",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 18,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#51",
+      "text": "Aku menemukan kalimat yang bisa dianggap sebagai kutipan yang tepat, dan aku mengukirnya dalam jiwaku."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#52",
+      "text": "Yukinoshita memandangku dengan sedih. “…Jadi meskipun matamu membusuk…atau tidak, karena itu, kamu bisa melihat melalui hal-hal ini, bukan…?”",
+      "emphasis": [
+        {
+          "start": 82,
+          "end": 88,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#53",
+      "text": "“Apakah itu seharusnya sebuah pujian?”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#54",
+      "text": "“Itu benar. Itu pujian yang tinggi.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#55",
+      "text": "Itu berita baru bagiku…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 23,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#56",
+      "text": "Yukinoshita menyilangkan tangannya dengan tidak senang, dan matanya melihat ke kejauhan. “Seperti katamu. Itu wajah pergaulan kakakku. Kamu tahu tentang keluargaku, kan? Kakak perempuanku adalah gadis tertua, jadi dia selalu diajak ke acara politik dan pesta untuk memperkenalkan dirinya. Begitulah cara dia membentuk topeng itu... Aku terkesan kamu bisa mengetahuinya.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#57",
+      "text": "“Ya, ayahku mengajariku semua tentang hal itu. Dia menyuruhku untuk berhati-hati terhadap wanita yang menjual lukisan di samar-samar galeri dan hal-hal seperti itu. Saya waspada terhadap orang-orang yang masuk ke ruang pribadi saya ketika kami baru saja bertemu. Dahulu kala, seseorang seperti itu mengikat ayah saya dan memanipulasinya untuk mengambil pinjaman.” Kudengar ibuku sangat marah setelah kejadian itu. Bagaimanapun, pendidikan ekstrakurikulerku telah membuahkan hasil, karena sejauh ini aku tidak pernah tertarik pada hal-hal itu. Kurasa aku tidak akan pernah melakukannya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#58",
+      "text": "Yukinoshita menghela napas pendek dan meletakkan tangannya di pelipisnya. “Haah… Alasan yang sangat bodoh. Kakakku tidak akan pernah percaya hal seperti itu mengalahkan penampilannya.” Kejengkelannya terlihat jelas."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#59",
+      "text": "Tapi itu bukan satu-satunya alasan yang aku tahu. “Juga, meski secara dangkal kalian berdua mirip, cara kalian tersenyum sangat berbeda.” Aku tahu senyuman asli Yukinoshita. Bukan sanjungan atau penipuan, atau senyuman untuk menutupi sesuatu, tapi senyuman yang sebenarnya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#60",
+      "text": "Langkah Yukinoshita memanjang, dan dia mengambil beberapa langkah di depanku. “…Alasan yang bodoh.” Dia berbalik dengan ekspresi seperti biasanya, sedikit kaku. “Ayo pergi,” katanya pelan, dan aku mengangguk. Kami sampai di pintu keluar tanpa bertukar sepatah kata pun."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#61",
+      "text": "Aku tidak bertanya apa pun pada Yukinoshita, dan dia juga tidak melakukan hal yang sama padaku. Mungkin ada hal-hal yang seharusnya aku tanyakan dan hal-hal yang harus kami diskusikan. Namun kami memilih untuk menjaga jarak seperti biasa, tidak ada satu pun dari kami yang mengganggu satu sama lain. Saat-saat yang kita lalui bersama sangatlah dingin. Kami hanyalah dua orang asing yang duduk bersebelahan di kereta. Saat kami tiba di stasiun, Yukinoshita berdiri terlebih dahulu dari tempat duduknya, dan aku mengikutinya."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#62",
+      "text": "Setelah kami melewati gerbang tiket, Yukinoshita berhenti sejenak. “Aku lewat sini,” katanya sambil menunjuk ke pintu keluar selatan."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#63",
+      "text": "“Oke. Sampai jumpa,” jawabku dan berjalan ke utara."
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#64",
+      "text": "Kemudian aku mendengar gumaman lembut di punggungku. “Aku bersenang-senang hari ini. Sampai jumpa.”"
+    },
+    {
+      "id": "v3-bab-4-chapter004_d-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_d.xhtml#65",
+      "text": "Aku secara naluriah meragukan telingaku. Ketika aku tersentak untuk melihat, Yukinoshita sudah berjalan pergi, tidak menunjukkan tanda-tanda dia akan mengakuiku. Pada akhirnya, aku melihatnya pergi sampai dia benar-benar hilang dari pandangan."
+    },
+    {
+      "id": "v3-bab-4-chapter004_e-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg",
+      "src": "assets/chapters/volume-3/bab-4/Art_P92.webp",
+      "width": 1800,
+      "height": 1353,
+      "text": "Suatu hari, Hachiman dan Komachi — tentang Yui Yuigahama."
+    },
+    {
+      "id": "v3-bab-4-chapter004_e-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Suatu hari, Hachiman dan Komachi — tentang Yui Yuigahama",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-4-chapter004_e-0-companion-1",
+      "kind": "text",
+      "text": "Komachi berpikir: Kali ini harus ketahuan bagaimana keadaannya! “Kalau Yui biasanya membicarakan apa?” Hachiman: “Entahlah… urusan cewek murahan.”",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-4-chapter004_e-0-companion-2",
+      "kind": "text",
+      "text": "Komachi: “Iya, tapi Kakak ngobrol apa dengannya?” Hachiman: “Ngobrol? Biasanya dia bicara dengan Yukinoshita. Kebanyakan aku cuma mendengarkan.” Komachi: “Mereka berdua dekat, ya?”",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-4-chapter004_e-0-companion-3",
+      "kind": "text",
+      "text": "Hachiman: “Iya, iya. Tapi, yah, menurutku dia orang baik.” Komachi berpikir: Oh?!",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-4-chapter004_e-0-companion-4",
+      "kind": "text",
+      "text": "Hachiman: “Dia baik sekali kepada semua orang. Sebenarnya, justru bagian itulah yang tidak bisa kupercaya.”",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-4-chapter004_e-0-companion-5",
+      "kind": "text",
+      "text": "Komachi: “Itu nggak bagus. Nggak ada cewek yang baik kepada semua orang, tahu? Kakak harus lebih percaya kepada cewek! Soalnya kami cuma baik kepada orang yang menguntungkan kami!”",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-4-chapter004_e-0-companion-6",
+      "kind": "text",
+      "text": "Hachiman: “Ucapan itu baru saja menghapus sedikit keinginanku yang tersisa untuk memercayai mereka.”",
+      "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

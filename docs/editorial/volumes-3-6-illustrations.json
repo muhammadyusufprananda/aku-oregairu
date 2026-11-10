@@ -1,0 +1,226 @@
+{
+  "v3-pembuka-insert003-0": {
+    "volume": "volume-3",
+    "section": "pembuka",
+    "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg",
+    "companionBlocks": 3,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v3-pembuka-preface001-0": {
+    "volume": "volume-3",
+    "section": "pembuka",
+    "source": "OEBPS/Text/preface001.xhtml#../Images/Art_Piii.jpg",
+    "companionBlocks": 10,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v3-pembuka-preface001_a-0": {
+    "volume": "volume-3",
+    "section": "pembuka",
+    "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_Piv.jpg",
+    "companionBlocks": 10,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v3-bab-2-chapter002_a-0": {
+    "volume": "volume-3",
+    "section": "bab-2",
+    "source": "OEBPS/Text/chapter002_a.xhtml#../Images/Art_P36.jpg",
+    "companionBlocks": 2,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v3-bab-2-chapter002_c-0": {
+    "volume": "volume-3",
+    "section": "bab-2",
+    "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg",
+    "companionBlocks": 7,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v3-bab-4-chapter004_e-0": {
+    "volume": "volume-3",
+    "section": "bab-4",
+    "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P92.jpg",
+    "companionBlocks": 7,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v3-bab-5-chapter005_g-0": {
+    "volume": "volume-3",
+    "section": "bab-5",
+    "source": "OEBPS/Text/chapter005_g.xhtml#../Images/Art_P144.jpg",
+    "companionBlocks": 6,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-pembuka-insert002-0": {
+    "volume": "volume-4",
+    "section": "pembuka",
+    "source": "OEBPS/Text/insert002.xhtml#../Images/Art_insert002.jpg",
+    "companionBlocks": 3,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-pembuka-insert003-0": {
+    "volume": "volume-4",
+    "section": "pembuka",
+    "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg",
+    "companionBlocks": 3,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-pembuka-insert004-0": {
+    "volume": "volume-4",
+    "section": "pembuka",
+    "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg",
+    "companionBlocks": 4,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-pembuka-preface001-0": {
+    "volume": "volume-4",
+    "section": "pembuka",
+    "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg",
+    "companionBlocks": 12,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-pembuka-preface001_a-0": {
+    "volume": "volume-4",
+    "section": "pembuka",
+    "source": "OEBPS/Text/preface001_a.xhtml#../Images/Art_P2.jpg",
+    "companionBlocks": 7,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-bab-2-chapter002_c-0": {
+    "volume": "volume-4",
+    "section": "bab-2",
+    "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg",
+    "companionBlocks": 6,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-bab-3-chapter003_c-0": {
+    "volume": "volume-4",
+    "section": "bab-3",
+    "source": "OEBPS/Text/chapter003_c.xhtml#../Images/Art_P65.jpg",
+    "companionBlocks": 8,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-bab-4-chapter004_e-0": {
+    "volume": "volume-4",
+    "section": "bab-4",
+    "source": "OEBPS/Text/chapter004_e.xhtml#../Images/Art_P98.jpg",
+    "companionBlocks": 3,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-bab-5-chapter005_e-0": {
+    "volume": "volume-4",
+    "section": "bab-5",
+    "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg",
+    "companionBlocks": 7,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v4-bab-6-chapter006_c-0": {
+    "volume": "volume-4",
+    "section": "bab-6",
+    "source": "OEBPS/Text/chapter006_c.xhtml#../Images/Art_P140.jpg",
+    "companionBlocks": 2,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v5-pembuka-insert003-0": {
+    "volume": "volume-5",
+    "section": "pembuka",
+    "source": "OEBPS/Text/insert003.xhtml#../Images/Art_insert003.jpg",
+    "companionBlocks": 2,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v5-pembuka-preface001-0": {
+    "volume": "volume-5",
+    "section": "pembuka",
+    "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg",
+    "companionBlocks": 13,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v5-pembuka-preface002-0": {
+    "volume": "volume-5",
+    "section": "pembuka",
+    "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg",
+    "companionBlocks": 9,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v5-bab-1-chapter001_c-0": {
+    "volume": "volume-5",
+    "section": "bab-1",
+    "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg",
+    "companionBlocks": 9,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v5-bab-2-chapter002_d-0": {
+    "volume": "volume-5",
+    "section": "bab-2",
+    "source": "OEBPS/Text/chapter002_d.xhtml#../Images/Art_P40.jpg",
+    "companionBlocks": 8,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v5-bab-3-chapter003_c-0": {
+    "volume": "volume-5",
+    "section": "bab-3",
+    "source": "OEBPS/Text/chapter003_c.xhtml#../Images/Art_P60.jpg",
+    "companionBlocks": 5,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v5-bab-4-chapter004_c-0": {
+    "volume": "volume-5",
+    "section": "bab-4",
+    "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg",
+    "companionBlocks": 9,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v5-bab-5-chapter005_c-0": {
+    "volume": "volume-5",
+    "section": "bab-5",
+    "source": "OEBPS/Text/chapter005_c.xhtml#../Images/Art_P100.jpg",
+    "companionBlocks": 4,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v6-pembuka-insert004-0": {
+    "volume": "volume-6",
+    "section": "pembuka",
+    "source": "OEBPS/Text/insert004.xhtml#../Images/Art_insert004.jpg",
+    "companionBlocks": 2,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v6-pembuka-preface001-0": {
+    "volume": "volume-6",
+    "section": "pembuka",
+    "source": "OEBPS/Text/preface001.xhtml#../Images/Art_P1.jpg",
+    "companionBlocks": 15,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v6-pembuka-preface002-0": {
+    "volume": "volume-6",
+    "section": "pembuka",
+    "source": "OEBPS/Text/preface002.xhtml#../Images/Art_P2.jpg",
+    "companionBlocks": 10,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v6-bab-2-chapter002_c-0": {
+    "volume": "volume-6",
+    "section": "bab-2",
+    "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P41.jpg",
+    "companionBlocks": 2,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v6-bab-5-chapter005_a-0": {
+    "volume": "volume-6",
+    "section": "bab-5",
+    "source": "OEBPS/Text/chapter005_a.xhtml#../Images/Art_P117.jpg",
+    "companionBlocks": 3,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v6-bab-6-chapter006_c-0": {
+    "volume": "volume-6",
+    "section": "bab-6",
+    "source": "OEBPS/Text/chapter006_c.xhtml#../Images/Art_P148.jpg",
+    "companionBlocks": 7,
+    "method": "AI transcription/translation from source illustration; draft"
+  },
+  "v6-bab-7-chapter007_a-0": {
+    "volume": "volume-6",
+    "section": "bab-7",
+    "source": "OEBPS/Text/chapter007_a.xhtml#../Images/Art_P170.jpg",
+    "companionBlocks": 10,
+    "method": "AI transcription/translation from source illustration; draft"
+  }
+}

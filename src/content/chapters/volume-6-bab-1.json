@@ -1,0 +1,824 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v6-bab-1-chapter001-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter001.xhtml#1",
+      "headingLevel": 2,
+      "text": "Di tengah badai, Hachiman Hikigaya terus tergelincir.",
+      "emphasis": [
+        {
+          "start": 17,
+          "end": 34,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter001.xhtml#../Images/Art_P9.jpg",
+      "src": "assets/chapters/volume-6/bab-1/Art_P9.webp",
+      "width": 224,
+      "height": 440,
+      "text": "Hachiman versi chibi memakai seragam sekolah."
+    },
+    {
+      "id": "v6-bab-1-chapter001-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#3",
+      "text": "Tirai bergoyang tertiup angin musim gugur. Gumpalan awan berwarna merah tua mengintip dari balik kain yang berkibar. Jendelanya dibuka sedikit agar udara bisa masuk."
+    },
+    {
+      "id": "v6-bab-1-chapter001-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#4",
+      "text": "Mataku meliriknya dua, tiga kali, dan tanganku berhenti di tengah membalik halaman. Gerakan-gerakan kecil dan mengganggu di sekelilingku itu membuatku gelisah. Aku tidak bisa berkonsentrasi sama sekali."
+    },
+    {
+      "id": "v6-bab-1-chapter001-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#5",
+      "text": "Duduk secara diagonal di hadapanku di meja panjang adalah seorang gadis."
+    },
+    {
+      "id": "v6-bab-1-chapter001-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#6",
+      "text": "Yukinoshita tidak lagi bergerak-gerak selama beberapa waktu. Tatapannya tertuju pada buku bersampul tipis di tangannya, diam-diam menelusuri garis-garis di halaman itu. Karena punggungnya menghadap jendela, tirai tidak dapat dilihatnya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#7",
+      "text": "Mungkin sebaiknya aku duduk di sisi itu juga, pikirku, tapi karena kami berdua sudah menetap, kesulitan untuk pindah sekarang benar-benar akan membuatku berada dalam posisi yang canggung. Biasanya, aku duduk agak jauh dari jendela di bawah naungan, sementara Yukinoshita selalu duduk dengan sentuhan lembut cahaya di punggungnya. Namun saat ini kami memasuki musim gugur, matahari terbenam tampak gelap. Hari-hari semakin singkat.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 44,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#8",
+      "text": "Liburan musim panas telah berakhir, dan kita sudah beberapa hari memasuki bulan September. Saat ini cuaca di siang hari masih sangat musim panas, namun sekitar waktu tersebut, ketika matahari terbenam hampir tiba, angin dingin tiba-tiba bertiup."
+    },
+    {
+      "id": "v6-bab-1-chapter001-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#9",
+      "text": "Semester kedua sudah dimulai, namun bukan berarti gaya hidup aku banyak berubah. Yukinoshita dan aku masih sering datang ke klub. Meskipun semua yang kami lakukan di sana hanyalah membaca. Saat Yukinoshita dan aku dengan rajin membenamkan hidung kami ke dalam buku, Yuigahama mengutak-atik ponselnya yang berkilauan, bertabur permata, dan menjengkelkan."
+    },
+    {
+      "id": "v6-bab-1-chapter001-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#10",
+      "text": "Bingkai jendela bergetar dengan berisik dalam hembusan angin yang sangat kencang."
+    },
+    {
+      "id": "v6-bab-1-chapter001-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#11",
+      "text": "Tirai mengepak dan melambai, dan bukuku pun tertiup angin. ke halaman berbeda. Curtaaaaaain! Tirai telah benar-benar menegaskan kehadirannya untuk beberapa waktu sekarang. Tirai, tirai! Apakah kamu Bonchuu sekarang?",
+      "emphasis": [
+        {
+          "start": 79,
+          "end": 92,
+          "style": "em"
+        },
+        {
+          "start": 172,
+          "end": 185,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#12",
+      "text": "Itu membuatku kesal sekali, jadi aku menatap ke jendela dan mendecakkan lidahku. Anginnya juga menjengkelkan, tapi tirainya jauh lebih buruk karena hanya sekedar menemani saja. Apa kalian tidak punya rasa individualitas? Satu-satunya hal yang dibiarkan bergoyang tertiup angin adalah bola-bola yang terbang di atas Marine Field dan rok gadis-gadis cantik.",
+      "emphasis": [
+        {
+          "start": 177,
+          "end": 220,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#13",
+      "text": "Kemudian, dari sudut mataku, sebuah rok memang berkibar saat Yuigahama berdiri dari tempat duduknya, sekitar satu setengah kursi jauhnya, dan pergi untuk menutup jendela dengan sekejap. Roknya sangat dianimasikan, aku bertanya-tanya apakah ada Pokémon di bawah sana. Aku hampir mencoba menangkapnya. Fiuh, monster sakuku hampir kehilangan kendali, nih…",
+      "emphasis": [
+        {
+          "start": 300,
+          "end": 352,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#14",
+      "text": "“Anginnya semakin kencang, ya?” katanya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#15",
+      "text": "Satu-satunya balasan adalah suara gemeretak jendela."
+    },
+    {
+      "id": "v6-bab-1-chapter001-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#16",
+      "text": "Tidak ada seorang pun yang berkecil hati karena kurangnya reaksi, Yuigahama berbicara lagi. “Kudengar akan ada badai.” Sekarang setelah dia berbicara dua kali, baik Yukinoshita dan aku terpaksa mengangkat kepala dari buku kami. Yuigahama tampak sedikit lega. “Cuacanya bagus saat istirahat, dan sekarang hal ini terjadi, ya?”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#17",
+      "text": "“Benarkah? Tampak cukup gelap bagiku.” Aku memikirkannya kembali, tapi aku tidak punya banyak kenangan tentang hari-hari yang cerah dan cerah. Aku hanya mengingatnya ketika aku pergi ke luar…"
+    },
+    {
+      "id": "v6-bab-1-chapter001-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#18",
+      "text": "“Kamu tidak akan tahu, Hikki, karena kamu tidak pernah keluar rumah.” Yuigahama mendengus sedikit padaku. Ya, itu benar."
+    },
+    {
+      "id": "v6-bab-1-chapter001-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#19",
+      "text": "“Maksud saya…hanya saja, tirai anti tembus pandang berfungsi dengan baik, Anda tahu?”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#20",
+      "text": "“Apakah mereka melakukan pemeliharaan pada jaringan Anda sepanjang musim panas atau semacamnya?” Yuigahama bertanya, ekspresinya bingung."
+    },
+    {
+      "id": "v6-bab-1-chapter001-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#21",
+      "text": "“Apa?” Aku balik bertanya, sama bingungnya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#22",
+      "text": "“Hah?” Kebingungan di wajah kami berdua, kami saling menatap sampai kami berdua menyadari bahwa kami tidak membicarakan hal yang sama. Hei, ayolah, sekarang. Dia tidak mungkin menanyakan pertanyaan itu dengan serius. Ya ampun, gadis ini menakutkan.",
+      "emphasis": [
+        {
+          "start": 135,
+          "end": 248,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#23",
+      "text": "Yukinoshita, yang mungkin mendengarkan percakapan tanpa harapan ini, menutup bukunya dengan cepat dan memberanikan diri, “Hanya…untuk berjaga-jaga, aku akan menjelaskan… Tirai anti tembus pandang adalah tirai yang menghalangi cahaya. Kamu sedang membayangkan pemadaman bergilir.”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#24",
+      "text": "Yuigahama berhenti sejenak sebelum dia menjawab dengan terkejut. “Hah? Oh...o-tentu saja! Ya...aku—aku tahu itu...” Pada akhirnya, dia menghindari pandangan kami sepenuhnya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#25",
+      "text": "Aku merasa kasihan padanya dan berusaha membantunya menyelamatkan mukanya. “Yah, kamu tahu, pemblokiran cahaya mempunyai asal muasal yang kuno dan terhormat bagi kami orang Jepang. Kami bahkan memiliki patung tanah liat yang menghalangi cahaya. Secara historis, itu sudah ada dalam darah kami.” Karena membenci cahaya, kami adalah orang-orang yang menanggung nasib karena ketertarikan pada kegelapan—orang Jepang. Wah, itu cara yang cukup M-2 untuk menjelaskannya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#26",
+      "text": "“Oh, benarkah?! Ya, setelah Anda menyebutkannya, mungkin Anda benar. Menurut saya rumah pit dan benda-benda semacam itu tidak memiliki jendela.” Yuigahama memberiku ohhh yang penuh apresiasi.",
+      "emphasis": [
+        {
+          "start": 165,
+          "end": 169,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#27",
+      "text": "Sementara itu, Yukinoshita meletakkan tangannya di dahinya untuk menahan sakit kepalanya sambil menghela napas pendek. “Shakouki doguu disebut 'pemblokir cahaya' karena mereka tampak mengenakan kacamata salju yang dipakai suku Inuit untuk mencegah kebutaan salju. Ini tidak ada hubungannya dengan menghalangi cahaya dengan cara apa pun.” Suaranya pelan dan selembut bisikan, tapi sangat jelas di ruangan yang sunyi senyap itu.",
+      "emphasis": [
+        {
+          "start": 120,
+          "end": 134,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#28",
+      "text": "“Oh, benarkah? H-huh...”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#29",
+      "text": "Yukinoshita bersikap sangat pemalu, mengingat dia sedang dengan sombong mengungkapkan ketidaktahuan Yuigahama. Tidak ada yang akan berbicara sekarang karena dia seperti ini. Yang terburuk, aku tidak bisa memberikan jawaban yang cepat untuknya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#30",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#31",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#32",
+      "text": "Mungkin Yukinoshita memutuskan untuk berbelas kasihan, karena dia mengakhiri kritiknya di sana."
+    },
+    {
+      "id": "v6-bab-1-chapter001-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#33",
+      "text": "Setelah itu, dia kembali membaca, sementara aku bersandar di pipiku dan membolak-balik sampul bukuku dengan tanganku yang bebas."
+    },
+    {
+      "id": "v6-bab-1-chapter001-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#34",
+      "text": "Aku bisa mendengar suara angin menderu-deru di kejauhan. Fiuh, fiuh—Aku kira bahkan orang yang berada di alam terbuka pun bosan dengan hal ini.",
+      "emphasis": [
+        {
+          "start": 57,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#35",
+      "text": "Seseorang berdeham, dan suaranya terdengar sangat keras."
+    },
+    {
+      "id": "v6-bab-1-chapter001-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#36",
+      "text": "Sebelum aku menyadarinya, aku dapat mendengar jarum detik berdetak."
+    },
+    {
+      "id": "v6-bab-1-chapter001-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#37",
+      "text": "Aku ragu manusia berbeda jauh dalam hal merasakan keheningan yang canggung."
+    },
+    {
+      "id": "v6-bab-1-chapter001-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#38",
+      "text": "Seolah-olah dia baru saja mengingat sesuatu, Yuigahama menarik napas dalam-dalam. “Hikki, kamu harus lebih sering keluar rumah. Bukankah itu caramu membuat vitamin C?”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#39",
+      "text": "“Menurutku yang kamu maksud adalah vitamin D,” jawabku. “Membuat vitamin C? Apakah kamu Lemon-chan atau semacamnya? Manusia tidak menghasilkan vitamin C sendiri.”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#40",
+      "text": "“Mereka tidak menghasilkan?”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#41",
+      "text": "“Ya. Dan omong-omong, kamu bisa menghasilkan cukup vitamin D hanya dengan berjemur selama tiga puluh menit dua kali seminggu. Oleh karena itu, aku tidak perlu melakukannya.” untuk keluar dari rumah,“ kataku dengan angkuh. Aku mungkin tipe humaniora, tapi aku tahu banyak hal-hal sepele. Bahkan, itu mungkin merupakan bagian dari tipe humaniora."
+    },
+    {
+      "id": "v6-bab-1-chapter001-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#42",
+      "text": "Tampaknya terkejut dengan kekayaan pengetahuanku, Yuigahama bergidik. “Kenapa kamu tahu banyak tentang ini? Apakah kamu seorang ahli kesehatan? Menyeramkan...”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#43",
+      "text": "Itu cukup kasar. “…Orang tuaku juga pernah mengatakan hal seperti itu kepadaku, jadi aku mencari tahu.”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#44",
+      "text": "“Apakah kamu begitu putus asa untuk tidak meninggalkan rumah…?”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#45",
+      "text": "“Sangat mirip denganmu, Hikikomori-kun,” kata Yukinoshita."
+    },
+    {
+      "id": "v6-bab-1-chapter001-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#46",
+      "text": "“Tinggalkan aku sendiri…” Aku hendak menambahkan, Dan bagaimana kamu tahu nama panggilanku saat SMP? Tapi aku langsung berhenti. Ya…tidak perlu menyebutkan itu. Maksudku, comeback itu tidak cukup lucu untuk diucapkan dengan lantang. Anda tahu apa yang aku katakan? Tutup mulut adalah pilihan yang tepat. Hal ini terkadang terjadi: Seseorang memulai percakapan, Anda terbawa oleh ucapan jenaka Anda, lalu semua orang terdiam.",
+      "emphasis": [
+        {
+          "start": 50,
+          "end": 100,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#47",
+      "text": "Tiba-tiba teringat situasi serupa, aku menggeliat."
+    },
+    {
+      "id": "v6-bab-1-chapter001-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#48",
+      "text": "Tetapi meskipun aku belum mengatakannya, semua orang masih diam."
+    },
+    {
+      "id": "v6-bab-1-chapter001-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#49",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#50",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#51",
+      "text": "Yukinoshita tidak terlalu mengernyitkan alisnya. Dia tampak bosan saat dia melihat halaman bukunya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#52",
+      "text": "Kurangnya responnya pasti mengganggu Yuigahama, saat dia tertawa mengisi keheningan. “Ah…ah-ha-ha… Hikki benar-benar hikki, benar kan?”",
+      "emphasis": [
+        {
+          "start": 117,
+          "end": 122,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#53",
+      "text": "“Hei, sejak zaman kuno, ini adalah gaya hidup yang paling benar dan sakral. Bahkan dewi utama dalam mitos Jepang, Amaterasu Oomikami, sangat tertutup.” Aku akan meniru mitos dan tinggal di rumah aku. Aku akan mengikuti jejak Tuhan; dengan kata lain, aku akan menjadi dewa dunia baru."
+    },
+    {
+      "id": "v6-bab-1-chapter001-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#54",
+      "text": "“Tapi, para dewa dalam mitos Jepang tidak semuanya benar,” kata Yukinoshita."
+    },
+    {
+      "id": "v6-bab-1-chapter001-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#55",
+      "text": "“Hah? Benarkah?” Yuigahama bertanya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#56",
+      "text": "“Ya. Ini cukup umum dalam politeisme.” Para dewa sebenarnya melakukan banyak hal gila. Jika Anda membaca banyak mitos, Anda akan menemukan banyak sekali kisah-kisah yang keterlaluan."
+    },
+    {
+      "id": "v6-bab-1-chapter001-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#57",
+      "text": "Yuigahama hmm akan memberikan tanggapan yang sangat mengapresiasi. “Namun, kata tuhan memberi Anda kesan bahwa mereka sempurna.”",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 13,
+          "style": "em"
+        },
+        {
+          "start": 80,
+          "end": 85,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#58",
+      "text": "Jika kita berbicara dengan huruf kapital G “Tuhan”, itu mungkin aturannya, tetapi ketika Anda mengucapkan kami dalam bahasa Jepang, bukan itu saja. Dewa-dewa ini bukanlah makhluk yang maha tahu, mahakuasa, dan memiliki keadilan mutlak.",
+      "emphasis": [
+        {
+          "start": 41,
+          "end": 42,
+          "style": "em"
+        },
+        {
+          "start": 106,
+          "end": 110,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#59",
+      "text": "Saat aku merenungkan pemikiran ini, kata-kata berikut tiba-tiba keluar dari mulutku: “Yah…kamu tidak seharusnya mencoba memasukkan siapa pun ke dalam cetakan tertentu. Bukan dewa atau siapa pun.” Aku tidak terlalu mengharapkan balasan dari siapa pun. Aku baru saja memanfaatkan bakatku dalam monolog."
+    },
+    {
+      "id": "v6-bab-1-chapter001-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#60",
+      "text": "Setelah jeda yang cukup lama, jawaban yang pelan itu hampir tenggelam oleh suara membalik halaman. “…Memang.” Aku ragu dia sendiri yang mencari balasan. Dia tidak melihat siapa pun atau berbicara dengan siapa pun."
+    },
+    {
+      "id": "v6-bab-1-chapter001-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#61",
+      "text": "Anda tidak bisa memasukkan orang ke dalam cetakan."
+    },
+    {
+      "id": "v6-bab-1-chapter001-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#62",
+      "text": "Dewa adalah satu-satunya yang bisa Anda harapkan kesempurnaannya."
+    },
+    {
+      "id": "v6-bab-1-chapter001-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#63",
+      "text": "Anda tidak bisa berharap siapa pun untuk memenuhi cita-cita Anda."
+    },
+    {
+      "id": "v6-bab-1-chapter001-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#64",
+      "text": "Itulah kelemahan. Suatu kejahatan yang harus dibenci. Kecerobohan akan dihukum. Itu adalah tindakan yang manja dan naif, baik terhadap diri sendiri maupun orang lain. Satu-satunya orang yang membuat Anda kecewa adalah diri Anda sendiri. Satu-satunya orang yang boleh Anda sakiti adalah diri Anda sendiri. Benci saja diri Anda sendiri karena gagal memenuhi cita-cita Anda."
+    },
+    {
+      "id": "v6-bab-1-chapter001-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#65",
+      "text": "Satu-satunya yang tidak bisa Anda maafkan adalah Anda."
+    },
+    {
+      "id": "v6-bab-1-chapter001-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#66",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#67",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#68",
+      "text": "Percakapan terhenti, dan suasana menjadi kental karena ketegangan. Detik demi detik terus berlalu. Meskipun jendelanya tertutup, waktu yang beku membuat ruangan menjadi sangat dingin."
+    },
+    {
+      "id": "v6-bab-1-chapter001-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#69",
+      "text": "“Uh, um...” Kepala Yuigahama berputar-putar di antara aku dan Yukinoshita, dan kemudian bahunya merosot drastis."
+    },
+    {
+      "id": "v6-bab-1-chapter001-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#70",
+      "text": "Akhir-akhir ini, semua percakapan kami seperti ini. Selama berhari-hari, kami melakukan yang terbaik untuk berbicara, mencoba melakukan percakapan di suatu tempat. Setelah dua atau tiga hari melakukan hal ini, Yuigahama, tidak mengherankan, merasa lelah."
+    },
+    {
+      "id": "v6-bab-1-chapter001-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#71",
+      "text": "Angin menerpa jendela, memecah kesunyian. Kacanya bergetar, dan udara di ruang klub bergetar. Yuigahama melirik ke luar untuk mencari kesempatan melanjutkan pembicaraan. “Di luar sana sangat buruk, ya? Jika Jalur Keiyo berhenti, kamu tidak akan bisa pulang, ya, Yukinon?”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#72",
+      "text": "“Ya.”"
+    },
+    {
+      "id": "v6-bab-1-chapter001-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#73",
+      "text": "Benar, Yukinoshita naik Jalur Keiyo ke sekolah, kalau aku ingat."
+    },
+    {
+      "id": "v6-bab-1-chapter001-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#74",
+      "text": "Saat topan yang sangat besar dan dahsyat melanda wilayah Kanto, Chiba menjadi satu-satunya pulau di lepas pantainya. Seluruh jalur kereta api di jaringan tersebut lumpuh: Jalur Keiyo terlebih dahulu, kemudian Jalur Sobu, Jalur Joban, Jalur Musashino, Jalur Keisei, Jalur Tozai, dan Jalur Toei Shinjuku. Seluruh wilayah Chiba terputus dari wilayah Jepang lainnya, dan negara ini sudah setengah jalan menuju kemerdekaan."
+    },
+    {
+      "id": "v6-bab-1-chapter001-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#75",
+      "text": "Kalau dipikir-pikir, Chiba memang punya banyak jalur kereta api, bukan? Selain semua hal di atas, kami memiliki yang seperti Choshi Dentetsu dan Kominato Tetsudou yang semuanya bagus dan menjadi unggulan. Jalur Uchifusa dan Jalur Sotofusa juga cukup besar, namun sayangnya, jika Anda tinggal di dekat Tokyo, Anda tidak dapat membedakannya. Terkadang Anda membuat mereka terlibat dalam kesalahan yang jujur, dan orang-orang menjadi sangat kesal. Kemarahan masyarakat Chiba ibarat api yang berkobar!"
+    },
+    {
+      "id": "v6-bab-1-chapter001_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter001_a.xhtml#../Images/Art_P15.jpg",
+      "src": "assets/chapters/volume-6/bab-1/Art_P15.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Hachiman di antara Yukino dan Yui."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#0",
+      "text": "Pokoknya, jika terjadi topan, akan menyebabkan sejumlah gangguan pada jaringan transportasi di sekitar wilayah metropolitan. Yukinoshita mungkin akan terpengaruh dengan satu atau lain cara."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#1",
+      "text": "“Benar? Jadi, tempat tinggalku cukup dekat...” Yuigahama terdiam."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#2",
+      "text": "Kesunyian ini terasa aneh bagiku, jadi aku melihat dan melihat bahwa Yukinoshita benar-benar sedih. “...Tidak apa-apa. Kalau itu terjadi, aku akan jalan kaki pulang.”"
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#3",
+      "text": "“O-oh. Jadi, jaraknya tidak terlalu jauh sehingga kamu tidak bisa berjalan kaki...”"
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#4",
+      "text": "Yukinoshita tinggal sekitar dua stasiun dari sekolah. Jaraknya sungguh tidak bisa dilewati."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#5",
+      "text": "Yuigahama kembali bersorak dan berbicara padaku. “Kamu mengendarai sepedamu, Hikki?”"
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#6",
+      "text": "“Iya,” jawabku, lalu melirik ke luar jendela. Untungnya, hujan belum turun. Aku sudah membawa payung, tapi aku memilih untuk tidak berjalan pulang sambil membawa payung di tengah angin kencang ini."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#7",
+      "text": "“Mengapa kamu tidak naik bus pulang pada hari-hari seperti ini?”"
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#8",
+      "text": "“Bus sedang ramai, jadi aku tidak mau.” Selain itu, sebagian besar pengendara adalah siswa sekolah kami. Jika ada teman sekelas yang berada di sampingku di bus, itu akan menjadi bencana. Selama seseorang itu bisa mengabaikanku, tidak apa-apa. Namun saat seseorang yang kukenal menyadari keberadaanku dan berhenti ngobrol dengan teman-temannya, aku merasa sangat tidak enak. Itu mengganggu hatiku dengan rasa bersalah. Begitu banyak rasa bersalah hingga aku ingin meminta maaf karena dilahirkan, seperti aku Dazai atau semacamnya."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#9",
+      "text": "Dan yang terburuk, jika aku naik bus sekarang, aku akan pulang ke rumah pada waktu yang sama dengan Yuigahama. Dan Anda mengenalnya. Dia pasti akan mencoba memulai percakapan."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#10",
+      "text": "—Dan jika orang melihat kami seperti itu…"
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#11",
+      "text": "Aku selalu merasa tidak enak setiap kali orang melihat Yui Yuigahama bersahabat dengan seseorang dari kasta terendah. Aku tidak ingin membuatnya menghidupkan kembali pengalaman pertunjukan kembang api."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#12",
+      "text": "Aku harus pulang sebelum cuaca menjadi lebih buruk."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#13",
+      "text": "Saat angin semakin kencang, bahkan klub atletik pun mulai mundur. Bahkan jika kami tetap tinggal, aku ragu ada orang yang mau berkonsultasi dengan kami. Dan ketika pikiran itu terlintas di benakku, pintu ruang klub dibanting hingga terbuka sebelum suara geser itu bahkan memperingatkan kami bahwa ada pengunjung."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#14",
+      "text": "“Kalian anak-anak masih di sini?” Bu Hiratsuka, guru-penasihat Klub Layanan, masuk tanpa mengetuk seperti biasanya. “Klub-klub lain sudah selesai. Kalian semua harus pulang lebih awal, sebelum cuaca memburuk.”"
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#15",
+      "text": "Ketika Yukinoshita mendengarnya, dia segera menutup bukunya. “Mari kita akhiri di sini untuk hari ini.” Awan rendah yang menggantung di luar menggelapkan segalanya di ruang klub, bahkan ekspresi Yukinoshita."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#16",
+      "text": "“Baiklah, kalau begitu… Hati-hati, kalian semua.” Bu Hiratsuka sepertinya mengkhawatirkan Yukinoshita, tapi dia berjalan keluar tanpa berkata apa-apa lagi."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#17",
+      "text": "Baik Yuigahama maupun aku tidak mengajukan keberatan. Kami hanya mengemasi barang-barang kami dan pergi."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#18",
+      "text": "“…Aku akan mengembalikan kuncinya,” kata Yukinoshita, dan dia berjalan menyusuri lorong yang kosong tanpa berkata apa-apa lagi. Aku tidak melihatnya pergi; Aku baru saja menuju pintu masuk. Yuigahama nampaknya agak bingung harus berbuat apa, tapi sekitar tiga detik kemudian, dia mengikutiku."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#19",
+      "text": "Tak satu pun dari kami mengucapkan sepatah kata pun hingga kami mengenakan sepatu luar ruangan. Satu-satunya suara di pintu masuk yang sepi hanyalah bunyi hentakan sepatuku yang menyentuh tanah. Aku memasukkan kakiku ke dalamnya dan pergi keluar. “Aku ambil sepedaku,” kataku."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#20",
+      "text": "“Oke. Sampai jumpa.” Yui melambai kecil di depan dadanya, dan kami saling berpamitan singkat."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#21",
+      "text": "Anehnya, anginnya terasa hangat. Pasti ada kelembapan yang datang dari selatan."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-22",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter001_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#23",
+      "text": "Aku dengan panik mengayuh sepedaku melawan angin sakal. Aku telah menyalahgunakan sepeda kota aku selama lebih dari setahun, dan sepeda itu berderit dan merengek saat memberi tahu aku."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#24",
+      "text": "Tidak peduli bagaimana aku mengayuh dan mengayuh, aku tidak merasa berhasil. Aku bahkan mulai merasa seperti didorong ke belakang. Anginnya begitu kencang hingga hampir mematahkan semangatku, namun aku terus mengayuh pedalnya."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#25",
+      "text": "Senja telah datang lebih awal, namun matahari belum sepenuhnya terbenam. Namun, awan tebal mengaburkan cahaya alami yang tersisa. Tiang lampu berdiri secara berkala, bersinar tidak dapat diandalkan, dan kantong plastik serta kaleng kosong berjatuhan di sepanjang jalan."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#26",
+      "text": "Aku bisa mencium bau tanah basah dalam kegelapan, dan kemudian bintik-bintik hitam mulai muncul di aspal. Satu demi satu, nodanya bertambah, masing-masing disertai dengan tiupan yang keras.",
+      "emphasis": [
+        {
+          "start": 171,
+          "end": 177,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#27",
+      "text": "Akhirnya, warna hitam menutupi seluruh tanah. Tetesan-tetesan air itu mengalir dengan derasnya tanpa mempedulikanku sama sekali, mengenai lenganku yang telanjang begitu keras hingga sedikit perih. Tetesan air hujan yang deras tanpa ampun membuat kemeja seragam putihku tembus cahaya. Sayang sekali tidak ada gadis SMA di sekitar sini."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#28",
+      "text": "Sungguh menyebalkan. Apa-apaan ini kawan… Aku menggerutu pelan, lalu aku menarik payung dari sepedaku dan memasangnya untuk melindungiku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 41,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#29",
+      "text": "Sesaat kemudian, hembusan angin menghancurkan seluruhnya. Tulang rusuknya patah dan mengarah ke segala arah, dan bagian plastiknya menjadi layar. Angin menyeretku pergi, ah, seperti kapal pesiar. Aku kehilangan keseimbangan, panik, dan menginjakkan kakiku di tanah.",
+      "emphasis": [
+        {
+          "start": 146,
+          "end": 195,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#30",
+      "text": "…Aku hampir terjatuh tertelungkup. Menyeka keringat dingin dan air hujan, aku pasrah dan melipat payungku yang rusak."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#31",
+      "text": "Ini benar-benar menyebalkan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 28,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#32",
+      "text": "Angin menenggelamkan semua suara lainnya, dan aku hampir tidak bisa membuka mataku di tengah derasnya hujan. Pakaianku yang basah kuyup menghilangkan panas tubuhku, dan beban tambahan dari air membuat tubuhku terasa berat. Penglihatanku mulai berkabut."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#33",
+      "text": "Di tengah hujan, segala sesuatu meluncur begitu saja di permukaan—ban, kata-kata, pikiran."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#34",
+      "text": "Aku bisa melihat Sungai Hanami dari ruteku, menyemburkan banjir air gelap yang tak ada habisnya untuk menghanyutkan segalanya."
+    },
+    {
+      "id": "v6-bab-1-chapter001_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#35",
+      "text": "Hanya aku yang tertinggal di tengah badai."
+    }
+  ]
+}

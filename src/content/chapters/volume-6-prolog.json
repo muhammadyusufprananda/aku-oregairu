@@ -1,0 +1,358 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v6-prolog-chapter000-5"
+    ],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v6-prolog-chapter000-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter000.xhtml#1",
+      "headingLevel": 2,
+      "text": "Musikal Hina Ebina memang homoerotis, seperti dugaanku.",
+      "emphasis": [
+        {
+          "start": 8,
+          "end": 18,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter000.xhtml#../Images/Art_P5.jpg",
+      "src": "assets/chapters/volume-6/prolog/Art_P5.webp",
+      "width": 208,
+      "height": 399,
+      "text": "Hina Ebina versi chibi membawa buku."
+    },
+    {
+      "id": "v6-prolog-chapter000-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#3",
+      "text": "…Kisah yang indah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 18,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#4",
+      "text": "Jelas tidak.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 12,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#5",
+      "text": "Tanpa bicara, aku selesai membaca proposal pentas itu dan meletakkannya di meja. Tumpukan kertas yang agak tebal memancarkan aura khas yang sulit dijelaskan, mirip aura Necronomicon seandainya buku itu sungguh ada. Di sampul proposal tertulis The Little Prince: The Musical. Dengan judul seperti itu, kukira isinya akan lebih banyak pertandingan tenis yang kelewat heboh.",
+      "emphasis": [
+        {
+          "start": 169,
+          "end": 181,
+          "style": "em"
+        },
+        {
+          "start": 243,
+          "end": 273,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#6",
+      "text": "Musim sedang musim gugur, dan bersamaan dengan musim gugur tibalah festival budaya. Seluruh kelas bersatu selama masa ini, yang melelahkan bagi mereka yang memiliki kebijakan kemerdekaan yang membanggakan. Aku tidak cukup cocok dengan Kelas 2-F untuk menyebutnya “kelasku”, tapi hari ini adalah hari dimana mereka mulai bekerja keras untuk persiapan festival."
+    },
+    {
+      "id": "v6-prolog-chapter000-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#7",
+      "text": "Setelah banyak keributan tentang proyek untuk 2-F, kelas memutuskan bahwa kami akan mengadakan drama. Ketika segala sesuatunya diputuskan oleh suara mayoritas, aku tidak berhak untuk bersuara. Aku selalu termasuk minoritas."
+    },
+    {
+      "id": "v6-prolog-chapter000-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#8",
+      "text": "Mereka menyerukan ide, dan satu cerita khususnya dikirimkan sebagai topik potensial: Pangeran Kecil.",
+      "emphasis": [
+        {
+          "start": 85,
+          "end": 99,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#9",
+      "text": "Aku rasa banyak orang telah mendengar karya klasik Antoine de Saint-Exupéry, meskipun mereka belum membacanya. Anda mungkin berasumsi bahwa Prince of Curry adalah produk terkait, tapi itu sama sekali berbeda, asal tahu saja."
+    },
+    {
+      "id": "v6-prolog-chapter000-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#10",
+      "text": "Kisahnya dapat diringkas sebagai berikut:"
+    },
+    {
+      "id": "v6-prolog-chapter000-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#11",
+      "text": "Protagonis/narator, seorang pilot, melakukan pendaratan darurat di gurun Sahara, di mana ia bertemu dengan pangeran eponymous, dan mereka berdua mendiskusikan a berbagai topik dan temukan apa yang benar-benar penting dalam hidup. Ini adalah pilihan yang tepat untuk produksi teater sekolah menengah, dan wajar jika menyebut kisah ini sebagai mahakarya terkenal di dunia."
+    },
+    {
+      "id": "v6-prolog-chapter000-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#12",
+      "text": "Tetapi satu hal yang berbeda tentang naskah ini…adalah Ebina yang menulisnya."
+    },
+    {
+      "id": "v6-prolog-chapter000-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#13",
+      "text": "Mulai dari baris pertama, karakter, latar, dan garis besar cerita versi Ebina hampir mematahkan semangatku. Namun meski begitu, aku berkeinginan untuk terus maju. Suatu kali aku mencapai baris seperti “Saya telah mengunjungi delapan ratus jenis bintang yang berbeda!” dan “Seorang pilot dan pangeran mesum,” aku menyerah."
+    },
+    {
+      "id": "v6-prolog-chapter000-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#14",
+      "text": "Apa yang gadis itu pikirkan tentang hidupnya? Aku dengan takut melirik ke arah Ebina dan mendapati dia bertingkah aneh centil dan pemalu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#15",
+      "text": "“Ini sedikit memalukan…”"
+    },
+    {
+      "id": "v6-prolog-chapter000-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#16",
+      "text": "“Sedikit”? Tidak, tidak, tidak, ini memalukan! Tanpa sepatah kata pun, aku melipat hasil cetakannya dan memutuskan untuk mencuci tanganku dari semuanya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 46,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#17",
+      "text": "Awan tebal turun selama periode wali kelas kami yang panjang."
+    },
+    {
+      "id": "v6-prolog-chapter000-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#18",
+      "text": "“Apakah kita hampir selesai?” Hayama berseru, mengamati ruangan ketika sebagian besar dari kami telah selesai membaca proposal Ebina. Biasanya, tugas ini ada di tangan ketua kelas, tapi karena dia adalah anak yang naif dan tidak punya seni, dia tidak membangun resistensi terhadap topik ini dan sekarang terdiam."
+    },
+    {
+      "id": "v6-prolog-chapter000-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#19",
+      "text": "“U-um…jadi bagaimana menurut kalian? Jika ada yang punya pertanyaan atau melihat masalah…,” kata Hayama."
+    },
+    {
+      "id": "v6-prolog-chapter000-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#20",
+      "text": "Apa yang tidak menjadi masalah di sini…?",
+      "emphasis": [
+        {
+          "start": 4,
+          "end": 14,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#21",
+      "text": "Salah satu gadis di kelas mengangkat tangannya. “Apakah tidak ada perempuan dalam drama itu?”"
+    },
+    {
+      "id": "v6-prolog-chapter000-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#22",
+      "text": "“Hah? Kenapa harus ada?” Ebina memiringkan kepalanya dengan bingung. Tunggu sebentar, Nona Nakal.",
+      "emphasis": [
+        {
+          "start": 69,
+          "end": 97,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#23",
+      "text": "Tidak ada manusia wanita di The Little Prince, tapi Mawar tertarik untuk terlihat feminin, jadi menurut aku, seorang gadis bisa memainkan peran tersebut. Dan mereka juga dapat mempertimbangkan bagaimana mereka ingin menggambarkan Rubah atau Ular. Mereka mungkin akan membuat versi antropomorfisnya, seperti produksi The Lion King yang diproduksi oleh Shiki Theater Company.",
+      "emphasis": [
+        {
+          "start": 28,
+          "end": 45,
+          "style": "em"
+        },
+        {
+          "start": 316,
+          "end": 329,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#24",
+      "text": "Teman sekelas lainnya mengangkat tangan. “Apakah ini dapat diterima secara moral?”"
+    },
+    {
+      "id": "v6-prolog-chapter000-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#25",
+      "text": "“Ini diberi rating untuk segala usia, jadi tidak masalah!” Ebina berkicau."
+    },
+    {
+      "id": "v6-prolog-chapter000-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#26",
+      "text": "Siapa yang menyebutkan rating?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 30,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#27",
+      "text": "Sebagian besar yang lain tampaknya juga kesulitan bagaimana cara mengambil ini. Oda dan Tahara menyeringai, bersama dengan pria lain yang tahu satu atau dua hal tentang fangirl, sementara sebagian besar gadis kebingungan."
+    },
+    {
+      "id": "v6-prolog-chapter000-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#28",
+      "text": "Sementara itu, seseorang melambaikan tangannya dengan nada menjengkelkan saat dia mencoba menarik perhatian kami. “Tapi menurutku itu ide yang bagus.”"
+    },
+    {
+      "id": "v6-prolog-chapter000-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#29",
+      "text": "Oh-ho, apakah aku memata-matai tawaran putus asa untuk mendapatkan persetujuan Ebina, Tobe? Itu aneh, apakah kamu menyebutnya sebagai ketidakbersalahan seorang pria yang sedang jatuh cinta atau upaya untuk menjadi manis. Tapi, menurut aku itu bersifat universal. Maksudku, saat aku masih SMP, aku jatuh cinta pada gadis yang satu ini, jadi aku selalu menemukan cara untuk mewujudkannya sehingga kami kebetulan berjalan pulang bersama, dan akhirnya orang-orang memanggilku penguntit di belakangku sampai aku hampir menangis… E-semua orang melakukan itu, kan? Bukan hanya aku…?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 91,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#30",
+      "text": "Sambutannya masih suam-suam kuku, jadi Tobe berusaha lebih keras lagi. “Permainan ini bisa menyenangkan! Menurutku ini akan lebih populer daripada permainan biasa!” Rupanya argumen yang efektif; yang lain saling berpandangan saat mereka mulai mempertimbangkannya."
+    },
+    {
+      "id": "v6-prolog-chapter000-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#31",
+      "text": "Yah, dia ada benarnya. Ini bukan novel BL, dan musikal tidak akan menarik perhatian penonton seperti teks di halamannya. Sekelompok anak SMA yang tidak sopan menyatakan cinta mereka satu sama lain dengan kostum aneh di atas panggung akan terasa lebih seperti sketsa komedi."
+    },
+    {
+      "id": "v6-prolog-chapter000-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#32",
+      "text": "Drama festival budaya dinilai paling tinggi berdasarkan humor dan orisinalitas. Skrip ini memiliki keduanya. Mengesampingkan pro dan kontra dari elemen-elemen mirip BL serta kecenderungan Ebina sebagai penulis, aku pikir ini mungkin akan berakhir kurang lebih baik-baik saja."
+    },
+    {
+      "id": "v6-prolog-chapter000-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#33",
+      "text": "“Ya, menurut saya kita bisa mengambil sedikit ke arah itu. Selain itu, saya tidak akan mengungkapkan hal yang sebenarnya di sekolah. Beri saya pujian!”"
+    },
+    {
+      "id": "v6-prolog-chapter000-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#34",
+      "text": "Jadi Ebina sadar diri… Bahkan, fakta bahwa dia telah sampai pada kesimpulan ini hanya menambah kengerianku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 22,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-prolog-chapter000-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#35",
+      "text": "“Yah, untuk saat ini, kita bisa mengabaikan deskripsi karakternya… Jadi, bolehkah kita menekankan elemen komedi?” Hayama bertanya. Tidak ada yang mengajukan keberatan."
+    },
+    {
+      "id": "v6-prolog-chapter000-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#36",
+      "text": "Yah, itu adalah drama untuk festival sekolah kami. Itu adalah pilihan yang tepat untuk menjadikannya komedi daripada menganggap semuanya serius. Pengambilan yang tulus tidak hanya akan terasa canggung, dengan komedi, Anda dapat memaafkan satu atau dua kesalahan karena itu hanya untuk tertawaan. Akan lebih baik jika memasukkan elemen-elemen tersebut dan bersenang-senang dengannya."
+    },
+    {
+      "id": "v6-prolog-chapter000-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#37",
+      "text": "“Baiklah, kalau begitu sudah diputuskan,” kata Hayama, dan terdengar tepuk tangan meriah saat bel berbunyi."
+    },
+    {
+      "id": "v6-prolog-chapter000-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#38",
+      "text": "Ini memakan waktu yang lama dalam periode wali kelas, tapi seluruh kelas akhirnya memutuskan apa yang harus dilakukan. lakukan. Masih banyak yang harus diputuskan, tapi sekarang kita bisa memulainya."
+    },
+    {
+      "id": "v6-prolog-chapter000-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#39",
+      "text": "Tinggal sekitar satu bulan menuju festival. Satu lagi pengulangan membosankan dari acara tahunan ini."
+    },
+    {
+      "id": "v6-prolog-chapter000-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter000.xhtml#40",
+      "text": "Merasa sedikit melankolis, aku berdiri dari tempat duduk aku."
+    }
+  ]
+}

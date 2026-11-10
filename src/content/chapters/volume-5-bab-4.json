@@ -1,0 +1,1445 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v5-bab-4-chapter004-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter004.xhtml#1",
+      "headingLevel": 2,
+      "text": "Sayangnya, tak seorang pun tahu ke mana benang merah Shizuka Hiratsuka pergi.",
+      "emphasis": [
+        {
+          "start": 53,
+          "end": 70,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004.xhtml#../Images/Art_P63.jpg",
+      "src": "assets/chapters/volume-5/bab-4/Art_P63.webp",
+      "width": 248,
+      "height": 456,
+      "text": "Bu Hiratsuka versi chibi."
+    },
+    {
+      "id": "v5-bab-4-chapter004-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#3",
+      "text": "Apa makanan terlezat dari semuanya? Apakah itu kari? Sabu-sabu? Sushi? Soba? Sukiyaki, BBQ, atau manisan?"
+    },
+    {
+      "id": "v5-bab-4-chapter004-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#4",
+      "text": "Bukan semua itu. Ramen adalah yang terhebat. Ramen.",
+      "emphasis": [
+        {
+          "start": 45,
+          "end": 51,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#5",
+      "text": "Untuk anak SMA yang sendirian, ini adalah salah satu yang terdekat dan tersayang. Saat Anda memikirkan apa yang harus dimakan, ramen adalah hal pertama yang terlintas dalam pikiran. Anda bisa mampir ke tempat yang biasa Anda datangi dalam perjalanan pulang dari sekolah. Kamu bisa menemukan tempat baru sambil berbelanja dan menjelajahinya. Jika kamu merasa lapar di tengah malam, kamu bisa merebus air dan menyeruput ramen tersebut."
+    },
+    {
+      "id": "v5-bab-4-chapter004-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#6",
+      "text": "Tetapi untuk kalian semua pasangan yang pergi ke toko ramen untuk berkencan…"
+    },
+    {
+      "id": "v5-bab-4-chapter004-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#7",
+      "text": "…kalian payah."
+    },
+    {
+      "id": "v5-bab-4-chapter004-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#8",
+      "text": "Jangan terlalu lama ngobrol satu sama lain di konter. Orang-orang mengantre untuk masuk. Lakukan semua aktivitas lembekmu di Starbucks, karena kalian sangat menyukai tempat itu. Jangan menceritakan betapa Anda jatuh cinta di konter toko ramen. Pertimbangkan semua orang yang harus Anda tonton saat mereka mengantre tepat di belakang Anda."
+    },
+    {
+      "id": "v5-bab-4-chapter004-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#9",
+      "text": "Ramen, pada intinya, adalah makanan tersendiri. Kalau ngobrol, kuahnya jadi dingin dan mie jadi lembek. Itu sebabnya “sistem konsentrasi rasa” Ichiran adalah penemuan besar dunia ramen. Mereka memiliki pemisah di antara setiap kursi di konter, dan mereka bahkan menggantungkan tirai di depan dapur sehingga mereka tidak dapat melihat pelanggan dari sana. Mereka dulu memiliki patent pending yang tertulis pada bagian-bagian divisi tersebut… Aku penasaran apakah mereka mendapatkan paten tersebut.",
+      "emphasis": [
+        {
+          "start": 376,
+          "end": 390,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#10",
+      "text": "Aku jadi teralihkan."
+    },
+    {
+      "id": "v5-bab-4-chapter004-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#11",
+      "text": "Pada dasarnya, ramen adalah makanan yang paling cocok untuk orang setinggi aku. Ini adalah hidangan terbaik yang menyembuhkan jiwa mulia mereka yang berpegang teguh pada prinsip isolasi."
+    },
+    {
+      "id": "v5-bab-4-chapter004-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#12",
+      "text": "Itu itulah ramen.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 3,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-13",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter004.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v5-bab-4-chapter004-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#14",
+      "text": "Seperti yang sering terjadi di musim panas, aku bangun pada waktu yang tidak tepat dan melewatkan makan. Beberapa orang mungkin berpendapat bahwa, pada saat seperti ini, seseorang yang ingin menjadi suami rumah tangga sebaiknya membuat makanan sendiri. Tapi itu adalah kenaifan belaka. Seorang istri yang sejati tinggal di rumah memberikan suaminya koin lima ratus yen untuk makan siangnya dan kemudian memanjakan dirinya dengan makan siang mewah dengan uang suaminya. Anda mungkin menyebut pandangan ini berpikiran sempit, tetapi aku ingin menjadi suami rumah tangga seperti itu. Selain itu, ketika kami bercerai, aku ingin penyelesaian yang besar.",
+      "emphasis": [
+        {
+          "start": 300,
+          "end": 311,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#15",
+      "text": "Jadi, karena aku bercita-cita menjadi suami yang tinggal di rumah, aku melakukan hal yang ideal dan pergi makan siang mewah. Aku baru-baru ini menerima rejeki nomplok, berkat skema alkimia aku yang mengantongi uang beasiswa dari sekolah persiapan. Aku seorang alkemis dompet penuh. Dan untuk makan siang hari itu, aku memilih ramen. Setelah aku mengambil keputusan, perut aku tidak akan bisa menerima apa pun lagi."
+    },
+    {
+      "id": "v5-bab-4-chapter004-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#16",
+      "text": "Chiba adalah pasar ramen yang kompetitif. Matsudo, kota Chiba, Tsudanuma, dan Motoyawata—setiap stasiun memiliki hotspotnya masing-masing. Dan akhir-akhir ini, tipe yang lebih mewah seperti tantanmen gaya Takeoka dan Katsuura telah menjadi nasional. Toko-toko terkenal adalah pilihan yang sangat aman, namun begitu Anda terbiasa dengan makanannya, Anda benar-benar mulai ingin mencari tempat baru.",
+      "emphasis": [
+        {
+          "start": 190,
+          "end": 199,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#17",
+      "text": "Saat Anda pergi makan bersama orang lain, Anda berkompromi dan memilih apa yang mereka sukai. Itu juga membuat Anda ingin pamer. Aku tahu tempat yang cukup bagus, Anda tahu; bukankah itu luar biasa? Heh-heh-heh. Anda tidak bisa melakukan petualangan yang tepat. Namun saat Anda sendirian, Anda tidak peduli dengan kewajiban—Anda bisa langsung pergi ke toko. Proaktif ini membawa Anda pada penemuan-penemuan baru dan membantu Anda berkembang sebagai seorang pecinta kuliner. Maksudku adalah, seorang penyendiri dipenuhi dengan semangat kepeloporan. Kami adalah petualang modern yang penuh dengan keinginan kuat untuk menerima tantangan.",
+      "emphasis": [
+        {
+          "start": 129,
+          "end": 211,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#18",
+      "text": "Itulah mengapa, pada hari itu, aku memutuskan untuk pergi ke toko ramen di lingkungan aku sendiri, di mana aku belum banyak melakukan perintisan. Seperti yang mereka katakan, di bawah mercusuar selalu paling gelap, jadi menantang titik buta pribadi aku di daerah setempat adalah strategi yang fantastis. Itu adalah sebuah langkah intelektual, membalikkan logika yang menghalangi warga Tokyo untuk mengunjungi Menara Tokyo."
+    },
+    {
+      "id": "v5-bab-4-chapter004-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#19",
+      "text": "Setelah perjalanan bus yang panjang dan tidak menentu, aku tiba di dekat tujuan aku di Kaihin-Makuhari dan berangkat. Langkahku penuh tekad."
+    },
+    {
+      "id": "v5-bab-4-chapter004-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#20",
+      "text": "Aku akan berjalan-jalan di sekitar area ini dalam perjalanan pulang dari sekolah, jadi aku sudah lama mengincar toko tertentu dengan niat untuk mencobanya suatu saat nanti."
+    },
+    {
+      "id": "v5-bab-4-chapter004-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#21",
+      "text": "Terpanggang di bawah sinar matahari musim panas, aku terus berjalan. Kelembapan dan panas menggerogoti sarafku, tapi kemudian suara jernih terdengar di area itu untuk menghilangkan kejengkelanku. Itu adalah suara ding-dong, ding-dong yang nyaring dari lonceng gereja.",
+      "emphasis": [
+        {
+          "start": 213,
+          "end": 233,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#22",
+      "text": "Area itu dipenuhi dengan hotel-hotel tinggi dan sejumlah besar tempat pernikahan. Gereja adalah salah satu tempat tersebut, jadi mungkin sekarang sedang mengadakan pernikahan. Kegembiraan memenuhi udara, dan bahkan di jalan, aku dapat mendengar suara-suara di balik pagar meneriakkan ucapan selamat. Ini adalah pertama kalinya aku melihat sesuatu seperti ini, jadi aku mengintip sedikit. Apa yang aku lihat adalah pemandangan yang menggembirakan seperti sesuatu yang keluar dari foto."
+    },
+    {
+      "id": "v5-bab-4-chapter004-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#23",
+      "text": "Tapi tunggu, apa itu tadi? Dari sudut mataku, aku melihat sesuatu seperti noda hitam… Aku menggosok mataku kuat-kuat dan menatap tajam ke area itu. Aku tidak sibuk dengan satu tempat pun. Aku melihat semuanya secara keseluruhan… tanpa susah payah. Itulah yang dimaksud dengan benar-benar “melihat”, atau begitulah yang aku dengar. Mengikuti ajaran Oshou Takuan, aku menatap bayangan hitam itu dengan saksama. Siapa pun orangnya, ia mengenakan pakaian berwarna hitam, satu-satunya sumber energi negatif. Kegelapan menyerap semua cahaya di sekitarnya, bahkan membelokkan sinar matahari. Itu adalah satu-satunya titik kesalahan, berpegang teguh pada tampilan bahagia itu seperti dendam dan diam-diam bergumam, “Mati saja, amin…”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#24",
+      "text": "Oh… Aku pasti kenal orang itu…"
+    },
+    {
+      "id": "v5-bab-4-chapter004-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#25",
+      "text": "“Saya harap kamu juga segera menikah.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#26",
+      "text": "“Selanjutnya giliranmu, Shizu!”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#27",
+      "text": "“Shizu, Bibi, aku menemukan satu lagi yang bagus! Menurutku kali ini akan berjalan baik. Mengapa kamu tidak mencoba menemuinya, Shizu?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#28",
+      "text": "“Aku mulai menabung untuk cucu, Shizu.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#29",
+      "text": "Dengan setiap komentar, noda hitam itu bergerak-gerak dan bergoyang. Tekanan spiritual…menghilang…?"
+    },
+    {
+      "id": "v5-bab-4-chapter004-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#30",
+      "text": "Sepertinya aku baru saja melihat sesuatu yang seharusnya tidak kulihat. Aku segera mengalihkan pandanganku, berpura-pura tidak tahu apa-apa, dan mulai berjalan pergi. Tapi jangan pernah lupa…Ketika kamu menatap ke dalam kehampaan, kehampaan itu akan kembali menatap ke arahmu…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 71,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#31",
+      "text": "Tiba-tiba, orang yang kulihat berteriak, “H-Hikigaya!”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#32",
+      "text": "Pasangan paruh baya di dekatnya mengintip ke arahku. Aku mendapati diri aku membungkuk, dan mereka balas membungkuk. Apa yang sedang kita lakukan? Apakah ini termasuk pertemuan dengan orang tua? Apakah aku tidak punya pilihan sekarang selain mengambil tanggung jawab, menikahinya, dan meminta dia mendukung aku?",
+      "emphasis": [
+        {
+          "start": 117,
+          "end": 311,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#33",
+      "text": "Cacat gelap dalam persidangan beralih ke pasangan dan dengan cepat menjelaskan, “I-itu adalah salah satu anakku yang bermasalah! I-ini berhasil! J-asal tahu saja!” Tumit berbunyi klik di trotoar, bayangan itu berlari ke arahku. “Hikigaya! Waktu yang tepat! Sungguh melegakan!” kata noda hitam itu—yang sebenarnya adalah seorang wanita cantik dalam gaun hitam, setelah aku melihatnya dari dekat—sambil dia menggenggam tanganku, dengan gembira meninggalkan tempat itu."
+    },
+    {
+      "id": "v5-bab-4-chapter004-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#34",
+      "text": "“Hah? Hei, um…” Saat wanita cantik yang lebih tua meraih tanganmu, bisakah kamu melakukan apa pun selain mengikuti dengan patuh? Kami berjalan beberapa saat hingga berbelok di tikungan, memasuki taman, dan berhenti."
+    },
+    {
+      "id": "v5-bab-4-chapter004-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#35",
+      "text": "Wanita itu menghela napas lega. “Saya berhasil melarikan diri untuk saat ini.” Gaun pesta hitamnya mengikuti lekuk dan kontur tubuhnya yang halus, dan kerah bulu menghiasi tengkuk putih lehernya dengan cemerlang. Rambutnya, di updo, berwarna hitam pekat glamor yang bisa dibuat untuk gaun itu. Tangannya, yang menggenggam tanganku melalui sarung tangan hitam yang serasi dengan gaunnya, ternyata sangat lembut."
+    },
+    {
+      "id": "v5-bab-4-chapter004-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#36",
+      "text": "“Um…,” kataku."
+    },
+    {
+      "id": "v5-bab-4-chapter004-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#37",
+      "text": "“Hmm? Oh, maaf tiba-tiba melakukan ini.” Wanita cantik yang anggun itu memberiku senyuman lebar dan menarikku ke bangku, mengeluarkan sebatang rokok dan mengetuknya untuk memasukkan tembakau ke dalamnya. Itu menggelikan, mengingat penampilannya. Seperti sesuatu yang biasa dilakukan orang tua. Rokoknya mendesis saat dia menyalakannya dengan korek api seratus yen. Asap perlahan mengepul ke atas dari ujungnya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#38",
+      "text": "Aku benar-benar bingung sebelumnya karena dia terlihat sangat berbeda dari biasanya, tapi melihatnya dalam keadaan ini, tidak salah lagi Shizuka Hiratsuka, penasihat guru di Klub Layanan."
+    },
+    {
+      "id": "v5-bab-4-chapter004-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#39",
+      "text": "Wah. Saat dia berdandan lengkap, dia sangat cantik. “Um, tidak apa-apa kalau kamu keluar?” aku bertanya. “Itu tadi pernikahan, kan?”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 51,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#40",
+      "text": "“Saya tidak peduli,” jawabnya. “Aku sudah memberikan hadiahku.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#41",
+      "text": "“Tapi bukankah akan ada pesta setelahnya dan sebagainya?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#42",
+      "text": "“Apa yang merasukimu? Ternyata kamu sangat perhatian.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#43",
+      "text": "“Tidak, aku maksudnya, ini acara penting untuk bertemu laki-laki—”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#44",
+      "text": "Bu Hiratsuka mendengus. “Ini pernikahan sepupuku, jadi aku bukan tamunya.” Dia mengalihkan pandangannya dengan sedih dan, dengan rokok masih di mulutnya, bergumam, “Aku sebenarnya tidak ingin pergi. Sepupuku lebih muda dariku, jadi aku tahu dia akan berjalan di atas kulit telur dan bibiku akan terus-menerus membuat keributan tentang pernikahan. Orang tuaku juga tidak akan tutup mulut tentang hal itu... Serius, membayar uang untuk pergi ke pesta pernikahan hanya untuk membuat keluargamu marah padamu tidaklah sepadan...” Dia menghembuskan asap sambil menghela napas panjang dan menghancurkan rokoknya di tangannya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#45",
+      "text": "Aku tidak punya apa-apa untuk dikatakan tentang itu…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 52,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#46",
+      "text": "Saat yang aneh berlalu sebelum dia berbicara lagi, seolah dia berusaha menenangkan diri. “Apa yang kamu lakukan di sekitar sini?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#47",
+      "text": "“Tadinya aku berpikir aku akan pergi makan ramen.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#48",
+      "text": "“Ramen! Apakah orang-orang melakukan itu?” Tiba-tiba, Bu Hiratsuka terdengar antusias, dan matanya yang mati bersinar dengan kehidupan. “Kalau dipikir-pikir, setelah aku check in dan sebagainya, aku sama sekali tidak sempat makan... Sempurna. Aku ikut denganmu.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#49",
+      "text": "“Yah, kalau kamu mau, kurasa. Lewat sini,” kataku, memimpin dengan kecepatan tetap. Bu Hiratsuka mengikuti, tumitnya mengetuk. Ayolah, dia berpakaian terlalu mewah untuk ini! Semua orang melihat!",
+      "emphasis": [
+        {
+          "start": 127,
+          "end": 195,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#50",
+      "text": "Kami keluar di jalan yang cukup ramai dan melihat badai pandangan diam-diam dari sesama pejalan kaki. Pakaian Bu Hiratsuka sangat mewah, dan maksudku, dia cantik, jadi kurasa orang-orang tidak bisa menahannya. Tapi wanita yang dimaksud tampaknya tidak peduli, dan berbicara kepadaku dengan cara yang sama seperti biasanya. “Aku dengar kamu sedang menasihati calon siswa SMA Soubu,” katanya. “Saya terkesan mendengar Anda melanjutkan aktivitas Klub Layanan Anda selama istirahat. Benar-benar terkesan.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#51",
+      "text": "“Bukan itu yang sebenarnya terjadi. Dan bagaimana Anda tahu?” Dia melakukan hal paling menakutkan tanpa ragu-ragu…"
+    },
+    {
+      "id": "v5-bab-4-chapter004-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#52",
+      "text": "“Adikmu memberitahuku.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#53",
+      "text": "“Sejak kapan kalian berdua berteman baik?” Komachi telah mengepungku dengan jaring yang terdiri dari setiap kenalanku. Ini mengejutkan. Apakah dia sedang melakukan pengepungan ABCD penuh di sini? Apakah aku akan baik-baik saja? J: Asin Yuigahama. B: Hiratsuka yang Bonk-to-the-Head. C: Komachi yang lucu. D: …Sial, siapa namanya tadi? Sesuatu-nokawa? Jika tidak ada blok perdagangan, aku harus melawan mereka dengan hambatan mental."
+    },
+    {
+      "id": "v5-bab-4-chapter004-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#54",
+      "text": "“Dia adalah saudara perempuan yang baik,” kata Bu Hiratsuka. “Aku hampir berharap punya adik perempuan seperti itu. Oh, dan tentu saja aku tidak bermaksud menyiratkan apa pun dengan mengatakan itu.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#55",
+      "text": "“Mengingat perbedaan usia antara kamu dan Komachi, dia bisa jadi adalah putrimu,” aku terkekeh."
+    },
+    {
+      "id": "v5-bab-4-chapter004-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#56",
+      "text": "“Hikigaya…”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#57",
+      "text": "Oh, sial. Dia akan memukulku! Aku secara refleks menutup mataku dan menguatkan diriku. Namun tinju yang diharapkan tidak pernah datang. Penasaran, aku membuka mata dan melihat Bu Hiratsuka yang sangat sedih.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 29,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#58",
+      "text": "“Lelucon itu terlalu berlebihan saat ini.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#59",
+      "text": "“A-aku minta maaf!” Cepat! Cepat, seseorang! Nikahi wanita ini! Jika seseorang tidak melakukannya dengan cepat, aku sendiri yang akan menikahinya. Seseorang melakukan sesuatu. Tolong.",
+      "emphasis": [
+        {
+          "start": 20,
+          "end": 183,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#60",
+      "text": "Agustus akan segera berakhir, namun cuaca masih terlalu panas untuk beraktivitas di luar. Sinar matahari yang menyinari perlahan memanaskan kulitku. Namun daerah itu menghadap ke jalan pantai, dan angin sepoi-sepoi yang bertiup memberikan sedikit kelegaan. Bahkan mengantre di luar toko ramen pun tidak terlalu membuat tidak nyaman."
+    },
+    {
+      "id": "v5-bab-4-chapter004-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#61",
+      "text": "Mungkin perlu waktu lebih lama sebelum kami bisa masuk ke toko, tapi aku tidak mengalami kesulitan, karena aku pandai membuang-buang waktu. Aku juga pandai menyia-nyiakan reputasi orang lain dan menyia-nyiakan bubble wrap. Fakta-fakta ini mungkin membuatmu mengira bahwa aku juga akan pandai menyia-nyiakan noob kantoran setelah aku bekerja, tapi noob itu lucu, jadi aku tidak mungkin mendapatkan pekerjaan."
+    },
+    {
+      "id": "v5-bab-4-chapter004-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#62",
+      "text": "Aku mulai mengamati orang. Seperti laki-laki di depan kami yang mengobrol dengan volume tinggi seolah-olah hidupnya bergantung padanya untuk sementara waktu, atau dua laki-laki di belakang kami yang terlihat seperti mahasiswa dan mengingatkanku pada seorang lelaki dan perempuan yang sedang berkencan. Ketika aku bosan dengan hal itu, aku mulai berfantasi tentang apa yang akan terjadi jika aku membuka toko ramen dan toko itu menjadi populer dan aku muncul di TV, dan bagaimana aku akan menanggapinya. Pertama-tama, ketika aku mengeringkan mie, aku akan memutarnya, memanggil Tsubame Gaeshi, dan kemudian memberi tahu semua orang bahwa itu adalah rahasia dagang keluarga. Ketika tokoku menjadi lebih populer, aku akan membuka akademi ramen dan memeras uang dari para pekerja kantoran yang bermimpi untuk meninggalkan perlombaan tersebut. Saat aku sibuk membuat zonasi dan merangkai fantasi konyolku, aku mendengar desahan lembut yang mungkin hanya berupa tawa kecil.",
+      "emphasis": [
+        {
+          "start": 577,
+          "end": 591,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#63",
+      "text": "“Apa?” tanyaku."
+    },
+    {
+      "id": "v5-bab-4-chapter004-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#64",
+      "text": "Saat aku mengarahkan perhatianku ke sumber suara, Bu Hiratsuka berbicara dengan senyum masam. “Oh, aku hanya terkejut. Kupikir kamu pasti akan membenci keramaian dan antrean.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#65",
+      "text": "“Aku memang benci mereka. Bagaimanapun juga, kerumunan yang kacau balau. Namun, antrean memiliki sistem yang tepat. Namun, ada orang idiot di luar sana yang suka menyela.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#66",
+      "text": "Sebenarnya aku tidak begitu keberatan garis. Menurutku alasan kebanyakan orang membencinya adalah karena mereka merasa membuang-buang waktu. Ketika Anda mempertimbangkan semua legenda urban tentang pasangan yang putus saat berkencan di Destiny Land, Anda hanya dapat berasumsi bahwa rasa frustrasi terhadap garis dan perbedaan nilai yang diakibatkannya pasti telah muncul dan mendorong mereka ke sana. Tapi aku selalu mempunyai banyak waktu luang, dan kekuatan imajinasiku yang meluap-luap mencegah kebosanan. Selain itu, biasanya, aku sendirian. Hati baja seperti milikku tidak goyah menghadapi antrian belaka. Tapi gerombolan yang tidak teratur? Mereka penuh dengan orang-orang yang tidak bisa mengikuti aturan dan tidak punya sopan santun. Aku tidak tahan melihat mereka atau melihat mereka mendekati aku. Aku tidak bisa."
+    },
+    {
+      "id": "v5-bab-4-chapter004-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#67",
+      "text": "“Kamu lebih teliti dari yang saya bayangkan,” komentar Bu Hiratsuka terkejut."
+    },
+    {
+      "id": "v5-bab-4-chapter004-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#68",
+      "text": "“Tidak juga. Aku tidak pandai membersihkan dan sebagainya.” Kamarku sebenarnya cukup kotor. Jika Anda memberi label Urbanisasi atau Masa Depan Dunia dan memajangnya di galeri seni, itu akan sangat dihargai setelah kematian aku.",
+      "emphasis": [
+        {
+          "start": 116,
+          "end": 126,
+          "style": "em"
+        },
+        {
+          "start": 132,
+          "end": 148,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#69",
+      "text": "“Saya tidak berbicara tentang kebersihan atau kebersihan,” katanya. “Aku berbicara tentang cita-citamu. Meskipun pada akhirnya, semuanya berkisar pada dirimu.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#70",
+      "text": "“Itu hanya cara teknis untuk mengatakan bahwa aku adalah seorang bajingan egois dan egosentris.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#71",
+      "text": "“Ini adalah sebuah pujian. Menumbuhkan standar penilaian internal yang tepat adalah hal yang baik.”",
+      "emphasis": [
+        {
+          "start": 5,
+          "end": 11,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#72",
+      "text": "Tatapan ramah yang dia berikan padaku sungguh tidak nyaman. Tentu saja itu bukan maksudku. Aku berpaling darinya, sambil bergumam pelan, “Aku benci orang yang gaduh.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#73",
+      "text": "Saat mereka semua berkata, Ohh, ini sangat menyenangkan atau Ini adalah saat terbaik dalam hidup kita! atau apalah, siapa sebenarnya yang ingin mereka yakinkan? Bagi seorang introvert, yang tahu bagaimana menikmati dirinya sendiri dengan tenang melalui membaca atau bermain game di rumah, penekanan mereka pada kesenangan, kesenangan, kesenangan terdengar tidak berdasar. Aku tidak setuju bahwa volume suara Anda dan jumlah orang dalam suatu pertemuan adalah ukuran yang baik untuk bersenang-senang, dan aku benci orang-orang yang tertipu dengan berpikir demikian. Mungkin mereka melihat keramaian dan acara sebagai waktu yang ideal untuk menekankan keyakinan tersebut, karena pada saat itulah mereka berada dalam kondisi terburuknya. Aku tidak tahan melihat betapa palsu dan palsunya semua itu. Mengapa Anda tidak bisa membuktikan bahwa Anda bersenang-senang—membuktikan bahwa Anda benar—sendirian?",
+      "emphasis": [
+        {
+          "start": 27,
+          "end": 55,
+          "style": "em"
+        },
+        {
+          "start": 61,
+          "end": 102,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#74",
+      "text": "Jika mereka ingin bangga dengan sikap tersebut, mereka memerlukan validasi karena mereka kurang yakin. Di suatu tempat, pikiran rasional mereka bertanya, Apakah ini benar-benar menyenangkan? Dan dalam upaya untuk menghapus keraguan itu, mereka menyangkalnya secara lisan. Ini sangat menyenangkan! Pesta yang luar biasa! Ini luar biasa! Sangat epik! Mereka mengatakannya dengan lantang. Mereka meninggikan suara dan meneriakkannya.",
+      "emphasis": [
+        {
+          "start": 154,
+          "end": 190,
+          "style": "em"
+        },
+        {
+          "start": 272,
+          "end": 348,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#75",
+      "text": "Aku tidak ingin menjadi bagian dari kelompok itu. Aku tidak ingin berubah menjadi seorang munafik palsu."
+    },
+    {
+      "id": "v5-bab-4-chapter004-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#76",
+      "text": "“Kalau begitu, saya kira Anda tidak akan bisa pergi ke pertunjukan kembang api,” kata Bu Hiratsuka, memotong alur pemikiran aku."
+    },
+    {
+      "id": "v5-bab-4-chapter004-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#77",
+      "text": "“Kembang api?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#78",
+      "text": "“Iya. Kamu tahu maksudku kan? Di Menara Pelabuhan. Kamu tidak ikut?” dia bertanya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#79",
+      "text": "Aku ingat, sekarang dia menyebutkannya. Pertunjukan kembang api Menara Pelabuhan merupakan acara besar yang identik dengan musim panas. Aku pernah pergi sebelumnya ketika aku masih kecil. Aku rasa aku tidak terlalu peduli dengan kembang api. Aku benar-benar berada di dalamnya untuk kedai makanan. Mereka tidak merasa begitu penting jika Anda tinggal di sekitar sini, karena ada kembang api di stadion saat mereka mengadakan pertandingan malam, dan Destiny Land mengadakan kembang api sepanjang tahun. “Aku tidak punya rencana khusus untuk pergi. Tapi apakah kamu akan pergi?” Aku balik bertanya padanya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#80",
+      "text": "Dia menghela napas panjang. “Itu bagian dari pekerjaan selama liburan musim panas. Ini lebih seperti aku pergi ke sana untuk menonton orang, bukan kembang api.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#81",
+      "text": "Karena penasaran dengan apa yang dia bicarakan, aku diam-diam mendorongnya untuk menjelaskan."
+    },
+    {
+      "id": "v5-bab-4-chapter004-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#82",
+      "text": "“Aku dikirim untuk mengawasi para siswa,” katanya. “Aku juga melakukannya saat festival. Mereka selalu menyuruh para guru muda melakukan kerja keras seperti itu. Ya, mereka menyuruhku ke sana! Ha-ha-ha-ha! Kau tahu, karena aku seorang guru muda.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#83",
+      "text": "“Seseorang pasti terdengar senang,” gumamku, tapi sepertinya dia tidak mendengarnya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#84",
+      "text": "Tampaknya dalam suasana hati yang baik, lanjut Bu Hiratsuka. “Kami tidak boleh membiarkan siswa kami lepas kendali. Ini adalah acara kota, jadi banyak petinggi yang hadir.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#85",
+      "text": "“Oh? Para petinggi?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#86",
+      "text": "“Ya. Keluarga Yukinoshita mungkin akan hadir di sana.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#87",
+      "text": "Ya, aku kira Anda bisa menyebut keluarga Yukinoshita sebagai selebriti daerah, karena ayahnya berada di majelis prefektur dan memiliki bisnis lokal. Mungkin mereka bahkan mendukung acara tersebut dengan cara tertentu. Kalau begitu, wajar jika mengundang mereka."
+    },
+    {
+      "id": "v5-bab-4-chapter004-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#88",
+      "text": "“Ngomong-ngomong,” kataku, “apakah Haruno muridmu?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#89",
+      "text": "“Hmm? Oh ya. Kalian masuk tepat saat dia pergi, ya? Dia adalah alumni SMA Soubu. Aku terkesan padamu diingat.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#90",
+      "text": "Jika dia pergi tepat saat kita masuk, itu berarti dia tiga tahun lebih tua, yang berarti usianya sembilan belas atau dua puluh tahun. Jadi dia lulus dua tahun lalu, ya…?"
+    },
+    {
+      "id": "v5-bab-4-chapter004-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#91",
+      "text": "“Nilainya secara umum sangat bagus, dan dia unggul dalam segala hal yang dia coba. Dan dengan penampilannya, sebagian besar anak laki-laki memperlakukannya seperti seorang dewi.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#92",
+      "text": "Itu tentu mengingatkanku pada seseorang. Yah, dia lebih mirip penyihir daripada dewi. Seorang dewi dan penyihir… Meskipun pada dasarnya mereka adalah hal yang sama, aku yakin Anda akan melihat yang satu sebagai orang yang baik dan yang lainnya sebagai orang yang jahat tergantung pada pandangan agama Anda. Idenya sangat cocok dengan gambaranku tentang mereka."
+    },
+    {
+      "id": "v5-bab-4-chapter004-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#93",
+      "text": "“Tapi…” Bu Hiratsuka terdiam, berhenti sejenak. Dengan ekspresi pahit, dia melanjutkan, “Dia bukan siswa teladan.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#94",
+      "text": "“Dia mendapat nilai bagus, bukan?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#95",
+      "text": "“Ya. Tapi hanya nilainya yang bagus. Dia berisik di kelas, dia akan menaikkan roknya dan membuka kancing bagian atas blusnya, dan Aku selalu melihatnya di pertunjukan kembang api dan festival, seperti yang baru saja aku sebutkan. Dia selalu berlarian dari satu tempat ke tempat lain untuk mencari kesenangan. Artinya, dia punya banyak teman.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#96",
+      "text": "Ya, aku bisa dengan mudah membayangkan dia seperti itu. Dia ceria dan berkemauan keras, dan sifat bebasnya pasti akan membuat orang tertarik padanya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#97",
+      "text": "“Tapi itu pun…” Bu Hiratsuka gagal melanjutkan, jadi aku menyelesaikan kalimatnya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#98",
+      "text": "“Maksudmu itu topeng juga?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#99",
+      "text": "“Oh, jadi kamu menyadarinya.” Bu Hiratsuka terkesan. Atau lebih tepatnya, dia menyeringai seolah sedang berbagi rahasia nakal."
+    },
+    {
+      "id": "v5-bab-4-chapter004-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#100",
+      "text": "“Kamu bisa mengetahuinya hanya dengan melihatnya.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#101",
+      "text": "“Kamu cukup berwawasan luas.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#102",
+      "text": "Sepertinya. Ini adalah anugerah dari pelatihan khusus ayahku dalam membesarkan bajingan tak berguna."
+    },
+    {
+      "id": "v5-bab-4-chapter004-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#103",
+      "text": "“Namun, fasad itu adalah bagian dari daya tariknya. Orang-orang yang mengira itu adalah topeng mulai menyukai rencana dan sifat keras kepalanya.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#104",
+      "text": "“Jadi dia punya karisma,” aku kata."
+    },
+    {
+      "id": "v5-bab-4-chapter004-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#105",
+      "text": "Bu Hiratsuka mengangguk. “Saat dia menjadi panitia festival budaya, kami memiliki peserta terbanyak dalam sejarah sekolah. Dia tidak hanya melibatkan siswa; para guru juga ikut terlibat. Mereka menyeret saya keluar dan memaksa saya bermain bass.” Dia meringis seolah kenangan itu tidak menyenangkan. Hah, menurutku dia memang memiliki gaya rambut yang mirip dengan pemain bass lainnya. Aku pikir kita sedang membicarakan sesuatu-On sebentar di sana…",
+      "emphasis": [
+        {
+          "start": 300,
+          "end": 449,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#106",
+      "text": "“Tapi bagi kakak-kakak, keduanya benar-benar berbeda,” kataku. Jika Yukino Yukinoshita seperti seorang mahasiswa pascasarjana yang menekuni studinya, Haruno Yukinoshita seperti seorang pemimpin pemikiran yang sedang kuliah (LOL). Asal tahu saja, aku sangat benci istilah seperti pemimpin pemikiran dan semangat hidup dan guru jaringan. Orang Norma (LOL) suka kata-kata seperti ini. Jangan gunakan kata-kata yang keras seperti itu. Itu hanya membuatmu terlihat lemah.",
+      "emphasis": [
+        {
+          "start": 279,
+          "end": 297,
+          "style": "em"
+        },
+        {
+          "start": 302,
+          "end": 316,
+          "style": "em"
+        },
+        {
+          "start": 321,
+          "end": 334,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#107",
+      "text": "“Ya.” Bu Hiratsuka mengangguk, tapi kemudian dia melipat tangannya sambil berpikir. “Tapi menurutku dia tidak harus seperti Haruno. Dia hanya perlu mengembangkan kelebihannya sendiri.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#108",
+      "text": "“Fortes?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#109",
+      "text": "“Aku sudah mengatakannya sebelumnya, bukan? Dia baik hati dan umumnya berada di pihak yang benar.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#110",
+      "text": "Bu Hiratsuka memang pernah menilainya seperti itu di masa lalu. Aku pikir dia juga mengatakan bahwa hal itu akan membuat hidupnya sulit karena dunia ini tidak baik dan penuh dengan kesalahan. Dan Yukinoshita memang benar dalam banyak kasus. Aku masih ragu dengan sisi kebaikan, tapi, hanya karena seseorang tidak lembut bukan berarti dia tidak baik."
+    },
+    {
+      "id": "v5-bab-4-chapter004-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#111",
+      "text": "Tapi aku tidak butuh kebaikan. Aku lebih suka dimanjakan. Mungkin ketegasan adalah bentuk kebaikan tersendiri, tapi aku tidak menginginkan semua itu, tidak, terima kasih. Sepertinya Bu Hiratsuka juga tipe orang yang cintanya kuat, ya? pikirku sambil melirik ke arahnya.",
+      "emphasis": [
+        {
+          "start": 171,
+          "end": 234,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#112",
+      "text": "Dia memperhatikanku dengan ekspresi hangat. “Kamu sama saja.” Dia tersenyum padaku, tapi aku tidak mengerti apa yang dia maksud."
+    },
+    {
+      "id": "v5-bab-4-chapter004-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#113",
+      "text": "“Sama dengan apa?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#114",
+      "text": "“Kamu juga baik dan akurat dalam penilaianmu. Namun, kualitas-kualitas dalam dirimu cenderung berbenturan dengan dia.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#115",
+      "text": "Itu adalah pertama kalinya ada orang yang memberitahuku hal itu. Tapi aku tidak terlalu senang mendengarnya. Aku selalu percaya pada kebaikan dan kebenaran aku sendiri. J-jadi i-ini sama sekali tidak membuatku bahagia, oke?!"
+    },
+    {
+      "id": "v5-bab-4-chapter004-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#116",
+      "text": "“Dua kebenaran yang bertentangan satu sama lain? Bukankah itu bertentangan? Seperti yang selalu dikatakan Conan, 'Hanya ada satu kebenaran,'” kataku, berusaha menyembunyikan rasa maluku."
+    },
+    {
+      "id": "v5-bab-4-chapter004-117",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#117",
+      "text": "“Sayangnya, saya lebih menyukai calon anak laki-laki daripada detektif.” Bu Hiratsuka menepis ucapanku dengan senyuman dingin."
+    },
+    {
+      "id": "v5-bab-4-chapter004-118",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#118",
+      "text": "Berapa umurnya, serius?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 23,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-119",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#119",
+      "text": "Kami akhirnya masuk ke toko ramen dan pergi membeli tiket makanan di mesin penjual otomatis. Dengan semangat menjadi wanita yang utama, aku membiarkan Bu Hiratsuka mendahuluiku. Saat Anda pergi ke suatu tempat yang berbahaya atau asing untuk pertama kalinya, Anda harus membiarkan wanita itu pergi terlebih dahulu untuk memastikan keamanannya!"
+    },
+    {
+      "id": "v5-bab-4-chapter004-120",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#120",
+      "text": "Bu Hiratsuka menekan tombol tonkotsu tanpa ragu-ragu. Dia sangat jantan, aku hampir jatuh cinta saat itu juga. Setelah melakukan pembelian, dia berbalik ke arahku, masih memegang dompetnya. Ayo, cepat menyingkir.",
+      "emphasis": [
+        {
+          "start": 28,
+          "end": 36,
+          "style": "em"
+        },
+        {
+          "start": 190,
+          "end": 212,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-121",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#121",
+      "text": "“Apa yang kamu inginkan?” dia bertanya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-122",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#122",
+      "text": "Oh, jadi dia berencana membayarku. Sekarang aku bahkan ingin memanggilnya “Kak”. Aku merasa tersanjung, tapi aku merasa menerimanya adalah ide yang buruk. “T-tidak, aku yang bayar sendiri.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-123",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#123",
+      "text": "“Tidak perlu sopan.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-124",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#124",
+      "text": "“Aku tidak berusaha bersikap sopan. Tidak ada alasan bagimu untuk mentraktirku,” kataku."
+    },
+    {
+      "id": "v5-bab-4-chapter004-125",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#125",
+      "text": "Bu Hiratsuka memiringkan kepalanya dengan rasa ingin tahu. “Hmm? Kukira kamu adalah pria busuk dan busuk yang mengharapkan wanita membayar begitu saja.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-126",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#126",
+      "text": "Sungguh kata yang kejam untuk diucapkan. “Itu akan menjadikanku lintah! Aku tidak ingin menjadi lintah. Aku ingin menjadi suami yang tinggal di rumah!”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-127",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#127",
+      "text": "“Aku—aku tidak mengerti bedanya.” Bu Hiratsuka tercengang."
+    },
+    {
+      "id": "v5-bab-4-chapter004-128",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#128",
+      "text": "Sebenarnya aku juga kurang paham bedanya. Tapi suami rumah terdengar lebih baik daripada lintah, bukan? Selain itu, tampaknya tidak bijaksana bagi seorang guru untuk membelikan makanan dan barang-barang untuk siswa pilihannya. Nasib lebih memilih untuk menolak.",
+      "emphasis": [
+        {
+          "start": 47,
+          "end": 58,
+          "style": "em"
+        },
+        {
+          "start": 89,
+          "end": 95,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-129",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#129",
+      "text": "Aku meniru Bu Hiratsuka dan memilih tonkotsu, lalu naik dan mengambil tempat duduk di sebelahnya di konter. Segera setelah aku menunjukkan tiket aku, dia menjelaskan kepada staf tentang kekencangan mie tersebut. “Aku akan mengambil yang setengah mentah,” katanya.",
+      "emphasis": [
+        {
+          "start": 36,
+          "end": 44,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-130",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#130",
+      "text": "“Oh, kalau begitu aku akan mengambil yang ekstra keras,” aku menambahkan. Tapi, seperti…apakah biasanya wanita melakukan rute pemesanan keren ini di toko ramen?"
+    },
+    {
+      "id": "v5-bab-4-chapter004-131",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#131",
+      "text": "Ada pesona mendalam pada citra kecantikan modern di toko ramen. Bu Hiratsuka menerima perhatian yang luar biasa besarnya, tapi dia tidak tampak terganggu dengan hal itu saat dia dengan riang menyiapkan celemek kertas yang disediakan di konter dan mencari lada hitam, wijen putih, daun sawi, dan acar jahe merah. Wah, dia terlalu terlibat dalam hal ini.",
+      "emphasis": [
+        {
+          "start": 312,
+          "end": 352,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004-132",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#132",
+      "text": "Waktu merebus kedua mie kami cukup singkat, jadi ramennya langsung matang. Bu Hiratsuka mengambil satu set sumpit sekali pakai dan menyatukan kedua tangannya."
+    },
+    {
+      "id": "v5-bab-4-chapter004-133",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#133",
+      "text": "“Terima kasih atas makanannya.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-134",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#134",
+      "text": "“Terima kasih atas makanannya.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004-135",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004.xhtml#135",
+      "text": "Pertama, kuahnya. Lapisan minyak yang mengapung di permukaannya halus seperti porselen putih. Anda bisa melihat teksturnya yang kental. Bumbu-bumbunya menghilangkan bau kaldu yang kental dan kaya yang menjadi ciri khas tonkotsu. Selanjutnya mie. Betapapun kentalnya kuahnya, mienya pun tipis dan lurus. Teksturnya yang sedikit keras memberikan keseimbangan yang baik pada setiap gigitan.",
+      "emphasis": [
+        {
+          "start": 219,
+          "end": 227,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_a.xhtml#../Images/Art_P76.jpg",
+      "src": "assets/chapters/volume-5/bab-4/Art_P76.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Bu Hiratsuka makan bersama Hachiman."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#0",
+      "text": "“Iya. Ini enak.” Aku menyuarakan kesan sederhanaku, lalu kami berdua menyeruput mie kami dalam diam, meminum kuahnya dengan nikmat. Jamur kuping dan daun bawang menjadi pelengkap yang indah, dengan tekstur flounder yang menari-nari di lidah Anda."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#1",
+      "text": "Dengan sisa sekitar seperempat mie, Bu Hiratsuka memesan lebih banyak lagi dan kemudian berbicara kepada aku. “Tentang apa yang kita bahas sebelumnya…”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#2",
+      "text": "“Ya?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#3",
+      "text": "“Tentang betapa kamu cerewet.” Ketika mie tambahannya datang, dia menambahkan sedikit daun sawi. Dia tersenyum. Aku kira Bu Hiratsuka semakin bersemangat ketika ramen pesanannya mendekati rasa idealnya. “Pada akhirnya, saya rasa akan tiba saatnya Anda akan lebih toleran.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#4",
+      "text": "“Uh-huh.” Aku memberinya jawaban biasa-biasa saja sambil melemparkan bawang putih mentah ke dalam mangkukku."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#5",
+      "text": "“Rasanya seperti ramen.” Bu Hiratsuka dengan bangga memamerkan Shizuka Special miliknya yang telah selesai dan melanjutkan. “Ketika saya masih muda, saya pikir tonkotsu adalah yang terbaik. Lemak adalah rasa yang sebenarnya, dan saya tidak akan menerima apa pun kecuali sup yang kaya rasa. Tapi kemudian Anda tumbuh, dan Anda belajar bagaimana menoleransi garam ringan dan kaldu kecap.”",
+      "emphasis": [
+        {
+          "start": 160,
+          "end": 168,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#6",
+      "text": "“I-bukankah itu hanya membuat Anda semakin tua?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#7",
+      "text": "“Apakah kamu mengatakan sesuatu?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#8",
+      "text": "“Tidak...” Dia benar-benar memelototiku sekarang...",
+      "emphasis": [
+        {
+          "start": 15,
+          "end": 26,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#9",
+      "text": "Setelah cemberut sesaat, Bu Hiratsuka membuatku lengah dengan senyuman lain. “Yah, terserahlah. Anda tidak perlu menoleransi hal-hal itu saat ini. Jika suatu hari nanti Anda bisa, itu sudah cukup.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#10",
+      "text": "Aku pikir dia memahami konflik dan keraguan aku. Namun meski begitu, dia tidak mengarahkanku pada jawaban konkrit apa pun. Lagipula, aku tidak bisa menjawab apa pun saat ini."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#11",
+      "text": "“Bukan berarti kamu bisa menoleransi semuanya. Aku benci tomat, jadi aku masih tidak tahan dengan mie tomat.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#12",
+      "text": "“Ya?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#13",
+      "text": "“Ya, saya aku tidak tahan betapa licinnya mereka, dan rasanya seperti rumput.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#14",
+      "text": "Bocah sekali. Tapi aku mengerti maksudnya. Bagi orang yang membenci tomat, daging yang lengket dan bagian yang berbiji adalah bentuk siksaan tersendiri. Tampilannya juga sedikit berdarah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 13,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#15",
+      "text": "“Saya benci mentimun karena alasan yang sama,” tambahnya."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#16",
+      "text": "“Saya juga tidak begitu menyukainya.” Tidak, aku tidak suka kyuuri. Tapi aku suka Kiryuu Bannanchiten, dan Pepsi Ice Cucumber. “Ditambah lagi, mentimun sialan itu dimasukkan ke dalam salad kentang dan sandwich dan membuat semuanya terasa seperti mentimun…” Aku tidak masalah jika mentimun dipotong mentah atau dicelupkan ke dalam miso. Jika mereka sendirian, Anda dapat menghindarinya. Namun saat Anda memotongnya menjadi irisan bulat, saat itulah mereka menyerang… Mereka mengasinkan setiap item beraroma dalam rasa mentimunnya. Dan mereka juga tidak begitu bergizi. Mereka adalah predator dunia tumbuhan.",
+      "emphasis": [
+        {
+          "start": 60,
+          "end": 66,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#17",
+      "text": "“Tapi, mereka enak dijadikan acar,” kata Bu Hiratsuka. Itu adalah sesuatu yang akan dikatakan oleh seorang peminum berat. “Saya bisa membelinya sekarang.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#18",
+      "text": "Aku setuju dengan itu. “Ya, aku ingin beberapa.” Ya memang. Acar itu enak. Sangat menyegarkan. Yang terbaik dari semuanya, Anda bisa makan tumpukan nasi hanya dengan ditemani acar sayuran. Sungguh surgawi."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#19",
+      "text": "“…”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#20",
+      "text": "Entah kenapa, percakapan terhenti di sana, dan keheningan menyelimuti kami. Bingung, aku memandang Bu Hiratsuka. Apakah dia salah dengar atau apa? Dia tampak sangat linglung. Saat matanya bertemu mataku, dia tiba-tiba menyedot airnya dengan panik. “Oh iya, a-acar. Mm-hmm. A-aku juga. Aku...aku-menyukainya.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#21",
+      "text": "“Eh, aku jadi malu kalau kamu tergagap seperti itu, jadi tolong berhenti.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#22",
+      "text": "“…A-apa yang kamu bicarakan? Yang lebih penting…apa yang tadi aku bicarakan?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#23",
+      "text": "Apakah dia baik-baik saja? Mungkin dia harus melakukan beberapa latihan otak sekarang, seperti lembar perkalian. Saatnya melakukan keajaiban antipenuaan! Yang kuingat hanyalah tomat dan mentimun.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 195,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#24",
+      "text": "Sumpit Bu Hiratsuka bergerak dengan semangat yang lincah. “Aku akan memberimu char siu.”",
+      "emphasis": [
+        {
+          "start": 78,
+          "end": 86,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#25",
+      "text": "“Terima kasih. Lalu aku akan memberimu menmaku.”",
+      "emphasis": [
+        {
+          "start": 39,
+          "end": 44,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#26",
+      "text": "Dia terkekeh. “Terima kasih.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#27",
+      "text": "“Di usia Anda, Anda membutuhkan serat.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#28",
+      "text": "“Sebagian dari kalimat itu tidak diperlukan.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#29",
+      "text": "“Aduh!” Aku menggosok benjolan baru di kepalaku sambil makan."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#30",
+      "text": "Sepertinya Bu Hiratsuka menyukai ramen ini. Dia tersenyum puas. “Namun, karena kamu sudah menemukan toko yang bagus untukku, aku merasa harus menunjukkannya kepadamu juga.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#31",
+      "text": "“Ada rekomendasi?”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#32",
+      "text": "“Iya. Saat aku masih pelajar, aku merobohkan sebagian besar toko ramen di wilayah kota Chiba. Tapi sebagai guru, aku aku tidak bisa sering jalan-jalan dengan seorang siswa. Aku akan mengajakmu berkeliling setelah kamu lulus.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#33",
+      "text": "“Oh, tidak, aku tidak perlu kamu datang. Kamu cukup beri tahu aku di mana tempatnya.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#34",
+      "text": "Crack.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#35",
+      "text": "Suara sesuatu yang patah menurut aku sangat keras, bahkan di toko yang sibuk ini."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#36",
+      "text": "“Ups, sumpitku patah.”"
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#37",
+      "text": "“Tolong, saya akan senang jika Anda mengambilnya aku…” Menurutku sumpit tidak akan patah di tanganmu…",
+      "emphasis": [
+        {
+          "start": 55,
+          "end": 101,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#38",
+      "text": "“Mm-hmm. Nantikan saja,” katanya. Menurutku, dialah yang menantikannya."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#39",
+      "text": "Ramen rasanya enak jika dimakan bersama orang lain. Senang rasanya jika Anda sendirian dan bersama teman-teman yang baik."
+    },
+    {
+      "id": "v5-bab-4-chapter004_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter004_b.xhtml#40",
+      "text": "Sudah pasti: Ramen adalah makanan terhebat. Anda tidak dapat meyakinkan aku sebaliknya."
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg",
+      "src": "assets/chapters/volume-5/bab-4/Art_P80.webp",
+      "width": 1800,
+      "height": 1303,
+      "text": "Suatu hari, percakapan ponsel Hachiman dan Bu Hiratsuka."
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Suatu hari, percakapan ponsel Hachiman dan Bu Hiratsuka",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-1",
+      "kind": "text",
+      "text": "Hiratsuka · 22:43 · Tanpa judul: “Terima kasih banyak untuk hari ini. Ibu sedikit terkejut mendengar kamu suka ramen. Ibu juga sudah makan berkeliling lingkungan ini, jadi cukup tahu kedai setempat. Oh, bukan berarti Ibu benar-benar memakan lingkungannya. Ha-ha. Ibu sudah berjanji kita akan pergi bersama setelah kamu lulus. Namun, kalau memilih kedai dekat sekolah, rasanya kamu bakal pergi sendiri duluan. Jadi, Ibu akan mengajakmu agak jauh. Pertama, Ibu beri gambaran tempat dekat sekolah dan rumahmu.”",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-2",
+      "kind": "text",
+      "text": "“Kalau mencari kedai ramen terkenal dekat sekolah, yang pertama tentu Tora no Ana. Mereka membanggakan kuah yang sangat kental untuk ramen iekei Chiba. Mi buatan Sakai-nya mungkin terbilang standar di antara mi iekei, tetapi jangan diremehkan. Tidak ada akhiran ya pada nama kedainya, yang menunjukkan usaha mengambil arah baru walau berakar pada iekei. Kuahnya juga sangat cocok dengan nasi dan acar. Nasi dengan rumput laut yang direndam kuah itu luar biasa nikmat. Ibu juga merekomendasikan kedai tsukemen Shachi.”",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-3",
+      "kind": "text",
+      "text": "“Tempat lain untuk iekei klasik Chiba adalah Masudaya. Ibu lebih mengenal cabangnya di Stasiun Chiba, tetapi mereka punya cabang di Kaihin-Makuhari juga. Meski kuahnya berbahan dasar tonkotsu dan kecap asin, mereka menemukan cara membedakannya dari iekei biasa. Khususnya telur berbumbu dan char siu-nya bisa dibilang peringkat kedua di daerah ini. Sedikit berbeda dari kedai ramen lain, mereka juga menyajikan nasi goreng ala Tiongkok. Anak yang sedang tumbuh sepertimu pasti suka paket nasi goreng dan mi, Hikigaya. Ha-ha. Tsukemen-nya juga disajikan dengan pasta kacang merah, cukup menarik. Ada satu kedai lagi, kalau menuju…”",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-4",
+      "kind": "text",
+      "text": "Hachiman · 22:51 · Re: “Anu…”",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-5",
+      "kind": "text",
+      "text": "Hiratsuka · 23:20 · Re2: “Maaf, Ibu menekan kirim sebelum selesai. Kalau menuju Tokyo, jangan melewatkan Naritake. Kamu juga pasti tahu. Mereka memakai banyak lemak punggung, mi sangat tebal, dan kuah kaya rasa. Keseimbangannya ajaib, cawan suci ramen Chiba. Kedai utamanya di Tsudanuma, tetapi ada cabang di dekat Stasiun Chiba dan Motoyawata, dan belakangan bahkan merambah Tokyo dengan cabang Kinshi-cho. Ibu menyarankan pilihan ‘berminyak’ untuk kadar lemaknya, tetapi sepertinya ada pilihan ‘superberminyak’ juga. Kalau radikal daging ditambah lezat, hasilnya lemak. Bijaksana sekali.”",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-6",
+      "kind": "text",
+      "text": "“Di daerah itu juga ada Kaizan dan Ichioshi. Keduanya berbahan dasar tonkotsu, tetapi rasa dashi-nya jelas terasa dan sangat seimbang dengan lemaknya. Apalagi bersama mi lurus berketebalan sedang. Irisan tebal char siu yang terendam kuah itu sungguh mengenyangkan dan tak tertahankan. Terakhir, daun bawangnya! Bumbunya luar biasa, menonjolkan kerenyahan serta rasa manis-pedas alami daun bawang. Daun bawang cocok dengan ramen maupun hidangan nasi mereka. Jadi, kalau pergi, harus pesan sesuatu dengan daun bawang! Nah, kira-kira begitu. Ada pertanyaan atau permintaan?”",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-7",
+      "kind": "text",
+      "text": "Hachiman · 23:25 · Re3: “Maaf. Terus terang, semangat sebesar ini membuat saya agak takut…”",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-4-chapter004_c-0-companion-8",
+      "kind": "text",
+      "text": "Hiratsuka · 23:29 · Re4: (emotikon menangis)",
+      "source": "OEBPS/Text/chapter004_c.xhtml#../Images/Art_P80.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

@@ -1,0 +1,1807 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v3-bab-2-chapter002-134",
+      "v3-bab-2-chapter002-135",
+      "v3-bab-2-chapter002-138",
+      "v3-bab-2-chapter002_b-3"
+    ],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v3-bab-2-chapter002-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter002.xhtml#1",
+      "headingLevel": 2,
+      "text": "Komedi romantis masa muda Saika Totsuka memang benar, seperti dugaanku.",
+      "emphasis": [
+        {
+          "start": 26,
+          "end": 39,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter002.xhtml#../Images/Art_P21.jpg",
+      "src": "assets/chapters/volume-3/bab-2/Art_P21.webp",
+      "width": 226,
+      "height": 559,
+      "text": "Saika Totsuka versi chibi."
+    },
+    {
+      "id": "v3-bab-2-chapter002-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#3",
+      "text": "Dua puluh menit setelah guru menjatuhkan keputusan kejamnya, aku sudah berada di parkiran banyak, benar-benar bingung."
+    },
+    {
+      "id": "v3-bab-2-chapter002-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#4",
+      "text": "Yukinoshita benar. Mungkin akan menjadi cara tercepat untuk memotivasi Yuigahama agar datang ke Klub Layanan lagi. Secara pribadi, aku tidak keberatan dengan kepulangannya. Aku sudah mengatur ulang hubungan kami dan mengembalikan jarak antara kami ke tingkat yang sesuai. Selama aku mempertahankannya, seharusnya tidak ada masalah."
+    },
+    {
+      "id": "v3-bab-2-chapter002-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#5",
+      "text": "Baiklah, jadi bagaimana kita bisa membuat Yuigahama ingin kembali? Kita tidak bisa hanya berkata, Hei, bawa dia kembali! letakkan laso di lehernya, dan seret dia pergi, dan jika kita memohon padanya, Tolong kembalilah! maka segalanya tidak akan sama. Apa yang harus dilakukan? Aku merenung sejenak.",
+      "emphasis": [
+        {
+          "start": 98,
+          "end": 120,
+          "style": "em"
+        },
+        {
+          "start": 200,
+          "end": 218,
+          "style": "em"
+        },
+        {
+          "start": 251,
+          "end": 276,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#6",
+      "text": "Tapi…aku tidak tahu. Haruskah aku meminta maaf? Tapi sebenarnya aku tidak melakukan kesalahan apa pun.",
+      "emphasis": [
+        {
+          "start": 21,
+          "end": 102,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#7",
+      "text": "Saat aku bertarung dengan Komachi, selalu berakhir ketika pihak yang bersalah masih agak ambigu… Mungkin semuanya akan tetap baik dan samar-samar dengan ini juga."
+    },
+    {
+      "id": "v3-bab-2-chapter002-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#8",
+      "text": "Aku sedang menggaruk kepalaku dengan keras tanpa banyak ekspresi di wajahku ketika sebuah suara membuatku lengah."
+    },
+    {
+      "id": "v3-bab-2-chapter002-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#9",
+      "text": "“Hachiman? Oh, jadi itu kamu!” Aku berbalik dan melihat Saika Totsuka yang sedang malu-malu, berdiri melawan lingkaran cahaya matahari terbenam yang berkilauan. Hanya dengan berdiri di sana, dia mengubah bintik-bintik debu yang menari-nari menjadi titik-titik cahaya. Dia benar-benar seorang malaikat."
+    },
+    {
+      "id": "v3-bab-2-chapter002-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#10",
+      "text": "Kecemerlangannya mengalihkan perhatianku sejenak, tapi aku memutuskan untuk bersikap tenang dan tenang. “’Sup.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#11",
+      "text": "“Ya. 'Sup!” Totsuka mengangkat tangannya untuk memberi salam seolah mencoba meniruku. Kurasa sikap singkat itu agak memalukan baginya, karena disertai dengan tawa malu-malu. Sial, dia terlalu manis untuk ditangani. “Apakah kamu akan pulang, Hachiman?”",
+      "emphasis": [
+        {
+          "start": 174,
+          "end": 214,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#12",
+      "text": "“Ya. Kamu sudah selesai latihan tenis, Totsuka?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#13",
+      "text": "Masih dalam pakaian olahraganya, Totsuka membetulkan tas raketnya di punggungnya, berhenti sejenak, dan lalu menggelengkan kepalanya. “Latihan belum selesai, tapi saya ada pelajaran di malam hari…jadi saya berangkat lebih awal.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#14",
+      "text": "“Pelajaran?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#15",
+      "text": "Pelajaran seperti apa? Aku kira seseorang semanis Totsuka bisa belajar di Sekolah Aktor Okinawa atau semacamnya dan menjadi idola pop. Oke, aku akan membeli seratus CD-nya! Lalu, begitu aku dapat tiket jabat tangan, aku akan menjualnya di suatu tempat.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 252,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#16",
+      "text": "“Umm, ini pelajaran tenis. Karena latihan di klub sekolah hanya teknik dasar.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#17",
+      "text": "“Hah… Kalau begitu, kamu cukup serius dengan tenis.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#18",
+      "text": "“I-tidak ada yang serius... Hanya saja...cinta.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#19",
+      "text": "“Hah? Maaf, bisakah kamu mengatakannya sekali lagi?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#20",
+      "text": "“Um…tidak ada yang seserius itu?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#21",
+      "text": "“Tidak, bagian setelah itu.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#22",
+      "text": "“…I-itu cinta?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#23",
+      "text": "“Oke, aku mendengarnya saat itu.” Aku menekan tombol X di hatiku dan mengukir kata-katanya ke dalam jiwaku. Aku menghela napas penuh kebahagiaan."
+    },
+    {
+      "id": "v3-bab-2-chapter002-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#24",
+      "text": "“Hmm?” Bingung, Totsuka memiringkan kepalanya."
+    },
+    {
+      "id": "v3-bab-2-chapter002-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#25",
+      "text": "Pekerjaanku sudah selesai untuk saat ini. Misi selesai. “Oh, maaf, Totsuka. Kamu ada pelajaran kan? Jadi, kurasa kamu akan berangkat. Sampai jumpa lagi.” Aku melambai ringan padanya, melemparkan kaki aku ke atas sepeda, dan hendak mulai mengayuh ketika aku merasakan punggung aku ditarik. Aku memeriksa untuk melihat apa itu, mengira bajuku pasti tersangkut sesuatu, dan mendapati Totsuka menyambar bajuku."
+    },
+    {
+      "id": "v3-bab-2-chapter002-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#26",
+      "text": "“U-um… Pelajaranku…dimulai sore hari. Jadi aku masih punya waktu sampai saat itu… Dekat stasiun… Dekat sekali kalau jalan kaki… Tunggu, tidak, yang kumaksud adalah…apakah kamu mau jalan-jalan sebentar?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#27",
+      "text": "“Uh…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#28",
+      "text": "“Baiklah…jika Anda punya waktu…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#29",
+      "text": "Aku rasa tidak ada orang yang bisa menolak permintaan yang diutarakan seperti itu. Jika nanti aku punya pekerjaan paruh waktu, aku mungkin akan melewatkannya. Dan kemudian segalanya menjadi canggung di tempat kerja, dan aku akhirnya berhenti. Jika ini adalah undangan dari seorang gadis, pertama-tama aku akan mencari orang-orang yang memenangkan taruhan melawannya di sekitar area tersebut. Bahkan jika aku tidak bisa menemukannya, aku akan menolaknya untuk berjaga-jaga."
+    },
+    {
+      "id": "v3-bab-2-chapter002-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#30",
+      "text": "Tapi Totsuka itu laki-laki.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 27,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#31",
+      "text": "…Dia adalah laki-laki.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 4,
+          "style": "em"
+        },
+        {
+          "start": 12,
+          "end": 22,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#32",
+      "text": "Yah, dia laki-laki. Benar-benar melegakan. Jika itu Totsuka, betapapun baiknya dia padaku, dia tidak bisa membimbingku, aku tidak akan terbawa suasana dan menyatakan cintaku, dan dia tidak akan menolakku dengan kejam dan menghancurkan hatiku. Yah, jika aku menyatakan cintaku atau apa pun kepada seorang pria, itu akan menghancurkan reputasiku dan tidak dapat diperbaiki lagi."
+    },
+    {
+      "id": "v3-bab-2-chapter002-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#33",
+      "text": "Bisa dikatakan, tidak ada alasan untuk menolak. “Aku akan pergi. Lagi pula, aku tidak punya pekerjaan lain selain membaca di rumah.” Ternyata tidak banyak yang bisa aku lakukan. Rasanya seperti, aku bisa membaca buku, membaca manga, menonton anime yang dilengkapi DVR, bermain video game, dan ketika aku bosan, belajar. Itu semua sangat menyenangkan juga, dan itu juga meresahkan."
+    },
+    {
+      "id": "v3-bab-2-chapter002-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#34",
+      "text": "“Oh, bagus! Jadi…jadi…ayo kita pergi ke stasiun.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#35",
+      "text": "“Mau naik kereta belakang?” tanyaku sambil menepuk rak bagasi dengan pelan."
+    },
+    {
+      "id": "v3-bab-2-chapter002-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#36",
+      "text": "Dua orang yang berkendara bersama bukanlah pemandangan yang langka. Ini sebenarnya cukup umum. Itu sebabnya meskipun Totsuka duduk di rak, melingkarkan tangannya erat-erat di pinggangku, dan berkata, Punggungmu besar sekali, Hachiman, aku tidak akan menganggapnya tidak wajar sedikit pun.",
+      "emphasis": [
+        {
+          "start": 200,
+          "end": 233,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#37",
+      "text": "Tapi Totsuka menggelengkan kepalanya. “I-tidak apa-apa. Aku berat...”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#38",
+      "text": "Tapi kamu jelas lebih ringan dari seorang gadis. Atau begitulah yang ingin kukatakan, tapi aku berpikir lebih baik dan menjawab “Oke.” Totsuka tidak terlalu senang diperlakukan seperti perempuan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 48,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#39",
+      "text": "“Stasiunnya agak jauh, tapi ayo jalan kaki.” Totsuka tersenyum malu-malu dan mulai melangkah satu langkah di depanku. Aku mengikutinya sambil mendorong sepedaku. Saat kami berjalan, dia sesekali berbalik untuk menatapku. Dia mengambil lima langkah dan melirik, delapan langkah lalu melirik lagi. …Ayolah, kamu tidak perlu khawatir seperti itu. Aku di belakangmu.",
+      "emphasis": [
+        {
+          "start": 297,
+          "end": 362,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#40",
+      "text": "Kami berbelok di sudut taman dekat Saize dalam diam dan menaiki tanjakan menuju jembatan penyeberangan pejalan kaki. Kami diam-diam saling mengintip satu sama lain seperti pasangan sekolah menengah yang sedang berkencan, dan aku tidak pernah bisa menemukan saat yang tepat untuk berbicara. Itu adalah perjalanan yang pahit dan manis. Aku merasa seperti akan mati karena jantung berdebar-debar."
+    },
+    {
+      "id": "v3-bab-2-chapter002-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#41",
+      "text": "Jembatan di atas jalan raya merupakan struktur dua tingkat dengan jalan untuk kendaraan di atas dan jalur pejalan kaki di bawahnya. Angin bertiup kencang, menyebarkan knalpot dari pipa knalpot dan membawa angin sejuk ke tempat teduh."
+    },
+    {
+      "id": "v3-bab-2-chapter002-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#42",
+      "text": "“Rasanya menyenangkan ya, Hachiman?” Seolah-olah dia menganggap angin sebagai isyaratnya, Totsuka berhenti lima langkah di atasku dan menoleh ke belakang. Senyumannya yang berseri-seri sangat cocok untuk musim panas sehingga aku ingin mengambil gambar dan menyimpannya sebagai jpeg."
+    },
+    {
+      "id": "v3-bab-2-chapter002-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#43",
+      "text": "“Ya. Ini sempurna untuk tidur siang.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#44",
+      "text": "“Kamu banyak tidur saat istirahat, Hachiman. Apakah kamu belum cukup tidur?” Totsuka bertanya sambil terkikik."
+    },
+    {
+      "id": "v3-bab-2-chapter002-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#45",
+      "text": "Tapi ini bukan tentang kelelahan. Aku hanya tidak punya siapa pun untuk diajak bicara atau melakukan apa pun saat istirahat, jadi kupikir aku akan tidur saja. Itu saja. “Mereka punya kebiasaan tidur siang di Spanyol yang disebut tidur siang, lho. Mereka beristirahat di tengah hari untuk menghilangkan kantuk dan kelelahan, sehingga meningkatkan efisiensi di sore hari. Rupanya, bisnis hanya menjadwalkannya seolah-olah itu adalah hal yang normal.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 168,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#46",
+      "text": "“Wah…jadi kamu sudah banyak memikirkan kenapa kamu tidur siang, ya?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#47",
+      "text": "“Eh, baiklah, saya—saya kira.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#48",
+      "text": "Tentu saja, aku belum melakukannya sama sekali, dan aku baru saja mengutarakan sesuatu yang sepertinya memang aku alami. Aku tidak percaya dia membelinya dengan mudah. Itu membuatku sedikit kesal… Aku tidak tahu apakah Totsuka memercayaiku atau dia hanya mudah tertipu. Mungkin yang terakhir. Aku khawatir suatu hari orang jahat akan datang dan menipu dia. Aku harus melindungi Totsuka!"
+    },
+    {
+      "id": "v3-bab-2-chapter002-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#49",
+      "text": "Jembatan penyeberangan terbuka tepat di dekat stasiun. Kami melanjutkan perjalanan dengan kecepatan biasa. Tepat ketika stasiun mulai terlihat, langkah Totsuka melambat. Dia tampak ragu-ragu harus pergi ke mana."
+    },
+    {
+      "id": "v3-bab-2-chapter002-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#50",
+      "text": "“Jadi, ke mana kita akan pergi?” tanyaku."
+    },
+    {
+      "id": "v3-bab-2-chapter002-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#51",
+      "text": "“Um…di suatu tempat kita bisa melakukan dekompresi sebentar.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#52",
+      "text": "“…Apakah kamu stres?” Aku bertanya-tanya kenapa aku tiba-tiba merasa sangat bersalah… Oh ya, ada kejadian kecil saat pertama kali kami memelihara kucing keluarga. Kami memberinya terlalu banyak perhatian, dan dia mulai mengalami kebotakan… Mungkin itu sebabnya kucing kami masih tidak menyukai aku. Hewan peliharaan dan teman lucu lainnya akan stres jika Anda terlalu perhatian. Aku harus lebih berhati-hati dengan Totsuka."
+    },
+    {
+      "id": "v3-bab-2-chapter002-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#53",
+      "text": "“Eh, um, ini bukan untukku…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#54",
+      "text": "“Aku tidak begitu tahu,” jawabku, “tapi mungkin karaoke, arcade, atau semacamnya.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#55",
+      "text": "“Mana yang lebih Anda pilih?” Totsuka bertanya, tidak bisa memilih."
+    },
+    {
+      "id": "v3-bab-2-chapter002-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#56",
+      "text": "Aku mempertimbangkannya sejenak. Karaoke dan arcade keduanya cukup bagus untuk melepaskan ketegangan. Sangat menyenangkan untuk diam-diam memasukkan serangkaian lagu sendirian dan mengeluarkan sedikit keringat saat Anda bernyanyi sepenuh hati. Namun setelah Anda menghabiskan sekitar pukul lima, tenggorokan dan semangat Anda menjadi lelah, dan kemudian ketika staf membawakan pesanan minuman Anda, rasanya sangat canggung. Dan setelah itu selesai, Anda diserang oleh perasaan brutal Apa yang aku lakukan…?",
+      "emphasis": [
+        {
+          "start": 484,
+          "end": 506,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#57",
+      "text": "Lalu ada arcade. Itu adalah tempat menghilangkan stres yang efektif. Ya, kecuali bagaimana pemain tetap memonopoli game pertarungan, dan jika ada petani yang berani bergabung, pemain yang lebih berpengalaman akan melenyapkan mereka. Permainan kuisnya cukup menyenangkan. Baru-baru ini, permainan online telah menjadi default, sehingga Anda bahkan dapat mengadakan turnamen nasional. Senang rasanya bergumam pada diri sendiri, Heh, bodoh sekali! saat peringkatmu naik. Dan kemudian Anda tersesat dalam permainan Shanghai dan mencoba menaklukkan Tembok Besar Tiongkok, dan sebelum Anda menyadarinya, tiga jam telah berlalu, dan Anda telah membuang-buang waktu Anda dengan cara terbaik. Apa yang aku lakukan…? yang sama setelahnya sungguh luar biasa.",
+      "emphasis": [
+        {
+          "start": 426,
+          "end": 444,
+          "style": "em"
+        },
+        {
+          "start": 684,
+          "end": 706,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#58",
+      "text": "Masalahnya adalah, jalan mana pun yang Anda pilih, Anda akhirnya bertanya pada diri sendiri, “Apa yang saya lakukan…?”",
+      "emphasis": [
+        {
+          "start": 93,
+          "end": 118,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#59",
+      "text": "Dalam dilema yang mengingatkan pada Dotch Cooking Show, aku terpaksa mengambil keputusan akhir: karaoke atau arcade. Tapi ini adalah Chiba, jadi seperti yang bisa diduga, ada solusi untuk saat-saat seperti ini.",
+      "emphasis": [
+        {
+          "start": 36,
+          "end": 54,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#60",
+      "text": "“Yah, kalau kita pergi ke Benua Mu, mereka punya keduanya,” usulku. Aku kira Anda bisa menyebut Mu semacam fasilitas hiburan umum. Selain permainan karaoke dan arcade, mereka juga memiliki bowling, biliar, dan bahkan bar. Tapi karena selalu penuh dengan orang, ada beberapa tipe yang mencurigakan juga, jadi kamu harus berhati-hati."
+    },
+    {
+      "id": "v3-bab-2-chapter002-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#61",
+      "text": "“Oke… Kalau begitu, ayo kita pergi ke Mu,” jawab Totsuka."
+    },
+    {
+      "id": "v3-bab-2-chapter002-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#62",
+      "text": "Diundang, aku mendorong sepedaku melewati bundaran stasiun dan memarkirnya di dalam Rak sepeda mu. Kami naik lift ke atas dan memutuskan untuk berjalan-jalan di sekitar arcade terlebih dahulu. Saat kami menginjakkan kaki di aula, kami langsung dibanjiri dengan suara dunia baru yang terbentang di hadapan kami: kilatan cahaya, asap tembakau yang mengepul, dan tawa yang tak kunjung hilang dalam hiruk pikuk. Di depan kami ada pojok permainan derek. Aku melihat sepasang suami istri memekik dan memekik satu sama lain saat mereka memanipulasi cakarnya, dan aku langsung ingin pergi. Sial, di mana anak nakal saat kamu membutuhkannya? Silakan datang menghajar orang-orang ini. Dan setelah itu, kalian semua harap ditangkap dan saling mencabik-cabik.",
+      "emphasis": [
+        {
+          "start": 582,
+          "end": 747,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#63",
+      "text": "Orang itu rupanya kesulitan, karena dia meyakinkan para staf untuk memindahkan boneka binatang yang dia incar. Akhir-akhir ini, kudengar mereka bahkan akan menangkapnya untukmu. Anak-anak jaman sekarang sangat mudah melakukannya… Totsuka dan aku menyelinap melewati mereka dan menuju ke pojok video game."
+    },
+    {
+      "id": "v3-bab-2-chapter002-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#64",
+      "text": "“Oh, wow…” sembur Totsuka. Aku sudah terbiasa dengan pemandangan ini, tetapi tampaknya ini hal baru baginya. Di depan kami ada permainan pertarungan, di belakang ada mesin meja untuk permainan puzzle dan mah-jongg, dan di antara mereka ada penembak. Di sebelah kanan ada arcade untuk permainan kartu koleksi. Di antara semua opsi ini, mesin kartu tampaknya memiliki jumlah penonton terbesar. Permainan pertarungan dan mah-jongg berada di tengah-tengah, dan mesin kuis jarang penduduknya. Yang harus Anda waspadai adalah permainan tembak-menembak dan permainan puzzle. Kadang-kadang seseorang yang mirip hantu muncul begitu saja dan menghasilkan skor tinggi yang gila-gilaan dan menarik banyak penonton."
+    },
+    {
+      "id": "v3-bab-2-chapter002-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#65",
+      "text": "“Apa yang biasanya kamu mainkan, Hachiman?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#66",
+      "text": "“Aku? Game kuis dan Shanghai, sepertinya.” Tentu saja aku tidak mengatakan strip mah-jongg. Bagaimanapun, permainan kuis adalah pilihan yang aman jika kita ingin bermain bersama. Favoritku selama ini, Akademi Sihir, berada tepat di samping tempat permainan pertarungan. “Di sini, Totsuka!” Di arcade sangat berisik, jadi aku pun melambai.",
+      "emphasis": [
+        {
+          "start": 201,
+          "end": 214,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#67",
+      "text": "Totsuka mengangguk, memasukkan jari-jarinya ke dalam keliman kemejaku, dan mengikutiku. Um… Sepertinya ini pertama kalinya Totsuka ke sini, jadi kurasa dia harus melakukan itu agar tidak tersesat. Ya, tidak ada yang aneh dengan hal itu. Ini sangat alami. Super-alami.",
+      "emphasis": [
+        {
+          "start": 88,
+          "end": 267,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#68",
+      "text": "Saat kami meluncur melewati area game pertarungan, aku melihat mantel yang familiar. Pemiliknya telah menyilangkan tangannya dengan angkuh, beban di pergelangan tangan terlihat dari balik lengan bajunya, dan jambul gaya samurainya bergoyang seiring dengan setiap tawa yang keluar dari bibirnya. Dia dan beberapa orang lainnya sedang menonton seseorang bermain, sesekali berbisik satu sama lain."
+    },
+    {
+      "id": "v3-bab-2-chapter002-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#69",
+      "text": "“Um, Hachiman… Apakah itu Zaimo—?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#70",
+      "text": "“Tidak.” Aku memotong ucapan Totsuka saat dia menanyaiku dengan diam Hah?",
+      "emphasis": [
+        {
+          "start": 69,
+          "end": 73,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#71",
+      "text": "Sosok dalam mantel itu memang familiar. Tapi dia bukan kenalanku. Pria yang kukenal tidak bisa melakukan interaksi sosial yang menyenangkan seperti itu. Maksudku, dia tidak punya teman."
+    },
+    {
+      "id": "v3-bab-2-chapter002-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#72",
+      "text": "“Menurutmu? Sepertinya Zaimokuza bagiku…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#73",
+      "text": "“Ah, tidak, Totsuka, jangan sebutkan namanya…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#74",
+      "text": "“Oh-ho? Aku mendengar suara memanggilku... U-u-u-luar biasa! 'Ini Hachiman!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#75",
+      "text": "Dia memperhatikan kita."
+    },
+    {
+      "id": "v3-bab-2-chapter002-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#76",
+      "text": "Sensitivitas terhadap bunyi nama seseorang adalah ciri khusus penyendiri. Karena si penyendiri tidak sering mendengar namanya, ia bereaksi secara dramatis jika kata itu diucapkan. Sumber: aku. Aku kaget sekali, reaksiku benar-benar konyol, seperti Y-yeeeks! Sangat buruk hingga saat aku menaiki antrean Sobu dan penyiar berkata, “Pemberhentian selanjutnya, Ichigaya,” aku harus menahan diri untuk tidak menjawab.",
+      "emphasis": [
+        {
+          "start": 248,
+          "end": 257,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#77",
+      "text": "“Tidak kusangka kita akan bertemu di tempat seperti ini! Kenapa kamu ada di sini? Tempat ini adalah medan perang... Hanya mereka yang telah menguatkan diri untuk berperang yang mungkin menginjakkan kaki di sini.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#78",
+      "text": "“Eh, Totsuka mengundangku, itu saja.” Aku tidak ikut campur dengan tindakan kecil Zaimokuza yang menjengkelkan itu. Atau lebih tepatnya, aku mengabaikannya saja."
+    },
+    {
+      "id": "v3-bab-2-chapter002-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#79",
+      "text": "Wajah Zaimokuza sedikit menunduk. Kamu tidak manis, oke? “Jadi, Hachiman, misi apa yang membawamu ke sini?”",
+      "emphasis": [
+        {
+          "start": 34,
+          "end": 56,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#80",
+      "text": "“Oh, kami baru saja datang untuk jalan-jalan.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#81",
+      "text": "“Apa?! Tunggu. Tuan Totsuka bersamamu?” Mata Zaimokuza melebar karena terkejut dan tertuju pada Totsuka."
+    },
+    {
+      "id": "v3-bab-2-chapter002-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#82",
+      "text": "Totsuka mengejang dan bersembunyi di belakangku. “Y-ya…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#83",
+      "text": "“Oh-ho. Tunggu sebentar.” Zaimokuza berlari sambil berlari, seringai mencurigakan terlihat di wajahnya. Rupanya, dia hendak mengucapkan selamat tinggal kepada orang-orang yang ngobrol dengannya. Dalam waktu kurang dari lima menit, dia kembali sambil tertawa aneh. “Sekarang, ayo kita berangkat.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#84",
+      "text": "“Eh, kamu tidak diundang… Sama sekali.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#85",
+      "text": "Zaimokuza telah memutuskan bahwa kami adalah trio dan pasti terlalu lelah untuk mendengar protes lembutku. Bahunya terangkat saat dia menyeka keringatnya dengan lengan baju."
+    },
+    {
+      "id": "v3-bab-2-chapter002-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#86",
+      "text": "“Hei, Zaimokuza, apakah pria itu temanmu?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#87",
+      "text": "“Tidak. Dia adalah seorang Arcanabro.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#88",
+      "text": "“Tidak, Aku tidak menanyakan nama panggilannya.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#89",
+      "text": "“Hum? Ini bukan nama panggilan. Itu pasti ‘Ash the Hound Dog.’”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#90",
+      "text": "“Lame…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#91",
+      "text": "“Itu berasal dari ini suatu kali setelah meng-KO musuhnya di Tekken, yang kalah panik padanya, menendang dan meninju mesin, dan melemparkan asbak ke arahnya, tapi dia berhasil menangkapnya, yang membuat pria itu semakin membencinya. Dan kemudian dia dipukuli. Aku tidak tahu nama aslinya karena semua orang memanggilnya Ash.”",
+      "emphasis": [
+        {
+          "start": 61,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#92",
+      "text": "“Oh, begitu…” Wow. Itu mungkin informasi paling tidak berguna yang pernah aku pelajari. Aku tidak bisa memikirkan satu contoh pun yang mengharuskan aku mengetahui Asal Usul Abu.",
+      "emphasis": [
+        {
+          "start": 14,
+          "end": 177,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#93",
+      "text": "“Lalu, apa itu Arcanabro?” Totsuka menanyakan pertanyaan yang ada di benakku."
+    },
+    {
+      "id": "v3-bab-2-chapter002-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#94",
+      "text": "Dan juga, Zaimokuza, jangan hanya berasumsi bahwa aku memahami kosakata khususmu. Aku tidak benar-benar ingin tahu segalanya tentang hal itu, jadi aku tidak akan bertanya pada diriku sendiri.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 81,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#95",
+      "text": "“Yah, itu benar artinya orang-orang yang menyukai permainan yang sama,” jawab Zaimokuza. “Kamu menggunakannya untuk judul game dan wilayah geografis. Misalnya, di antara Arcanabro, Chibabro khususnya adalah sampah. Kira-kira seperti itu.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#96",
+      "text": "Chibabros itu sampah? Tapi aku mencintaimu, Chibabros. Sebagian besar wilayah Chiba.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 84,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#97",
+      "text": "“Hmm, jadi, apa kalian berteman?” tanyaku."
+    },
+    {
+      "id": "v3-bab-2-chapter002-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#98",
+      "text": "“Tidak, kami adalah Arcanabros.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#99",
+      "text": "“Bukankah itu berarti kalian berteman…?” Berbicara dengan Zaimokuza sungguh menguras tenaga. Kami sama-sama orang Jepang, jadi kenapa dia sepertinya tidak mengerti kata-kata yang keluar dari mulutku? Dan Arcanabro berasal dari bahasa apa? Aku kira bagian bro berarti mereka seharusnya seperti keluarga? Yah, menurutku yang terpenting adalah istilah itu mengacu pada sekelompok orang.",
+      "emphasis": [
+        {
+          "start": 204,
+          "end": 213,
+          "style": "em"
+        },
+        {
+          "start": 255,
+          "end": 258,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#100",
+      "text": "Zaimokuza merenungkan pertanyaanku sebentar. “Hmm, aku tidak tahu. Saat kita bertemu, kita ngobrol, dan kita berkomunikasi lewat IM. Kita berkelana ke luar prefektur bersama-sama dalam perjalanan, tapi...Aku juga tidak tahu nama asli mereka atau apa yang mereka lakukan, karena kita tidak membahas apa pun selain game dan anime. H-hei, apakah aku dan Ash berteman?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#101",
+      "text": "“Itulah yang aku tanyakan padamu... Apakah mereka tidak pernah mengajarimu di sekolah untuk tidak menjawab sebuah pertanyaan dengan pertanyaan lain?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#102",
+      "text": "“Ngh, rasanya lebih tepat untuk mengatakan bahwa mereka bukan teman, melainkan rekan dalam game pertarungan. Itu adalah istilah yang lebih dapat diandalkan daripada teman, menurutku.”",
+      "emphasis": [
+        {
+          "start": 165,
+          "end": 170,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#103",
+      "text": "“'Kawan dalam game pertarungan,' ya…? masuk akal. Itu bagus.” Aku agak menyukai ekspresi itu. Ini menghilangkan semua ambiguitas kata teman. Seringkali segala sesuatunya lebih masuk akal jika Anda menggambarkannya dalam istilah fungsi daripada definisi. Misalnya, pernikahan akan lebih masuk akal jika Anda mengungkapkannya bukan dalam bentuk cinta dan romansa, melainkan sebagai hubungan yang saling menguntungkan, atau memiliki ATM atau melakukannya demi penampilan atau karena Anda menginginkan anak. Wow, ATM. Itu kasar, kawan.",
+      "emphasis": [
+        {
+          "start": 134,
+          "end": 139,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#104",
+      "text": "“Memang benar. Pada dasarnya, ini berarti kamu dan aku adalah pasangan kelas olahraga.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#105",
+      "text": "“Uh…begitu.” Aku tidak terlalu peduli dengan cara penyampaiannya yang sangat membosankan itu. Pada dasarnya, dia mengatakan bahwa di antara teman-teman SMA Soubu, teman-teman kelas olahraga khususnya adalah sampah. Tapi pernyataan itu menjelaskan bahwa Zaimokuza dan aku bukanlah teman, jadi itu bagus. Kalau kita adalah pasangan kelas olahraga, ya, itu dia."
+    },
+    {
+      "id": "v3-bab-2-chapter002-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#106",
+      "text": "“Kalau begitu, Hachiman,” kata Totsuka, “jika aku dipasangkan denganmu di kelas olahraga, maka aku juga akan menjadi pasangan kelas olahraga!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#107",
+      "text": "“Hah? Aku—aku mengerti…” Jadi aku tidak berteman dengan Totsuka… Aku kaget.",
+      "emphasis": [
+        {
+          "start": 65,
+          "end": 75,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#108",
+      "text": "Tapi tunggu sebentar di sini. Jika kita bukan teman, masih ada kemungkinan kita adalah sepasang kekasih. Besar! Tidak, tunggu, itu tidak bagus.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 143,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#109",
+      "text": "“Sungguh luar biasa Anda bisa mengenal lebih banyak orang melalui video game,” lanjut Totsuka."
+    },
+    {
+      "id": "v3-bab-2-chapter002-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#110",
+      "text": "“Hmm. Y-menurutmu?” Komentar Totsuka mengagetkan Zaimokuza."
+    },
+    {
+      "id": "v3-bab-2-chapter002-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#111",
+      "text": "“Ya, aku setuju, itu luar biasa,” kataku. “Saya pikir bermain game adalah hal yang lebih menyendiri.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#112",
+      "text": "“Tidak, tidak. Dengan permainan pertarungan, ada turnamen tim nasional yang kami sebut ‘Melee.’ Segalanya menjadi cukup intens. Suatu kali, sekelompok pejuang bertarung bersama demi rekan mereka yang sakit dan menang. Itu sangat menyentuh, membuat seluruh tempat menjadi gempar. Bahkan membuat saya menitikkan air mata.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#113",
+      "text": "“Itu hampir seperti Koshien,” komentarku. Huh… Meski mengejutkan, Zaimokuza punya komunitasnya sendiri.",
+      "emphasis": [
+        {
+          "start": 42,
+          "end": 103,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#114",
+      "text": "“Wow, luar biasa sekali…” Totsuka berseru dan bertepuk tangan."
+    },
+    {
+      "id": "v3-bab-2-chapter002-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#115",
+      "text": "Kemudian Zaimokuza benar-benar mulai terbawa suasana. Mengoceh terus-menerus tentang bidang keahlian Anda adalah kebiasaan buruk yang dimiliki oleh kita, para penyendiri. “Memang benar! Game adalah keajaiban yang luar biasa, dan bukan sekadar game pertarungan. Pertama, kawan-kawan bersatu untuk mewujudkannya, dan kemudian lebih banyak lagi yang menikmatinya, dan kemudian dari kelompok penggemar itulah lahir pencipta generasi berikutnya. Lingkaran permainan yang begitu indah, bukan? Saya berniat untuk menjadi salah satu pencipta itu suatu hari nanti.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#116",
+      "text": "“Hah?” kata Totsuka. “Apakah kamu akan membuat video game, Zaimokuza? Wow!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-117",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#117",
+      "text": "“Eh…ehum! Mwa-ha-ha-ha-ha-ha!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-118",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#118",
+      "text": "Uhh…hah? “Apa yang terjadi dengan impianmu untuk menjadi novel ringan writer?”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 8,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-119",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#119",
+      "text": "“Oh, itu. Aku menyerah,” katanya tanpa ragu."
+    },
+    {
+      "id": "v3-bab-2-chapter002-120",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#120",
+      "text": "“Kenapa tiba-tiba berubah pikiran?” tanyaku."
+    },
+    {
+      "id": "v3-bab-2-chapter002-121",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#121",
+      "text": "“Hmph, karena penulis novel ringan adalah seorang wiraswasta. Tidak ada jaminan kerja, dan kamu tidak tahu berapa tahun lagi kamu bisa terus bekerja. Dan yang paling penting, jika kamu tidak menulis, kamu tidak bisa mendapatkan uang. Ini sulit. Tapi bekerja di perusahaan game cukup untuk menerima gaji!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-122",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#122",
+      "text": "“Kamu menyedihkan sekali, aku benar-benar terkesan…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-123",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#123",
+      "text": "“Feh! Aku tidak ingin mendengarnya darimu, Hachiman!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-124",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#124",
+      "text": "Yah, tentu saja. Rencananya mirip dengan menjadi suami rumah tangga untuk melarikan diri dari pekerjaan. “Tapi kamu tidak punya keahlian membuat game.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-125",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#125",
+      "text": "“Hrrm. Itu sebabnya aku akan menulis naskahnya. Dengan begitu, aku bisa memanfaatkan ide dan bakat sastraku dengan baik. Aku akan punya penghasilan yang stabil dan menghasilkan apa yang kuinginkan, dengan uang perusahaan!”",
+      "emphasis": [
+        {
+          "start": 160,
+          "end": 163,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-126",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#126",
+      "text": "“A—begitu… Semoga berhasil…” Aku benar-benar tidak peduli lagi. Aku idiot karena menganggap serius impian masa depanku, bahkan untuk sesaat."
+    },
+    {
+      "id": "v3-bab-2-chapter002-127",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#127",
+      "text": "“Ngomong-ngomong, Hachiman, kamu datang untuk mengalihkan perhatianmu ke sini, kan? Ini adalah domainku, jadi aku akan menunjukkan kepadamu sesuka hatimu. Apa tidak ada yang ingin kamu mainkan?” Rupanya, Zaimokuza berpikir ini saat yang tepat untuk mengambil inisiatif, karena dia sangat bersemangat. Namun, tidak ada gunanya melakukan tur. Melihat sekilas ke sekeliling sudah cukup untuk melihat apa yang tersedia, jadi gerakan itu tidak diperlukan."
+    },
+    {
+      "id": "v3-bab-2-chapter002-128",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#128",
+      "text": "“Oh, saya ingin melakukan purikura.” Totsuka, yang sedang mengamati arcade sepertiku, menunjuk ke bilik foto kecil di paling belakang sebelah kiri. “Apakah kamu…ingin berfoto di sana, Hachiman?”",
+      "emphasis": [
+        {
+          "start": 26,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-129",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#129",
+      "text": "“Kenapa…? Maksudku, ada tanda yang mengatakan bahwa area tersebut hanya untuk perempuan dan pasangan.” Pojok photo booth adalah area yang dilarang untuk laki-laki. Hanya kelompok perempuan atau pasangan yang diperbolehkan masuk. Sungguh diskriminasi. Apartheid modern. PBB perlu memperbaiki sikap tergesa-gesa ini.",
+      "emphasis": [
+        {
+          "start": 229,
+          "end": 314,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-130",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#130",
+      "text": "Jadi, di sanalah kami, sekelompok tiga anak laki-laki. Kami sama sekali tidak memenuhi persyaratan apa pun."
+    },
+    {
+      "id": "v3-bab-2-chapter002-131",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#131",
+      "text": "“Y-ya, tapi…kita bisa menyelinap masuk. Atau…apa itu benar-benar buruk?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-132",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#132",
+      "text": "“Yah, tidak juga…” Jika dia bertanya padaku seperti itu, menolak mungkin lebih sulit daripada menyelundupkan diri kita sendiri."
+    },
+    {
+      "id": "v3-bab-2-chapter002-133",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#133",
+      "text": "“Mwa-ha-ha-ha-ha! Jangan khawatir, Hachiman. Sudah kubilang, ini wilayahku. Kamu harus melewatinya, jika kamu bersamaku.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-134",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#134",
+      "text": "“Apa? Kau bisa melakukan itu? Wah, hebat. Rupanya kau sudah berpengalaman, jadi semuanya kuserahkan kepadamu.” Tampaknya, kebiasaannya mendatangi arkade ini membuahkan hasil. Lumayan keren juga semua staf mengenalinya. Memang sesuai harapanku terhadap Zaimokuza yang hebat."
+    },
+    {
+      "id": "v3-bab-2-chapter002-135",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#135",
+      "text": "“Serahkan kepadaku dan ikuti aku,” ujar Zaimokuza. Dengan dia memimpin, kami menuju sudut purikura. Pembawaannya yang megah dan anggun penuh percaya diri, mengusir kegelisahan yang masih tersisa. Dia maju dengan wibawa yang pantas disebut agung. Memang sesuai harapanku terhadap Zaimokuza yang hebat.",
+      "emphasis": [
+        {
+          "start": 90,
+          "end": 98,
+          "style": "em"
+        },
+        {
+          "start": 239,
+          "end": 244,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-136",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#136",
+      "text": "Kami mendekati konter di depan booth foto."
+    },
+    {
+      "id": "v3-bab-2-chapter002-137",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#137",
+      "text": "“Hei, apa yang sedang kalian lakukan? Kalian tidak boleh bergabung dengan grup yang semuanya laki-laki!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-138",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#138",
+      "text": "“Ngrk! Anu, itu. M-maaf…” Sesuai perkiraan peluang sembilan banding satu, staf arkade yang anehnya santai itu menghalangi kami dengan tegas. Memang sesuai harapanku terhadap Zaimokuza yang hebat."
+    },
+    {
+      "id": "v3-bab-2-chapter002-139",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#139",
+      "text": "“Aku sudah mengetahuinya…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-140",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#140",
+      "text": "“…Ah-ha-ha, baiklah.” "
+    },
+    {
+      "id": "v3-bab-2-chapter002-141",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#141",
+      "text": "Hasil ini sudah bisa diduga, jadi, tanpa terlalu terkejut, Totsuka dan aku bertukar pandang."
+    },
+    {
+      "id": "v3-bab-2-chapter002-142",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#142",
+      "text": "Tetapi sesaat kemudian, keajaiban terjadi. “Maaf soal itu. Tidak apa-apa, lanjutkan saja.” Pria arcade itu dengan acuh tak acuh mendorong Zaimokuza menjauh dari stan dan membukakan jalan bagi kami. Zaimokuza sangat jinak seperti seekor kucing yang digendong oleh tengkuknya saat dia diseret."
+    },
+    {
+      "id": "v3-bab-2-chapter002-143",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#143",
+      "text": "“…Aku—aku bertanya-tanya kenapa?” Totsuka mengedipkan matanya yang besar dengan bingung, tapi alasan kami masuk tidak diragukan lagi adalah penampilannya."
+    },
+    {
+      "id": "v3-bab-2-chapter002-144",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#144",
+      "text": "“…Siapa yang tahu? Pokoknya, kita sudah ikut, jadi ayo pergi.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-145",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#145",
+      "text": "“Y-ya…” Meskipun Totsuka tidak terlihat begitu yakin, dia mengikutiku masuk."
+    },
+    {
+      "id": "v3-bab-2-chapter002-146",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#146",
+      "text": "Di dalam area photo booth terdapat berbagai macam mesin. Jujur saja, semuanya dipenuhi dengan kilauan, hati, dan kata-kata seperti keindahan, bunga, kupu-kupu, atau gaya dan memancarkan suasana seperti sesuatu yang keluar dari distrik lampu merah Tokyo. Tirai dan badan unit juga menampung foto, seperti gambar sampel atau semacamnya. Semua subjek tampak seperti model, dan semuanya memiliki wajah yang persis sama. Hal yang sangat menakutkan. Mengapa semua remaja ini memiliki struktur wajah yang sama? Aku tidak bisa membedakan mereka kecuali dari rambut atau pakaiannya. Apakah ini seperti sindrom wajah yang sama di kehidupan nyata atau bagaimana?",
+      "emphasis": [
+        {
+          "start": 131,
+          "end": 140,
+          "style": "em"
+        },
+        {
+          "start": 142,
+          "end": 147,
+          "style": "em"
+        },
+        {
+          "start": 149,
+          "end": 158,
+          "style": "em"
+        },
+        {
+          "start": 165,
+          "end": 169,
+          "style": "em"
+        },
+        {
+          "start": 444,
+          "end": 651,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-147",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#147",
+      "text": "“Whoa… Mereka semua terlihat seperti cangkul…” Gambar-gambar ini bahkan membuat Miura terlihat rendah hati dan sopan, apalagi Yuigahama. Aku rasa inilah yang mereka maksud dengan dunia yang tidak Anda kenal. Hal yang benar-benar menakutkan.",
+      "emphasis": [
+        {
+          "start": 179,
+          "end": 206,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-148",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#148",
+      "text": "“Hmm, mungkin yang ini? Apakah kamu baik-baik saja dengan yang ini, Hachiman?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-149",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#149",
+      "text": "“…Oh, tentu.” Tiba-tiba, semuanya tampak sempurna."
+    },
+    {
+      "id": "v3-bab-2-chapter002-150",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#150",
+      "text": "Kami memasuki stan, dan Totsuka mengalihkan perhatian penuhnya untuk membaca instruksi. “Um, oke. Pilih latar belakang... Ya, sepertinya ini akan berhasil,” katanya, dan dia menarik tanganku, mundur beberapa langkah."
+    },
+    {
+      "id": "v3-bab-2-chapter002-151",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#151",
+      "text": "“H-hah? Apa, ini mulai? Apa yang harus kita lakukan sekarang? Agh, aku tidak bisa melihat!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-152",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#152",
+      "text": "Tiba-tiba flashnya mati. Oh, jadi bukan hanya Tien Shinhan yang bisa menggunakan Solar Flare. Jadi Goku dan Purikura juga bisa menggunakannya?",
+      "emphasis": [
+        {
+          "start": 25,
+          "end": 142,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-153",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#153",
+      "text": "“Sekali lagi!” timpal suara elektronik tolol itu, dan retinaku terbakar beberapa kali lagi. Kami meminjam jurusmu, Tien Shinhan! ",
+      "emphasis": [
+        {
+          "start": 92,
+          "end": 128,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-154",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#154",
+      "text": "“Aaasudah selesai! Keluarlah dari booth dan hiasi fotomu!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-155",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#155",
+      "text": "“Dekorasi ya…?” kata Totsuka. “Aku ingin tahu apa yang harus kita gambar.” Kami membuka tirai bilik dan pergi ke tempat menggambar. Hitung mundur di layar menandai waktu yang tersisa untuk hiasan. “‘Konfirmasikan bahwa ini adalah fotomu’… Oke…” Totsuka membuka foto itu, dan foto itu muncul di layar. “A-wah! Apa itu hantu di foto?!” Saking terkejutnya dia hingga menarik lenganku."
+    },
+    {
+      "id": "v3-bab-2-chapter002-156",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#156",
+      "text": "Wah, k-kamu mengagetkanku disana. Menenangkan jantungku yang berdebar kencang, kuintip foto yang disebut-sebut sebagai foto hantu ini, dan memang ada bagian dari wajah penuh dendam seorang pria di dalam bingkai tersebut.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 33,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-157",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#157",
+      "text": "Tunggu, itu Zaimokuza."
+    },
+    {
+      "id": "v3-bab-2-chapter002-158",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#158",
+      "text": "Kami membuka tirai untuk mencarinya, dan di sanalah dia berjongkok di bawah."
+    },
+    {
+      "id": "v3-bab-2-chapter002-159",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#159",
+      "text": "“Oh, jadi itu kamu, Zaimokuza.” Totsuka menghela napas lega."
+    },
+    {
+      "id": "v3-bab-2-chapter002-160",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#160",
+      "text": "“Apa yang kamu lakukan…?” aku bertanya."
+    },
+    {
+      "id": "v3-bab-2-chapter002-161",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#161",
+      "text": "“Heh-hem. Saya menyusup ke tempat itu dengan tangan dan lutut saya agar saya tidak ketahuan. Dan Anda tampak begitu dekat dengan Guru Totsuka, saya pikir saya akan merusak foto Anda dengan melakukan photobomb pada foto tersebut! Bagaimana Anda menyukainya?! Saya telah mengubah foto kesayangan Anda menjadi tidak lebih dari sebuah kekecewaan!”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-162",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#162",
+      "text": "“Hei, bukankah mengatakan hal itu tentang dirimu membuatmu sedih?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-163",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#163",
+      "text": "“…Heh, aku sudah mengatasi tingkat kesedihan yang remeh itu saat penjualan foto dari karyawisata kelas. Para gadis menangis hanya karena aku ada di foto mereka.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-164",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#164",
+      "text": "Wah, dia punya ranjau emosional yang serius… “Oh. Um, baiklah. M-maaf, Zaimokuza.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 44,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-165",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#165",
+      "text": "“Oh, jangan khawatir,” kata Zaimokuza, tapi dia diam-diam menyeka air mata dari sudut matanya."
+    },
+    {
+      "id": "v3-bab-2-chapter002-166",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#166",
+      "text": "Tapi itu bukan salahnya. Salahkan siapa pun yang memutuskan untuk menjual foto tersebut. “Penjualan foto itu hanya menimbulkan kesengsaraan. Mereka seharusnya membatalkan seluruh sistem. Terkadang saat kamu diam-diam membeli foto seorang gadis yang kamu suka, semua orang mengetahuinya, dan kemudian mereka memperlakukanmu seperti orang mesum.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-167",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#167",
+      "text": "“...I-Itu menyeramkan bahkan bagiku,” komentar Zaimokuza."
+    },
+    {
+      "id": "v3-bab-2-chapter002-168",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#168",
+      "text": "“H-Hachiman…k-kita akan mengambil banyak foto bersama mulai sekarang, oke? Aku akan berusaha bersamamu semaksimal mungkin.” Totsuka dengan cepat menyerbu untuk membuatku merasa lebih baik."
+    },
+    {
+      "id": "v3-bab-2-chapter002-169",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#169",
+      "text": "A-apakah itu aneh…? Tapi menurutku itu adalah hal yang normal bagi seorang siswa sekolah menengah…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 98,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-170",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#170",
+      "text": "Sementara itu, pengatur waktu menggambar habis, dan foto-foto dicetak."
+    },
+    {
+      "id": "v3-bab-2-chapter002-171",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#171",
+      "text": "“Kami terlihat sangat pucat…” kata Totsuka."
+    },
+    {
+      "id": "v3-bab-2-chapter002-172",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#172",
+      "text": "“Filternya benar-benar mengesankan…,” jawabku."
+    },
+    {
+      "id": "v3-bab-2-chapter002-173",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#173",
+      "text": "“Memang benar. Tapi melihatmu bersinar seperti itu sungguh menakutkan,” komentar Zaimokuza. “Kamu berkilauan dengan sangat gagah, namun matamu saja yang tercemar dan kotor…”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-174",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#174",
+      "text": "Yah, foto itu sepertinya menjadi pelajaran tentang bagaimana cahaya yang berlebihan akan mengaburkan suatu subjek. Kilatan cahaya yang ekstrim membuat Zaimokuza yang melakukan photobomb menjadi pucat pasi. Totsuka khususnya tampak seperti gadis yang lebih cantik daripada yang diimpikan oleh wanita mana pun."
+    },
+    {
+      "id": "v3-bab-2-chapter002-175",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#175",
+      "text": "“Oke, ini dia. Ini milikmu, Hachiman.” Totsuka dengan cekatan memotong foto-foto itu dan menyerahkannya kepada kami. “Dan untukmu juga, Zaimokuza.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-176",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#176",
+      "text": "“F-fwaa? Aku—aku bisa minta ini?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-177",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#177",
+      "text": "“Hmm? Ya.” Senyuman di wajah Totsuka bersinar lebih terang daripada kilatan cahaya di photo booth."
+    },
+    {
+      "id": "v3-bab-2-chapter002-178",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#178",
+      "text": "Respon Zaimokuza sangat berkaca-kaca. “Er-hem. Ka-kalau begitu aku akan menerimanya.” Dia menerima foto-foto itu dengan sangat hati-hati, menatapnya dengan senang hati."
+    },
+    {
+      "id": "v3-bab-2-chapter002-179",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#179",
+      "text": "Aku juga melihat kertas kecil mengkilap di tanganku. Rupanya, Totsuka baru saja melakukan beberapa hiasan sebelum waktu pengundian habis, karena hanya tiga foto yang memiliki tulisan di dalamnya. Salah satu foto bertuliskan pasangan kelas olahraga dengan karakter Totsuka yang sedikit membulat. Sepertinya dia menyukai judul itu… ",
+      "emphasis": [
+        {
+          "start": 224,
+          "end": 247,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-180",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#180",
+      "text": "Ada lagi yang bertuliskan Sahabat!",
+      "emphasis": [
+        {
+          "start": 26,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-181",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#181",
+      "text": "“Hmph. Tapi deskripsi itu tidak cocok untuk Hachiman dan saya sendiri,” kata Zaimokuza."
+    },
+    {
+      "id": "v3-bab-2-chapter002-182",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#182",
+      "text": "“Tidak, tidak,” aku setuju."
+    },
+    {
+      "id": "v3-bab-2-chapter002-183",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#183",
+      "text": "“Benarkah?” Totsuka memiringkan kepalanya dengan bingung. “Sepertinya begitu.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-184",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#184",
+      "text": "“Sebenarnya, aku lebih tipe pria Pita,” kataku.",
+      "emphasis": [
+        {
+          "start": 33,
+          "end": 37,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-185",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#185",
+      "text": "“Memang benar. Kodocha sangat luar biasa,” jawab Zaimokuza.",
+      "emphasis": [
+        {
+          "start": 15,
+          "end": 22,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-186",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#186",
+      "text": "“Ya, akhir dari manganya benar-benar membuatmu mengerti.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-187",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#187",
+      "text": "“Apa? Animenya jelas lebih unggul.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-188",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#188",
+      "text": "Zaimokuza dan aku sama-sama mendecakkan lidah dan bertukar tatapan tajam."
+    },
+    {
+      "id": "v3-bab-2-chapter002-189",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#189",
+      "text": "“Apa yang baru saja kamu katakan?” tuntutku."
+    },
+    {
+      "id": "v3-bab-2-chapter002-190",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#190",
+      "text": "“Kau dengar aku.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-191",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#191",
+      "text": "Sementara kami sibuk dengan kontes tatap muka dan mempersiapkan perang yang akan segera terjadi, Totsuka terkikik. “Kalian memang benar-benar sahabat.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-192",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#192",
+      "text": "“Iya, tidak...”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-193",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#193",
+      "text": "“Ba-huh! Setuju.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-194",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#194",
+      "text": "“Yah, terserahlah. Totsuka punya senyum manis di wajahnya hadapi sekarang, jadi aku akan memaafkanmu. Dengar, aku akan membawakan manganya pada hari Senin, jadi sebaiknya kamu membacanya lalu menulis permintaan maaf kepadaku.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-195",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#195",
+      "text": "“Hmph. Kalau begitu aku akan membawakan DVD-nya juga, jadi persiapkan dirimu untuk menulis laporan tentang itu.” Zaimokuza berbalik sambil mendengus dan menyelipkan foto kecil di tangannya ke dalam dompetnya. “Ugh, kalau kamu tidak membuat keributan seperti itu, Hachiman, kita pasti punya waktu untuk menggambar di foto. Kita hanya perlu melakukan dua kali. Sebaiknya kamu memilih bola voli untuk gym bulan depan sebagai penebusan dosa-dosamu. Kalau tidak, aku akan berakhir sendirian.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-196",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#196",
+      "text": "“Uh, aku tidak ingin berlari, dan aku berencana untuk memilih lagian main bola voli. Tunggu…dua?” Benarkah? Saat aku hendak memeriksanya, aku merasakan ada yang menarik manset kemejaku.",
+      "emphasis": [
+        {
+          "start": 98,
+          "end": 107,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-197",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#197",
+      "text": "Aku melihat Totsuka berkata, “Ssst!” dengan jari ke bibirnya. Dia diam-diam membuka jari-jarinya untuk memperlihatkan foto terakhir dengan tulisan di atasnya. Tertulis Hachiman dan Saika. Agak memalukan. Sebenarnya, itu terlalu berat untuk aku tangani. Zaimokuza pasti iri dengan hal ini sekarang.",
+      "emphasis": [
+        {
+          "start": 168,
+          "end": 176,
+          "style": "em"
+        },
+        {
+          "start": 181,
+          "end": 186,
+          "style": "em"
+        },
+        {
+          "start": 253,
+          "end": 297,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002-198",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#198",
+      "text": "“Oh, ini sudah larut. Aku harus pergi,” kata Totsuka."
+    },
+    {
+      "id": "v3-bab-2-chapter002-199",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#199",
+      "text": "“Benar, pelajaranmu.” Oh ya. Dia datang ke sini untuk menghabiskan waktu sebelum pelajarannya. Aku merasa agak tidak enak, mengingat hal ini tidak memberikan banyak manfaat untuk menghiburnya."
+    },
+    {
+      "id": "v3-bab-2-chapter002-200",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#200",
+      "text": "“Kalau begitu aku akan keluar. Sepertinya kamu sudah merasa lebih baik.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-201",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#201",
+      "text": "“Hah?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-202",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#202",
+      "text": "“Karena akhir-akhir ini kamu sedang down. Aku ingin menghiburmu.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002-203",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002.xhtml#203",
+      "text": "“Totsuka...” Setelah dia menyebutkannya, sepertinya aku ingat Komachi mengatakan hal yang sama pagi ini. Adik perempuanku pada umumnya aneh, jadi aku tidak terlalu memperhatikannya, tapi Totsuka punya akal sehat, jadi jika dia mengatakan hal yang sama, itu akan menimbulkan kekhawatiran."
+    },
+    {
+      "id": "v3-bab-2-chapter002_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter002_a.xhtml#../Images/Art_P36.jpg",
+      "src": "assets/chapters/volume-3/bab-2/Art_P36.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Foto Hachiman dan Totsuka bertuliskan “Sahabat!”."
+    },
+    {
+      "id": "v3-bab-2-chapter002_a-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Tulisan pada foto",
+      "source": "OEBPS/Text/chapter002_a.xhtml#../Images/Art_P36.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-2-chapter002_a-0-companion-1",
+      "kind": "text",
+      "text": "“Sahabat!”",
+      "source": "OEBPS/Text/chapter002_a.xhtml#../Images/Art_P36.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#0",
+      "text": "“Aku tidak begitu tahu apa yang terjadi, tapi…Aku paling suka saat kamu menjadi dirimu yang normal, Hachiman.” Totsuka memeriksa jam di ponselnya dan berkata, “Sampai jumpa, nanti kita jalan-jalan lagi!” dan berlari pergi. Tepat sebelum dia menghilang dari pandangan, dia berbalik dan melambai padaku. Aku juga mengangkat tanganku tinggi-tinggi sebagai balasan."
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#1",
+      "text": "“Hmph. Master Totsuka sangat baik, meskipun bersikap baik padamu tidak ada gunanya.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#2",
+      "text": "“Hah? Apa itu tadi? Kamu masih di sana? Dan aku tidak ingin mendengarnya darimu.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#3",
+      "text": "“Ba-humph. Memang sesuai harapanku terhadap rekanku, Tuan Totsuka. Dia layak dikagumi.”"
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#4",
+      "text": "“...Apakah kamu pikir kamu dan Totsuka adalah teman?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#5",
+      "text": "“Hah? K-kita tidak…?”"
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#6",
+      "text": "“Saya tidak tahu. Jangan panik hanya karena saya menyarankannya.” Zaimokuza benar-benar banyak merusak karakternya akhir-akhir ini. Apakah dia baik-baik saja?",
+      "emphasis": [
+        {
+          "start": 66,
+          "end": 158,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#7",
+      "text": "“Oh, hei! Apa yang kamu lakukan? Kamu tidak boleh berada di sana, lho!” terdengar panggilan informal dan terdengar bodoh dari pria arcade itu."
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#8",
+      "text": "“Ngh, sayang sekali, aku harus mundur! Selamat tinggal! Senin dieu!”",
+      "emphasis": [
+        {
+          "start": 56,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#9",
+      "text": "“Menurutku itu tidak berarti apa yang kamu pikirkan…” "
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#10",
+      "text": "Setelah percakapan bodoh itu, Zaimokuza dan aku meninggalkan tempat kejadian. Dari sudut mataku, aku bisa melihat tongkat itu mengerumuni Zaimokuza."
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#11",
+      "text": "Totsuka benar. Merenung dan stres tidak seperti Hachiman Hikigaya. Gaya aku selalu menyerah pada apa pun yang cukup buruk hingga membuat aku stres. Jangan ragu. Bertingkahlah seolah tidak terjadi apa-apa. Mengubah sikap hanya ketika ada kejadian adalah tindakan yang tidak tulus dan salah."
+    },
+    {
+      "id": "v3-bab-2-chapter002_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter002_b.xhtml#12",
+      "text": "Sebelum naik sepeda, aku menyelipkan kertas glossy di tangan aku ke dalam dompet. Aku akan membeli bingkai atau sesuatu dan meletakkannya di suatu tempat."
+    },
+    {
+      "id": "v3-bab-2-chapter002_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg",
+      "src": "assets/chapters/volume-3/bab-2/Art_P38.webp",
+      "width": 1800,
+      "height": 1370,
+      "text": "Suatu hari, Hachiman dan Komachi — tentang Yukino Yukinoshita."
+    },
+    {
+      "id": "v3-bab-2-chapter002_c-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Suatu hari, Hachiman dan Komachi — tentang Yukino Yukinoshita",
+      "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-2-chapter002_c-0-companion-1",
+      "kind": "text",
+      "text": "Komachi berpikir: Baiklah, bagaimana kehidupan kakakku di sekolah? Ayo cari tahu!",
+      "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-2-chapter002_c-0-companion-2",
+      "kind": "text",
+      "text": "Komachi: “Kak, di sekolah senang?” Hachiman: “Hah? Mendadak sekali… Oh, s-senang sekali! A-aku tidak pernah dirundung!”",
+      "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-2-chapter002_c-0-companion-3",
+      "kind": "text",
+      "text": "Komachi: “Bukan seperti pertanyaan Mama, kok. Tenang saja, aku salah mengatakannya. Kan ada Yukino dan Yui, jadi kupikir klub Kakak kelihatannya seru. Kakak ngobrol apa dengan Yukino? Dia orangnya bagaimana? Kalian akur?” Hachiman: “A-aku tidak pernah dirundung!”",
+      "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-2-chapter002_c-0-companion-4",
+      "kind": "text",
+      "text": "Komachi: “Oh, oke, rasanya aku paham. Jadi, menurut Kakak, Yukino itu bagaimana?” Hachiman: “Hmm… ibarat PC berspesifikasi tinggi, desain dan kinerjanya hebat, tapi tanpa papan ketik atau tetikus. Seperti itu.”",
+      "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-2-chapter002_c-0-companion-5",
+      "kind": "text",
+      "text": "Komachi: “Anu… apa? Aku jarang memakai komputer, jadi…” Hachiman: “Terlalu rumit? Sederhananya, seperti Jalur Ekspres Keiyo yang cepat sampai Stasiun Tokyo, tetapi begitu sampai, jauh sekali dari peron lain.”",
+      "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v3-bab-2-chapter002_c-0-companion-6",
+      "kind": "text",
+      "text": "Komachi: “Oh, iya, iya. Jauh banget.” Hachiman: “Jalur Ekspres Sobu juga lumayan jauh. Harus menaiki banyak tangga, padahal bukan kereta bawah tanah.” Komachi: “Kereta Jalur Sobu biasa bahkan tidak ke Stasiun Tokyo… Tunggu, tadi kita membicarakan apa?”",
+      "source": "OEBPS/Text/chapter002_c.xhtml#../Images/Art_P38.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

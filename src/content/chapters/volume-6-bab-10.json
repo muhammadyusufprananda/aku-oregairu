@@ -1,0 +1,1240 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v6-bab-10-chapter010-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter010.xhtml#1",
+      "headingLevel": 2,
+      "text": "Akhirnya, dia dan dirinya menemukan jawaban yang benar.",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 25,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter010.xhtml#../Images/Art_P217.jpg",
+      "src": "assets/chapters/volume-6/bab-10/Art_P217.webp",
+      "width": 224,
+      "height": 408,
+      "text": "Kamakura versi chibi."
+    },
+    {
+      "id": "v6-bab-10-chapter010-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#3",
+      "text": "Upacara penutup berjalan tanpa masalah apa pun."
+    },
+    {
+      "id": "v6-bab-10-chapter010-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#4",
+      "text": "Tetapi pidato penutup Sagami berantakan. Dia menjadi bingung dan ceroboh dalam dialognya, tentu saja, melewatkan beberapa bagian, dan dia bahkan lupa mengumumkan penghargaan prestasinya juga. Setiap kali dia melakukan kesalahan, Yukinoshita ada di sana, dengan tenang memegang kartu petunjuk. Dan akhirnya, air mata mulai mengalir dari mata Sagami."
+    },
+    {
+      "id": "v6-bab-10-chapter010-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#5",
+      "text": "Semua orang pasti mengira dia menangis karena itu sangat berarti baginya. Orang-orang memanggilnya dengan berbagai macam komentar: “Kamu bisa melakukannya!” dan “Itu luar biasa!” dan “Terima kasih!”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#6",
+      "text": "Aku tidak percaya sedetik pun bahwa dia menangis karena tersentuh. Menurutku dia menangis karena ketidakberhargaannya atau karena frustrasi, seperti, Mengapa ini terjadi padaku? Tapi menurutku ketika dia menangis setelahnya, ketika dia selesai dengan komentar formal dan komentar umum, dia benar-benar tersentuh. Kata-kata baik yang diucapkan orang-orang kepadanya setelah dia mencapai titik terendah akan meninggalkan kesan yang paling dalam. Meskipun aku merasa hal ini agak disesalkan, karena akulah yang telah membuatnya merasa seperti sampah sejak awal.",
+      "emphasis": [
+        {
+          "start": 150,
+          "end": 177,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#7",
+      "text": "Saat Sagami berjalan keluar panggung menuju bagian sayap, riasannya luntur dan tergores, dia tampak kelelahan. Teman-temannya segera bergegas ke sisinya seolah dia adalah seorang pelari maraton yang telah mencapai tujuannya."
+    },
+    {
+      "id": "v6-bab-10-chapter010-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#8",
+      "text": "“Apakah kamu baik-baik saja?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#9",
+      "text": "“Segalanya akan baik-baik saja jika dia tidak mengatakan apa pun.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#10",
+      "text": "“Itu benar-benar membuatmu kacau ya?” Sepertinya berita tentang perbuatanku telah menyebar, dan seluruh komite kebudayaan menatap tajam ke arahku."
+    },
+    {
+      "id": "v6-bab-10-chapter010-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#11",
+      "text": "Kecerdasan itu pasti sudah menyebar ke teman-teman sekelasku juga, karena semua orang di 2-F melirik ke arahku saat mereka berbicara dengan nada berbisik. Itu cukup banyak jarum."
+    },
+    {
+      "id": "v6-bab-10-chapter010-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#12",
+      "text": "Ada sejumlah suara yang akrab di antara gumaman itu. “Ya benar? Hikitani benar-benar brengsek! Dia juga melakukan hal yang sama sebelumnya, selama liburan musim panas.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#13",
+      "text": "Sialan kau, Tobe…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 17,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#14",
+      "text": "“Yah…lidahnya tajam. Namun, dia tidak akan bersikap seperti itu jika kamu benar-benar berbicara dengannya.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#15",
+      "text": "“Kamu baik sekali, Hayato.” Itu adalah Miura."
+    },
+    {
+      "id": "v6-bab-10-chapter010-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#16",
+      "text": "“Hayato mendukung Hikitani… Musuh kemarin adalah homo hari inibfshhht!”",
+      "emphasis": [
+        {
+          "start": 62,
+          "end": 70,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#17",
+      "text": "“Hei, Ebina, sembunyikan ini, serius. Lihat, hidungmu berdarah. Ayo, tiup, tiup.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#18",
+      "text": "Yuigahama tertawa gugup sepanjang waktu, sementara Totsuka menatapku dengan tatapan khawatir. Aku tersenyum kembali untuk mengatakan ini bukan apa-apa bagiku dan melihat teman-teman sekelasku meninggalkan gym."
+    },
+    {
+      "id": "v6-bab-10-chapter010-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#19",
+      "text": "Bahkan setelah semua kelas selesai, masih ada tugas komite yang harus diselesaikan. Aku menyibukkan diri mengambil perlengkapan suara dan video dari area panggung dan belakang panggung. Panitia penuh berpartisipasi dalam pekerjaan terakhir hari itu. Bagi orang luar, sepertinya mereka benar-benar merasakan persatuan. Yah, rasanya agak aneh untuk mengatakan bahwa aku sendiri adalah “orang luar” sebagai anggota."
+    },
+    {
+      "id": "v6-bab-10-chapter010-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#20",
+      "text": "“Komite, perhatian!” teriak guru olahraga, Atsugi, setelah kami menyelesaikan sebagian besar pekerjaan. Dia semacam yang bertanggung jawab atas urusan festival budaya ini, jadi kami semua beringsut untuk berkumpul di depannya. “Oke, sepertinya masih ada lagi yang harus dibersihkan, tapi pertama-tama: kerja bagus, anak-anak. Ini adalah festival budaya yang cukup bagus, dan aku sudah melihat cukup banyak. Jangan terbawa suasana setelah pesta dan membuat masalah. Sampai jumpa, teman-teman.” Mengingat betapa otoriternya dia saat pertama kali berbicara di hadapan panitia, ucapannya cukup baik."
+    },
+    {
+      "id": "v6-bab-10-chapter010-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#21",
+      "text": "Ada sorakan, lalu ada tepuk tangan. Setiap orang berterima kasih kepada orang lain atas kesulitan mereka dan memuji satu sama lain atas upaya mereka, sehingga menciptakan badai emosi yang terpadu. Meguri menemukan Sagami di satu sisi dan memberinya dorongan ringan di punggung. “Lanjutkan, Ketua.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#22",
+      "text": "“Hah? Tapi...”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#23",
+      "text": "Rupanya, Sagami menyadari Meguri meminta pidato, dan dia ragu-ragu."
+    },
+    {
+      "id": "v6-bab-10-chapter010-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#24",
+      "text": "Di awal semuanya, dia adalah manajer yang buruk; di tahap tengah, dia membingungkan semua orang; pada akhirnya, dia bahkan meninggalkan seluruh panitia; dan setelah semuanya selesai, dia menjadi berantakan. Tidak mengherankan jika dia menjadi ragu-ragu sekarang."
+    },
+    {
+      "id": "v6-bab-10-chapter010-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#25",
+      "text": "“Kaulah kursinya,” Yukinoshita berkata dengan dingin, menyatakan fakta yang sudah jelas. Jika kegagalan dan penyesalan atas kursi tersebut adalah milik Sagami, maka penghargaan dan pujian juga merupakan milik Sagami."
+    },
+    {
+      "id": "v6-bab-10-chapter010-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#26",
+      "text": "“…Ya.” Sagami memberikan anggukan kecil dan termenung. “Um, aku minta maaf karena menyebabkan begitu banyak masalah...tapi aku senang semuanya berakhir dengan baik... Terima kasih banyak. Kerja bagus, semuanya.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#27",
+      "text": "“Terima kasih!” Ada satu formalitas terakhir, dan kemudian kami dibubarkan. Anak perempuan berpelukan, sedangkan anak laki-laki saling tos. Sagami menoleh ke arah Yukinoshita dan menundukkan kepalanya dengan busur kecil."
+    },
+    {
+      "id": "v6-bab-10-chapter010-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#28",
+      "text": "Akhirnya selesai…"
+    },
+    {
+      "id": "v6-bab-10-chapter010-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#29",
+      "text": "Meninggalkan lingkaran komite kebudayaan, aku menghela napas panjang."
+    },
+    {
+      "id": "v6-bab-10-chapter010-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#30",
+      "text": "Saat semua orang sedang mengobrol, aku kembali ke ruang kelas. Mereka juga membicarakan tentang pesta setelahnya malam itu. Kemungkinan besar aku tidak akan diundang. Seseorang bisa saja mengundangku karena kebaikan atau formalitas, atau karena benci meninggalkan seseorang, tapi meskipun aku pergi, aku tidak punya pilihan selain makan."
+    },
+    {
+      "id": "v6-bab-10-chapter010-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#31",
+      "text": "Gelombang kelelahan memperlambat langkahku. Semua orang melewatiku."
+    },
+    {
+      "id": "v6-bab-10-chapter010-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#32",
+      "text": "Termasuk Sagami dan teman-temannya, dan untuk sesaat, percakapan mereka terhenti. Mata mereka agak tertuju ke depan karena mereka menghindari melihat ke arahku sama sekali."
+    },
+    {
+      "id": "v6-bab-10-chapter010-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#33",
+      "text": "Kamu belum berusaha cukup keras di sini, Sagami. Jika kamu benar-benar ingin mengabaikan seseorang, kamu melakukannya tanpa menyadarinya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 137,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#34",
+      "text": "Aku menemukan Meguri di tengah arus manusia, dan dia juga memperhatikanku. Dia berjalan ke arahku. “...Sudah berakhir, ya?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#35",
+      "text": "“Ya.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#36",
+      "text": "Ekspresinya gelap, dia berkomentar, “Kamu benar-benar tidak bijaksana dan jahat.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#37",
+      "text": "Dia pasti sudah mendengar tentang apa yang terjadi Sagami, atau dari teman-temannya. Yah, meskipun dia tidak melakukannya, kesannya terhadapku tidaklah baik. Aku tidak bisa membantah apa yang dia katakan. Yang bisa aku lakukan hanyalah meminta maaf. “Maaf…”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#38",
+      "text": "“…Tapi aku bersenang-senang. Aku senang festival budaya terakhirku bagus. Terima kasih,” katanya, lalu dengan senyum ramahnya, dia melambaikan tangan dan pergi."
+    },
+    {
+      "id": "v6-bab-10-chapter010-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#39",
+      "text": "Ini adalah festival budaya terakhir Meguri. Aku pikir sebagai ketua OSIS, ada beberapa hal yang dia tidak bisa menyerah. Mungkin bukan itu alasannya, tapi dia pasti senang setidaknya tidak ada masalah eksternal yang besar. Aku merasa sedikit lega."
+    },
+    {
+      "id": "v6-bab-10-chapter010-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#40",
+      "text": "“Apakah kamu baik-baik saja dengan ini?” Pertanyaan itu datang dari belakangku."
+    },
+    {
+      "id": "v6-bab-10-chapter010-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#41",
+      "text": "Aku membalas jawaban yang sudah jelas. “Ya. Ini baik-baik saja.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#42",
+      "text": "“Saya mengerti.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#43",
+      "text": "Kesalahpahaman tidak akan pernah bisa diselesaikan. Tapi Anda bisa mengajukan pertanyaan baru. Jika Anda bertanya lagi, jawaban yang Anda dapatkan mungkin tidak benar, tapi itulah jawaban yang aku suka. Jadi ini baik-baik saja."
+    },
+    {
+      "id": "v6-bab-10-chapter010-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#44",
+      "text": "Aku sedikit memperlambat langkahku."
+    },
+    {
+      "id": "v6-bab-10-chapter010-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#45",
+      "text": "Gym hampir seluruhnya kosong ketika langkah kaki yang mantap mendekat, dan Yukino Yukinoshita berjalan ke sisiku. “…Kamu benar-benar akan menyelamatkan siapa pun, bukan?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#46",
+      "text": "“Apa?” aku bertanya balik. Aku tidak mengerti maksudnya."
+    },
+    {
+      "id": "v6-bab-10-chapter010-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#47",
+      "text": "“Biasanya, Sagami tidak akan lolos begitu saja jika mengabaikan tanggung jawabnya dan melarikan diri seperti itu. Tapi begitu dia kembali, dia adalah korban dari ucapan kejammu. Dia mendapat kesaksian tidak hanya dari orang-orangnya sendiri, tapi juga dari Hayama. Tak terbantahkan.”",
+      "emphasis": [
+        {
+          "start": 139,
+          "end": 142,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#48",
+      "text": "“Anda terlalu banyak membaca tentang hal ini. Menurut saya, hal tersebut tidak akan terjadi terlalu jauh.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#49",
+      "text": "“Oh? Tapi pada akhirnya ke sanalah yang terjadi. Jadi menurut saya Anda menyelamatkannya.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#50",
+      "text": "Tidak. Apa yang aku lakukan tidak seharusnya diakui seperti itu. Tindakan aku tidak boleh disetujui atau dikagumi. Mereka harus dikecam dan dikecam.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 148,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#51",
+      "text": "Saat kami mencapai pintu keluar gym, aku akhirnya memberikan jawaban yang tampaknya pantas. “Yah, meski kamu benar, semua itu tidak akan berhasil jika Hayama tidak ada di sana. Jadi kamu tidak bisa mengatakan itu karena aku.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#52",
+      "text": "Yukinoshita terdiam, sedikit mengernyit."
+    },
+    {
+      "id": "v6-bab-10-chapter010-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#53",
+      "text": "“Ohhh, rendah hati sekali, seperti biasa!” Suaranya agak mirip dengan suara Yukinoshita, tapi saat aku menoleh ke arahnya, dia menggelengkan kepalanya seolah menyangkal bahwa dia telah mengatakan sesuatu. Lalu tiba-tiba, aku menyadarinya."
+    },
+    {
+      "id": "v6-bab-10-chapter010-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#54",
+      "text": "“…Haruno, kamu masih di sini?” kata Yukinoshita. “Kenapa kamu tidak pergi sekarang saja?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#55",
+      "text": "Haruno Yukinoshita dan Bu Hiratsuka melangkah keluar dari samping pintu gym. Bu Hiratsuka berdiri dengan sebatang rokok di satu tangannya, sementara Haruno sudah berganti pakaian dan bersiap untuk pergi. Sepertinya mereka berdua sedang nongkrong disana, ngobrol."
+    },
+    {
+      "id": "v6-bab-10-chapter010-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#56",
+      "text": "Haruno memukul bahuku beberapa kali. “Oh, kamu benar-benar hebat, Hikigaya. Semua orang sudah memberitahuku tentang hal itu. Aku suka caramu memainkan tumit seperti itu. Kamu mungkin akan terbuang sia-sia pada Yukino-chan.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#57",
+      "text": "“Yang terbuang adalah waktuku, dalam percakapan ini. Pergilah,” bentak Yukinoshita dengan angkuh.",
+      "emphasis": [
+        {
+          "start": 22,
+          "end": 29,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#58",
+      "text": "Haruno berpura-pura terluka parah. “Dingin sekali, Yukino-chan! Bukankah kita bermain dalam sebuah band bersama? Kita adalah saudara yang sangat dekat!”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#59",
+      "text": "Itu jelas membuat Yukinoshita kesal, dan alisnya bergerak ke atas. “Aku terkesan kamu bisa mengatakan itu setelah kamu mempercepat seperti yang kamu lakukan. Kamu tahu, aku terpaksa mengikuti tempo kamu.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#60",
+      "text": "“Apa masalahnya? Itu membuat kita semua bersemangat! Benar, Hikigaya?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#61",
+      "text": "“Ya, semua orang memang terlihat cantik,” aku kata."
+    },
+    {
+      "id": "v6-bab-10-chapter010-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#62",
+      "text": "Yukinoshita mengedipkan matanya dua, tiga kali. “…Kamu sedang menonton?” Tampaknya, dia mengira aku tidak berada di sana. Memang benar aku akan kembali mendekati akhir, jadi dia pasti tidak mengetahuinya. Lagipula dia tidak akan bisa mengetahuinya dari panggung."
+    },
+    {
+      "id": "v6-bab-10-chapter010-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#63",
+      "text": "“Baru di bagian akhir. Ya…kau tahu. Menurutku itu cukup bagus. Aku terkesan.” Aku yakin aku seharusnya memujinya untuk ribuan hal lainnya, tetapi aku tidak dapat menemukan kata-kata yang tepat. Yang keluar hanyalah ulasan yang terputus-putus dan canggung."
+    },
+    {
+      "id": "v6-bab-10-chapter010-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#64",
+      "text": "Saat aku melontarkan komentarku yang tidak jelas dan tidak berarti, Yukinoshita memalingkan wajahnya. “I-itu… Itu… Itu jauh dari sempurna, mengingat aku membuat lebih dari satu atau dua kesalahan, dan bagian terburuknya adalah kami sama sekali tidak bersama-sama—penonton sangat bersemangat karenanya, tapi itu mungkin tidak bisa didengarkan dalam keadaan yang lebih tenang, dan alasan dari semua ini adalah kurangnya latihan kami, yang memainkan peran utama, tapi masalahnya berakar pada kurangnya kohesi band secara umum, dan bahkan mengatakan itu, aku seharusnya membawakan melodinya, tapi aku akhirnya menahan lagu itu sebagai secara keseluruhan, dan sebagai hasilnya…”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#65",
+      "text": "“Ohhh, ada yang pemalu! Kamu manis sekali, Yukino-chan!” Haruno menggodanya."
+    },
+    {
+      "id": "v6-bab-10-chapter010-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#66",
+      "text": "Yukinoshita berdeham, lalu menatap tajam ke arah adiknya. “…Mengapa kamu tidak pergi sekarang, Haruno?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#67",
+      "text": "“Ya, ya, aku berangkat! Sampai nanti. Menyenangkan sekali. Aku yakin ibu kita akan terkejut mendengarnya…bukankah begitu?” Haruno tersenyum seolah sedang menguji adik perempuannya, dan ekspresi Yukinoshita menjadi kaku. Haruno mengamatinya, lalu berbalik dan berjalan pergi. Aku tidak tahu apa yang dipikirkan Yukinoshita tentang ucapan perpisahan Haruno. Keadaan mereka masih menjadi misteri bagiku."
+    },
+    {
+      "id": "v6-bab-10-chapter010-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#68",
+      "text": "Setelah Haruno berada agak jauh, Bu Hiratsuka menyingsingkan lengan bajunya untuk memeriksa arlojinya. “...Ini sudah waktunya untuk kelas wali kelas terakhir. Kamu juga kembali ke kamar.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#69",
+      "text": "“Baiklah. Sampai jumpa.” Yukinoshita terdiam, mengucapkan selamat tinggal pada Bu Hiratsuka, lalu mulai berjalan pergi."
+    },
+    {
+      "id": "v6-bab-10-chapter010-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#70",
+      "text": "Aku mengikutinya. “Kalau begitu aku akan pergi juga.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#71",
+      "text": "“Hikigaya…” Bu Hiratsuka memanggil untuk menghentikanku. Suaranya berat."
+    },
+    {
+      "id": "v6-bab-10-chapter010-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#72",
+      "text": "Saat aku berbalik, aku melihat dia memberiku senyuman khawatir. “Aku penasaran apa yang harus kukatakan. Ada usulan sloganmu dan kemudian insiden dengan Sagami... Pada akhirnya, menurutku kamu memainkan peran besar dalam hal ini. Tindakanmulah yang membuat komite kebudayaan berfungsi dan menjadikanmu kambing hitam Sagami.” Dia memotong di sana. Dia pasti sedang berhenti sejenak untuk bersiap—bukan karena dia belum siap mengatakannya, tapi karena aku mungkin belum siap. “Tapi aku tidak bisa memaksa diriku untuk memujimu dengan jujur.” Tiba-tiba, tangannya meraih pipiku. Dia menyentuhku dengan lembut, tidak membiarkanku memalingkan muka."
+    },
+    {
+      "id": "v6-bab-10-chapter010-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#73",
+      "text": "“Hikigaya, membantu orang lain bukanlah alasan untuk menyakiti dirimu sendiri.” Jari-jarinya yang lembut sangat kontras dengan aroma samar rokoknya. Matanya yang basah seolah menembus jiwaku."
+    },
+    {
+      "id": "v6-bab-10-chapter010-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#74",
+      "text": "“Eh, tapi itu tidak cukup untuk menyakitiku…”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#75",
+      "text": "“Meskipun Anda sudah terbiasa…Anda perlu menyadari sekarang bahwa sebagian dari kami merasa sedih melihat Anda terluka.” Dia menepuk pundakku. “Itu saja untuk kuliahku. Ayo.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#76",
+      "text": "“Uh-huh…” Balasanku adalah perpisahan yang bahkan tidak terhitung sebagai kata-kata. Lalu aku menuju ruang kelas."
+    },
+    {
+      "id": "v6-bab-10-chapter010-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#77",
+      "text": "Tetapi bahkan setelah berbelok ke lorong, aku merasa seolah-olah matanya yang baik hati masih mengawasiku pergi."
+    },
+    {
+      "id": "v6-bab-10-chapter010-78",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter010.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v6-bab-10-chapter010-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#79",
+      "text": "Antusiasme terhadap festival budaya masih belum mereda di dalam kelas. Itu dipenuhi dengan obrolan dan aktivitas. Wali kelas di penghujung hari hanyalah formalitas, jadi setelah ketua kelas selesai menyampaikan pidato penutupnya, seluruh kelas hanya membicarakan tentang pesta setelahnya."
+    },
+    {
+      "id": "v6-bab-10-chapter010-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#80",
+      "text": "Itu berarti itu tidak ada hubungannya dengan aku. Aku bahkan merasakan implikasi tanpa kata-kata bahwa aku tidak dapat datang, meskipun aku menginginkannya. Jika seseorang mengundangku karena simpati, menolak akan membuatku merasa tidak enak, jadi aku segera mengemasi barang-barangku dan meninggalkan ruang kelas."
+    },
+    {
+      "id": "v6-bab-10-chapter010-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#81",
+      "text": "Tiba-tiba, aku bertanya-tanya pesta apa yang akan diikuti Sagami, pesta panitia atau pesta kelas. Tidak ada gunanya khawatir."
+    },
+    {
+      "id": "v6-bab-10-chapter010-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#82",
+      "text": "Reruntuhan persahabatan dan gairah masing-masing kelas berserakan di lorong."
+    },
+    {
+      "id": "v6-bab-10-chapter010-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010.xhtml#83",
+      "text": "Keesokan harinya adalah hari Minggu, hari libur. Senin adalah hari libur menggantikan hari Sabtu yang kami habiskan di sekolah. Pada hari Selasa, semua kelas akan menggunakan seluruh paruh pertama hari itu untuk membersihkan semuanya. Semuanya mungkin akan tertinggal di sini sampai saat itu tiba, menjadi monumen kenangan kita. Kemudian, setelah semuanya beres, mereka segera berangkat kerja lagi untuk mempersiapkan acara sekolah menengah yang baru. Aku juga terikat untuk membantu pembersihan. Sampai saat ini, alasanku untuk menjadi anggota Panitia Festival Budaya tidak sah."
+    },
+    {
+      "id": "v6-bab-10-chapter010_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter010_a.xhtml#../Images/Art_P224.jpg",
+      "src": "assets/chapters/volume-6/bab-10/Art_P224.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yui dan Yukino berdiri berdampingan."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#0",
+      "text": "…Yah, meskipun demikian, aku masih memiliki beberapa pekerjaan lain yang harus diselesaikan."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#1",
+      "text": "Aku menyesuaikan tasku di bahuku. Di dalamnya ada beberapa laporan dan memo yang harus diselesaikan oleh bagian aku. Kru Catatan dan Lain-lain yang lain telah mempercayakan kertas-kertas ini kepadaku, dan menggabungkan semua catatan ini ke dalam laporan akhir adalah pekerjaan terakhirku. Sebelum aku clickity-clickmemasukkan semuanya ke komputer, aku harus menyaring semua informasi dan mencoret-coret ringkasan isinya.",
+      "emphasis": [
+        {
+          "start": 301,
+          "end": 315,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#2",
+      "text": "Aku tahu aku akan tertidur jika melakukan ini di rumah, dan itu hari Sabtu, jadi semua restoran keluarga akan ramai. Mungkin ada anak-anak lain di sana yang menghabiskan waktu hingga pesta usai juga. Aku ingin menghindari mengerjakan hal ini di sana."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#3",
+      "text": "Kakiku otomatis membawaku ke tempat yang tenang agar aku bisa berkonsentrasi. Saat aku berjalan menyusuri lorong kosong di gedung khusus, aku merasakan hawa dingin di udara. Kami semakin memasuki musim gugur. Sudah enam bulan sejak aku mulai berjalan melewati aula ini karena klub."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#4",
+      "text": "Aku tiba di ruang Klub Layanan dan meletakkan tanganku di pintu. Tiba-tiba, aku menyadari bahwa aku tidak memiliki kuncinya. Biasanya, aku bukan orang pertama yang tiba, jadi aku tidak pernah mengkhawatirkan hal itu sebelumnya. Namun hari itu, tidak ada jaminan bahwa akan ada orang lain di sana."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#5",
+      "text": "Aku pikir aku akan menyerah dan pulang, dan aku hendak menarik tangan aku dari pintu—namun pegangannya terasa longgar."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#6",
+      "text": "Dengan tegas, aku membuka pintu."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#7",
+      "text": "Ruangannya biasa saja, tidak ada yang aneh."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#8",
+      "text": "Yang membuatnya terasa sangat berbeda adalah kehadiran gadis di dalamnya. Dia diam-diam menjalankan penanya sepanjang halaman di bawah sinar matahari. Pemandangannya begitu indah, aku bahkan mulai berfantasi bahwa setelah dunia berakhir dia pasti akan tetap berada di sana, melakukan hal yang sama selamanya."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#9",
+      "text": "Saat aku melihatnya, aku berhenti, jiwa dan raga."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#10",
+      "text": "—Terlepas dari diri aku sendiri, aku terpesona."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#11",
+      "text": "Yukinoshita menyadari aku hanya berdiri di sana, dan dia dengan lembut meletakkan penanya di atas meja. “Wah. Selamat datang, Tuan Paria Sekolah.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#12",
+      "text": "“Apakah Anda mencoba memulai perkelahian?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#13",
+      "text": "“Bagaimana dengan pesta setelahnya? Anda tidak akan hadir?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#14",
+      "text": "“Jangan tanya aku seperti itu kalau kamu sudah tahu jawabannya,” balasku."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#15",
+      "text": "Yukinoshita tersenyum ramah. Dia pasti akan mengatakan sesuatu yang menyebalkan lagi, dengan senyum menawan di wajahnya. “Jadi? Pendapatmu untuk membuat semua orang benar-benar membencimu?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#16",
+      "text": "“Heh. Senang rasanya jika ada orang yang mengakui keberadaanmu,” kataku."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#17",
+      "text": "Yukinoshita meletakkan tangannya di pelipisnya untuk meredakan sakit kepala yang terlihat dan menghela napas. “Aku tidak tahu apakah harus terkejut atau jengkel. Kamu benar-benar aneh...walaupun aku tidak terlalu keberatan bagaimana kamu mengakui kelemahanmu sendiri.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#18",
+      "text": "“Ya, aku juga tidak. Faktanya, aku menyukai hal itu pada diriku sendiri.” Hore, aku yang terbaik. Aku sangat keren karena berusaha melakukan pekerjaan aku dengan baik, bahkan ketika orang-orang mengecam aku. Jika aku tidak menyemangati diri sendiri, aku pikir semangat aku akan patah.",
+      "emphasis": [
+        {
+          "start": 74,
+          "end": 207,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#19",
+      "text": "Aku mengeluarkan semua memo dari tas dan mulai memilahnya. Aku hampir lupa kenapa aku datang. Ngomong-ngomong, kenapa Yukinoshita ada di sini? “Jadi, apa yang kamu lakukan di sini?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#20",
+      "text": "“Aku harus mengisi formulir jalur karierku. Aku sangat sibuk mempersiapkan festival budaya, aku tidak punya waktu. Akhirnya keadaan menjadi cukup tenang sehingga aku bisa mengisinya,” jawab Yukinoshita, dan dia mengambil penanya. Tapi tangannya tetap diam. Mulutnya malah bergerak. “Untuk apa kamu datang ke sini?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#21",
+      "text": "“Untuk membuat laporan. Aku ingin tempat yang tenang agar aku bisa berkonsentrasi,” jawabku sambil mencoret-coret dengan penaku."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#22",
+      "text": "Yukinoshita menatap tanganku. “Begitu… Kami juga berpikir dengan cara yang sama.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#23",
+      "text": "“Para penyendiri memilih dari serangkaian pilihan yang sempit. Itu hanya hasil dari evolusi konvergen. Bukan berarti kami mirip sama sekali.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#24",
+      "text": "Yukinoshita dan aku kemungkinan besar baru saja sampai pada hal ini. ruangan untuk mencari tempat yang tenang. Tak satu pun dari kami memiliki perilaku yang beragam, jadi hal semacam ini hanya terjadi karena rentang habitat kami tumpang tindih. Kenyataannya, jika dia tinggal di kota sebelah, kami hampir tidak akan pernah bertemu satu sama lain. Kami bertemu seperti ini hanya karena kami bersekolah di sekolah yang sama."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#25",
+      "text": "Aku akan mengatakannya seperti ini: Meskipun kami berdua sendirian, Yukinoshita dan aku adalah makhluk yang benar-benar berbeda."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#26",
+      "text": "Benar.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#27",
+      "text": "Kami sama sekali tidak mirip.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 29,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#28",
+      "text": "Aku rasa itulah sebabnya percakapan kami selalu terasa menyegarkan dan nyaman.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 78,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#29",
+      "text": "Aku merasakannya panasnya festival membara di dalam diriku. Aku telah menanyakan pertanyaan itu lagi dan mendapatkan jawaban baru. Sekarang sudah menjadi kesimpulan yang tepat."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#30",
+      "text": "—Kalau begitu…"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#31",
+      "text": "—Dia dan aku…"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#32",
+      "text": "“Hei, Yukinoshita. Aku dan—”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#33",
+      "text": "“Maaf; itu tidak mungkin.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#34",
+      "text": "“Agh! Aku bahkan belum selesai mengatakannya!”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#35",
+      "text": "Setelah menolakku dengan sangat tegas, Yukinoshita pun terkikik geli. “Bukankah aku sudah mengatakannya sebelumnya? Kamu dan aku tidak akan pernah menjadi teman.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#36",
+      "text": "“Benarkah?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#37",
+      "text": "“Benar. Aku tidak pernah berbohong.” Meskipun lidahnya mungkin terpeleset, dan dia mungkin berbicara tanpa berpikir."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#38",
+      "text": "Tetapi aku tidak bisa membiarkan komentarnya meluncur begitu saja. Aku telah memutuskan bahwa aku tidak akan memaksakan cita-citaku pada orang lain. Kupikir sudah waktunya aku dan Yukinoshita terbebas dari mantra itu."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#39",
+      "text": "“Yah, kamu boleh berbohong kalau kamu mau. Aku juga sering berbohong.” Faktanya, aku berbohong, berbohong, dan berbohong tanpa henti. Itu aku. “Bukan masalah besar untuk mengatakan Anda tidak tahu tentang sesuatu padahal sebenarnya Anda tahu. Yang aneh adalah memaksakan hal itu keluar dari diri Anda.” Itu saja mungkin sudah cukup untuk membuatnya mengerti—apa, dan kapan, yang aku bicarakan."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#40",
+      "text": "Pagi hari upacara penerimaan."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#41",
+      "text": "Pada hari pertama sekolah menengah, aku mengalami kecelakaan lalu lintas. Aku menjadi sangat bersemangat untuk upacara masuk dan kehidupan baruku sehingga aku meninggalkan rumah satu jam lebih awal, dan di situlah keberuntunganku habis."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#42",
+      "text": "Pasti sekitar jam tujuh pagi. Yuigahama sedang berjalan-jalan dengan anjingnya di dekat sekolah, dan dia melepaskan tali pengikatnya. Kemudian, tepat pada saat yang paling buruk, sebuah limusin datang bersama Yukinoshita di dalamnya."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#43",
+      "text": "Begitulah kecelakaan itu terjadi. Dan kecelakaan itu adalah bagaimana Yukino Yukinoshita bertemu Hachiman Hikigaya."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#44",
+      "text": "Tetapi bahkan setelah itu, Yukinoshita mengaku tidak mengenalku. Dia tidak pernah mengungkit kecelakaan itu—Yukinoshita, seseorang yang dikenal sering mengatakan lebih dari yang seharusnya dengan cara yang tegas dan kasar."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#45",
+      "text": "Keheningan yang sangat lama pun terjadi."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#46",
+      "text": "Senja mulai mendekat di ruang klub, dan kepala Yukinoshita pun terpaku. masih miring ke bawah. Dia tidak bergerak. Hanya suaranya yang terdengar ke arahku. “…Aku tidak berbohong.Aku tidak mengenalmu.” Tampaknya ini seperti pengulangan percakapan yang pernah kami lakukan sebelumnya."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#47",
+      "text": "Tetapi yang terjadi selanjutnya berbeda."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#48",
+      "text": "Dia mengangkat kepalanya. Dia menatap lurus ke mataku dan tersenyum. “Tetapi…sekarang aku mengerti.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#49",
+      "text": "Dari ungkapan itu, akhirnya aku mengerti. “Benarkah?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#50",
+      "text": "“Benar,” katanya penuh kemenangan."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#51",
+      "text": "Tidak ada gunanya. Aku tidak bisa mengalahkannya. Jika dia akan menjadi sangat manis saat mengatakan itu padaku, aku tidak bisa membantahnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 141,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#52",
+      "text": "Tiba-tiba, kata-kata rubah terlintas di benakku: Kata-kata adalah sumber kesalahpahaman.",
+      "emphasis": [
+        {
+          "start": 49,
+          "end": 88,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#53",
+      "text": "Tepat sekali benar."
+    },
+    {
+      "id": "v6-bab-10-chapter010_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_b.xhtml#54",
+      "text": "Kesalahpahaman tidak dapat diurungkan. Tidak ada kemunduran dalam hidup, dan ketika Anda salah menjawab, Anda terjebak dengan konsekuensinya. Itulah sebabnya kamu terus-terusan bertanya berulang-ulang—agar kamu bisa menemukan jawaban yang lebih baru dan benar."
+    },
+    {
+      "id": "v6-bab-10-chapter010_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter010_c.xhtml#../Images/Art_P229.jpg",
+      "src": "assets/chapters/volume-6/bab-10/Art_P229.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yukino duduk sambil memandang ke depan."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#0",
+      "text": "Yukinoshita dan aku belum saling kenal."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#1",
+      "text": "Apa yang diperlukan untuk bisa mengatakan kamu “mengenal” seseorang? Aku tidak memahaminya—walaupun jika aku melihat kami berdua saja, aku sudah paham. Yang penting tidak terlihat oleh mata—karena tanpa disadari, matamu telah bergeser."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#2",
+      "text": "Aku—"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#3",
+      "text": "Kami—"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#4",
+      "text": "Kami akhirnya saling mengenal, setelah sekian lama perjalanan hampir enam bulan. Potret karakter kita hanyalah nama dan penggalan kesan, yang disatukan menjadi mosaik persepsi yang salah. Aku yakin kesan kami tidak mencerminkan kebenaran. Tapi…"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#5",
+      "text": "Yah, untuk saat ini, itu baik-baik saja."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#6",
+      "text": "Liburan panjang dan festival pendek telah berakhir, dan akhirnya, hal-hal biasa yang sepele dan tanpa harapan telah kembali."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#7",
+      "text": "Terdengar ketukan ringan di pintu, seperti langkah kaki kehidupan membosankan kami yang kembali. “Ya, halo!” Yui Yuigahama membuka pintu."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#8",
+      "text": "Tapi aku tidak bisa memikirkan alasan apa pun dia datang ke sini. Bukankah seharusnya dia keluar di pesta setelah itu? “Yuigahama? Apakah kamu memerlukan sesuatu?” tanyaku."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#9",
+      "text": "“Kerja bagus di festival budaya ini, teman-teman! Jadi ayo kita semua pergi ke kouyasai!”",
+      "emphasis": [
+        {
+          "start": 79,
+          "end": 87,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#10",
+      "text": "“Tidak. Apa itu kouyasai?”",
+      "emphasis": [
+        {
+          "start": 16,
+          "end": 24,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#11",
+      "text": "“Kamu bahkan tidak tahu, dan kamu masih menolaknya?! Hei, jadi, Yukinon, ayo pergi!” Yuigahama duduk di kursinya yang biasa di sebelah Yukinoshita dan, seperti anak manja, mengguncang bahunya."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#12",
+      "text": "Ekspresi Yukinoshita menunjukkan bahwa dia sedikit kesal, tapi dia tidak mendorong Yuigahama menjauh. “Aku juga tidak tahu apa-apa tentang itu. Apa itu?” dia bertanya."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#13",
+      "text": "Yuigahama melihat ke udara selama beberapa saat. “U-um…seperti pesta setelah pesta yang sangat besar, ya…?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#14",
+      "text": "“Kau sendiri bahkan tidak yakin,” gumamku. Kecerobohannya membuatku bergidik."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#15",
+      "text": "Yukinoshita meletakkan tangannya di dagunya sambil hmm. “Berdasarkan bunyi kata tersebut, dapatkah saya menyimpulkan bahwa itu adalah kebalikan dari zenyasai?” Artinya, pesta pada malam menjelang acara.",
+      "emphasis": [
+        {
+          "start": 51,
+          "end": 54,
+          "style": "em"
+        },
+        {
+          "start": 149,
+          "end": 157,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#16",
+      "text": "“Selesai!” Yuigahama memuji Yukinoshita atas jawaban yang benar dengan jarinya yang runcing. Tapi apakah itu benar? Yuigahama melanjutkan penjelasannya yang tidak bisa dipercaya. “Hayato dan yang lainnya merencanakannya. Mereka bilang mereka memesan tempat pertunjukan musik di dekat stasiun! Mereka membicarakan tentang bagaimana kita mengundang bukan hanya orang-orang dari kelas kita sendiri, tapi banyak orang lain juga...”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#17",
+      "text": "“Begitu,” kata Yukinoshita. “Jadi itu sebabnya kamu datang untuk mengundang Hikigaya juga.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#18",
+      "text": "“Eh, tapi aku satu kelas dengannya. Aku diundang sebagai anggota dari kategori sebelumnya. Benar kan? Yuigahama?” Merasa tidak nyaman, akhirnya aku mengecek ulang dengannya."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#19",
+      "text": "“Iya, baru saja. Hayato bilang kamu harus diundang juga.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#20",
+      "text": "“Oh iya? Apakah kata 'hanya' memiliki arti ganda? Apakah dia hanya berusaha bersikap adil? Karena aku akan bersikap adil aku tidak ingin Hayama membantuku.” Tidak ada yang lebih menyakitkan dan menyedihkan daripada diundang karena rasa kasihan. Aku pikir kesopanan yang dangkal hanya membuat kedua belah pihak tidak senang. Ini harusnya cepat dan ketinggalan jaman."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#21",
+      "text": "Seolah ingin menenangkan amarahku, Yukinoshita menegurku dengan nada pelan dan pelan. “Kamu tidak perlu menolaknya begitu agresif. Kamu harus berterima kasih atas tawarannya. Mengapa kamu tidak membiarkan mereka membiarkanmu masuk ke dalam kelompok mereka? Sebagai penghalang mereka.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#22",
+      "text": "“Hei, apa yang akan aku gagalkan? Upaya mereka untuk bersenang-senang? Dan mengapa aku dianggap sebagai penghalang di sini? Tidak bisakah kamu menampar peranku tanpa persetujuanku?” Seseorang sepertiku bahkan tidak bisa menjadi penghalang sejak awal. Paling-paling, aku seorang NPC, dan paling buruk, seorang pesuruh. Ada kemungkinan aku bahkan tidak punya peran sama sekali."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#23",
+      "text": "“H-hei, ayolah sekarang,” kata Yuigahama. “Kita punya kesempatan ini, jadi ayo pergi!”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#24",
+      "text": "“Aku baik-baik saja. Kalau aku pergi, aku akan sendirian di pojok bersandar di dinding. Kehadiranku akan mematikan suasana, dan kemudian aku akan merasa tidak enak,” kataku, kembali menyusun laporanku."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#25",
+      "text": "Pekerjaan itu menyenangkan… Ini adalah alasan yang sangat tepat untuk menolak sesuatu. Begitu aku menjadi budak perusahaan, hal itu akan mempercepat rasa kesepianku."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#26",
+      "text": "“Dia ada benarnya,” Yukinoshita menyetujui. “Lagipula, kouyasai tidak diselenggarakan oleh komite kebudayaan, jadi aku tidak punya alasan untuk pergi.”",
+      "emphasis": [
+        {
+          "start": 55,
+          "end": 63,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#27",
+      "text": "“Hah? Hikki sedang melakukan pekerjaan, jadi mau bagaimana lagi, tapi kamu, Yukinon…” Yuigahama terdiam."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#28",
+      "text": "Yukinoshita lalu mulai menulis sesuatu."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#29",
+      "text": "“Apa yang kamu tulis, Yukinon?”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#30",
+      "text": "“Aku sedang mengisi formulir jalur karier.”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#31",
+      "text": "“Hmm… Kalau begitu aku akan menunggu sampai kamu selesai!”"
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#32",
+      "text": "“Aku tidak pernah bilang aku akan pergi…,” jawab Yukinoshita, agak bingung."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#33",
+      "text": "Tapi Yuigahama mengawasinya sambil nyengir. Sepertinya dia sudah bersiap untuk menunggu."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#34",
+      "text": "Oh, Yuigahama akan menyeretnya pergi, oke. Jika dia bilang dia akan menunggu, dia benar-benar akan melakukannya. Dia anjing yang setia.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 135,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#35",
+      "text": "Lampu merah matahari terbenam menyinari ruang klub."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#36",
+      "text": "Festival telah usai."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#37",
+      "text": "Tidak ada penarikan kembali dalam hidup. Bahkan tindakan sia-sia dalam permainan kehidupan ini pada akhirnya akan hilang."
+    },
+    {
+      "id": "v6-bab-10-chapter010_d-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter010_d.xhtml#38",
+      "text": "Tentu saja aku akan menyesali kekalahan itu suatu hari nanti, aku menyimpulkan laporan aku."
+    }
+  ]
+}

@@ -1,0 +1,2560 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v5-bab-6-chapter006_b-154"
+    ],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v5-bab-6-chapter006-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter006.xhtml#1",
+      "headingLevel": 2,
+      "text": "Dan begitulah Yui Yuigahama menghilang di tengah kerumunan.",
+      "emphasis": [
+        {
+          "start": 14,
+          "end": 27,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter006.xhtml#../Images/Art_P103.jpg",
+      "src": "assets/chapters/volume-5/bab-6/Art_P103.webp",
+      "width": 224,
+      "height": 456,
+      "text": "Yui versi chibi memakai seragam sekolah."
+    },
+    {
+      "id": "v5-bab-6-chapter006-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#3",
+      "text": "Sesekali Anda akan mendengar orang-orang berkomentar, Tidak ada rasa kebersamaan lagi atau Tidak ada lagi yang terhubung dengan lingkungan mereka saat ini. Dan itu memang benar. Ucapan ini datang dari seorang pria yang bahkan tidak memiliki koneksi di sekolah, apalagi di lingkungan sekitar, jadi bisa dipastikan itu benar.",
+      "emphasis": [
+        {
+          "start": 54,
+          "end": 85,
+          "style": "em"
+        },
+        {
+          "start": 91,
+          "end": 154,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#4",
+      "text": "Aku tidak begitu paham tentang bagaimana dulu membicarakan masa lalu yang indah, tapi secara pribadi, setidaknya, aku tidak pernah benar-benar merasa menjadi bagian dari komunitas regional. Aku kira itu karena setiap kali aku mendengar tentang suatu hal yang bersifat regional, aku tidak tahu siapa yang dibicarakan orang-orang tersebut. Ketika orang-orang membicarakan ketua RT atau walikota atau siapa pun, aku bahkan tidak dapat mengingatnya secara langsung. Saat SMP, mereka melontarkan slogan, “Ayo memungut sampah untuk masyarakat!” dan menjadwalkan seluruh blok sore kami dengan kegiatan pembersihan. Namun tentu saja, sulit sekali untuk menyediakan beberapa rando, jadi aku akhirnya menghabiskan sore hari dengan berjalan-jalan biasa."
+    },
+    {
+      "id": "v5-bab-6-chapter006-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#5",
+      "text": "Tetapi ada kalanya kita hampir tidak bisa merasakan keberadaan “komunitas regional” ini. Hari-hari seperti ini. Sepanjang sore, aku mendengar suara letupan dari kejauhan. Dan kemudian, seolah terbangun dari tidur panjang, kota itu bergema pelan."
+    },
+    {
+      "id": "v5-bab-6-chapter006-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#6",
+      "text": "Saat aku meninggalkan rumah, aku bisa merasakan kegelisahan dan kegelisahan di kulitku yang sepertinya bersekongkol dengan sinar matahari musim panas yang kuat. Saat berjalan menuju stasiun, aku melihat banyak orang bergerak ke arah yang sama dengan aku. Para wanita yang mengenakan yukata tampak menonjol khususnya di antara kerumunan.",
+      "emphasis": [
+        {
+          "start": 283,
+          "end": 289,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#7",
+      "text": "Di kereta, aku mendapati diri aku berada di tengah-tengah pasangan dan keluarga yang membawa kotak pendingin. Aku memasukkan earbud aku ke dalam dan keluar dari zona saat aku berdiri di sana, tetapi aku segera kewalahan, dikejar ke sudut kereta. Hanya masalah waktu sebelum tekanan spiritual aku hilang."
+    },
+    {
+      "id": "v5-bab-6-chapter006-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#8",
+      "text": "Selama beberapa menit berikutnya, aku bernapas dengan tenang agar tidak menyadarinya. Kereta melewati beberapa perhentian, dan akhirnya, tujuan aku adalah yang berikutnya. Ketika pintunya terbuka, hanya aku yang keluar dari kereta—ada jauh lebih banyak orang yang masuk. Setelah sulih suara mengumumkan, “Pintunya ditutup!” Aku menyaksikan pintu-pintu terbuka dan kemudian menyeret diri aku ke gerbang tiket."
+    },
+    {
+      "id": "v5-bab-6-chapter006-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#9",
+      "text": "Astaga… Aku merasakan perasaan yang mengejutkan bahwa ini adalah perjalanan yang sia-sia. Membayangkan naik kereta yang penuh sesak itu lagi sudah menguras kesabaran aku. Begitu aku melihatnya, aku akan memberinya sedikit pikiranku, pikirku, memupuk benih ketidakpuasanku saat aku melewati gerbang tiket melawan arus kerumunan. Baru satu menit lewat dari waktu pertemuan kami.",
+      "emphasis": [
+        {
+          "start": 171,
+          "end": 231,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#10",
+      "text": "Aku berasumsi dia sudah ada di sana, tapi…melihat sekeliling, aku tidak melihat tanda-tanda slowpoke itu di mana pun. Aku juga tidak melihat Bulbasaur atau Squirtles. Saat aku bersandar pada pilar di ruang pertemuan, aku mengenali beberapa orang yang lewat dari sekolah. Tentu saja, aku tidak begitu mengenal mereka, jadi aku tidak mengatakan apa pun, dan mereka pun tidak. Mereka semua mengenakan pakaian tradisional. Saat aku memperhatikan anak-anak SMA, aku melihat seorang gadis muncul dari pintu keluar utara, mengenakan sandal geta kayunya."
+    },
+    {
+      "id": "v5-bab-6-chapter006-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#11",
+      "text": "Bunga-bunga kecil bermekaran di sana-sini di seluruh yukata merah muda pucatnya, yang dihiasi dengan selempang obi berwarna merah cerah. Rambut merah jambunya tidak disanggul seperti biasanya, melainkan diikat rapat dalam gaya updo. Dia sepertinya tidak terbiasa memakai geta. Langkah kakinya sangat tidak stabil saat dia secara naluriah mengambil dua, tiga langkah tergesa-gesa ke depan. “Oh, Hikki! Tadinya aku sedang terburu-buru, dan...sekarang aku terlambat...” Senyumannya malu-malu, meminta maaf, dan agak malu.",
+      "emphasis": [
+        {
+          "start": 53,
+          "end": 59,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter006_a.xhtml#../Images/Art_P105.jpg",
+      "src": "assets/chapters/volume-5/bab-6/Art_P105.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yui mengenakan yukata."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#0",
+      "text": "“Tidak, tidak apa-apa.” Kami saling berhadapan, tapi entah kenapa, kami berdua terdiam. Yuigahama menunduk, merapikan rambut di atas kepalanya. Apakah Anda Hamtaro atau apa? “Yah, um…yukatamu bagus,” kataku.",
+      "emphasis": [
+        {
+          "start": 183,
+          "end": 189,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#1",
+      "text": "Kenapa aku memuji yukatanya? Kamu seharusnya memuji apa yang ada di dalamnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 17,
+          "style": "em"
+        },
+        {
+          "start": 24,
+          "end": 77,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#2",
+      "text": "Tapi Yuigahama sepertinya mendapat ide itu sebelum aku bisa mengoreksi diriku sendiri. Matanya melihat sekeliling saat dia menjawab, “Um… te-terima kasih.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#3",
+      "text": "Diam lagi. Apa yang harus aku lakukan di sini? Satu-satunya hal yang terpikir olehku di tengah keheningan ini adalah Seagal. Dalam upaya menyelamatkan kita dari kebuntuan, aku berbicara. “…Jadi…ayo berangkat.”",
+      "emphasis": [
+        {
+          "start": 47,
+          "end": 124,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#4",
+      "text": "“…Ya.” Aku mulai berjalan, dan dia menjepit di belakang aku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#5",
+      "text": "Kami melewati gerbang tiket dan menunggu kereta datang dari Tokyo. Yuigahama memandangi kakinya sepanjang waktu, tidak mengucapkan sepatah kata pun. Aku bukan tipe orang yang suka diganggu oleh keheningan. Tapi Yuigahama memang begitu. Dia terlalu khusus dalam hal-hal sepele seperti itu, dan itu membuatku cemas karena mungkin jika aku tidak mengatakan apa pun, dia akan marah. Aku pikir aku hanya akan mengatakan sesuatu, apa saja, agar semuanya berjalan lancar. “Hei, jadi kenapa kamu ingin bertemu di tengah jalan secara acak daripada hanya bertemu di sana?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#6",
+      "text": "“Karena…sulit untuk bertemu ketika ada begitu banyak orang.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#7",
+      "text": "“Kamu punya telepon, bukan?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#8",
+      "text": "“Tapi sulit untuk mendengarnya.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#9",
+      "text": "Oh ya. Sekarang setelah dia menyebutkannya, aku dengar ponsel Anda sulit didengar saat Anda berada di tempat ramai. Aku belum pernah menggunakan ponsel di tengah keramaian, jadi aku pikir itu adalah legenda urban. Namun, bukan berarti aku sering menggunakan ponsel di tempat yang tidak terlalu ramai."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#10",
+      "text": "“Lagi pula, bertemu di sana pasti…hambar,” katanya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#11",
+      "text": "“Mengapa Anda membutuhkannya yang beraroma? Itu bukan rumput laut.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#12",
+      "text": "“A-siapa yang peduli! Apakah Anda punya masalah dengan itu?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#13",
+      "text": "“Tidak, Bu.” Dia marah padaku…",
+      "emphasis": [
+        {
+          "start": 13,
+          "end": 30,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#14",
+      "text": "Dan keheningan kembali terjadi. Meskipun hari masih terang benderang, kami meraba-raba dalam kegelapan, tidak merasakan apa pun kecuali kehadiran satu sama lain."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#15",
+      "text": "“Jadi pertunjukan kembang api ini…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#16",
+      "text": "“Tentang pertunjukan kembang api—” Kami memulainya di waktu yang sama."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#17",
+      "text": "Bingung, Yuigahama memberi isyarat kepadaku untuk terus maju."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#18",
+      "text": "“…Jadi pertunjukan kembang api ini,” aku bertanya, “apakah kamu biasanya pergi?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#19",
+      "text": "“Oh ya. Aku pergi setiap tahun dengan teman-teman.” Tepat saat dia menjawab, kereta datang."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#20",
+      "text": "“Hah.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#21",
+      "text": "Banyak orang di kereta mungkin keluar untuk melihat kembang api. Mereka tidak hanya mengenakan yukata—ada pula yang membawa selimut piknik berbahan vinil dan payung. Itu cukup penuh. Tapi itu hanya satu perhentian. Kami berdiri di samping pintu. Pintunya tertutup rapat, lalu kereta mulai bergerak.",
+      "emphasis": [
+        {
+          "start": 95,
+          "end": 101,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#22",
+      "text": "“Apakah kamu akan mengatakan sesuatu sebelumnya?” Aku bertanya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#23",
+      "text": "“Iya. Um…Aku mau bertanya…apakah kamu pernah ke pesta kembang api?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#24",
+      "text": "Pertanyaan yang sangat sepele.  “Oh, kami memikirkan hal yang sama!” Hentikan. Hentikan senyum kecil pemalu itu. Ini menarik. Ini akan menjadi pandemi yang nyata.",
+      "emphasis": [
+        {
+          "start": 31,
+          "end": 162,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#25",
+      "text": "Aku mengalihkan pandanganku dan melihat jam tanganku. Masih baru empat ya…? “Aku pernah ke sana dulu saat aku masih SD, bersama keluargaku.”",
+      "emphasis": [
+        {
+          "start": 54,
+          "end": 75,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#26",
+      "text": "“Benarkah?” Dan pembicaraan terhenti lagi. Percakapan kami terputus di banyak tempat, hampir seperti tuna. Kereta terus berjalan. Tepat ketika aku melihat sekilas Port Tower di kejauhan, kami mulai mengerem."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#27",
+      "text": "“Eek!” Yuigahama berteriak, dan aku mendengar suara geta berdenting dan aroma manis tercium di hidungku. Sebuah beban lembut menekan bahuku. Yuigahama kehilangan keseimbangan—mungkin karena sandal yang tidak biasa dia gunakan—dan terjatuh menimpaku. Aku menangkapnya secara otomatis."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#28",
+      "text": "“…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#29",
+      "text": "“…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#30",
+      "text": "Wajah kami sangat dekat. Dia tersipu merah dan dengan cepat mundur. “M-maaf…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#31",
+      "text": "“Hmm. Wah, ramai…” Aku memalingkan muka, berpura-pura melihat pemandangan dari jendela. Aku menghela napas panjang dan menyembunyikan wajahku dari Yuigahama. Meski momennya telah berlalu, aku tetap berkeringat."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#32",
+      "text": "Aduh, itu membuatku gugup… Fiuh, hampir saja. Sangat dekat. Momen seperti itu bisa membuat pria biasa tanpa sengaja jatuh cinta padanya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#33",
+      "text": "Tapi itu tidak akan terjadi di sini. Aku tidak lagi mengalami kesalahpahaman, membuat asumsi, atau salah paham lagi. Mencoba menemukan makna secara kebetulan atau sekadar fenomena adalah kebiasaan buruk yang Anda lihat pada pria yang tidak bisa mendapatkan wanita. Saat dia menyapa Anda di pagi hari, itu hanyalah kesopanan biasa."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#34",
+      "text": "Saat dia menjatuhkan saputangannya di depan Anda, itu adalah kecerobohan. Dan ketika seorang gadis di pekerjaan paruh waktu Anda memberi Anda alamat emailnya, itu karena dia ingin Anda membayar shiftnya. Aku tidak percaya pada kebetulan, takdir, atau takdir. Yang bisa Anda percaya hanyalah perintah perusahaan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#35",
+      "text": "Menurut aku, Anda tidak seharusnya berubah menjadi orang dewasa seperti itu. Aku tidak ingin mendapatkan pekerjaan…"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#36",
+      "text": "Saat kami keluar dari stasiun, area tersebut dipenuhi orang dan kebisingan. Port Tower menjulang tinggi di atas kami, memantulkan dunia di bawah melalui dinding cerminnya dan mempertegas cahaya matahari terbenam. Cahaya itu seolah semakin menggugah ekspektasi penonton yang tak sabar menantikan dimulainya pertunjukan. Mereka semua tertawa terbahak-bahak dan bertukar pandangan ceria dan gembira."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#37",
+      "text": "Ada kedai makanan standar seperti takoyaki dan okonomiyaki di sepanjang jalan, toko serba ada di lingkungan sekitar dan toko minuman keras yang mengantre barang-barang mereka di luar di bawah tenda, dan restoran yang mengumumkan bahwa Anda dapat melihat kembang api dari toko mereka saat mereka dengan antusias menarik pelanggan. Saat itu musim panas di Jepang. Hal ini harus tertanam dalam diri kita pada tingkat genetik, karena Anda pasti akan merasa bersemangat. Festival Kembang Api Kota Chiba akan segera dimulai.",
+      "emphasis": [
+        {
+          "start": 34,
+          "end": 42,
+          "style": "em"
+        },
+        {
+          "start": 47,
+          "end": 58,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-38",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter006_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#39",
+      "text": "Stasiunnya tidak terlalu jauh dari tempat mereka akan menembakkan kembang api. Menurut aku seluruh taman berdekatan dengan stasiun. Tapi daerah itu penuh sesak dengan begitu banyak orang, sehingga sulit untuk dilalui. Biasanya, alun-alun itu sepi, membuat area itu terasa terbuka lebar, tapi sekarang, bahkan dari jauh, aku bisa melihatnya tenggelam di bawah gelombang manusia. Udaranya pengap, namun ada angin laut yang sejuk bertiup."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#40",
+      "text": "Saat aku mengecek jam, waktu masih menunjukkan pukul enam lewat. Aku cukup yakin kembang api akan dimulai sekitar pukul tujuh tiga puluh. Jadi apa yang harus dilakukan sampai saat itu? Aku menoleh ke Yuigahama di sampingku dan bertanya, “Sepertinya kita masih punya waktu, jadi apa yang ingin kamu lakukan? Kembali?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#41",
+      "text": "“Aku tidak akan kembali! Bagaimana kamu bisa otomatis menyarankan kita pulang?!”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#42",
+      "text": "Itu adalah kebiasaan burukku. Setiap kali aku pergi keluar, aku memikirkan kapan aku sampai di rumah. Kapan pun dan ke mana pun aku pergi, aku selalu memprioritaskan untuk kembali hidup—aku akan menjadi mata-mata atau ninja yang hebat, itu mengkhawatirkan. “Lalu apa yang ingin kamu lakukan?” aku bertanya. Aku baru saja hendak menambahkan, Lagi pula, pulang ke rumah? ketika Yuigahama mengeluarkan ponselnya dari dompet koinnya.",
+      "emphasis": [
+        {
+          "start": 341,
+          "end": 368,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#43",
+      "text": "“Umm, baiklah, Komachi mengirimiku email berisi daftar barang yang dia ingin kita beli.” Dia mengetuk teleponnya beberapa kali dan kemudian menunjukkannya kepadaku. Semua berlian imitasi yang berkilau, norak, dan tidak praktis di ponselnya membuatnya merusak pemandangan, tapi aku memutuskan untuk fokus pada layar untuk saat ini."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#44",
+      "text": "Daftar belanja Komachi"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#45",
+      "text": "Yakisoba…400 yen.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 8,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#46",
+      "text": "Permen kapas…500 yen."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#47",
+      "text": "Ramune…300 yen."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#48",
+      "text": "Takoyaki…500 yen.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 8,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#49",
+      "text": "Kenanganmu tentang kembang api…tak ternilai harganya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#50",
+      "text": "Ada apa dengan baris terakhir itu?"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#51",
+      "text": "Kakakmu membayangkan kamu mengetik ini dengan ekspresi sombong di wajahmu, Komachi, dan dia sedikit malu…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 105,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#52",
+      "text": "Yuigahama sepertinya menyadari mataku berputar, lalu dia memberiku senyuman tegang dan gugup. Ini memalukan! Kakakmu sangat malu sekarang!",
+      "emphasis": [
+        {
+          "start": 94,
+          "end": 138,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#53",
+      "text": "Astaga, Komachi menyerang lagi. Tidak ada yang menanyakan skema Anda, pikirku. Yah, aku paham dia berusaha membantu dengan caranya sendiri. Aku tidak terlalu padat sehingga aku tidak dapat menemukan pengaturan yang jelas seperti ini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 68,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#54",
+      "text": "Sebenarnya, aku berada pada sisi perseptif. Aku sensitif, aku terlalusensitif, dan bereaksi berlebihan.",
+      "emphasis": [
+        {
+          "start": 62,
+          "end": 69,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#55",
+      "text": "Alasannya adalah karena sekitar 80 persen laki-laki di dunia memendam perasaan terhadap seorang perempuan dan berpikir, Mungkin dia menyukaiku? Itu sebabnya kamu harus menjadi orang yang menindas dirimu sendiri. Anda harus selalu memiliki orang yang tenang dan keren di dalam diri Anda yang akan menatap Anda dengan tatapan dingin: Tentu saja tidak. Aku tidak terlalu percaya pada orang lain, tapi aku kurang percaya pada diriku sendiri.",
+      "emphasis": [
+        {
+          "start": 120,
+          "end": 143,
+          "style": "em"
+        },
+        {
+          "start": 332,
+          "end": 348,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#56",
+      "text": "Aku menghela napas pendek dan mencoba mengubah suasana hati. “Kalau begitu ayo kita ambil ini satu per satu.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#57",
+      "text": "“Oke.” Mungkin itu karena e-mail Komachi yang lemah, atau mungkin sorak-sorai festival telah sampai ke dirinya, tapi Yuigahama memiliki lompatan dalam langkahnya saat dia melakukan clip-clopping dalam geta-nya. Bahkan di tengah kerumunan yang berisik, aku bisa mendengar langkah kaki dan senandungnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#58",
+      "text": "Orang-orang masih berdatangan ke alun-alun. Warung makan biasa berjejer di mana-mana, dan masing-masing dipadati pelanggan. Aku tahu semua makanannya biasa-biasa saja, tetapi melihat makanan yang disajikan di depan aku, diterangi oleh cahaya bola lampu, rasanya lebih menggugah selera dari yang aku duga. Saus berkilau dan minyak pada yakisoba membuatnya terlihat sangat juicy. Saking menariknya sampai-sampai aku mengira ini Kabaya.",
+      "emphasis": [
+        {
+          "start": 335,
+          "end": 343,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#59",
+      "text": "Yuigahama juga ooh, matanya berbinar-binar saat dia menarik lengan bajuku. “Hei, hei, kamu mau makan apa dulu? Manisan apel? Bagaimana kalau manisan apel?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#60",
+      "text": "“Itu tidak ada dalam daftar.” Dan sejak kapan tujuan kami adalah makan dan bukan berbelanja?"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#61",
+      "text": "Yuigahama menatap manisan apel itu sebelum dengan enggan kembali ke arahku, dengan ponselnya di tangan. “Lalu apa yang ingin kamu dapatkan terlebih dahulu?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#62",
+      "text": "“Pertama, kita akan mendapatkan sesuatu yang tidak sensitif terhadap suhu, menurutku. Jadi itu berarti kapas—”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#63",
+      "text": "“Oh, wow! Kamu bisa memenangkan PS3 di sini!” Saat aku hendak pergi, Yuigahama menarik lengan bajuku. Perhatiannya tertuju pada tempat pemancingan harta karun. Ada PS3 dan hadiah besar lainnya yang bertumpuk di sana."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#64",
+      "text": "“Ayolah, kamu tidak akan pernah memenangkan itu…,” kataku. “Pokoknya, dengarkan saja aku.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#65",
+      "text": "“Hah? Tapi mereka punya ikatan tertentu,” katanya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#66",
+      "text": "“Ya, mereka terpasang di suatu tempat. Tapi entah di mana.” Setiap hadiah memiliki tali yang melekat padanya. Semua senar kemudian disatukan sebelum dipisahkan lagi ke segala arah. Pelanggan tidak akan tahu trik macam apa yang ada di antara ujung tali dan hadiahnya. “Dengar. Setiap kali mereka memamerkan semua hal bagus seperti itu, itu adalah jebakan. Jika sesuatu tampak menguntungkan Anda, selalu ada tangkapan. Itu masuk akal.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#67",
+      "text": "“Di dunia manakah akal sehat itu? …Dunia kriminal?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#68",
+      "text": "Percakapan kami mendapat tatapan tajam dari lelaki tua di tempat pemancingan harta karun, jadi aku diam-diam bergegas menuju kios berikutnya untuk melarikan diri."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#69",
+      "text": "Kupikir kita akan membeli permen kapas terlebih dahulu. Mesin di tempat permen kapas bergemuruh dan bergetar saat menyebarkan aroma manisnya ke udara, memutar benang putih halus dan menenunnya menjadi satu. Permen kapas tersebut kemudian dimasukkan ke dalam tas dan digantung di tenda. Semua tas tersebut memiliki cetakan karakter anime atau pahlawan super—mungkin menghasilkan uang bagi Toei."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#70",
+      "text": "Barang ini sama di setiap generasi. Menurutku, saat aku masih kecil juga seperti ini. Yuigahama rupanya juga mempunyai rasa nostalgia yang sama, karena dia seumuran denganku. Dia memperhatikan permen kapas itu dengan lembut. “Wow, barang ini benar-benar membuatku teringat kembali! Hei, kamu mau yang mana?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#71",
+      "text": "Aku menunjuk ke tas merah muda di depanku dan membayar lima ratus yen."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#72",
+      "text": "Oke, lihat—aku sama sekali tidak tertarik dengan anime untuk gadis kecil, dan aku bahkan tidak pernah menonton anime itu, tapi sejak Komachi's seorang gadis, um, kupikir aku harus membeli salah satu dari itu, eh, P-P-Precue-apa saja? Itu. Ya. Bukannya aku tertarik. Sama sekali. Aku tidak begitu peduli tentang hal itu, aku bahkan tidak bisa membedakan Jewelpet dan Pretty Rhythm.",
+      "emphasis": [
+        {
+          "start": 353,
+          "end": 361,
+          "style": "em"
+        },
+        {
+          "start": 366,
+          "end": 379,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#73",
+      "text": "Setelah kami mendapatkan permen kapas, kami membeli Ramune dan kemudian takoyaki. “Selanjutnya kita akan membeli yakisoba, ya?” usul Yuigahama.",
+      "emphasis": [
+        {
+          "start": 72,
+          "end": 80,
+          "style": "em"
+        },
+        {
+          "start": 113,
+          "end": 121,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#74",
+      "text": "“Iya. Menurutku, itu sudah berakhir…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#75",
+      "text": "Aku berbalik untuk menuju kios berikutnya, dan saat itulah aku melihat seorang gadis melihat ke arah kami. Dia memberi kami lambaian kecil dan mendekati kami. “Oh, itu kamu, Yui!”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#76",
+      "text": "“Oh, Sagamin!” Yuigahama membalasnya dengan lambaian kecil dan mengambil beberapa langkah ke arah gadis satunya. Keduanya melakukan hal yang persis sama."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#77",
+      "text": "Oh, jadi ini yang dimaksud dengan pencerminan, ya? Aku melihat di Tokumei Research bahwa meniru gerak tubuh orang lain adalah teknik untuk membuat mereka lebih mudah bersimpati kepada Anda.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 50,
+          "style": "em"
+        },
+        {
+          "start": 66,
+          "end": 82,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#78",
+      "text": "Jadi…siapa gadis ini?"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#79",
+      "text": "Pada saat seperti ini, yang terbaik adalah menghilang, tenggelam ke latar belakang. Aku akan menjadi pohon!"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#80",
+      "text": "Wah, aku benar-benar bisa mendeteksi perbedaan halus dalam keramahan dalam cara mereka memanggil satu sama lain. Sapaan Yuigahama sepenuhnya tulus. Gadis satunya—Sagamin ini atau siapa pun—tidak sepenuhnya ramah, tapi dia berkata, Kita cukup dekat untuk tidak bersikap jauh, kan?",
+      "emphasis": [
+        {
+          "start": 231,
+          "end": 279,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#81",
+      "text": "Jadi ya, siapa sih cewek ini?"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#82",
+      "text": "Sepertinya gadis itu memikirkan hal yang sama seperti aku adalah, jika tatapan bertanya-tanyanya merupakan indikasi. “Um…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#83",
+      "text": "“Oh!” kata Yuigahama. “Ya, tentu saja. Ini Hikigaya. Dia satu kelas dengan kita. Hikigaya, ini Minami Sagami, juga satu kelas dengan kita.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#84",
+      "text": "Huh. Jadi kita satu kelas? Kalau dipikir-pikir, aku mungkin pernah melihatnya sebelumnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 89,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#85",
+      "text": "Sagami membungkuk pelan dan santai, dan saat itulah mata kami bertemu."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#86",
+      "text": "Itu hanya sekejap."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#87",
+      "text": "Untuk sesaat, senyuman muncul di wajahnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#88",
+      "text": "“Oh, benarkah! Kalian berkumpul bersama, ya? Bagiku ini adalah pertunjukan kembang api khusus perempuan. Iri hati! Aku yakin kalian bersenang-senang…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#89",
+      "text": "Yuigahama sepertinya tidak yakin bagaimana harus merespons, tapi dia tetap ikut-ikutan dan tertawa. “Mengapa kamu membuatnya terdengar seperti Pertunjukan Renang Khusus Wanita? Padahal di kami tidak seperti itu.”",
+      "emphasis": [
+        {
+          "start": 143,
+          "end": 175,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#90",
+      "text": "Tetapi aku tidak merasa ingin tertawa sama sekali. Aku sangat mengenal senyuman di wajah Sagami saat itu. Itu bukan senyuman atau tawa. Itu merupakan cibiran yang tidak dapat disangkal. Dia melihat pria yang berkencan dengan Yui Yuigahama dan jelas-jelas mengejeknya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#91",
+      "text": "“Hah? Kenapa tidak?” kata Sagami. “Ini musim panas! Hal semacam itu menyenangkan.” Senyuman di bibirnya tidak berubah saat dia mengamatiku sebentar untuk melakukan evaluasi."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#92",
+      "text": "Tindakan itu membekukan hatiku begitu dingin seolah-olah kehangatan yang sebelumnya tidak pernah ada."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#93",
+      "text": "Dan saat hatiku mendingin, begitu pula kepalaku. Pikiranku menjadi jernih dan tajam, seolah-olah nitrogen cair menetes ke tulang punggungku. Nalar, logika, dan pengalamanku semuanya bersatu dan berhadapan dengan emosiku. Tidak butuh waktu lama bagi mereka untuk mencapai keputusan mereka, dan aku dengan mudah bergulat dengan perasaanku untuk menyerah."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#94",
+      "text": "Aku hampir saja melakukan kesalahan lagi."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#95",
+      "text": "Minami Sagami dan aku tidak ada hubungannya satu sama lain. Kami tidak terlalu mengenal satu sama lain. Dan apa cara tercepat untuk memahami seseorang yang tidak Anda kenal dengan baik?"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#96",
+      "text": "Beri label pada mereka."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#97",
+      "text": "Yang dia perlukan hanyalah status sosialku. Dan aku tidak hanya berbicara tentang Sagami. Semua orang melakukan ini. Sebelum Anda mengenal seseorang secara pribadi, pertama-tama Anda menebak orang tersebut hanya berdasarkan hubungannya dengan kelompok dan tempat tertentu serta pangkat dan gelar yang dipegangnya. Sangat umum untuk menilai seseorang berdasarkan sekolah atau pekerjaannya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#98",
+      "text": "Anda tidak banyak mendengar tentang hal itu akhir-akhir ini, tetapi contoh ekstremnya adalah rumor yang masuk akal tentang filter latar belakang akademis selama musim mencari pekerjaan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#99",
+      "text": "Yuigahama adalah seorang yang individu yang melanggar batas dengan keterampilan komunikasi yang kuat, jadi aku cenderung lupa bahwa dia pada dasarnya adalah anggota kasta tertinggi di kelas dan sekolah kami. Sebaliknya, aku berada di posisi paling bawah. Yukinoshita adalah sesuatu yang berbeda—dia diposisikan di luar sistem kasta sekolah, tapi dari sudut pandang pihak netral, setiap interaksi antara Yuigahama dan aku akan tampak seperti tindakan amal di pihaknya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#100",
+      "text": "Aku benar-benar membuat keadaan menjadi canggung di sini… Aku tahu semua remaja di lingkungan sekitar akan datang untuk menghadiri acara kembang api besar seperti ini. Aku belum memikirkan hal ini dengan matang."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#101",
+      "text": "Anda bisa menggambarkan acara ini sebagai semacam peluang jejaring sosial untuk wanita. Anak laki-laki yang dibawanya dapat dianggap sebagai semacam simbol status, seperti halnya seseorang dapat mengukur nilai seorang anak perempuan berdasarkan tas yang dibawanya atau merek pakaian yang dikenakannya. Contohnya, kalau Yuigahama ada di sini bersama Hayama dan bukan aku, aku yakin reaksi semua orang akan berbeda-beda. Dia akan diundang ke wawancara kemenangan malam ini. Namun jika ikut dengan aku, pada dasarnya dia akan diadili di pengadilan militer dan diadili secara in-absentia."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#102",
+      "text": "Aku tidak percaya kita hidup di dunia yang berbeda. Ini akan terasa lebih mudah jika kita melakukannya. Kita berdua punya satu kaki di dunia yang sama, dan itulah yang membuatnya sangat menyebalkan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#103",
+      "text": "Aku baik-baik saja tidak peduli seberapa banyak orang yang mengejekku, tapi aku merasa tidak enak jika Yuigahama dijadikan bahan cemoohan juga. “Sepertinya ada antrean untuk yakisoba. Aku akan menunggu di sana.”",
+      "emphasis": [
+        {
+          "start": 174,
+          "end": 182,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#104",
+      "text": "“Oh iya. Aku akan segera ke sana,” jawab Yuigahama sambil tersenyum agak menyesal. Dia tetap di tempatnya, dan aku segera pergi."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#105",
+      "text": "Apa pun yang akan membuat Yuigahama dicemooh, betapapun kecilnya, harus segera dibuang. Aku bisa mendengar Yuigahama dan Sagami melanjutkan percakapan mereka di belakangku, tapi aku tidak mendengarkannya dan berjalan pergi."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#106",
+      "text": "Aku menemukan jalan ke kedai yakisoba, hanya mengandalkan ingatan singkat tentang lokasinya dan aroma sausnya. Pemandangan mie goreng dalam wadah plastik transparan yang ditutup dengan karet gelang dan diterangi oleh cahaya berwarna hangat dari bola lampu membuatku sangat lapar. Aku membayar yakisoba dan mengambil sebuah wadah, dan saat itulah Yuigahama muncul.",
+      "emphasis": [
+        {
+          "start": 29,
+          "end": 37,
+          "style": "em"
+        },
+        {
+          "start": 293,
+          "end": 301,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#107",
+      "text": "“Maaf,” katanya, terlihat sedikit canggung."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#108",
+      "text": "Tapi dia tidak perlu meminta maaf, jadi aku tidak tahu bagaimana harus menanggapinya. “Manisan apel,” gumamku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#109",
+      "text": "“Hah?” Yuigahama berkedip."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#110",
+      "text": "“Kamu ingin mendapatkannya, kan?” Aku mengingatkannya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#111",
+      "text": "“Y-ya! Ya! Aku akan memberimu setengahnya juga!”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#112",
+      "text": "“Aku tidak mau.” Yah, um, uh, jika kamu bisa memotongnya menjadi dua secara tepat dengan pisau atau semacamnya, maka aku rasa aku akan baik-baik saja dengan itu, seperti, kamu tahu…"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#113",
+      "text": "Pokoknya, sekarang aku cukup yakin kita sudah membeli semua yang ada di daftar. Sudah waktunya kembang api dimulai. Aku tidak perlu melihat jam untuk mengetahuinya—kehebohan penonton sudah memberi tahu aku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#114",
+      "text": "Matahari akhirnya tenggelam di Teluk Tokyo, dan langit dipenuhi kegelapan biru nila. Bulan menjulang tinggi seolah tak sabar menantikan kembang api yang akan diluncurkan ke arahnya. Kami berjalan dari jalan yang dipenuhi kios makanan menuju tempat utama, di mana alun-alun sudah dipenuhi orang. Selimut piknik plastik menutupi setiap inci persegi tanah saat orang-orang berbagi minuman awal. Dari jauh, aku mendengar seorang anak menangis, dan segera setelah itu, terdengar teriakan marah di dekatnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#115",
+      "text": "Semua itu berarti tidak ada tempat untuk duduk atau pergi. Jika aku sendirian, aku akan mampu mengaturnya. Aku bisa duduk dimana saja atau pergi lebih jauh untuk menonton kembang api. Tapi dengan adanya Yuigahama, masalahnya menjadi lain. Kami jelas tidak bisa berdiri untuk semuanya, jadi aku memutuskan untuk mencari tempat di mana kami berdua bisa duduk. Tapi kami bahkan tidak punya koran untuk diduduki, apalagi selimut plastik. Yuigahama mengenakan yukata, jadi dia mungkin tidak ingin duduk tegak di tanah. Mungkin bangku di dekat sini? Pikirku, tapi tampaknya semua orang juga memikirkan hal yang sama, karena bangku-bangku itu sudah terisi.",
+      "emphasis": [
+        {
+          "start": 455,
+          "end": 461,
+          "style": "em"
+        },
+        {
+          "start": 514,
+          "end": 543,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#116",
+      "text": "Oh, hei, kita tidak punya tempat untuk pergi, sama seperti aku di acara sekolah."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-117",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#117",
+      "text": "“Wah, pasti ramai sekali,” Yuigahama berkata dengan ta-ha-ha yang canggung.",
+      "emphasis": [
+        {
+          "start": 52,
+          "end": 60,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-118",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#118",
+      "text": "Ya, tentu saja. “Kalau aku tahu akan ramai seperti ini, setidaknya aku akan membawa selembar plastik kecil,” kataku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-119",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#119",
+      "text": "“N-ngh… Itu salahku. Maaf, seharusnya aku memberitahumu.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-120",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#120",
+      "text": "“…Bukan itu maksudku. Aku hanya tidak terbiasa dengan hal ini. Aku tidak berpikir sejauh itu. Maaf.” Jika aku tidak memikirkannya lagi, aku bisa memperkirakan hal ini. Aku sedikit lelah dengan kecerobohanku sendiri."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-121",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#121",
+      "text": "Pria yang benar-benar mendapatkan wanita mungkin sudah mempersiapkan segala sesuatunya dengan matang dan memberinya perhatian yang layak diterimanya. Memimpin dengan lembut lebih penting daripada menjadi tampan atau apa pun. Anda tahu, mengirim email yang tulus, mencari sesuatu sebelum pergi bersama, atau mengalihkan pikirannya dari berbagai hal dengan percakapan singkat ketika Anda harus menunggu dalam antrean panjang."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-122",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#122",
+      "text": "…Wah, apa-apaan ini? Kedengarannya sangat sulit. Jika kamu harus melakukan semua itu untuk mendapatkan gadis, maka aku baik-baik saja tanpanya, sungguh. Dan, mengapa selalu laki-laki yang melakukan semua pekerjaan? Apa yang terjadi dengan kesetaraan gender? …Hai! Mengapa mereka menyebutnya sebagai “pemain” padahal sebenarnya itu hanyalah pekerjaan? Wow, lelucon itu bodoh. Tapi bakatku dalam hal itu adalah salah satu hal favoritku tentang diriku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-123",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#123",
+      "text": "Bagaimanapun. Menurutku, memaksakan diri untuk menjaga penampilan dan memasang identitas yang bukan milikmu, topeng yang tidak kamu pakai saat sendirian, adalah tindakan palsu. Jika Anda harus melakukan semua hal itu untuk membuat seseorang mencintai Anda, bisakah Anda benar-benar mengatakan bahwa dia mencintai Anda dan siapa Anda sebenarnya? Begitu kamu mengubah dirimu untuk memenangkan kasih sayang, untuk memenangkan cinta, aku bahkan tidak tahu apakah kamu masih bisa memanggilmu kamu. Jika kamu membangun hubunganmu berdasarkan kepura-puraan dan kebohongan, hubungan itu mungkin akan gagal dalam beberapa hal, dan jika kamu telah mengubah dirimu secara mendasar, maka itu bukan kamu yang sebenarnya.",
+      "emphasis": [
+        {
+          "start": 487,
+          "end": 491,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-124",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#124",
+      "text": "Renungan sepele ini membuat aku menghela napas kecil. Mataku terus mengarah ke bawah, dan saat aku berusaha mengangkatnya lagi, mataku bertemu dengan mata Yuigahama yang berdiri di sana dengan mulut ternganga. “Apa…?” tanyaku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-125",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#125",
+      "text": "“…Jadi kamu bisa bersikap perhatian.”",
+      "emphasis": [
+        {
+          "start": 12,
+          "end": 16,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-126",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#126",
+      "text": "“Hah? Jangan bodoh. Tentu saja bisa. Saat aku duduk dengan tenang di sudut agar tidak mengganggu siapa pun, itu berarti aku sedang perhatian.” Aku tidak berbicara dengan orang lain, aku berjalan satu langkah di belakang orang lain daripada berjalan sejajar, dan aku tidak pernah mengundang siapa pun keluar agar tidak mengganggu rencana mereka. Aku sangat sadar, aku hampir berada dalam kondisi meditasi permanen."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-127",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#127",
+      "text": "Yuigahama tertawa. “Bukan itu maksudku. Um, maksudku, kamu baik? Agak.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-128",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#128",
+      "text": "“Oh-ho, jadi kamu sudah menyadarinya. Ya, memang, aku baik. Itu karena meskipun aku telah menderita banyak kesalahan, aku selalu menutup mata terhadap semua orang dan segalanya, tidak membalas dendam. Jika aku adalah individu biasa, dunia akan berakhir sekarang. Saya mirip dengan Yesus.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-129",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#129",
+      "text": "“Orang biasa tidak dapat menghancurkan dunia! Dan orang biasa tidak mengalami banyak kesalahan!”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-130",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#130",
+      "text": "Sial, itu balasan yang tulus. “Yah, terserahlah. Pokoknya, mungkin ada ruang di sana. Ayo kita lihat,” kataku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-131",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#131",
+      "text": "“Oke.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-132",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#132",
+      "text": "Kami mulai melanjutkan perjalanan, tapi hanya beberapa saat sebelumnya ada kerumunan orang menuju kios makanan dan kamar mandi, jadi kami terpaksa berenang melawan arus saat kami bergerak maju. Aku melewati ruang di antara kerumunan orang yang bercampur aduk. Sudah menjadi kebiasaanku untuk berjalan tanpa mengeluarkan suara."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-133",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#133",
+      "text": "Saat aku menemukan celah untuk dilewati, kerumunan kecil seperti ini bukanlah apa-apa bagiku. Aku adalah pemain bintang yang setara dengan Tim Sepak Bola Nasional Jepang. Ha! Aku ahli dalam melawan arus. Maksudku, dunia selalu meninggalkanku, jadi aku terus berjuang di hulu."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-134",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#134",
+      "text": "Aku lolos dari gelombang orang-orang yang mendatangiku seolah-olah aku sedang menghindari manusia kayu untuk menjadi biksu Shaolin, dan akhirnya keluar ke suatu daerah di mana gelombang orang mulai melambat. Tapi kemudian aku menyadari Yuigahama mungkin tidak akan mampu mengimbanginya. Ya ampun, kemampuanku membawaku terlalu jauh ke depan ya? Aku berpikir dan berbalik, tapi ternyata tidak ada masalah.",
+      "emphasis": [
+        {
+          "start": 287,
+          "end": 344,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-135",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#135",
+      "text": "Yuigahama melontarkan permintaan maaf “Maaf!” dan “Maaf!” dan “Permisi!” di sana-sini saat dia menyelinap dan mengayunkan pisau melewati kerumunan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-136",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#136",
+      "text": "Wah, dia punya kemampuan untuk mengawasi sekelilingnya…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 55,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-137",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#137",
+      "text": "“Ada apa?” Dia menyusulku dengan mudah, memiringkan kepalanya dengan suara bertanya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-138",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#138",
+      "text": "“Tidak ada.” Kalau dipikir-pikir, seseorang yang terbiasa dengan kerumunan seperti ini jelas akan lebih baik dalam menanganinya. Tampaknya itu bukan permainan Stealth Hikki. “Sepertinya di sini kurang ramai.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-139",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#139",
+      "text": "“Ini ruas tolnya,” kata Yuigahama."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-140",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#140",
+      "text": "Melihat sekeliling, aku melihat memang ada tali berwarna hitam-kuning yang jelas-jelas membatasi area tersebut. Seluruh lahan terbuka dikelilingi oleh pepohonan, jadi biasanya akan agak sulit untuk melihat kembang api dari sana. Namun lokasi tol berada di puncak bukit kecil sehingga pemandangannya sangat bagus. Mereka juga tampak serius mengenai keamanan. Aku bisa melihat pekerja paruh waktu berkeliaran dan mengelilingi area tersebut. Jika kami tetap berdiri di sini, mereka mungkin akan mengusir kami. “Kurasa kita bisa mencarinya lagi,” kataku. Lalu lintas menjadi sedikit lebih tenang ketika kami berpelukan dengan tali, jadi aku meminta Yuigahama untuk mengikutinya dan mulai berjalan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-141",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#141",
+      "text": "“Hah? Apakah itu kamu, Hikigaya?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-142",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#142",
+      "text": "Kegelapan malam membuat kontras yang mencolok dengan kain biru tua dari penampilannya yang halus yukata; pola bunga lili raksasa dan rumput musim gugur memberikan penampilan suci pada pemakainya.",
+      "emphasis": [
+        {
+          "start": 97,
+          "end": 103,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-143",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#143",
+      "text": "Yang duduk di sana adalah Haruno Yukinoshita."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-144",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#144",
+      "text": "Tali tersebut menarik garis literal antara posisi kami dan dia di bagian khusus. Dengan orang-orang di sekelilingnya yang siap sedia, kursi yang dia duduki bagaikan singgasana, dan dia adalah gambaran seorang permaisuri."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-145",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#145",
+      "text": "Pada pukul 07.40, sepuluh menit setelah waktu yang dijadwalkan, mereka menyiarkan pengumuman yang menyatakan bahwa kembang api akan segera dimulai. Tepuk tangan terdengar dari kerumunan, dan seseorang menjadi cukup bersemangat untuk mengeluarkan peluit yang tajam. Jika dia ada di dekatnya, aku mungkin akan memukulnya. Aku mendapat kesan bahwa sekitar 50 persen pria yang bersiul dengan arogan seperti itu sebenarnya adalah tipe pendiam, dan hanya pada saat-saat seperti inilah mereka menimbulkan keributan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-146",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#146",
+      "text": "Bagian berbayar berada di bagian tertinggi bukit di dalam area terbuka ini, dan juga tepat di depan tempat mereka akan meluncurkan kembang api, jadi kamu bisa melihat pertunjukannya tanpa ada pepohonan di sekitarnya yang menghalangi. pandangan Anda. Secara teknis, kamu harus membeli tiket untuk masuk, tapi Haruno memberi isyarat agar kami masuk."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-147",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#147",
+      "text": "“Aku mewakili ayahku, lho, jadi aku harus menyapa begitu banyak orang. Aku mulai bosan. Aku senang melihatmu di sini, Hikigaya!”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-148",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#148",
+      "text": "“Hah. Jadi kamu wakilnya. Wow.” Aku pada dasarnya mengabaikan bagian terakhir dari apa yang dia katakan saat mataku melihat sekeliling."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-149",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#149",
+      "text": "Haruno terkekeh. “Saya kira ini adalah apa yang Anda sebut kursi VIP. Biasanya Anda tidak akan bisa masuk.” Dia membual dengan kepolosan seorang anak kecil. Terkadang harga diri yang tidak disembunyikan tidak terlihat sebagai arogan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-150",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#150",
+      "text": "Haruno Yukinoshita memiliki sifat yang terus terang, dan menurutku itulah yang membuatnya begitu karismatik. Yang dia katakan hanyalah “Maaf, teman-temanku terlambat,” dan orang-orang yang berkerumun di sekitarnya segera mundur. Terlebih lagi, bahkan ketika dia memberi isyarat kepada kami untuk masuk ke area VIP, para penjaga paruh waktu sepertinya tidak melihat sesuatu yang aneh tentang hal itu. Mereka tidak datang untuk memeriksa apa yang sedang terjadi, tidak sekali pun. VIP sejati sungguh luar biasa."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-151",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#151",
+      "text": "“Kau seorang selebriti...” Yuigahama menghela napas seperti garis tipis antara kekaguman dan keterkejutan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-152",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#152",
+      "text": "Haruno terkikik. “Yah, kamu tahu pekerjaan ayahku, kan? Dia punya banyak pengaruh di acara-acara kota seperti ini.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-153",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#153",
+      "text": "“Majelis prefektur punya pengaruh, bahkan di kota?” Aku bertanya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-154",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#154",
+      "text": "“Oh, kau tajam. Memang sesuai dugaanku. Tapi menurutku, itu bukan terutama karena majelis prefektur, melainkan lebih karena perusahaannya.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-155",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#155",
+      "text": "Aku pikir keluarganya melakukan konstruksi atau semacamnya. Jika bisnis mereka meliputi bidang pekerjaan umum, aku yakin mereka akan memiliki pengaruh. Selalu ada tiga hal yang penting untuk bisa terpilih, yang disebut dengan 3 F: fondasi dukungan publik, figur, dan kapasitas penuh, dan menurut aku dia punya ketiganya. Sekadar informasi, “tas penuh” pada dasarnya berarti uang tunai. Anda juga bisa menyebutnya “untuk imbalan”. Ngomong-ngomong, tiga tas yang paling penting adalah kantong plastik, kantong di bawah mata, dan tas lama aku. Hei, apa yang kamu maksudkan tentang ibuku?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 151,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-156",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#156",
+      "text": "Sementara walikota atau siapa pun itu menjelaskan panjang lebar atas rasa terima kasihnya kepada semua pihak terkait dan memberikan ucapan selamat dan yang lainnya, Haruno menawari kami tempat duduk di sebelahnya. Yuigahama dan aku memutuskan untuk menerima tawarannya dengan penuh rasa terima kasih. Sambil membungkuk padanya, kami berdua duduk."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-157",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#157",
+      "text": "Aku seharusnya bersandar dan bersantai, tapi dengan Haruno di sampingku, aku tidak bisa. Bukan hanya rasa gugup karena dia adalah gadis yang cukup tua—yang benar-benar aku takuti adalah topeng luarnya yang terlalu sempurna. Aku merasa ada sesuatu yang gelap sedang bergejolak dalam dirinya, dan aku tidak pandai menghadapi hal semacam itu."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-158",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#158",
+      "text": "Tiba-tiba, dia bersandar tepat di telingaku dan berbisik ke telingaku. “Ngomong-ngomong…Aku tidak terkesan melihatmu bermain-main dengan gadis lain.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-159",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#159",
+      "text": "“Um, aku tidak main-main…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-160",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#160",
+      "text": "Ekspresinya langsung berubah dingin. “Jadi kamu serius dengannya, ya? Itu lebih buruk lagi.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-161",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#161",
+      "text": "“Aduh, aduh, aduh!” Dia menarik telingaku seperti yang dilakukan Sazae pada Katsuo. Aku melarikan diri dengan cepat, jadi dia tidak melukainya terlalu parah, tapi jika dia menariknya lebih keras lagi, aku mungkin akan pergi dan akhirnya mengundang Nakajima untuk bermain bisbol denganku. “Kami juga tidak serius…,” kataku. Apa-apaan ini, kawan, aku tidak bisa menahan rasa sakit. Aku tidak sedang bermain-main, aku juga belum mencapai dasar apa pun dengan salah satu dari mereka. Tidak akan ada home run tetapi juga tidak ada strikeout. Aku duduk di bangku cadangan, terima kasih banyak, jadi apapun yang dia ingin aku katakan, itu tidak akan terjadi.",
+      "emphasis": [
+        {
+          "start": 323,
+          "end": 379,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-162",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#162",
+      "text": "Tepat saat aku menangkis serangan Haruno, orang penting di pengeras suara menyelesaikan pengumumannya, dan akhirnya, kembang api pertama akan diluncurkan. Sekelompok bunga ekstra besar bermekaran menjadi bunga-bunga besar di langit malam dengan iringan musik. Lapis demi lapis cahaya berwarna merah, kuning, dan jingga menyebar di langit tanpa jeda, terus menerus menerangi kegelapan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-163",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#163",
+      "text": "“Ooh…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-164",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#164",
+      "text": "Lingkaran cahaya berbunga terpantul dengan indah di kaca setengah cermin Menara Pelabuhan, mencerahkan malam. Ini akan menjadi awal dari delapan ribu tembakan kembang api warna-warni yang terus menerus. Mereka meledak dan muncul dengan do-don-PA! lagi dan lagi. Ada begitu banyak dodonpa, aku berpikir, apakah Anda Mercenary Tao atau apa?",
+      "emphasis": [
+        {
+          "start": 236,
+          "end": 246,
+          "style": "em"
+        },
+        {
+          "start": 280,
+          "end": 287,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-165",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#165",
+      "text": "Di tengah suara dering ledakan kembang api, kursi Haruno berderit saat dia duduk lebih dalam."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-166",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#166",
+      "text": "“U-um…” Yuigahama mulai berbicara kepada Haruno, dengan aku di antara mereka berdua. Dia mungkin sedang mencari momen yang tepat."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-167",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#167",
+      "text": "Haruno mengedipkan matanya yang besar. “Um…Ada sesuatu-gahama, ya?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-168",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#168",
+      "text": "“I-itu Yuigahama.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-169",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#169",
+      "text": "“Oh iya. Maaf, maaf.” Meskipun aku sama sekali tidak merasakan adanya kebencian dalam dirinya, kesalahan itu pasti disengaja. Haruno bukanlah tipe orang yang mudah melupakan nama. Maksudku, ini adalah karakter yang menyaingi Yukino Yukinoshita… Tidak, Haruno kemungkinan besar melampauinya. Aku tidak bisa menahan kecurigaan aku bahwa kesalahan kecil itu dimaksudkan untuk mencapai sesuatu. Saat aku menatapnya lama dan tajam untuk mencoba membayangkan apa yang mungkin terjadi, dia terkikik. Sebuah getaran merambat di punggungku. Sepertinya senyumannya memamerkan kemampuannya membacaku seperti buku. Keindahannyalah yang membuatnya menakutkan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-170",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#170",
+      "text": "“Yukinon tidak bersamamu hari ini?” tanya Yuigahama."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-171",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#171",
+      "text": "“Sepertinya Yukino-chan ada di rumah,” kata Haruno. “Lagipula, tampil di depan umum adalah tugasku. Sudah kubilang aku wakil ayahku, bukan? Aku datang ke sini bukan untuk bersenang-senang.” Haruno menudingkan jarinya pada dirinya sendiri sambil menyeringai lucu. “Menghadapi acara seperti ini adalah tugasku sebagai putri sulung. Itu selalu menjadi kebijakan ibuku.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-172",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#172",
+      "text": "Sepertinya aku ingat bahwa adik perempuanku pernah mengatakan hal serupa...bahwa peran Haruno adalah menjadi wajah publik, dan bahwa dia sendiri hanyalah pengganti. Menurutku itu berarti Haruno adalah penerus resmi ayah mereka. Yah, menurutku sangat masuk akal untuk menunjuk anak sulungmu sebagai penerusmu. Namun penjelasan itu saja belum cukup."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-173",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#173",
+      "text": "“Apakah itu berarti Yukinon tidak diperbolehkan datang?” tanya Yuigahama."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-174",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#174",
+      "text": "Tentu, tidak masalah jika Haruno menjadi penerusnya. Tapi itu tidak menjelaskan kenapa Yukinoshita tidak bisa berada di sini."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-175",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#175",
+      "text": "Haruno tersenyum gelisah. “Hmm, baiklah...itulah yang ibu kita inginkan. Selain itu, lebih baik menjaga semuanya tetap baik dan jelas, kan?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-176",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#176",
+      "text": "“Yah, kalian berdua memang mirip,” kata Yuigahama. “Jadi, jika hanya satu dari kalian yang ada di sini, orang-orang tidak akan membuat kalian ikut campur.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-177",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#177",
+      "text": "Tapi menurutku bukan itu masalahnya. Itu pada dasarnya adalah masalah penampilan. Melakukan hal ini untuk menekankan bahwa hanya ada satu penerus untuk mencegah pertengkaran yang tidak perlu. Perselisihan apa pun yang tampak antara calon penerus kemungkinan besar akan merugikan mereka. Wah, ini seperti keluarga samurai."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-178",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#178",
+      "text": "Haruno meletakkan jarinya di pipinya dan menghela napas kecil yang gelisah. “Kau tahu, ibu kami memiliki kepribadian yang kuat, dan dia menakutkan.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-179",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#179",
+      "text": "“Hah?” kataku. “Maksudmu lebih menakutkan dari Yukinoshita?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-180",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#180",
+      "text": "“Yukino-chan? Menakutkan?” Haruno menatapku dan kemudian tertawa terbahak-bahak. Itu sangat merdu dibandingkan tawanya sebelumnya, seolah-olah dia dengan tulus menganggap pernyataanku lucu. Menyeka air mata dari sudut matanya, dia menghela napas puas. Namun, kurasa dia mengkhawatirkan penampilannya, sambil berdehem. “Ya ampun, itu tidak sopan, Hikigaya. Dia gadis yang manis sekali, dan begitukah pendapatmu tentang dia?” Dia terkikik sedikit lebih lama dan kemudian mendekatkan wajahnya ke wajahku dan berbisik ke telingaku. “Ibu kami bahkan lebih menakutkan daripada saya.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-181",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#181",
+      "text": "“…Apakah dia manusia?” aku bertanya. Menjadi tidak hanya lebih menakutkan dari adik perempuannya, tapi juga lebih tua—bukankah itu sedikit gila? Itu melampaui cangkang pelindung yang dibentengi; itu pada dasarnya adalah Gundam."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-182",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#182",
+      "text": "“Ibu kami adalah tipe orang yang akan memutuskan segalanya untukmu dan kemudian mencoba membuatmu sejalan, jadi kami tidak punya pilihan selain mencoba berkompromi dengannya, tapi…keterampilan Yukino-chan di bidang itu agak di bawah standar.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-183",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#183",
+      "text": "Tidak, dia di luar standar. Kamu memerlukan lebih banyak sub agar lebih jelas: sub-sub-di bawah standar."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-184",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#184",
+      "text": "“Jadi aku agak kaget saat dia bilang dia ingin hidup sendiri begitu dia masuk SMA,” kata Haruno."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-185",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#185",
+      "text": "“Jadi Yukinon pindah saat dia mulai SMA?” tanya Yuigahama."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-186",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#186",
+      "text": "“Ya, ya. Dia bukan tipe gadis yang banyak menuntut, jadi ayah kami dengan senang hati memberinya gedung apartemen.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-187",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#187",
+      "text": "Astaga, aku bertanya-tanya mengapa para ayah di dunia ini mudah dalam hal mereka anak perempuan?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 96,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-188",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#188",
+      "text": "“Tapi ibu kami menolaknya sampai akhir,” lanjut Haruno. “Dia masih belum menerima gagasan itu…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-189",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#189",
+      "text": "“Jadi Yukinoshita dekat dengan ayahmu, ya?” kataku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-190",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#190",
+      "text": "“Oh-ho, kamu tertarik pada ayah mertuamu?” canda Haruno."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-191",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#191",
+      "text": "“Tolong, kita berdua tahu bahwa suku bunga di Jepang berada pada titik terendah sepanjang masa,” jawab aku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-192",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#192",
+      "text": "“Hmm…dua belas poin.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-193",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#193",
+      "text": "Untuk seseorang dengan fitur lembut seperti itu, dia pasti mendapat nilai yang sulit."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-194",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#194",
+      "text": "“Bukan berarti mereka dekat. Menurutku hanya karena ibu kami memiliki kepribadian yang kuat, jadi ayah kamilah yang akhirnya memperbaiki keadaan.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-195",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#195",
+      "text": "Aku kira itu seperti polisi baik/polisi jahat. Atau lebih sederhananya, seperti wortel dan tongkat, menurutku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-196",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#196",
+      "text": "“Meski aku dan Yukino-chan tahu itu, jadi semuanya jadi seimbang,” lanjutnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-197",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#197",
+      "text": "“Sungguh sepasang saudara perempuan yang mengerikan…,” kataku letih."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-198",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#198",
+      "text": "Tapi senyuman indah Haruno tidak hilang saat dia berbalik untuk berbicara dengan Yuigahama. “Jadi, apakah ini kencan? Kalau begitu, aku minta maaf karena mengganggumu.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-199",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#199",
+      "text": "“T-tidak, i-bukan seperti itu,” Yuigahama tergagap."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-200",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#200",
+      "text": "Tatapan Haruno mengabaikan apa pun saat dia mengamati Yuigahama. “Hmph... Kamu bertingkah malu dan mencurigakan. Tapi kalau itu kencan...” Nada suaranya menggoda. Ada jeda sesaat dalam kembang api tersebut, jadi keadaan di sekitar kami gelap, dan aku tidak bisa melihat mata Haruno. Tapi aku yakin ada kilatan cahaya di dalamnya, lebih gelap dari langit malam."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-201",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#201",
+      "text": "“…sekali lagi, bukan dia orangnya.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-202",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#202",
+      "text": "Kembang api bergemuruh, berderak di atas gumaman Haruno. Ledakan terus berlanjut sesekali, dan langit berkelap-kelip. Bau mesiu tercium ke arah kami, terbawa angin bersama dengan sisa-sisa cahaya di layar hitam malam. Kembang api sesekali menyinari senyum tenang Haruno."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-203",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#203",
+      "text": "“Um, benarkah…?” Yuigahama mulai berbicara tepat saat kembang api menyala."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-204",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#204",
+      "text": "Haruno meledak dengan tampilan animasi kegembiraan dan kemudian berbalik menghadap Yuigahama. “Hmm? Apa itu tadi?” Dia menyeringai seolah-olah dia begitu asyik dengan kembang api sehingga dia tidak memperhatikan hal lain."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-205",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#205",
+      "text": "“Uh, oh, um…tidak apa-apa.” Yuigahama menelan kata-katanya, dan percakapan itu berakhir di sana."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-206",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#206",
+      "text": "Aku bisa mendengar suara retakan singkat dari senjata sinyal yang berbunyi, dan kemudian ada cahaya yang meledak dan jatuh ke langit. Haruno bertepuk tangan ringan dengan sikap yang terlihat paling polos. Kamu tidak akan pernah melihat adik perempuannya melakukan hal itu… Entahlah, mungkin Haruno memiliki pemahaman alami tentang bagaimana orang lain melihat isyarat itu, dan itulah sebabnya dia melakukannya.",
+      "emphasis": [
+        {
+          "start": 205,
+          "end": 272,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-207",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#207",
+      "text": "Kedua saudara perempuan itu terlihat mirip, tetapi pada intinya, mereka sangat berbeda. Tetap saja, rasanya mereka berdua melihat ke arah yang sama. Agak aneh."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-208",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#208",
+      "text": "“Um, Yukinoshita…” Aku tidak tahu harus memanggil Haruno apa, jadi aku memanggilnya dengan nama belakangnya saja. Aku tidak punya niat untuk bersikap cukup akrab dengannya sehingga aku bisa memanggilnya dengan nama depannya. Tapi ketika aku melakukannya, Haruno tersenyum lebar."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-209",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#209",
+      "text": "“Hmm? Oh, kamu bisa memanggilku Haruno, oke? Atau Kakak. Sebenarnya, aku ingin kamu memanggilku seperti itu.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-210",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#210",
+      "text": "“Ha-ha-ha...” Sebuah tawa kering keluar dari diriku. Tidak mungkin. “…Yukinoshita,” lanjutku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-211",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#211",
+      "text": "Dia tertawa. “Kamu agak keras kepala. Lucu sekali.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-212",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#212",
+      "text": "Sial, aku benar-benar tidak menyukai wanita ini… Yang paling menakutkan adalah dia hanya sedikit lebih tua. Dengan seseorang yang setua Bu Hiratsuka, aku dapat mengelompokkannya sebagai orang dewasa dan entitas yang sama sekali berbeda. Namun pada seseorang yang usianya hanya dua atau tiga tahun lebih tua, terdapat budaya yang agak berbeda. “Kamu dulu bersekolah di sekolah kami, kan, Yukinoshita?” tanyaku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 48,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-213",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#213",
+      "text": "“Hmm,” jawabnya. “Ya, tentu saja. Aku tiga tahun lebih tua darimu,” katanya dengan nada informal."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-214",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#214",
+      "text": "Yuigahama mengangguk dengan ooh tertarik. “Kalau begitu, apakah kamu berusia dua puluh tahun, adik Yukinon?”",
+      "emphasis": [
+        {
+          "start": 28,
+          "end": 31,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-215",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#215",
+      "text": "“Hampir saja. Aku masih sembilan belas tahun. Ulang tahunku sangat terlambat di tahun ini. Selain itu, kamu bisa memanggilku Haruno… ‘Adik Yukinon’ terlalu panjang. Jika kamu mau, kamu bisa memanggilku Harunon. ♪”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-216",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#216",
+      "text": "Harunon? Kedengarannya seperti nama untuk salah satu bantalan panas berperekat sekali pakai."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-217",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#217",
+      "text": "Itu membuat Yuigahama tersenyum tegang. “J-jadi, Haruno…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-218",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#218",
+      "text": "Pertunjukan sudah beralih ke segmen berikutnya. Saat musik menggelegar, kembang api diluncurkan ke dalam bentuk hati dan sebagainya, seolah-olah mereka menuju ke ide tertentu. Pertunjukannya terus berjalan, terkadang energik, terkadang lebih pelan, diiringi musik klasik dan beberapa lagu yang sama sekali tidak kuketahui, seperti beberapa lagu hits terbaru atau semacamnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_b-219",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#219",
+      "text": "Para ahli kembang api mulai menembakkan lebih sedikit tembakan, dan sepertinya mereka akan memperlambatnya untuk sementara waktu. Di sana-sini aku melihat orang-orang bangun untuk pergi ke kamar mandi atau membeli barang. Dari tempat kami duduk di area berbayar, aku dapat mendengar banyak suara yang sedang mengobrol menyenangkan. Ada makanan ringan yang disiapkan untuk kami di meja—seperti yang biasa kamu harapkan dari tempat duduk VIP."
+    },
+    {
+      "id": "v5-bab-6-chapter006_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter006_c.xhtml#../Images/Art_P126.jpg",
+      "src": "assets/chapters/volume-5/bab-6/Art_P126.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yui dan Haruno di festival."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#0",
+      "text": "Yuigahama dan Haruno menghibur diri mereka dengan percakapan sementara aku duduk di antara mereka. “Jadi itu berarti kamu kuliah, Haruno?” tanya Yuigahama."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#1",
+      "text": "“Ya. Itu adalah universitas teknologi nasional di kota.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#2",
+      "text": "“Whoah… Kamu pasti pintar sekali… Kamu kan kakak perempuan Yukinon.” Yuigahama terdengar terkejut dan terkesan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#3",
+      "text": "“Sebenarnya aku ingin mencapai tujuan yang lebih tinggi, tapi inilah yang diinginkan orang tuaku.” Senyuman Haruno penuh dengan emosi."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#4",
+      "text": "Mm-hmm. Jadi jika dia ingin bekerja untuk bisnis keluarga setempat, dia harus kuliah di universitas setempat—itukah idenya?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 7,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#5",
+      "text": "Tapi kawan, tahukah Anda…setiap kali aku berada dalam kelompok yang terdiri dari tiga orang atau lebih dan orang-orang membicarakannya, sepertinya aku bukan bagian darinya. Aku merasa seperti sudah lama tidak membuka mulut kecuali untuk makan. Di saat seperti ini, cara terbaik untuk melewatinya adalah fokus pada makanan. Mie ini enak sekali, sungguh. Yap, sambal ini memang bercitarasa cowok."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#6",
+      "text": "“Jadi, wah, kalian berdua akan mengambil jurusan sains ya?” Komentar Yuigahama singkat dan acuh tak acuh."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#7",
+      "text": "Haruno terbata-bata. Ledakan kembang api yang keras di latar belakang menyoroti keheningan aneh di sampingku sebagai hal yang sangat membuat penasaran. “Ya. Yuki ingin masuk ke universitas sains nasional...” Ada sesuatu dalam senyumannya yang nyaris mencemooh. Mungkin hanya aku saja, karena aku cenderung membaca terlalu mendalam tentang Haruno Yukinoshita. Mungkin Haruno benar-benar merasakan sesuatu yang hangat terhadap adiknya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#8",
+      "text": "Yuigahama terdiam, memperhatikan senyuman itu."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#9",
+      "text": "“Selama ini tidak berubah...,” kata Haruno. “Kami selalu cocok, dan dia mendapatkan hadiahnya…” Dia memiliki tatapan nostalgia dan jauh di matanya, dan nadanya ramah. Namun aku merasa resah dengan cara dia mengatakannya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#10",
+      "text": "Aku memang punya kebiasaan buruk membaca hal-hal negatif dalam segala hal. Tapi aku bukan satu-satunya yang memahaminya. Tangan Yuigahama terkepal di lututnya, dan tangannya sedikit gemetar. “Um…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#11",
+      "text": "“Ya?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#12",
+      "text": "Meskipun ekspresi Yuigahama memperjelas keraguannya, Haruno memiringkan kepalanya sebagai jawaban, benar-benar tenang."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#13",
+      "text": "“Apakah kamu…tidak akur dengan Yukinon?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#14",
+      "text": "“Ah, tentu saja kita akur! Aku suka Yukino-chan,” jawab Haruno seketika, bahkan tanpa meluangkan waktu untuk berpikir, dan kemudian tersenyum hangat. Balasan dan ekspresinya tepat pada waktunya dan tidak berubah-ubah. Itulah tepatnya yang memberiku kesan bahwa dia telah memperkirakan serangan itu, dan tanggapannya hanyalah sebuah balasan. Haruno menyilangkan kakinya, menyilangkannya lagi ke arah lain, lalu melanjutkan, tanpa terpengaruh. “Dia adik perempuanku. Dia selalu mengejarku. Bagaimana mungkin dia tidak manis?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#15",
+      "text": "Selalu mengejarku ya? Haruskah aku mengartikan bahwa Haruno terus menerus mengungguli adiknya? Ada kekejaman dalam ucapan itu, kekejaman seorang pemenang mutlak yang menertawakan penantang yang bodoh, seolah-olah dia sedang berhadapan dengan seorang anak kecil.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 17,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#16",
+      "text": "Tanpa sedikit pun rasa tidak berperasaan di wajahnya yang sempurna dan cantik, Haruno tersenyum pada Yuigahama. “Bagaimana denganmu, Yuigahama? Apakah kamu menyukainya?” dia bertanya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#17",
+      "text": "Yuigahama nampaknya agak terkejut dengan pertanyaan langsung itu. Tapi tetap saja, dia melakukan yang terbaik untuk merangkai kata-katanya meskipun dia tergagap. “Aku—aku memang menyukainya! Dia keren, tulus, dan bisa diandalkan, tapi lucu sekali kalau dia kadang-kadang melakukan sesuatu yang sangat bodoh, dan dia terlihat manis sekali saat dia mengantuk... Dan...dia sulit dipahami, tapi dia baik, um, dan...dan...ah...ah-ha-ha. Aku benar-benar hanya bicara di sini saja.” Yuigahama tersenyum malu-malu, kembang api menyinari pipinya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#18",
+      "text": "“Oh?” kata Haruno. “Yah, senang mendengarnya.” Untuk sesaat, ekspresinya adalah sesuatu yang bisa disebut baik. Itu merupakan penampilan yang aneh baginya. Tapi menurutku—dan seperti yang bisa diduga—saat berikutnya, mata itu berubah menjadi setan. “Semua orang bilang begitu pada awalnya. Namun, pada akhirnya, mereka semua sama saja. Mereka cemburu, menolaknya, dan mengucilkannya... Kuharap kamu berbeda.” Senyumannya sangat menyenangkan dan indah hingga menjadi seram dan menakutkan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#19",
+      "text": "“…Aku…” Karena kewalahan, Yuigahama sempat tidak mampu berbicara. “…tidak akan melakukan itu.” Dia tidak mengalihkan pandangannya, menatap tajam ke arah Haruno."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#20",
+      "text": "Haruno mengangkat bahu lalu melirik ke arahku. “Kamu mengerti apa yang ingin aku katakan, kan, Hikigaya?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#21",
+      "text": "“Ya, menurutku.” Tentu saja aku mengerti. Aku sudah melihatnya berkali-kali, dan tidak hanya pada Yukinoshita. Individu yang luar biasa akan tersingkir dari grup mana pun. Paku yang mencuat tidak mudah dipalu. Itu ditarik keluar dan dibuang. Ia diabaikan, terkena unsur-unsur ledakan, dan kemudian membusuk.",
+      "emphasis": [
+        {
+          "start": 17,
+          "end": 110,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#22",
+      "text": "“Ya, kamu paham. Aku suka tatapan matamu itu,” kata Haruno, dan aku menoleh ke arahnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#23",
+      "text": "Mata kami bertemu, dan tatapannya begitu dingin hingga membuatku menggigil."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#24",
+      "text": "Dia tiba-tiba terkikik. “Aku benar-benar menyukaimu. Kamu memiliki pemahaman yang aneh tentang berbagai hal, dan itu membuat kalian semua mengundurkan diri.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#25",
+      "text": "Itu sama sekali tidak terasa seperti pujian. Implikasinya sangat jelas, dan tidak ada kesalahpahaman sama sekali mengenai maksudnya. Ketika orang memberikan pujian selektif, seperti ketika orang mengatakan satu hal tertentu bahwa mereka menyukainya, Anda tidak dapat mempercayai apa yang mereka katakan. Aku sangat menyukai selera Anda! dan Aku menyukainya. Oh, dan selera Anda… adalah dua hal yang sangat berbeda. Sumber: aku di sekolah menengah. Aku tidak akan tertipu oleh tipu daya deskriptif apa pun sekarang.",
+      "emphasis": [
+        {
+          "start": 304,
+          "end": 336,
+          "style": "em"
+        },
+        {
+          "start": 341,
+          "end": 356,
+          "style": "em"
+        },
+        {
+          "start": 358,
+          "end": 378,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#26",
+      "text": "“Jadi bagaimana denganmu, Hikigaya?” Haruno bertanya. “Apakah kamu menyukai Yukino-chan?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#27",
+      "text": "“Ibuku selalu berkata kepadaku, Aku tidak peduli kamu suka atau tidak—makan saja! Jadi, aku menyimpan suka dan tidak suka itu untuk diriku sendiri,” jawabku.",
+      "emphasis": [
+        {
+          "start": 32,
+          "end": 81,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#28",
+      "text": "Haruno memberiku hadiah yang menyenangkan smile."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#29",
+      "text": "Malam semakin larut, dan kami menyaksikan kembang api dalam diam. Tirai emas jatuh menembus langit. Ketika percikan warna-warni menghiasi momen terakhir pertunjukan, kami mengantar mereka dengan tepuk tangan meriah."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#30",
+      "text": "“Baiklah, ini sudah berakhir. Saya akan berangkat sebelum terlalu ramai.” Haruno berkomentar sambil berdiri. Bagaimana denganmu? dia bertanya dalam hati.",
+      "emphasis": [
+        {
+          "start": 109,
+          "end": 128,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#31",
+      "text": "Yuigahama menerima petunjuk itu dan mengikutinya, berdiri dan menoleh ke arahku. “Ayo pergi juga.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#32",
+      "text": "“Ya.” Membayangkan terjebak di tengah himpitan orang, tak mampu bergerak, membuat seluruh bulu kudukku berdiri. Mungkin ada baiknya untuk mengikuti Haruno keluar dan pergi secepat mungkin."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#33",
+      "text": "Tanpa berkomentar lebih jauh, kami bertiga mulai berjalan menyusuri jalan setapak di ruas tol yang menghubungkan ke tempat parkir. Sepertinya kami bisa menghindari keramaian jika mengambil jalan keluar ini."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#34",
+      "text": "Saat kami tiba di tempat parkir, sebuah limusin sewaan berwarna hitam meluncur ke arah kami. Aku tidak tahu apakah Haruno yang memintanya atau apakah pengemudi kelas satu selalu selangkah lebih maju saat mereka muncul, tapi limusin itu berada di samping trotoar tempat kami berjalan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#35",
+      "text": "“Aku bisa mengantar kalian pulang, jika kalian mau,” Haruno menawarkan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#36",
+      "text": "“U-um…” Yuigahama melirik ke arahku, menyerahkan keputusan padaku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#37",
+      "text": "Aku tidak menjawab sambil menatap ke arah limusin itu—ke arah kendaraan yang sangat kukenal ini. Aku ragu aku salah."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#38",
+      "text": "“Kamu bisa tampil semau kamu, tapi kamu tidak bisa melihat goresannya lagi.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#39",
+      "text": "Haruno terkikik. Tapi baik aku maupun Yuigahama tidak tersenyum sedikitpun. Kurasa keheningan kami membingungkan Haruno, dan ekspresinya juga menjadi tegang. “H-hah? Jadi Yukino-chan tidak memberitahumu? Kurasa aku seharusnya tidak mengatakan itu.” Dia terdengar menyesal. Dia sepertinya tidak berbohong, tapi tetap saja, suasananya terasa berat."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#40",
+      "text": "“Kalau begitu…dia benar-benar…” Suara Yuigahama begitu pelan, aku hampir tidak bisa menangkapnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#41",
+      "text": "Bahkan aku bisa dengan mudah menyimpulkan sisa kalimat itu. Lalu dia benar-benar tahu. Yukinoshita memang mengetahuinya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#42",
+      "text": "Reaksi kami pasti mengagetkan Haruno, saat dia berusaha menenangkan keadaan. “Oh, tapi jangan salah paham. Dia tidak melakukan kesalahan apa pun.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#43",
+      "text": "Ya, ya…Aku tahu itu. Yukinoshita tidak pernah melakukan kesalahan apa pun. Untuk selalu benar berarti menjadi Yukino Yukinoshita.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 129,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#44",
+      "text": "“Dia baru saja berada di dalam mobil. Itu bukan salahnya. Kamu paham, Hikigaya?” desaknya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#45",
+      "text": "Ini pertama kalinya aku mendengar semua ini, tapi pada akhirnya, hal itu tidak mengubah apa pun. Tidak peduli bagaimana Yukinoshita terlibat; faktanya nyata. “Ya. Yah, bukan dia yang menyebabkan kecelakaan itu, jadi dia tidak ada hubungannya dengan itu.” Suaraku terdengar lebih dingin dari yang kukira. Saat itu malam tropis, tapi rasanya suhu tubuh aku turun drastis."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#46",
+      "text": "Terdengar suara ketukan sandal, dan aku merasakan kehadiran satu langkah lebih dekat ke arahku. Atas desakan diam-diam, aku memaksakan diri untuk menjadi sedikit lebih hangat. “Lagipula, itu semua sudah berlalu! Jangan melihat ke belakang—itulah yang selalu aku katakan. Maksudku, terus-menerus memikirkan masa lalu sudah cukup untuk meyakinkanmu bahwa hidup ini tanpa harapan...” H-hei, hawa dingin kembali datang di akhir sana! Trauma masa lalu adalah kekuatan yang harus diperhitungkan.",
+      "emphasis": [
+        {
+          "start": 381,
+          "end": 489,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#47",
+      "text": "“Oh? Baiklah, kalau itu semua sudah terjadi di masa lalu, maka baiklah.” Haruno menunjukkan ekspresi berlebihan dengan meletakkan tangannya di dadanya, wajahnya terlihat lega. Mungkin itu sebabnya suasana di antara kami sedikit melunak."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#48",
+      "text": "“…Kalau begitu, aku pulang.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#49",
+      "text": "“Iya, ngerti,” jawabnya, tidak melakukan gerakan apa pun untuk menghentikanku. Aku dengan mudah dilepaskan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#50",
+      "text": "Sopir, yang merasakan percakapan telah selesai, datang untuk membuka pintu. Haruno memberinya ucapan “Terima kasih” dengan tenang dan langsung masuk ke dalam mobil. “Sampai nanti, Hikigaya.” Gelombangnya cukup ceria. Tapi aku tidak benar-benar ingin melihatnya lagi, jika memungkinkan."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#51",
+      "text": "Sopir menutup pintu dan segera kembali ke tempat duduknya, dan mobil mulai melaju."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#52",
+      "text": "Yuigahama dan aku berangkat dalam diam. Mungkin kami berdua ingin lebih banyak waktu untuk menjelaskan semuanya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-53",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter006_d.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#54",
+      "text": "Kami telah meninggalkan lokasi lebih awal, tetapi tampaknya, semua orang juga memikirkan hal yang sama. Stasiun itu cukup ramai. Kereta tiba di peron agak terlambat, mungkin karena pertunjukan kembang api. Saat kami naik, tempat itu cukup ramai sehingga kami tidak bisa duduk, jadi Yuigahama dan aku berdiri di depan pintu. Jaraknya hanya satu perhentian sampai apartemen terdekat Yuigahama, dan tiga perhentian lagi sampai apartemenku—tidak terlalu jauh. Dalam waktu kurang dari lima menit, pengumuman itu memberi tahu kami bahwa kereta telah tiba di stasiun berikutnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#55",
+      "text": "Sejauh ini kami tetap diam, tapi kemudian Yuigahama hanya menggumamkan satu kata. “…Hei…” Ketika aku menjawab dengan pandangan sekilas dan sedikit menghela napas, dia berhenti sejenak dan bertanya, “Apakah Yukinon…memberitahumu tentang hal itu?” Itu adalah salah satu pertanyaan yang Anda sudah tahu jawabannya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#56",
+      "text": "“Tidak, dia tidak melakukannya.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#57",
+      "text": "“Oh… U-um…oh!” Dengan tersentak, guncangan kereta berhenti. Pintu terbuka, dan udara malam yang pengap masuk ke dalam kereta. Yuigahama menatapku lalu keluar dari pintu, dengan jelas mempertimbangkan apa yang harus dia lakukan. Tapi segera bel berbunyi untuk mengumumkan penutupan pintu, jadi dia praktis tidak punya waktu untuk berpikir atau mempertimbangkan. Aku menghela napas dan turun dari kereta."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#58",
+      "text": "Yuigahama keluar setelah aku. “Apakah kamu baik-baik saja turun dari sini?” dia bertanya, sedikit terkejut."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#59",
+      "text": "“Rasanya tidak tepat untuk mengakhiri percakapan di sana, bukan? Apakah Anda sengaja mengatur waktunya atau semacamnya?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#60",
+      "text": "“T-tidak! Sulit untuk mengatakannya!” Pembelaannya yang panik meyakinkanku…"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#61",
+      "text": "Si perencana itu. Yuigahama benar-benar seorang perencana. “…Aku akan mengantarmu kembali,” kataku."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#62",
+      "text": "“Terima kasih…” Dia menggumamkan rasa terima kasihnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#63",
+      "text": "Rupanya, apartemen Yuigahama tidak jauh dari stasiun. Tapi karena dia tidak terbiasa memakai geta, dia berjalan agak lambat. Suara langkah kaki kami yang berjalan santai menyelingi malam yang tenang di kota. Saat kegelapan semakin dalam, angin sepoi-sepoi bertiup. Bahkan saat kami berjalan-jalan di luar, panas dan kelembapannya tidak terasa terlalu buruk."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#64",
+      "text": "“Apakah Anda mendengar kabar darinya?” tanyaku, melanjutkan percakapan kami sebelumnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#65",
+      "text": "Yuigahama menggelengkan kepalanya dengan lemah. “Tapi tahukah kamu, menurutku ada beberapa hal yang tidak bisa kamu katakan. Ketika momen yang tepat telah berlalu, kamu tidak bisa mengatakannya. Aku juga seperti itu.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#66",
+      "text": "Itu benar. Yuigahama membutuhkan waktu setahun penuh untuk menyebutkan kecelakaan itu, dan dia mengaku karena aku sudah mengetahuinya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#67",
+      "text": "“Kamu berpikir, 'Aku akan melakukannya setelah aku merasa siap,' 'Aku hanya perlu memikirkannya lagi dan kemudian aku akan melakukannya,' lalu kamu terus menundanya.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#68",
+      "text": "Ya, aku rasa aku agak memahaminya. Sangat mudah untuk berakhir dalam situasi ketika Anda harus mengatakan sesuatu yang formal. Jika itu permintaan maaf atau pengakuan bersalah, terlebih lagi. Semakin lama Anda menunggu untuk mengatakan sesuatu yang sulit diucapkan bahkan di saat terbaik sekalipun, bibir Anda akan terasa semakin berat. Dan terkadang ada hal-hal yang hanya bisa kamu katakan pada saat itu."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#69",
+      "text": "“Lagipula, mungkin alasan Yukinon tidak bisa berkata apa-apa adalah karena urusan keluarga. Bukannya aku tahu apa-apa tentang itu. Haruno hanya menakutkan…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#70",
+      "text": "Menurutku Yukinoshita tidak berusaha untuk mengatakannya. untuk melindungi keluarganya. Memang benar bahwa sulit untuk menggambarkan lingkungan keluarga Yukinoshita sebagai sesuatu yang khas. Bukan hanya karena mereka kaya dan terkenal secara lokal—ada saudara perempuannya, dan aku hanya melihat sekilas ibunya yang bahkan lebih aneh lagi. Aku pikir pasti ada sesuatu yang terjadi. Tapi, maksud aku, bagi aku, orang luar tidak berhak mengatakan apa pun tentang urusan keluarga mereka. “Tapi menurutku kamu tidak perlu ikut campur dalam masalah rumah tangga mereka.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 87,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#71",
+      "text": "Yuigahama hmmdan merenungkan komentarku sebentar. “D-domestik?” Dia kesulitan dengan kata bahasa Inggris. “Oh, maksudmu DV!”",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 13,
+          "style": "em"
+        },
+        {
+          "start": 50,
+          "end": 63,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#72",
+      "text": "“Jangan buka mulut ketika kamu hanya memahami lima puluh persen dari apa yang kamu katakan. Aku akan memukulmu.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#73",
+      "text": "“Kamu akan DV denganku?!”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#74",
+      "text": "Ini sama sekali bukan DV. Ini hanyalah V. Visual kei.",
+      "emphasis": [
+        {
+          "start": 49,
+          "end": 52,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#75",
+      "text": "“Yah, anggap saja kamu tidak tahu apa-apa tentang kejadian itu atau keluarganya.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#76",
+      "text": "Ini adalah hal-hal yang tidak diungkapkan oleh Yukinoshita. Hal-hal yang tidak ingin disentuhnya harus dibiarkan begitu saja. Tidak mungkin bagi orang untuk memahami satu sama lain, dan berpura-pura seperti Anda hanya akan membuat mereka marah."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#77",
+      "text": "Terkadang, ketidakpedulian diperbolehkan. Seperti saat hujan turun dan aku membawa banyak barang lalu aku terpeleset dan terjatuh, atau saat guru menguliahi aku di depan seluruh kelas… Ketika hal seperti itu terjadi, berdoalah, Tolong, jangan ada yang bicara dengan aku setelah ini! tahu? Aku pikir sudah saatnya semua orang menyadari bahwa berbicara dengan seseorang dengan baik dan lembut tidak hanya tidak membantu, tetapi juga menyebabkan kerusakan. Terkadang, simpati dan kasih sayang bisa menjadi penghalang.",
+      "emphasis": [
+        {
+          "start": 228,
+          "end": 282,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#78",
+      "text": "“Namun, apakah yang terbaik adalah tidak mengetahuinya…?” Yuigahama tampak tidak yakin, menundukkan kepalanya dan menatap kakinya. Dia berhenti berjalan, jadi aku melakukan hal yang sama."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#79",
+      "text": "“Menurut saya ketidaktahuan bukanlah hal yang buruk. Semakin banyak Anda tahu, semakin banyak masalah yang menyertainya.” Memiliki informasi berarti mengambil risiko. Ada banyak hal yang sebaiknya tidak Anda ketahui—contoh utamanya adalah apa yang sebenarnya dipikirkan semua orang. Setiap orang, sedikit banyak, menipu dan menipu orang lain. Itu sebabnya kebenaran selalu menyakitkan. Kebenaran selalu menghancurkan kedamaian seseorang."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#80",
+      "text": "Beberapa detik berlalu dalam keheningan. Itu adalah waktu yang dibutuhkan Yuigahama untuk sampai pada jawabannya. “Tapi aku ingin tahu lebih banyak tentang dia, tahu? Aku ingin kita belajar lebih banyak tentang satu sama lain dan menjadi lebih dekat. Jika dia dalam masalah, aku ingin membantunya.” Dia mulai berjalan, memimpin. “Hikki…jika Yukinon dalam masalah, bantulah dia, oke?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#81",
+      "text": "“…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#82",
+      "text": "Aku tidak dapat menemukan kata-kata yang tepat untuk membalas permintaan itu. Aku tidak akan pernah bisa memberikan respon seperti Yuigahama, tidak dalam beberapa detik, tidak dalam waktu dua kali lipat, atau sepuluh kali lipat."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#83",
+      "text": "Aku tidak punya keinginan untuk mengganggu. Aku tidak pernah melakukannya, dan aku tidak akan pernah mengganggu. “Ya, menurutku itu tidak akan terjadi,” kataku, mengandung banyak arti sekaligus. Yukinoshita tidak akan mendapat masalah, dia tidak akan menginginkan bantuan dariku, dan aku tidak akan mengganggu hidupnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#84",
+      "text": "Yuigahama menatap ke arah langit berbintang. Sandalnya berbunyi ketika dia menendang kerikil di kakinya. “Kamu tetap akan menyelamatkannya.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#85",
+      "text": "“Kamu tidak tahu itu.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#86",
+      "text": "Sebelum aku sempat menanyakan apa alasannya mengatakan hal itu, Yuigahama menoleh ke arahku. “Kamu menyelamatkanku, bukan?”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#87",
+      "text": "“Sudah kubilang. Itu hanya kebetulan. Aku tidak membantumu mengetahui bahwa itu kamu. Jadi aku tidak menyelamatkan kamu secara khusus.” Itu sebabnya meskipun dia merasa bersyukur, percaya, atau sesuatu yang lebih, itu semua hanya ilusi, kesalahpahaman.",
+      "emphasis": [
+        {
+          "start": 115,
+          "end": 119,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#88",
+      "text": "Jika dia menilai aku berdasarkan sesuatu yang orang lain—bukan hanya aku—bisa melakukannya, itu tidak dihitung sebagai cerminan positif bagi aku. Sama seperti Anda tidak bisa menilai seseorang sebagai orang baik hanya berdasarkan satu perbuatan baik, aku juga akan merasa terganggu jika seseorang secara sewenang-wenang mengambil keputusan tentang karakter aku berdasarkan satu peristiwa. Itulah kenapa keyakinan sentimental Yuigahama padaku semuanya salah. “Jangan berharap hal seperti itu dariku.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#89",
+      "text": "Aku pasti akan mengecewakannya. Itu sebabnya aku ingin dia melepaskan ekspektasi apa pun sejak awal."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#90",
+      "text": "Yuigahama dan aku berjalan bersama, menjaga jarak satu sama lain. Suara klip-klip dan kaki seret silih berganti sepanjang malam. Disonansi yang tidak serasi terus berlanjut, tak satu pun dari kami menutup celah kecil itu dalam satu langkah pun."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#91",
+      "text": "Dan kemudian tiba-tiba, jaraknya mengecil. Yuigahama tiba-tiba berhenti, dan aku bergerak maju, dan hampir saja mendekatinya. Dia berbalik menghadapku, diterangi oleh cahaya bulan yang lembut. “Bahkan tanpa kecelakaan itu, kamu tetap bisa menyelamatkanku. Dan menurutku kita juga akan melihat kembang api bersama seperti ini.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#92",
+      "text": "“Tentu saja tidak... Sejak awal, aku tidak punya apa-apa untuk menyelamatkanmu.” Dalam hidup, Anda tidak mendapatkan pertanyaan bagaimana-jika. Ini semua tentang melihat ke belakang dan bertanya-tanya apakah semuanya sudah berbeda."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#93",
+      "text": "Tapi tetap saja, Yuigahama perlahan menggelengkan kepalanya. Matanya basah, dan aku bisa melihat pantulan lampu jalan di sudut-sudutnya. “Tidak, menurutku akan ada. Maksudku, itu seperti yang kamu katakan: Sekalipun kecelakaan itu tidak terjadi, kamu akan sendirian. Kamu bilang kecelakaan itu tidak ada hubungannya dengan itu. Dan aku adalah diriku yang sebenarnya, kamu tahu? Pada akhirnya aku akan mendapat masalah, dan guru akan membawaku ke Klub Layanan. Lalu aku akan menemuimu.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#94",
+      "text": "Spekulasi liarnya tentang apa yang mungkin terjadi memiliki sisi realistis yang aneh, jadi aku tidak bisa dengan mudah menyangkal atau menyanggahnya. Mungkin jika semuanya dimulai secara berbeda, maka Yuigahama, Yukinoshita, dan aku akan membangun hubungan yang berbeda."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#95",
+      "text": "Saat aku mempertimbangkan hal ini, Yuigahama melanjutkan dengan antusias. “Dan kemudian kamu kembali memikirkan solusi pesimis bodoh yang sama. Aku yakin kamu akan menyelamatkanku. Dan...”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#96",
+      "text": "Aku mendengar sebuah suara."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#97",
+      "text": "Mungkin suara itu berasal dariku, atau mungkin berasal dari dia. Kedengarannya seperti tegukan, atau mungkin detak jantung. Untuk sesaat, dia tidak dapat berbicara. Penasaran dengan apa yang hendak dia katakan, aku mengangkat kepalaku, dan saat itulah mataku bertemu dengannya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#98",
+      "text": "“Lalu, saya baru tahu…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#99",
+      "text": "Bzz, bzz. Aku mendengar getaran yang teredam. Ada telepon yang berdering.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 9,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#100",
+      "text": "“Oh…” Yuigahama melirik dompet koin di tangannya tapi mengabaikan teleponnya dan mencoba untuk melanjutkan. “Saya…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#101",
+      "text": "“Bukankah sebaiknya Anda menjawabnya?” Aku menyela, mencegahnya."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#102",
+      "text": "Yuigahama melihat ke arah dompet koin yang dia remas di tangannya. Tapi itu hanya sesaat sebelum dia mengeluarkannya dengan riang, mengangkat kepalanya dengan ta-ha-ha malu-malu. “...Ibuku menelepon. Maaf.” Dia minta diri, mengambil beberapa langkah, dan menjawab telepon. “Ya, ya, aku sudah dekat dengan rumah. Ya, benar. Hah? Tidak apa-apa! Kamu tidak perlu melakukannya! Aku bilang aku akan segera pulang!” Dia dengan keras mengomel tentang sesuatu atau lainnya sebelum menutup telepon pada ibunya. Dia menatap ponselnya dengan cemberut dan kemudian mengembalikannya ke dompet koin. “Aku tinggal di sekitar sini, jadi kamu tidak perlu mengantarku sepanjang perjalanan. Terima kasih sudah datang sejauh ini... S-sampai jumpa!”",
+      "emphasis": [
+        {
+          "start": 159,
+          "end": 167,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#103",
+      "text": "“Oh…”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#104",
+      "text": "“Ya, sampai jumpa. Malam.” Dia melambaikan tangan kecil sebagai ucapan selamat tinggal."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#105",
+      "text": "Aku dengan santainya mengangkat tanganku sebagai balasannya. “Sampai jumpa.”"
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#106",
+      "text": "Sebelum aku selesai menjawab, Yuigahama dengan cepat tap-tap-tappmenyusuri jalan menuju apartemennya. Aku sedikit khawatir dia akan tersandung dan terjatuh, namun dia menghilang begitu saja di gedung apartemen terdekat, dan aku mulai berjalan kembali.",
+      "emphasis": [
+        {
+          "start": 53,
+          "end": 65,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#107",
+      "text": "Saat aku melewati pusat kota dalam perjalanan pulang, kemeriahan festival masih melekat di sekitar aku. Di sana-sini aku melihat para pemabuk dan sekelompok anak muda nongkrong dan bermain-main. Aku terus berada di tepi jalan untuk menghindari mereka dan dengan acuh tak acuh melanjutkan perjalanan. Dengan setiap langkah diam yang aku ambil, kebisingan dan keributan semakin menjauh di kejauhan. Lalu lintas pejalan kaki berkurang, gedung-gedung tinggi menjadi lebih jarang, dan mobil melaju lebih cepat. Lampu depan yang melaju ke arah aku di jalur melaju sangat terang, aku harus berdiri diam dan memalingkan muka."
+    },
+    {
+      "id": "v5-bab-6-chapter006_d-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_d.xhtml#108",
+      "text": "Tapi hanya sesaat. Mataku yang teralihkan pada akhirnya harus menoleh dan menghadap ke depan sekali lagi."
+    }
+  ]
+}

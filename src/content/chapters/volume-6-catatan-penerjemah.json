@@ -1,0 +1,2874 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v6-catatan-penerjemah-appendix001-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/appendix001.xhtml#0",
+      "headingLevel": 2,
+      "text": "Catatan Penerjemah Edisi Inggris"
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-1",
+      "kind": "image",
+      "source": "OEBPS/Text/appendix001.xhtml#../Images/Art_P235.jpg",
+      "src": "assets/chapters/volume-6/catatan-penerjemah/Art_P235.webp",
+      "width": 350,
+      "height": 752,
+      "text": "Hachiman berdiri dengan seragam sekolah."
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-2",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#2",
+      "text": "Proposal Presentasi Festival Budaya Kelas 2-F",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-3",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#3",
+      "text": "1 “…memiliki sulit pendaratan darurat jauh di dalam gurun.” Dalam bahasa Jepang, “crash landing” adalah fujichaku, dan di sini, ditulis dengan fu dari fujoshi, yang berarti “gadis busuk” dan mengacu pada padanan bahasa Jepang dari fangirl tebasan. Mengganti suku kata fu dengan karakter “busuk” adalah jenis permainan kata yang umum di kalangan fujoshi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 12,
+          "style": "strong"
+        },
+        {
+          "start": 13,
+          "end": 18,
+          "style": "strong-em"
+        },
+        {
+          "start": 19,
+          "end": 37,
+          "style": "strong"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "style": "strong-em"
+        },
+        {
+          "start": 43,
+          "end": 59,
+          "style": "strong"
+        },
+        {
+          "start": 104,
+          "end": 113,
+          "style": "em"
+        },
+        {
+          "start": 143,
+          "end": 145,
+          "style": "em"
+        },
+        {
+          "start": 151,
+          "end": 158,
+          "style": "em"
+        },
+        {
+          "start": 268,
+          "end": 270,
+          "style": "em"
+        },
+        {
+          "start": 345,
+          "end": 352,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-4",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#4",
+      "text": "2 “…the shota 'Pangeran'…” Shota mengacu pada karakter pria muda, sering kali dalam konteks ketertarikan kepada mereka. Mitra laki-laki dari loli.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 7,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "style": "strong-em"
+        },
+        {
+          "start": 14,
+          "end": 26,
+          "style": "strong"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-5",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#5",
+      "text": "Bab 0 … Musikal Hina Ebina adalah homoerotik, seperti yang diharapkan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 16,
+          "end": 70,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-6",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#6",
+      "text": "1 “…Indah sekali cerita.” Ii hanashi da naa (cerita yang bagus) adalah meme Internet, semacam cara yang ironis atau sarkastik untuk menunjukkan apresiasi Anda terhadap sebuah cerita. Ini sering dipasangkan dengan seni ASCII dari protagonis manga Ikki Kajiwara Karate Baka Ichidai yang meneteskan air mata jantan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 25,
+          "style": "strong-em"
+        },
+        {
+          "start": 26,
+          "end": 43,
+          "style": "em"
+        },
+        {
+          "start": 260,
+          "end": 279,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-7",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#7",
+      "text": "2 “Jelas tidak.” Sonna wake aru ka desu, secara harfiah berarti “tidak mungkin.” itu benar,“ dengan tambahan kata kopula yang sopan/imut desu di akhir, adalah kutipan dari protagonis anime Kemanusiaan Telah Menolak. Di episode delapan, dia bertemu dengan seorang asisten yang berperilaku sangat keterlaluan, dia berspekulasi bahwa dia pasti berasal dari planet lain dan kemudian melanjutkan pemikiran tersebut dengan ”Tidak mungkin itu benar.“",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 16,
+          "style": "strong-em"
+        },
+        {
+          "start": 17,
+          "end": 40,
+          "style": "em"
+        },
+        {
+          "start": 137,
+          "end": 141,
+          "style": "em"
+        },
+        {
+          "start": 189,
+          "end": 214,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-8",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#8",
+      "text": "3 “Dengan judul seperti itu, saya mengharapkan lebih banyak pertandingan tenis yang over-the-top.” Gelar Jepang untuk Pangeran Kecil adalah Hoshi no Oujisama, yang berarti “pangeran bintang-bintang.” Meskipun myu sering digunakan sebagai kependekan dari “musikal” dalam bahasa Jepang, portmanteau hoshimyu sangat menggugah Tenimyu, musikal Pangeran Tenis, yang jumlahnya sudah lebih dari selusin. Berbeda dengan manga Prince of Tennis, yang seolah-olah shonen, Tenimyu tanpa malu-malu ada di sana untuk memancing para fangirl.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 98,
+          "style": "strong"
+        },
+        {
+          "start": 118,
+          "end": 132,
+          "style": "em"
+        },
+        {
+          "start": 140,
+          "end": 157,
+          "style": "em"
+        },
+        {
+          "start": 209,
+          "end": 212,
+          "style": "em"
+        },
+        {
+          "start": 297,
+          "end": 305,
+          "style": "em"
+        },
+        {
+          "start": 323,
+          "end": 330,
+          "style": "em"
+        },
+        {
+          "start": 340,
+          "end": 354,
+          "style": "em"
+        },
+        {
+          "start": 418,
+          "end": 434,
+          "style": "em"
+        },
+        {
+          "start": 453,
+          "end": 459,
+          "style": "em"
+        },
+        {
+          "start": 461,
+          "end": 468,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-9",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#9",
+      "text": "4 “…Pangeran Kari adalah produk yang terkait…” Lelucon ini juga lebih masuk akal jika mengingat judul Jepang Pangeran Kecil diterjemahkan menjadi Pangeran Bintang. Prince of Curry merupakan merek kari instan yang dipasarkan untuk anak-anak.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 46,
+          "style": "strong"
+        },
+        {
+          "start": 109,
+          "end": 123,
+          "style": "em"
+        },
+        {
+          "start": 146,
+          "end": 162,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-10",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#10",
+      "text": "5 “Tetapi ada satu hal yang berbeda dari naskah ini…” Baris ini merujuk pada narasi pembuka adaptasi Jepang dari acara TV Amerika tahun 1960-an Bewitched (yang populer di Jepang). Kalimat aslinya berbunyi, “Tetapi satu hal yang berbeda dari keluarga mereka…adalah bahwa sang istri adalah seorang penyihir.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 53,
+          "style": "strong"
+        },
+        {
+          "start": 144,
+          "end": 153,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-11",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#11",
+      "text": "6 “…delapan ratus jenis bintang yang berbeda!” Ini mengacu pada kalimat dari Gin Ishida di Prince of Tennis: “Teknik hadoukyuu saya memiliki delapan ratus jenis yang berbeda!”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 46,
+          "style": "strong"
+        },
+        {
+          "start": 91,
+          "end": 107,
+          "style": "em"
+        },
+        {
+          "start": 117,
+          "end": 126,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-12",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#12",
+      "text": "7 “Seorang pilot tertentu dan seorang pangeran mesum…” Ini adalah kombinasi judul dua seri novel ringan: Remembrances for a Some Pilot dan Hentai Prince dan Stony Cat.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 54,
+          "style": "strong"
+        },
+        {
+          "start": 105,
+          "end": 134,
+          "style": "em"
+        },
+        {
+          "start": 139,
+          "end": 166,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-13",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#13",
+      "text": "8 “…Nona Nakal.” Dalam bahasa Jepang, Hachiman berkata, “Fraulein (artinya ‘wanita muda mesum’).” Seperti halnya “pendaratan darurat” di awal cerita, fu dalam pengucapan bahasa Jepang furoirain ditulis dengan karakter “rotten/sesat.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "strong"
+        },
+        {
+          "start": 150,
+          "end": 152,
+          "style": "em"
+        },
+        {
+          "start": 184,
+          "end": 193,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-14",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#14",
+      "text": "9 “…Perusahaan Teater Shiki…” Perusahaan Teater Shiki adalah salah satu grup teater terbesar dan paling terkenal di Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 29,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-15",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#15",
+      "text": "Bab 1 … Di tengah badai, Hachiman Hikigaya terus meluncur.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 24,
+          "style": "strong"
+        },
+        {
+          "start": 25,
+          "end": 42,
+          "style": "strong"
+        },
+        {
+          "start": 43,
+          "end": 58,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-16",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#16",
+      "text": "1 Bonchuu adalah karakter dalam manga Pemimpin Seikimatsu Den Takeshi! (Legenda Pemimpin Akhir Abad Takeshi). Ciri khasnya adalah meneriakkan beberapa variasi pada namanya sendiri ketika dia memukul, seperti “Bonchuuaaaagh!”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 9,
+          "style": "strong"
+        },
+        {
+          "start": 38,
+          "end": 70,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-17",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#17",
+      "text": "2 “…bola terbang di atas Marine Field…” ZOZO Marine Stadium, juga dikenal sebagai Chiba Marine Stadium, adalah sebuah stadion di kota Chiba. Letaknya dekat laut, jadi cukup berangin.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 39,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-18",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#18",
+      "text": "3 “…Saya bertanya-tanya apakah ada Pokémon di bawah sana.” Ini adalah salah satu kalimat dari anime Pokémon orisinal pembuka Jepang, Mezase Pokémon Master: “Tangkap Pokémon itu! / Dari api, dari air, dari rumput, dari hutan / dari hutan bumi, dari awan, dari bawah roknya (eek~!).”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 58,
+          "style": "strong"
+        },
+        {
+          "start": 133,
+          "end": 154,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-19",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#19",
+      "text": "4 “Apakah mereka melakukan pemeliharaan pada jaringan listrikmu sepanjang musim panas atau semacamnya?” Dalam bahasa Jepang, Yuigahama salah mengartikan shakou (pemblokiran cahaya) dengan shakou (kehidupan sosial).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 103,
+          "style": "strong"
+        },
+        {
+          "start": 153,
+          "end": 159,
+          "style": "em"
+        },
+        {
+          "start": 188,
+          "end": 194,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-20",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#20",
+      "text": "5 “Patung tanah liat yang menghalangi cahaya” adalah terjemahan literal dari shakouki doguu, jenis patung tanah liat humanoid tertentu yang dibuat pada periode prasejarah Jepang (periode jomon, 14.000–400 SM).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "strong"
+        },
+        {
+          "start": 77,
+          "end": 92,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-21",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#21",
+      "text": "6 “Wah, itu tadi istilah M-2 yang bagus untuk menjelaskannya.” Sindrom M-2 adalah chuunibyou, atau “penyakit anak sekolah menengah tahun kedua.” Orang-orang yang terkena dampak menjadi asyik dengan fantasi dramatis mereka yang terinspirasi dari anime.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 62,
+          "style": "strong"
+        },
+        {
+          "start": 82,
+          "end": 92,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-22",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#22",
+      "text": "7 “Saya kira bahkan alam terbuka pun bosan dengan hal ini.” Dalam bahasa Jepang asli, onomatopoeianya adalah byoo, yang merupakan cara penutur bahasa Jepang mengucapkan kata view. Hachiman berkata, “Byo, byoo—kamu pasti mengira dia adalah mata-mata JR.” View Plaza adalah nama pusat perjalanan Japan Rail.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 59,
+          "style": "strong"
+        },
+        {
+          "start": 109,
+          "end": 113,
+          "style": "em"
+        },
+        {
+          "start": 174,
+          "end": 178,
+          "style": "em"
+        },
+        {
+          "start": 199,
+          "end": 208,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-23",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#23",
+      "text": "8 “Apakah kamu Lemon-chan atau apa?” Lemon-chan adalah maskot Melon Books, toko buku yang menjual manga, doujinshi, dan barang-barang terkait. Ini mungkin juga merujuk pada antropomorfisasi minuman lemon C.C. Lemon.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 36,
+          "style": "strong"
+        },
+        {
+          "start": 105,
+          "end": 114,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-24",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#24",
+      "text": "9 “Sangat mirip denganmu, Hikikomori-kun.” Seorang hikikomori adalah orang yang tertutup, seseorang yang tidak pernah meninggalkan rumah. Umumnya, mereka lebih muda, dan orang tua mendukung mereka. Terkadang mereka disebut hikki.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "strong"
+        },
+        {
+          "start": 51,
+          "end": 61,
+          "style": "em"
+        },
+        {
+          "start": 223,
+          "end": 228,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-25",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#25",
+      "text": "10 “…Amaterasu Oomikami menutup diri sepenuhnya.” Dalam mitos Shinto, Amaterasu, dewi matahari, mengunci dirinya di Ama-no-Iwato (gua batu surgawi) karena marah dan sedih karena kakaknya Perbuatan buruk Susano-o.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 49,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-26",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#26",
+      "text": "11 “…Aku akan menjadi dewa dunia baru.” Ini adalah kutipan terkenal dari Light Yagami, protagonis manga Death Note.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 39,
+          "style": "strong"
+        },
+        {
+          "start": 104,
+          "end": 114,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-27",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#27",
+      "text": "12 “…seperti api yang menyala-nyala!” Di sini, Hachiman mengatakan rekka no honoo, yang secara harafiah berarti “api yang menyala-nyala”, tetapi itu juga merupakan nama manga karya Nobuyuki Anzai, yang diterjemahkan dengan judul Flame of Recca.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 37,
+          "style": "strong"
+        },
+        {
+          "start": 67,
+          "end": 81,
+          "style": "em"
+        },
+        {
+          "start": 229,
+          "end": 244,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-28",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#28",
+      "text": "13 Osamu Dazai adalah seorang penulis terkenal Jepang abad kedua puluh dan penulis No Longer Human, sebuah novel dengan elemen otobiografi. Umumnya tentang depresi dan kesengsaraan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 14,
+          "style": "strong"
+        },
+        {
+          "start": 83,
+          "end": 98,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-29",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#29",
+      "text": "14 “Angin menyeretku pergi, ah, seperti kapal pesiar.” Ini merujuk pada puisi “Bumi” karya Tatsuji Miyoshi, seorang penyair abad ke-20: “Semut pergi / menyeret sayap kupu-kupu / ah / seperti a kapal pesiar.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 3,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 54,
+          "style": "strong-em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-30",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#30",
+      "text": "Bab 2 … Minami Sagami secara agresif membuat permintaan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 21,
+          "style": "strong"
+        },
+        {
+          "start": 22,
+          "end": 56,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-31",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#31",
+      "text": "1 “Tetapi itu tidak terjadi…” Dalam bahasa Jepang, ini berbunyi, “Di atas sebaliknya, dosukoi!” mengacu pada stiker LINE pegulat sumo yang memberikan pandangan sekilas kepada pemirsa. Dosukoi adalah frasa tidak bermakna yang digunakan pegulat sumo untuk mengintimidasi lawannya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 29,
+          "style": "strong"
+        },
+        {
+          "start": 86,
+          "end": 94,
+          "style": "em"
+        },
+        {
+          "start": 184,
+          "end": 191,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-32",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#32",
+      "text": "2 “…matahari bersinar terang dan sempurna di langit, dan aku melakukannya, hebat sekali.” Ini adalah baris dari “We Gotta Power,” lagu tema pembuka kedua dari anime Dragon Ball Z.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 89,
+          "style": "strong"
+        },
+        {
+          "start": 165,
+          "end": 178,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-33",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#33",
+      "text": "3 Kiteretsu Daihyakka (Kiteretsu Encyclopedia) adalah manga anak-anak yang sudah berjalan lama karya Fujiko F. Fujio. Lagu tema pembuka kelima untuk anime ini berjudul “Lack of Sleep.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 21,
+          "style": "strong-em"
+        },
+        {
+          "start": 23,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-34",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#34",
+      "text": "4 “…of the year?” Sayaka Suzuki dari Pani Poni memiliki kebiasaan khusus menambahkan “of the year” ke berbagai deskripsi orangnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 17,
+          "style": "strong"
+        },
+        {
+          "start": 37,
+          "end": 46,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-35",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#35",
+      "text": "5 “Jika Totsuka sedang memegang roti di mulutnya…” Sebuah klise manga shoujo.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 50,
+          "style": "strong"
+        },
+        {
+          "start": 70,
+          "end": 76,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-36",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#36",
+      "text": "6 “…melirik ke arahku.” Ini mengacu pada keterampilan “Leer” dari permainan Pokémon, yang mengurangi pertahanan musuh.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 23,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-37",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#37",
+      "text": "7 “Bahkan London dengan langit yang membosankan pun berubah menjadi Paris…” Baris ini diambil dari lagu penutup, “Que Sera, Sera,” dari Ashita no Nadja (Tomorrow’s Nadja).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 3,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 74,
+          "style": "strong-em"
+        },
+        {
+          "start": 74,
+          "end": 75,
+          "style": "strong"
+        },
+        {
+          "start": 136,
+          "end": 151,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-38",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#38",
+      "text": "8 “Gyawaa! Ini adalah konspirasi!” Kalimat ini berasal dari Ayah, protagonis alien misterius dalam manga Shinsei Motemote Oukoku (Kerajaan Suci Seksi) karya Ken Nagai.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 3,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 10,
+          "style": "strong-em"
+        },
+        {
+          "start": 11,
+          "end": 34,
+          "style": "strong"
+        },
+        {
+          "start": 105,
+          "end": 128,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-39",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#39",
+      "text": "9 “Itu perang…! Tidak dihitung…! Tidak dihitung!” Di musim kedua anime perjudian Kaiji, salah satu karakter dalam acara tersebut tertangkap basah karena berbuat curang dan berteriak, “Itu tidak dihitung! Tidak dihitung!”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 49,
+          "style": "strong"
+        },
+        {
+          "start": 81,
+          "end": 86,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-40",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#40",
+      "text": "10 “…meratakan kerutan di masing-masing tangan adalah kebahagiaan.” Ini dari iklan untuk Hasegawa, sebuah perusahaan yang membuat altar Buddha di rumah (digunakan untuk mendoakan anggota keluarga yang telah meninggal).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 67,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-41",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#41",
+      "text": "11 “Naamuu.” Kependekan dari Namu Amida Butsu, atau Amitabha. Pengulangan nama Buddha ini dengan penuh perhatian adalah bagian utama dari Buddhisme Tanah Suci, salah satu bentuk agama Buddha yang paling banyak dipraktikkan di Asia. Di Jepang, naamuu sering kali hanya merupakan singkatan sehari-hari untuk segala bentuk doa Buddha.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 4,
+          "style": "strong"
+        },
+        {
+          "start": 4,
+          "end": 11,
+          "style": "strong-em"
+        },
+        {
+          "start": 11,
+          "end": 12,
+          "style": "strong"
+        },
+        {
+          "start": 29,
+          "end": 45,
+          "style": "em"
+        },
+        {
+          "start": 243,
+          "end": 249,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-42",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#42",
+      "text": "12 “Selesaikan kerutanmu sebelum mengerjakan milikku.” Dalam bahasa Jepang, kalimat ini berbunyi, “Kerut-kerut itu menyatu,” yang merupakan ungkapan yang berarti “Saya melihat konsekuensi negatifnya.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 54,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-43",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#43",
+      "text": "13 “…apakah kamu lahir di kuil?” Ini adalah referensi ke copypasta Internet bernama “T-san, yang lahir di kuil.” T-san benar-benar luar biasa dan menyelesaikan fenomena aneh satu demi satu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 32,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-44",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#44",
+      "text": "14 “Sekarang, sekarang. Silakan, Kacamata.” Maa, maa, megane douzo adalah kalimat dari Haruna Kamijou, karakter dalam game sosial The Idolmaster: Cinderella Girls. Dalam konteks permainan, itu berarti, “Sekarang, silakan [dan ambil] kacamata ini,” dan itu menjadi semacam meme bahwa dia memaksakan kacamata pada orang-orang. Arti dalam konteks ini berbeda, dan dia menggunakan kacamata sebagai bentuk sapaan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 3,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 43,
+          "style": "strong-em"
+        },
+        {
+          "start": 44,
+          "end": 66,
+          "style": "em"
+        },
+        {
+          "start": 130,
+          "end": 162,
+          "style": "em"
+        },
+        {
+          "start": 377,
+          "end": 385,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-45",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#45",
+      "text": "15 “Sepertinya satu-satunya jenis kapal yang aku punya hanyalah aku/Totsuka.” Dalam bahasa Jepang, Hachiman membuat permainan kata-kata dengan pelafalan bahasa Jepang yaitu “kepemimpinan” (liidaashippu) dan “kompres dingin” (reikanshippu).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 77,
+          "style": "strong"
+        },
+        {
+          "start": 189,
+          "end": 201,
+          "style": "em"
+        },
+        {
+          "start": 225,
+          "end": 237,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-46",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#46",
+      "text": "16 “Apakah ini Jigoku no Misawa sekarang?” Jigoku no Misawa adalah seorang komikus yang pandai menggambar orang-orang menjengkelkan yang mengatakan hal-hal menjengkelkan, terutama yang banyak menyombongkan diri.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-47",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#47",
+      "text": "17 “…akhiri kalimat itu dengan Sampai jumpa, teman-teman!” Dalam bahasa Jepang, ini adalah jaano, yang berarti “sampai jumpa” dalam dialek Hiroshima. Jaano menjadi populer ketika mantan petinju pro dan juara dunia kelahiran Hiroshima, Shinji Takehara, selalu mengakhiri postingan blognya dengan kata tersebut, sehingga memiliki citra yang lebih kuat dan macho daripada arti aslinya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 30,
+          "style": "strong"
+        },
+        {
+          "start": 31,
+          "end": 57,
+          "style": "strong-em"
+        },
+        {
+          "start": 57,
+          "end": 58,
+          "style": "strong"
+        },
+        {
+          "start": 91,
+          "end": 96,
+          "style": "em"
+        },
+        {
+          "start": 150,
+          "end": 155,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-48",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#48",
+      "text": "18 “Ketua Komite: Sumo.” Meguri melakukan kesalahan dengan kanji di nama Sagami. Seharusnya (diucapkan “Sagami”), tetapi sebaliknya, dia menulis (sumo), yang terlihat sangat mirip. E. Honda adalah karakter dari seri video game Street Fighter dan pegulat sumo.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 3,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 24,
+          "style": "strong-em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-49",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#../Images/Art_P243a.jpg",
+      "text": "相模"
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-50",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#../Images/Art_P243b.jpg",
+      "text": "相撲"
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-51",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#51",
+      "text": "19 “…namun, bawalah irama dengan beberapa alat musik. Untan ♪, untan. ♪” Ini mengacu pada sebuah adegan dalam anime band Kei-On! Dalam bahasa Jepang, baris ini adalah plesetan antara “transport” (unpan) dan untan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 53,
+          "style": "strong"
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "style": "strong-em"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "style": "strong-em"
+        },
+        {
+          "start": 71,
+          "end": 72,
+          "style": "strong"
+        },
+        {
+          "start": 121,
+          "end": 128,
+          "style": "em"
+        },
+        {
+          "start": 196,
+          "end": 201,
+          "style": "em"
+        },
+        {
+          "start": 207,
+          "end": 212,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-52",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#52",
+      "text": "20 “… atau wanyaka pappa yun-pappa.” Ini adalah lirik dari lagu Galaxy Angel “Egaite A-so-bo!” Kata dalam bahasa Jepang untuk “lembut” dan “halus”, honwaka dan funwari, terdengar lebih mirip suku kata yang tidak masuk akal ini dibandingkan dengan bahasa Inggris.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 10,
+          "style": "strong"
+        },
+        {
+          "start": 11,
+          "end": 34,
+          "style": "strong-em"
+        },
+        {
+          "start": 34,
+          "end": 36,
+          "style": "strong"
+        },
+        {
+          "start": 64,
+          "end": 76,
+          "style": "em"
+        },
+        {
+          "start": 148,
+          "end": 155,
+          "style": "em"
+        },
+        {
+          "start": 160,
+          "end": 167,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-53",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#53",
+      "text": "21 “…Fight! Fight! Chiba!…” Ini adalah lagu dari Jaguar, seorang musisi yang sebagian besar aktif di prefektur Chiba, dengan semacam estetika visual-kei tahun 1980-an dan suara nyanyian yang tenang dan berbisik.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 27,
+          "style": "strong"
+        },
+        {
+          "start": 149,
+          "end": 152,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-54",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#54",
+      "text": "22 “…Maksudku bukan yang dari Pyu hingga Fuku…” Pyu hingga Fuku! Jaguar adalah manga lelucon tentang perekam, calon musisi, dan kehidupan sehari-hari mereka.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 29,
+          "style": "strong"
+        },
+        {
+          "start": 30,
+          "end": 45,
+          "style": "strong-em"
+        },
+        {
+          "start": 45,
+          "end": 47,
+          "style": "strong"
+        },
+        {
+          "start": 48,
+          "end": 71,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-55",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#55",
+      "text": "23 “…berkilau, berkilauan…gunting-batu-kertas…” Gunting-kertas-batu yang berkilau, berkilauan adalah slogan Cure Peace dari anime Smile Pretty Cure!",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 47,
+          "style": "strong"
+        },
+        {
+          "start": 48,
+          "end": 93,
+          "style": "em"
+        },
+        {
+          "start": 130,
+          "end": 148,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-56",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#56",
+      "text": "24 “…sangat sporadis sehingga saya mulai bertanya-tanya apakah saya berada di ladang jamur.” Dalam teks asli bahasa Jepang, permainan kata-kata di sini adalah antara “sporadis” (sanpatsu) dan “potongan rambut” (sanpatsu). Hachiman berkata, “Percakapannya sangat sporadis, bahkan seorang penata rambut pun tidak akan sering memotong rambut.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 92,
+          "style": "strong"
+        },
+        {
+          "start": 178,
+          "end": 186,
+          "style": "em"
+        },
+        {
+          "start": 211,
+          "end": 219,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-57",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#57",
+      "text": "Bab 3 … Musikal Hina Ebina adalah homoerotik, seperti yang diharapkan. (Bagian 2)",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 16,
+          "end": 81,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-58",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#58",
+      "text": "1 “…stud-studded…” Bahasa Jepang di sini adalah referensi ke Doki! Marugoto Mizugi! Onna Darake no Suiei Taikai (Mendebarkan jantung! Semua pakaian renang! Pertunjukan renang khusus perempuan!), sebuah spin-off dari variety show bintang pop Swimming Show yang dimulai pada tahun 1970, dengan renang sebagai temanya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 18,
+          "style": "strong"
+        },
+        {
+          "start": 61,
+          "end": 111,
+          "style": "em"
+        },
+        {
+          "start": 241,
+          "end": 254,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-59",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#59",
+      "text": "2 “…aneh—er, dengan tegas—” Ini adalah contoh lain dari permainan kata fu, di mana kata fu pada kata “tebal” (futeki) diganti dengan karakter yang berarti “busuk/sesat.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 27,
+          "style": "strong"
+        },
+        {
+          "start": 71,
+          "end": 73,
+          "style": "em"
+        },
+        {
+          "start": 88,
+          "end": 90,
+          "style": "em"
+        },
+        {
+          "start": 110,
+          "end": 116,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-60",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#60",
+      "text": "3 “…yang dapat dikenali dari langkah kakinya adalah Tarao…” Tarao, sering disebut sebagai Tara-chan, adalah putra Sazae-san dalam serial manga dan anime Sazae-san yang sudah berjalan lama. Efek suara untuk langkah kaki adalah semacam suara berderak dan mencicit seperti kartun.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 59,
+          "style": "strong"
+        },
+        {
+          "start": 153,
+          "end": 162,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-61",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#61",
+      "text": "4 “…memilih seperti pokasuka-jyan.” Pokasuka-Jyan adalah trio komedian yang menggunakan alat musik terutama untuk membuat lelucon yang berorientasi pada musik. Pokasuka-jyan juga merupakan sejenis onomatopoeia untuk memetik dengan liar.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 19,
+          "style": "strong"
+        },
+        {
+          "start": 20,
+          "end": 33,
+          "style": "strong-em"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "style": "strong"
+        },
+        {
+          "start": 160,
+          "end": 173,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-62",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#62",
+      "text": "5 “…bom-boko-bom-boko—apa, apakah ini pertarungan tanuki?” Judul Jepang dari film Studio Ghibli Pom Poko adalah Pertempuran Tanuki Era Heisei: Pom Poko. Perubahan menjadi bom dari pom menyiratkan suara yang lebih rendah dan lebih berat.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 4,
+          "style": "strong"
+        },
+        {
+          "start": 4,
+          "end": 21,
+          "style": "strong-em"
+        },
+        {
+          "start": 21,
+          "end": 58,
+          "style": "strong"
+        },
+        {
+          "start": 96,
+          "end": 104,
+          "style": "em"
+        },
+        {
+          "start": 112,
+          "end": 151,
+          "style": "em"
+        },
+        {
+          "start": 171,
+          "end": 174,
+          "style": "em"
+        },
+        {
+          "start": 180,
+          "end": 183,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-63",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#63",
+      "text": "6 “Unlimited Double Works…” Ini mengacu pada Unlimited Blade Works, kemampuan spesial dari protagonis novel visual Fate/stay night dan nama dari Fate pertama movie.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 27,
+          "style": "strong-em"
+        },
+        {
+          "start": 115,
+          "end": 130,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-64",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#64",
+      "text": "7 “What Marble Phantasm.” Di alam semesta Type-Moon (yang mencakup seri Fate), “Marble Phantasm” adalah kemampuan khusus untuk mewujudkan sebuah phantasm, untuk mengonfigurasikan dunia sesuai dengan visi Anda tentangnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 25,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-65",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#65",
+      "text": "8 “Tapi aku tidak bisa menghela napas. Aku hanya tidak ingin mendapatkan pekerjaan.” Ini adalah referensi ke beberapa lirik dari lagu pembuka anime Attack No. 1, anime shoujo akhir tahun 1960-an tentang bola voli, dan anime olahraga perempuan pertama yang ditayangkan di televisi. Kalimatnya adalah “Tetapi air mataku lolos. Maksudku, aku seorang perempuan.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 38,
+          "style": "strong"
+        },
+        {
+          "start": 39,
+          "end": 83,
+          "style": "strong-em"
+        },
+        {
+          "start": 83,
+          "end": 84,
+          "style": "strong"
+        },
+        {
+          "start": 148,
+          "end": 160,
+          "style": "em"
+        },
+        {
+          "start": 168,
+          "end": 174,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-66",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#66",
+      "text": "9 “Apa sumber dari perbedaan ini...? Kebanggaan, dan lingkungan yang berbeda...” Ini adalah meme Internet yang berasal dari artikel surat kabar tentang pemain bisbol. Ada thread di 2ch yang juga menggunakan nama ini, sehingga baris ini sering digunakan secara online saat membuat perbandingan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 80,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-67",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#67",
+      "text": "10 “YuruYuri adalah satu hal, tetapi jika itu sepenuhnya yuri, I tidak bisa sepenuhnya mendukungmu di sana.” YuruYuri adalah serial manga dan anime tentang sekelompok gadis di Klub Hiburan sekolah menengah mereka.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 12,
+          "style": "strong"
+        },
+        {
+          "start": 13,
+          "end": 56,
+          "style": "strong-em"
+        },
+        {
+          "start": 57,
+          "end": 61,
+          "style": "strong"
+        },
+        {
+          "start": 61,
+          "end": 62,
+          "style": "strong-em"
+        },
+        {
+          "start": 63,
+          "end": 107,
+          "style": "strong-em"
+        },
+        {
+          "start": 107,
+          "end": 108,
+          "style": "strong"
+        },
+        {
+          "start": 109,
+          "end": 117,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-68",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#68",
+      "text": "11 “Dengarkan dengan takjub! Bersujudlah dengan penuh perhatian!” Ini adalah bermain dengan slogan Anak Oni Trio dari anime anak-anak Ojarumaru. Ketika mereka berdiri di sebuah menara, mereka berseru, “Dengarkan dan takjublah!” “Lihat dan tertawa!” dan “Kami adalah antek Raja Agung Enma!”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 65,
+          "style": "strong"
+        },
+        {
+          "start": 134,
+          "end": 143,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-69",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#69",
+      "text": "12 “…mereka menjadikan yang berbaju hitam sebagai karakter utama…” Nagisa Misumi, juga dikenal sebagai Cure Black, adalah salah satu protagonis di Futari wa Pretty Cure, anime gadis penyihir.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 66,
+          "style": "strong"
+        },
+        {
+          "start": 147,
+          "end": 169,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-70",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#70",
+      "text": "Bab 4 … Tiba-tiba, Haruno Yukinoshita menyerang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 18,
+          "style": "strong"
+        },
+        {
+          "start": 19,
+          "end": 37,
+          "style": "strong"
+        },
+        {
+          "start": 38,
+          "end": 48,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-71",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#71",
+      "text": "1 “Kamu terlihat seperti ibu rumah tangga…” Secara tradisional, di Jepang, ibu rumah tangga mengurus seluruh keuangan keluarga, menerima gaji suaminya secara penuh, mengatur semua pengeluaran, dan membagikan uang saku kepadanya. Ini dianggap sebagai urusan rumah tangga dan oleh karena itu merupakan pekerjaan perempuan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 43,
+          "style": "strong-em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-72",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#72",
+      "text": "2 “Kami mengandalkanmu…” Dalam bahasa Jepang, dia mengucapkan yoroyoro dan bukannya yoroshiku (mengandalkanmu), yang merupakan kekhasan verbal dari karakter Ami Futami di The Idolmaster.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 24,
+          "style": "strong"
+        },
+        {
+          "start": 62,
+          "end": 70,
+          "style": "em"
+        },
+        {
+          "start": 84,
+          "end": 93,
+          "style": "em"
+        },
+        {
+          "start": 171,
+          "end": 185,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-73",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#73",
+      "text": "3 “Tetapi insiden tidak terjadi di ruang konferensi. Itu terjadi di tempat kejadian.” Ini adalah kalimat dari Odoru Daisousasen (Bayside Shakedown), sebuah drama polisi. Ketika ada kesempatan untuk menangkap pelakunya, petinggi memerintahkan protagonis untuk menunggu sampai penyelidik dari kantor pusat muncul sehingga mereka dapat mengambil pujian atas upaya tersebut. Sang protagonis, Aoshima, merespons dengan kalimat ini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 85,
+          "style": "strong"
+        },
+        {
+          "start": 110,
+          "end": 127,
+          "style": "em"
+        },
+        {
+          "start": 129,
+          "end": 146,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-74",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#74",
+      "text": "4 “…Saya pikir dia berbicara tentang robot super…” Hachiman mengacu pada Super Robot Wars: Original Generation, RPG era GBA dalam franchise Super Robot Wars.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 50,
+          "style": "strong"
+        },
+        {
+          "start": 73,
+          "end": 110,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-75",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#75",
+      "text": "5 “…mengungkapkan sejarahnya dengan geng…” Dalam bahasa Jepang, dia mengatakan “daging Australia,” karena dalam bahasa Jepang, Aussie diucapkan seperti “OG.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "strong"
+        },
+        {
+          "start": 127,
+          "end": 133,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-76",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#76",
+      "text": "6 “Apakah ini akhir abad ini?” Manga Fist of the North Star berlatarkan lanskap apokaliptik di akhir abad ini, dan frasa akhir abad selalu dilontarkan dalam cerita. Fist of the North Star juga terkenal karena memiliki banyak efek suara teriakan yang aneh dan diciptakan, termasuk hya-hah, tangisan kegembiraan yang Anda dengar dari berbagai karakter kecil.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 30,
+          "style": "strong-em"
+        },
+        {
+          "start": 37,
+          "end": 59,
+          "style": "em"
+        },
+        {
+          "start": 121,
+          "end": 131,
+          "style": "em"
+        },
+        {
+          "start": 165,
+          "end": 187,
+          "style": "em"
+        },
+        {
+          "start": 280,
+          "end": 287,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-77",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#77",
+      "text": "7 “…Dekrit Kembali Bertani.” Ini adalah perintah shogun pada tahun 1700-an yang diberikan kepada para petani yang memilikinya. meninggalkan pertanian mereka untuk pergi ke kota karena alasan ekonomi terpaksa kembali ke pertanian mereka dan melakukan pekerjaan pertanian.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 28,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-78",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#78",
+      "text": "8 “Taka, taka, taka. TAAAN!” Ini mengacu pada manga tertentu oleh seniman komedi Jigoku no Misawa, dalam salah satu seri lelucon satu panelnya yang menampilkan orang yang melakukan hal-hal yang agak menjengkelkan. Dalam komik ini, seorang pria mengetuk dan membanting tombol enter dengan keras dengan efek suara yang berbeda taan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 28,
+          "style": "strong-em"
+        },
+        {
+          "start": 325,
+          "end": 329,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-79",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#79",
+      "text": "9 “…bukan?! Tidaaaak!” Kata-kata dalam frasa ini, yang lebih jelas dalam bahasa Jepang, merujuk pada meme Internet yang berbunyi, “Musim hujan berakhir kemarin?! Tidak akan hujan lagi? Yaaay! dengan baris berikutnya, ”Musim hujan belum berakhir, kan?! Tidaaaak!“ Meme tersebut sering kali disertai dengan seni ASCII. Hal ini bermula dari wawancara singkat NHK dengan seorang pengunjung pantai.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 22,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-80",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#80",
+      "text": "10 “…senioritas berdasarkan masa kerja.” Secara tradisional, di perusahaan Jepang, promosi sebagian besar didasarkan pada usia (yang setara dengan masa kerja di perusahaan, karena merupakan tradisi untuk hanya menerima lulusan universitas baru sebagai karyawan baru), bukan kompetensi, dan Anda wajib mengikuti perintah dari siapa pun yang telah bekerja di perusahaan lebih lama dari Anda. Tradisi ini juga perlahan-lahan mati.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 40,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-81",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#81",
+      "text": "11 “Saya Bisa Menjadi Budak Perusahaan!” Ini adalah referensi ke novel ringan Nareru! SE (Saya bisa menjadi insinyur sistem!) oleh Natsumi Kouji.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 40,
+          "style": "strong"
+        },
+        {
+          "start": 78,
+          "end": 88,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-82",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#82",
+      "text": "Bab 5 … Meguri Shiromeguri sangat dianggap remeh.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 26,
+          "style": "strong"
+        },
+        {
+          "start": 27,
+          "end": 49,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-83",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#83",
+      "text": "1 “…Karakteristik Nama Genre…” Hachiman memparodikan seri RPG Tales dan tradisi mereka yang memberikan setiap orang “Nama Genre Karakteristik” (istilah yang diciptakan oleh produser) seperti “RPG untuk menegakkan keadilan” (Vesperia), “RPG untuk mengetahui arti dari kelahiran seseorang” (Abyss), “RPG disebut takdir,” (Takdir), dll.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 30,
+          "style": "strong"
+        },
+        {
+          "start": 224,
+          "end": 232,
+          "style": "em"
+        },
+        {
+          "start": 289,
+          "end": 294,
+          "style": "em"
+        },
+        {
+          "start": 320,
+          "end": 326,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-84",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#84",
+      "text": "2 “…Itu akuuu!” Baris ini berasal dari Youji Haneda dari novel visual Kita tanpa Sayap. Kalimat ini berasal dari saat dia mengajak temannya menelepon seseorang dan mengajaknya bicara, lalu terungkap bahwa itu hanya panggilan iseng dari Youji.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 15,
+          "style": "strong"
+        },
+        {
+          "start": 70,
+          "end": 86,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-85",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#85",
+      "text": "3 “Karena sebagian besar nama panggilan ditulis dalam huruf katakana atau hiragana fonetik, karakter kanji formal menonjol seperti jempol yang sakit.” Semua nama keluarga Jepang, dan sebagian besar nama depan orang Jepang, ditulis dalam kanji (Karakter Cina). Menulis nama dalam hiragana atau katakana, suku kata fonetik bahasa Jepang, membuatnya terlihat lebih lembut dan mirip nama panggilan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 150,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-86",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#86",
+      "text": "4 “Terlebih lagi, mereka bahkan menambahkan sedikit kun kehormatan dalam katakana…” Kun adalah kehormatan standar untuk laki-laki yang statusnya setara atau lebih rendah, dan menambahkannya di akhir nama semua teman laki-laki Anda dianggap sopan. Biasanya ditulis dalam kanji, jadi menulisnya dalam katakana hanyalah upaya terang-terangan untuk membuatnya terlihat lebih seperti nama panggilan yang familiar padahal itu benar-benar digunakan untuk semua orang. Dalam seri ini, sebagian besar orang di kelas Hikigaya menyebutnya menggunakan sebutan kehormatan ini, sebagai “Hikitani-kun.” Gelar kehormatan umumnya dihilangkan dari novel-novel ini demi keterbacaan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 51,
+          "style": "strong"
+        },
+        {
+          "start": 52,
+          "end": 55,
+          "style": "strong-em"
+        },
+        {
+          "start": 56,
+          "end": 83,
+          "style": "strong"
+        },
+        {
+          "start": 84,
+          "end": 87,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-87",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#87",
+      "text": "5 Mother Farm adalah taman hiburan bertema pertanian di prefektur Chiba, sedangkan Orandaya adalah bisnis berbasis di Chiba yang membuat kue-kue manis ala Eropa dan manisan ala Jepang (wagashi).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 13,
+          "style": "strong"
+        },
+        {
+          "start": 83,
+          "end": 91,
+          "style": "strong"
+        },
+        {
+          "start": 185,
+          "end": 192,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-88",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#88",
+      "text": "6 “…pasti makan jeli terjemahan…” Jeli terjemahan, disebut honyaku konnyaku dalam bahasa Jepang (terjemahan konjac), adalah item dalam anime anak-anak Doraemon yang diambil oleh karakter tituler dari saku perutnya. Saat dimakan, Anda bisa mengerti bahasa apa pun.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 33,
+          "style": "strong"
+        },
+        {
+          "start": 59,
+          "end": 75,
+          "style": "em"
+        },
+        {
+          "start": 151,
+          "end": 159,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-89",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#89",
+      "text": "7 “Saya tidak mengerti apa yang terjadi di sini. Saya tidak mengerti, Masked Niyander.” Lelucon asli di sini adalah bagian dari judul anime anak-anak Nyani ga Nyandaa Nyandaa Kamen, yang secara longgar diterjemahkan menjadi “Saya tidak mengerti, Niyander Bertopeng” dengan suara meong disisipkan di semua kata. Karena judulnya sangat sulit diterjemahkan, umumnya judul tersebut dilokalkan sebagai Niyander Bertopeng Kucing Perkasa.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 87,
+          "style": "strong-em"
+        },
+        {
+          "start": 150,
+          "end": 180,
+          "style": "em"
+        },
+        {
+          "start": 397,
+          "end": 430,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-90",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#90",
+      "text": "8 “…Setelah dua giliran, saya akan mengembalikannya kepada Anda dua kali lipat.” Ini mengacu pada keterampilan “Bide” dalam permainan Pokémon, yang melakukan persis seperti yang dijelaskan Hachiman.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 80,
+          "style": "strong-em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-91",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#91",
+      "text": "9 “Jangan meremehkan kekuatan mata Jagan…” Ini adalah kalimat dari Hiei di manga Yu Yu Hakusho. Mata ketiganya (sering disebut jagan dalam terjemahan, yang secara harfiah berarti “mata jahat”) memberinya sejumlah kemampuan supernatural.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "strong"
+        },
+        {
+          "start": 81,
+          "end": 94,
+          "style": "em"
+        },
+        {
+          "start": 127,
+          "end": 132,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-92",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#92",
+      "text": "10 “Lagi pula, tidak ada tempat duduk untukmu!” Ini adalah kalimat dari Midori Iwamoto dalam J-drama Life. Dia mengucapkan hal ini kepada mantan “teman buruknya”, Manami Anzai, saat dia membuang meja dan kursinya yang bertanda grafiti ke luar jendela kelas.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 3,
+          "style": "strong"
+        },
+        {
+          "start": 3,
+          "end": 47,
+          "style": "strong-em"
+        },
+        {
+          "start": 101,
+          "end": 105,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-93",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#93",
+      "text": "11 “Itu sangat kurang ajar sehingga saya mulai bertanya-tanya apakah dia mengambil kelas pengerjaan logam.” Permainan kata asli di sini didasarkan pada kata dalam bahasa Jepang rokotsu, yang berarti “tumpul” atau “mencolok.” Karakter dalam kata tersebut secara harfiah berarti “tulang yang terbuka”. Hachiman mengatakan, “Tulang-tulangnya begitu terbuka, seperti, Dari mana tengkorak ini berasal?”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 107,
+          "style": "strong"
+        },
+        {
+          "start": 177,
+          "end": 184,
+          "style": "em"
+        },
+        {
+          "start": 364,
+          "end": 396,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-94",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#94",
+      "text": "Bab 6 … Tidak seperti biasanya, Yui Yuigahama marah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 31,
+          "style": "strong"
+        },
+        {
+          "start": 32,
+          "end": 45,
+          "style": "strong"
+        },
+        {
+          "start": 46,
+          "end": 52,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-95",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#95",
+      "text": "1 “…bahkan penyair terkenal yang bekerja terlalu keras, Takuboku Ishikawa, harus mengakuinya.” Takuboku Ishikawa adalah seorang penyair awal abad ke-20 yang meninggal dalam usia muda karena tuberkulosis. Terlalu banyak bekerja merupakan penyebab kematiannya. Salah satu puisinya berbunyi, “Saya bekerja / dan bekerja namun hidup saya / tetap / miskin seperti biasa / Saya menatap tangan saya.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 94,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-96",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#96",
+      "text": "2 “Menyenangkan! Sangat menyenangkan!” Slogan aslinya adalah Enak! Enak sekali! Juumangoku Manjuu. Manjuu adalah sejenis roti manis. Perusahaan ini, seperti yang dikatakan Hachiman, berbasis di prefektur Saitama.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 38,
+          "style": "strong-em"
+        },
+        {
+          "start": 61,
+          "end": 105,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-97",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#97",
+      "text": "3 “Persahabatan / Upaya / Kemenangan” Nilai-nilai ini umumnya dikenal sebagai “nilai-nilai Shonen Jump,” yaitu nilai-nilai yang dicari dalam manga yang dimuat di majalah yang sangat populer Weekly Shonen Jump (judul seperti One Piece, Slam Dunk, dan Hunter X Hunter).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 37,
+          "style": "strong-em"
+        },
+        {
+          "start": 91,
+          "end": 102,
+          "style": "em"
+        },
+        {
+          "start": 190,
+          "end": 208,
+          "style": "em"
+        },
+        {
+          "start": 224,
+          "end": 233,
+          "style": "em"
+        },
+        {
+          "start": 235,
+          "end": 244,
+          "style": "em"
+        },
+        {
+          "start": 250,
+          "end": 265,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-98",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#98",
+      "text": "4 “…Hakkou Ichiu.” Hakkou Ichiu adalah slogan Kekaisaran Jepang. Arti harfiahnya dalam konteks aslinya, Nihon Shoki, kira-kira adalah “Saya akan melintasi delapan penjuru dan menjadikannya tempat tinggal saya” (mengacu pada kaisar). Hal ini kemudian digunakan sebagai pembenaran bagi ekspansi imperialis, yang pada dasarnya merupakan “takdir nyata” versi Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 18,
+          "style": "strong-em"
+        },
+        {
+          "start": 19,
+          "end": 31,
+          "style": "em"
+        },
+        {
+          "start": 104,
+          "end": 115,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-99",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#99",
+      "text": "5 “Apakah dia membuat manisan karamel di sana?” Hanabatake Bokujou (artinya “ladang bunga”) adalah nama merek untuk manisan karamel. Bagian dalam kepala seseorang menjadi ladang bunga adalah ungkapan Jepang yang menggambarkan seseorang yang optimis tanpa berpikir panjang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 47,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-100",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#100",
+      "text": "6 “…karakter untuk ‘orang’ adalah dua orang yang bersandar satu sama lain…” Hachiman mengacu pada kanji untuk “orang,” yang terlihat seperti tulang harapan, atau V terbalik. Ini adalah kutipan terkenal dari guru Tuan Kenpachi dalam J-drama 3-nen B-gumi Kinpachi-sensei, sebuah drama guru klasik tentang sekolah menengah dengan banyak Episode Sangat Spesial, mirip dengan Degrassi Jepang. Secara linguistik, ini sebenarnya bukanlah asal usul karakter tersebut, melainkan interpretasi pop modern.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 75,
+          "style": "strong"
+        },
+        {
+          "start": 162,
+          "end": 163,
+          "style": "em"
+        },
+        {
+          "start": 240,
+          "end": 268,
+          "style": "em"
+        },
+        {
+          "start": 371,
+          "end": 379,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-101",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#101",
+      "text": "7 “Chiba terkenal dengan tarian dan festivalnya!” Ini adalah baris dari “Chiba Ondo,” sebuah lagu dan tarian bergaya tradisional yang merupakan tarian resmi prefektur Chiba. Setiap daerah di Jepang mempunyai tarian seperti ini yang biasanya dilakukan oleh para sukarelawan saat festival lokal.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 49,
+          "style": "strong-em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-102",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#102",
+      "text": "8 “Waktuku sekarang!” Ini adalah kutipan terkenal dari Sakuragi, protagonis dari manga bola basket Slam Dunk. Baris lengkapnya adalah “Kapan hari-hari kejayaanmu, pak tua? Dulu saat nasional? Waktuku... Waktuku sekarang!”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 21,
+          "style": "strong"
+        },
+        {
+          "start": 99,
+          "end": 108,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-103",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#103",
+      "text": "9 “Aku benci anak-anak yang tanggap, tahu?” Baris ini adalah referensi Fullmetal Alchemist, kutipan dari Shou Tucker, seorang pria yang terlibat dalam praktik alkimia yang keji, berbicara kepada Edward, sang protagonis, yang telah mengetahui apa yang telah dia lakukan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 43,
+          "style": "strong"
+        },
+        {
+          "start": 71,
+          "end": 90,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-104",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#104",
+      "text": "10 “Apakah dia akan mengatakan 'selanjutnya'?” Lelucon bahasa Jepang di sini didasarkan pada kata jaa, yang berarti “kemudian.” Dia berkata, “Jika dia tidak mengatakannya seolah-olah dia baru saja mendapat ide, maka yang dia bicarakan hanyalah Zojirushi.” Zojirushi adalah merek penanak nasi populer, yang suihanjaa dalam bahasa Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 46,
+          "style": "strong"
+        },
+        {
+          "start": 98,
+          "end": 101,
+          "style": "em"
+        },
+        {
+          "start": 306,
+          "end": 315,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-105",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#105",
+      "text": "11 “Mereka disebut budak perusahaan karena mereka tidak membangkang…” Ini adalah plesetan dari kutipan Shiori Misaka dalam serial novel visual Kanon. Kalimat aslinya adalah “Disebut keajaiban karena tidak terjadi.” Persamaannya lebih jelas dalam bahasa Jepang, karena dia meniru gaya bicaranya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 69,
+          "style": "strong"
+        },
+        {
+          "start": 143,
+          "end": 148,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-106",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#106",
+      "text": "12 “Ayo keluar, kamu!” Kutipan dari Johnny Kitagawa, presiden Johnny & Associates, yang terkenal sebagian karena kata “kamu” diucapkan dalam bahasa Inggris. Johnny & Associates adalah agensi bakat terkemuka yang memproduksi boy band dan idola pria, dan mereka berada di belakang beberapa bintang pop terbesar di Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 22,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-107",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#107",
+      "text": "Bab 7 … Inilah saatnya SMA Soubu sedang mengadakan festival paling sulit.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 22,
+          "style": "strong"
+        },
+        {
+          "start": 23,
+          "end": 32,
+          "style": "strong"
+        },
+        {
+          "start": 33,
+          "end": 73,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-108",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#108",
+      "text": "1 “Apakah Mil Máscaras yang mengalami seribu wajah?” Mil Máscaras adalah luchador terkenal, dan nama cincinnya dalam bahasa Spanyol berarti “seribu topeng”. Di sisi lain, Nyarlathotep, dewa dari mitos Cthulhu, dikenal sebagai Dewa Seribu Bentuk atau Dewa Tak Berwajah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 52,
+          "style": "strong"
+        },
+        {
+          "start": 73,
+          "end": 81,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-109",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#109",
+      "text": "2 “Sangat keren!” Ini adalah kalimat yang muncul saat preview episode berikutnya dari Chousoku Henkei Gyrozetter (Gyrozetter transformasi berkecepatan super tinggi). Ini tentang transformasi robot.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 17,
+          "style": "strong"
+        },
+        {
+          "start": 86,
+          "end": 112,
+          "style": "em"
+        },
+        {
+          "start": 114,
+          "end": 163,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-110",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#110",
+      "text": "3 Comiket adalah konvensi doujinshi (karya penggemar) dua tahunan yang sangat besar di Jepang, dan dihadiri lebih dari setengah juta orang. Tidak berlebihan jika dikatakan bahwa keseluruhan konvensi hanyalah serangkaian barisan, dan sebagian besar staf hadir semata-mata untuk mengatur barisan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 9,
+          "style": "strong"
+        },
+        {
+          "start": 26,
+          "end": 35,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-111",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#111",
+      "text": "4 Karaoke Pasela dan Karaoke no Tetsujin keduanya hanyalah jaringan tempat karaoke.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "strong"
+        },
+        {
+          "start": 21,
+          "end": 40,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-112",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#112",
+      "text": "5 “Sebaiknya Anda menyebutnya roti panggang uang.” Kalimat aslinya dalam bahasa Jepang adalah “Ini bukan burrito.” Dalam bahasa Jepang, kata-katanya terdengar serupa: honitou dan buritou.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 50,
+          "style": "strong"
+        },
+        {
+          "start": 167,
+          "end": 174,
+          "style": "em"
+        },
+        {
+          "start": 179,
+          "end": 186,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-113",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#113",
+      "text": "Bab 8 … Di luar itu, Yukino Yukinoshita mengincar seseorang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 20,
+          "style": "strong"
+        },
+        {
+          "start": 21,
+          "end": 39,
+          "style": "strong"
+        },
+        {
+          "start": 40,
+          "end": 60,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-114",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#114",
+      "text": "1 “…TROLLEY OLLEY.” Ini mengacu pada kartu Yu-Gi-Oh!, Express Train Trolley Olley.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 19,
+          "style": "strong"
+        },
+        {
+          "start": 43,
+          "end": 52,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-115",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#115",
+      "text": "2 “…kedengarannya mirip dengan sesuatu yang lebih bersifat cabul.” Yang dimaksud Hachiman adalah “boneka cinta”, yaitu manekin berukuran manusia yang digunakan untuk tujuan seksual. Dalam bahasa Jepang, istilahnya terdengar lebih mirip: ragudooru dan rabudooru.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 66,
+          "style": "strong"
+        },
+        {
+          "start": 237,
+          "end": 246,
+          "style": "em"
+        },
+        {
+          "start": 251,
+          "end": 260,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-116",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#116",
+      "text": "3 “…‘penyanyi’ dan ‘pengunyah’…” Nama panggilan Jepang untuk Singapura dan Munchkin adalah pura-pura dan chikan, yang artinya “jiggly” dan “groper,” masing-masing.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 32,
+          "style": "strong"
+        },
+        {
+          "start": 91,
+          "end": 100,
+          "style": "em"
+        },
+        {
+          "start": 105,
+          "end": 111,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-117",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#117",
+      "text": "4 “Apakah Anda Tuan Popo?” Dalam bahasa Jepang, Tuan Popo di Dragon Ball Z berbicara dengan terpotong, seperti Tarzan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 26,
+          "style": "strong-em"
+        },
+        {
+          "start": 61,
+          "end": 74,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-118",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#118",
+      "text": "Bab 9 … Dan tirai dibuka di setiap tahap.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 5,
+          "style": "strong"
+        },
+        {
+          "start": 8,
+          "end": 27,
+          "style": "strong"
+        },
+        {
+          "start": 28,
+          "end": 41,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-119",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#119",
+      "text": "1 “…inilah waktuku sekarang.” Ini adalah plesetan dari kutipan ikonik dari Kouta Kazuraba, karakter utama Kamen Rider. Dia berkata, “Inilah panggungku sekarang.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 2,
+          "style": "strong"
+        },
+        {
+          "start": 2,
+          "end": 29,
+          "style": "strong-em"
+        },
+        {
+          "start": 106,
+          "end": 117,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-120",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#120",
+      "text": "Bab 10 … Akhirnya, dia dan dia menemukan jawaban yang benar.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 6,
+          "style": "strong"
+        },
+        {
+          "start": 9,
+          "end": 18,
+          "style": "strong"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "style": "strong"
+        },
+        {
+          "start": 31,
+          "end": 60,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-121",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#121",
+      "text": "1 “...Aku berbohong dan berbohong dan berbohong tanpa henti. Itu aku.”Ini adalah plesetan dari lagu pembukaSemuanya! orang yang beruntunganime. “Saya beruntung, beruntung, dan beruntung tanpa henti. Itulah saya.” Lelucon di sini terletak pada permainan kata-kata di antaranyauso wo tsuku, “berbohong”, dantsuku, “menjadi beruntung.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 70,
+          "style": "strong"
+        },
+        {
+          "start": 107,
+          "end": 137,
+          "style": "em"
+        },
+        {
+          "start": 275,
+          "end": 287,
+          "style": "em"
+        },
+        {
+          "start": 305,
+          "end": 310,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-122",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#122",
+      "text": "2 “Apakah kata ‘hanya’ mempunyai arti ganda?” Kata bahasa Jepang di sini adalah pada giri (nyaris) dan giri (kewajiban).",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "strong"
+        },
+        {
+          "start": 85,
+          "end": 89,
+          "style": "em"
+        },
+        {
+          "start": 103,
+          "end": 107,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-123",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#123",
+      "text": "3 “…apa yang akan aku gagalkan?” Dalam bahasa Jepang, Yukinoshita memanggilnya “Hikitateyaku” (artinya “foil”) dan dia menjawab dengan “Hei, jangan asal salah menyebut namaku.” Kata itu terdengar lebih mirip dengan namanya dibandingkan foil.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 32,
+          "style": "strong"
+        },
+        {
+          "start": 236,
+          "end": 240,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-124",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#124",
+      "text": "Kata Penutup",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 12,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-125",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#125",
+      "text": "1 “Akhir musim gugur—” Ini adalah haiku karya Matsuo Basho di 1694, ditulis beberapa minggu sebelum kematiannya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 22,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-126",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#126",
+      "text": "2 “Apakah kamu Psaro?” Psaro adalah bos terakhir Dragon Quest IV.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 22,
+          "style": "strong"
+        },
+        {
+          "start": 49,
+          "end": 64,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-127",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#127",
+      "text": "3 “Apakah nama panggilan serinya Hamachi? Benarkah Oregairu?” Seri ini memiliki dua singkatan populer yang berbeda dalam bahasa Jepang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 32,
+          "style": "strong"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "style": "strong-em"
+        },
+        {
+          "start": 42,
+          "end": 50,
+          "style": "strong"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "style": "strong-em"
+        },
+        {
+          "start": 59,
+          "end": 61,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-catatan-penerjemah-appendix001-128",
+      "kind": "text",
+      "source": "OEBPS/Text/appendix001.xhtml#128",
+      "text": "4 “Ini akan berlanjut sedikit lebih lama lagi, lho?” Ini adalah kutipan dari Master Roshi di bagian Manga Dragon Ball, setelah kekalahan Piccolo. Beberapa orang pada saat itu merasa manganya mungkin akan berakhir di situ, tetapi akhirnya berlanjut cukup lama setelah itu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 52,
+          "style": "strong"
+        },
+        {
+          "start": 106,
+          "end": 117,
+          "style": "em"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1001 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v5-bab-1-chapter001-61"
+    ],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v5-bab-1-chapter001-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter001.xhtml#1",
+      "headingLevel": 2,
+      "text": "Mendadak, ketenangan keluarga Hikigaya runtuh.",
+      "emphasis": [
+        {
+          "start": 30,
+          "end": 38,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter001.xhtml#../Images/Art_P5.jpg",
+      "src": "assets/chapters/volume-5/bab-1/Art_P5.webp",
+      "width": 255,
+      "height": 512,
+      "text": "Hachiman versi chibi memakai kemeja."
+    },
+    {
+      "id": "v5-bab-1-chapter001-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#3",
+      "text": "Terkapar di atas papan lantai kayu, aku mengetikkan laptop. Proyek penelitian independen hampir selesai. Aku tinggal memformatnya, dan itu akan selesai."
+    },
+    {
+      "id": "v5-bab-1-chapter001-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#4",
+      "text": "Bukan berarti proyek itu milik aku. Sekolah menengahku hanya memberiku sedikit soal matematika, dan aku menyelesaikannya dengan cukup cepat hanya dengan menyalin jawabannya. Tidak apa-apa. Aku ingin masuk perguruan tinggi seni swasta; Aku tidak butuh matematika."
+    },
+    {
+      "id": "v5-bab-1-chapter001-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#5",
+      "text": "Bagaimanapun, proyek ini untuk adik perempuanku, Komachi."
+    },
+    {
+      "id": "v5-bab-1-chapter001-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#6",
+      "text": "Adapun gadis yang dimaksud, dia meringkuk di sampingku untuk memulihkan energinya setelah belajar untuk ujian masuk sekolah menengahnya. Dia sedang bermain dengan kucing kami, Kamakura, dengan lembut melemparkannya ke atas seperti bayi dan menghaluskan kacang-kacangan dan sejenisnya."
+    },
+    {
+      "id": "v5-bab-1-chapter001-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#7",
+      "text": "Kenapa kamu kecil… Dan aku melakukan semua pekerjaan ini untukmu… Mengapa aku tidak menghancurkan kacang-kacanganmu juga?!",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 122,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#8",
+      "text": "Ya, benar. ingin dia fokus pada ujian masuknya, jadi setidaknya yang ini ada di rumah. Akal sehat akan menyatakan bahwa tugas seperti itu tidak ada gunanya kecuali penerima tugas melakukannya sendiri—dan akal sehat memang benar—tetapi jika menyangkut saudara perempuan aku, kebijaksanaan konvensional sudah ketinggalan zaman."
+    },
+    {
+      "id": "v5-bab-1-chapter001-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#9",
+      "text": "Etika dan logika tidak banyak berarti di sini: Anda menulis karakter untuk “adik perempuan” dengan menggabungkan kata radikal untuk “perempuan” dan “belum”."
+    },
+    {
+      "id": "v5-bab-1-chapter001-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#10",
+      "text": "Dengan kata lain, dia adalah seorang wanita yang masa depannya baru saja dimulai, dan pada akhirnya, dia juga yang terakhir di antara kerabatnya: Dia adalah alfa dan omega. Dialah yang asal dan sekaligus yang terakhir. Anda bahkan bisa menyebutnya sebagai bentuk akhir dari feminitas. Dan posisinya sebagai puncak kaum wanita mengukuhkan peringkat adik perempuannya sebagai yang pertama atau kedua di antara semua makhluk hidup, dan aku tidak bisa menentang salah satu dari mereka. Dan dengan demikian, aku membuktikan teori supremasi adik perempuan."
+    },
+    {
+      "id": "v5-bab-1-chapter001-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#11",
+      "text": "Lagi pula, itulah sebabnya aku bertanggung jawab atas sebagian besar proyek penelitian independen Komachi.…Tetapi sungguh, mengapa aku melakukan ini? Oh tentu. Mungkin seni memanfaatkan orang dan membina hubungan sosial untuk keuntungan pribadi juga merupakan bagian dari studinya.",
+      "emphasis": [
+        {
+          "start": 106,
+          "end": 281,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#12",
+      "text": "Pikiran ini dan pemikiran lainnya melayang di kepala aku saat jari aku bergerak melintasi keyboard, menyelesaikan laporan konyol dengan nada yang menyenangkan. Baiklah, sekarang yang harus aku lakukan hanyalah menandatanganinya dengan nama Komachi Hikigaya. Aku memberikan tombol enter SLAM untuk menyimpan file dan kemudian mendorong seluruh laptop ke arah Komachi.",
+      "emphasis": [
+        {
+          "start": 160,
+          "end": 257,
+          "style": "em"
+        },
+        {
+          "start": 286,
+          "end": 290,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#13",
+      "text": "“Saya telah menyelesaikan proyek Anda. Pastikan untuk memeriksanya.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#14",
+      "text": "“Oke.” Komachi berguling dan terkulai di lantai hingga dia berada di sampingku. Dia melihat ke layar, menganggukkan kepalanya dengan mm-hmm, mm-hmm secara berkala, tapi kemudian dia membeku di tengah anggukan. “Kak,” dia memulai perlahan. Nada suaranya lebih rendah daripada yang pernah kudengar, tapi seringai di wajahnya sangat berseri-seri. “Apa ini?” dia bertanya.",
+      "emphasis": [
+        {
+          "start": 133,
+          "end": 147,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#15",
+      "text": "Pertanyaannya memicu kegelisahan dalam diriku. “U-um…Aku mencoba membuatnya seperti Komachi…,” jawabku."
+    },
+    {
+      "id": "v5-bab-1-chapter001-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#16",
+      "text": "Bahunya bergetar. “Seperti Komachi? Jadi ini pendapatmu tentangku... Aku kaget! Benar-benar kaget!” Dia mengerang dan memegangi kepalanya dan mulai berguling-guling di lantai. Cukup lucu sampai-sampai aku memperhatikan kejenakaannya selama beberapa saat, tapi kemudian dia melompat berdiri dan menusukkan jarinya secara agresif ke arahku. “Tunggu, ini sama sekali tidak mirip Komachi! Dua bagian terakhir itu milikmu!”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#17",
+      "text": "Aku mengerti; jadi itu tidak ada jalan keluarnya. Ya, aku merasa itu tidak akan berhasil. Tunggu, apakah itu berarti babak pertama cukup bisa dipercaya oleh Komachi? Itu bahkan lebih mengejutkan. “Baiklah, aku akan menyelesaikannya,” kataku. “Hanya harus menyelesaikannya, kan? Ya, ya, aku akan mengurusnya. Ini bahkan bukan tugasku, tapi aku akan diam dan melakukannya.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 195,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#18",
+      "text": "“Hei! Jangan beri aku sikap setengah-setengah! Kamu terdengar seperti drone kantor kelas bawah!” Komachi sangat marah, tangannya di pinggul. Tapi setelah menghela napas panjang, dia mengerang dengan ekspresi menyesal. “...Yah, itu adalah pekerjaan rumahku sejak awal, jadi aku akan mengambilnya dari sini. Terima kasih sudah melakukan sebanyak ini.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#19",
+      "text": "Sikap baiknya tentang hal itu membuatku berharap bisa melakukan pekerjaan dengan baik juga. Tidak peduli betapa menyebalkannya proyek itu, setelah aku menerimanya, mungkin aku seharusnya melakukannya dengan benar, pikirku tidak seperti biasanya. “Yah, sebenarnya…,” kataku, “Aku berhenti peduli pada akhirnya dan hanya menulis apa pun… Tapi aku minta maaf. Aku akan melakukan yang terbaik untuk membantumu.”",
+      "emphasis": [
+        {
+          "start": 92,
+          "end": 212,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#20",
+      "text": "Saat aku mengatakan itu, mata Komachi bersinar seperti mata yamapikaryaa. Itulah yang kami sebut sebagai kucing liar Iriomote di sini. Yamapikaryaa!",
+      "emphasis": [
+        {
+          "start": 60,
+          "end": 72,
+          "style": "em"
+        },
+        {
+          "start": 135,
+          "end": 148,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#21",
+      "text": "“Saya pikir Anda akan mengatakan itu!” serunya. “Inilah sebabnya aku mencintaimu, Kak!”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#22",
+      "text": "“Iya iya. Aku cinta, cinta, sangat cinta, super cinta kamu juga,” jawabku santai. Poin Komachinya yang biasa meledak dimana-mana, dan aku sedikit muak dengan hal itu. Ya, aku sudah melakukan penelitiannya, jadi setidaknya aku bisa menulis kesimpulannya."
+    },
+    {
+      "id": "v5-bab-1-chapter001-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#23",
+      "text": "Saat aku memberinya ikhtisar proyek tersebut, kucing itu berjalan ke arah kami dan dengan apatis menjatuhkan dirinya di depan monitor. Mengapa kucing selalu berdiri di depan TV dan memanjat di atas koran?"
+    },
+    {
+      "id": "v5-bab-1-chapter001-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#24",
+      "text": "“Komachi,” kataku."
+    },
+    {
+      "id": "v5-bab-1-chapter001-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#25",
+      "text": "“Baik!” Dia memberi hormat dan mulai melaksanakan siasatnya untuk merelokasi Kamakura. Dia menangkapnya dalam pelukannya, dan kucing itu menggeliat dalam upaya melarikan diri. Dalam bahasa Jepang, bulu kucing adalah ungkapan yang menggambarkan bulu halus dan lembut, dan tentu saja bulu kucing asli adalah sutra. Tapi ketika Komachi dengan cepat mulai menggaruk lehernya, dia lengah dan membiarkan Komachi melanjutkan sesi belaian penuh. Benar-benar ceria, Komachi bersenandung sambil dengan hati-hati mengelusnya dari kepala hingga ekor.",
+      "emphasis": [
+        {
+          "start": 197,
+          "end": 208,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#26",
+      "text": "“Heh-heh-heh!” dia terkekeh. “Kamu anak kecil yang nakal, datang mengganggu kami! ☆”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#27",
+      "text": "“Tapi di tahun kucing, dia sudah setengah baya.” Berapa umurnya lagi? Sudah empat atau lima tahun sejak kami mendapatkannya… Ya, itulah hidup. Dalam umur manusia, dia mungkin seumuran dengan Bu Hiratsuka. Aku harus memperkenalkan mereka.",
+      "emphasis": [
+        {
+          "start": 49,
+          "end": 237,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#28",
+      "text": "Akhirnya bebas untuk memulai mengerjakan sendiri, aku menyerahkan materi proyek kepada Komachi. Saat itu hampir pukul sebelas pagi, dan aku harus bersiap-siap untuk kelas musim panas di sore hari. Aku berganti pakaian menjadi apa pun yang paling dekat, dan saat itulah bel pintu berbunyi. Oh, apakah Amazon akan datang lagi untuk mengirimkan barang setelah terakhir kali mereka melewatkan aku? Sungguh luar biasa bagaimana mereka muncul setiap kali aku tidak ada. Misalnya, apakah kamu ninja atau semacamnya?",
+      "emphasis": [
+        {
+          "start": 289,
+          "end": 508,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#29",
+      "text": "Saat aku membuka pintu depan dan bersiap untuk menandatangani paketku, aku menemukan pengunjung tak terduga."
+    },
+    {
+      "id": "v5-bab-1-chapter001-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#30",
+      "text": "“Y-yahallo!” Dengan sanggul berwarna coklat pucat, pakaian musim panas, dan gendongan besar di kedua tangannya, Yui Yuigahama dengan malas namun sadar menunggu."
+    },
+    {
+      "id": "v5-bab-1-chapter001-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#31",
+      "text": "“H-hei…,” jawabku. Ini sangat tidak terduga, aku tidak tahu bagaimana harus menanggapinya. Dia juga tidak melakukannya, dan keheningan yang canggung pun terjadi. Satu-satunya orang yang pernah datang ke rumah kami hanyalah pengantar barang dan wanita di sebelah yang mengirimkan pemberitahuan dari asosiasi lingkungan, jadi aku tidak percaya seseorang dari sekolah benar-benar masuk ke domain pribadiku. Analoginya seperti melihat kijang di akuarium. Rusa seharusnya hanya muncul di sabana, di kebun binatang, atau di Kinnikuman Nisei.",
+      "emphasis": [
+        {
+          "start": 518,
+          "end": 534,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#32",
+      "text": "Sambil memegang erat pintu yang terbuka, aku berpura-pura tenang dan bertanya, “Apakah kamu membutuhkan sesuatu?”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#33",
+      "text": "Ini akan menjadi yang kedua kalinya Yuigahama telah mengunjungi rumahku. Pertama kali setelah kecelakaan lalu lintas yang aku sebutkan sebelumnya, saat dia datang untuk mengucapkan terima kasih. Tapi aku tidak bertemu langsung dengannya saat itu."
+    },
+    {
+      "id": "v5-bab-1-chapter001-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#34",
+      "text": "“U-um…apakah Komachi ada di sini?” dia bertanya."
+    },
+    {
+      "id": "v5-bab-1-chapter001-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#35",
+      "text": "Adikku pasti mengundangnya untuk sesuatu. “Komachi sayang! Temanmu ada di sini!” Aku memanggil dengan suara ibu terbaikku."
+    },
+    {
+      "id": "v5-bab-1-chapter001-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#36",
+      "text": "Komachi berlari menuruni tangga menuju kami. Suatu saat sejak terakhir kali aku melihatnya, dia telah mengganti seluruh pakaiannya. Bukankah kamu hanya mengenakan T-shirt beberapa saat yang lalu?",
+      "emphasis": [
+        {
+          "start": 132,
+          "end": 195,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#37",
+      "text": "“Yui, halo!” katanya. “Masuk, masuk! Silakan, buat dirimu seperti di rumah sendiri.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#38",
+      "text": "“Ya, terima kasih! Y-baiklah. Maaf mengganggu...” Meski sudah mengumumkan niatnya untuk masuk, Yuigahama terlihat sedikit ragu. Dia diam-diam menarik napas seolah ingin menguatkan dirinya lalu melangkah ke dalam rumah. Ayolah, ini bukan penjara bawah tanah besar.",
+      "emphasis": [
+        {
+          "start": 219,
+          "end": 263,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#39",
+      "text": "Saat masuk, Yuigahama melihat sekeliling dengan rasa ingin tahu. Hentikan itu. Anda tidak perlu menyentuh patung beruang kayu atau apa pun.",
+      "emphasis": [
+        {
+          "start": 65,
+          "end": 139,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#40",
+      "text": "Rumah orang asing adalah zona misteri, zona luar, zona senja. Anda mengalami kejutan budaya ketika Anda memasuki cara hidup yang lain, bukan? Yuigahama memperhatikan semuanya, bahkan hal-hal biasa seperti tangga, jendela, dan dinding. Setiap kali dia melirik, dia menggumamkan “Huh…” atau “Whoa…” Itu agak menjengkelkan."
+    },
+    {
+      "id": "v5-bab-1-chapter001-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#41",
+      "text": "Bahkan setelah dia diantar ke ruang tamu di lantai dua, dia tidak tenang, dan tatapannya melayang ke mana-mana. Namun ketika benda itu sampai di rak buku, dia berhenti dan memandanginya. Dia menyelipkan jarinya ke permukaan, sedikit terkejut. “Wah, penuh dengan buku.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#42",
+      "text": "“Ayah dan kakakku sama-sama suka membaca, jadi kami selalu mengumpulkan lebih banyak lagi,” jawab Komachi dari meja dapur."
+    },
+    {
+      "id": "v5-bab-1-chapter001-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#43",
+      "text": "Aku tidak merasa punya banyak buku, tapi Yuigahama tidak menganggapku sebagai orang yang suka membaca. bibliophile…"
+    },
+    {
+      "id": "v5-bab-1-chapter001-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#44",
+      "text": "Sangat jarang ada tamu yang mengunjungi rumah kami. Keluarga kami sangat modern: Kedua orang tua kami bekerja, jadi kami tidak terlalu mengenal siapa pun di sekitar. Saat aku bertemu dengan tetangga di jalan, setidaknya aku akan memberi hormat kepada mereka, namun pada dasarnya aku tidak tahu apa pun tentang mereka selain nama mereka."
+    },
+    {
+      "id": "v5-bab-1-chapter001-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#45",
+      "text": "Artinya, aku tidak tahu apa protokolnya saat Anda kedatangan tamu. Kurasa aku hanyalah orang bodoh yang kasar dan kurang ajar. Aku bahkan mungkin akan menumpahkan abu ke seluruh tablet kamar mayat di pemakaman ayahku. Ah, sial, itu membuatku terdengar seperti tokoh sejarah besar. Ini sama sekali tidak relevan, tetapi orang-orang yang menganggap diri mereka penting dan mulai bercerita tentang bagaimana “Edison mendapat nilai buruk di sekolah!” sepertinya tidak pernah memiliki keterampilan lain juga. Semakin banyak yang kamu tahu."
+    },
+    {
+      "id": "v5-bab-1-chapter001-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#46",
+      "text": "Aku menarik kursi dan menawarkannya pada Yuigahama untuk menyarankan Kenapa kamu tidak duduk? Aku tidak terbiasa dengan ini, jadi aku tidak bisa menahan diri untuk bersikap singkat. Aku seperti seorang anak laki-laki dari tongkat yang memberikan payung kepada seorang gadis kota di tengah hujan. Aku bahkan mungkin akan melanjutkannya dengan “Apakah kamu belum dengar? Kamu tinggal di rumah berhantu!”",
+      "emphasis": [
+        {
+          "start": 69,
+          "end": 93,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#47",
+      "text": "“T-terima kasih.” Yuigahama dengan anggun duduk, dan Komachi kembali dari dapur, meletakkan cangkir di atas meja di depannya sambil mengetuk. Es dalam teh jelai berdenting."
+    },
+    {
+      "id": "v5-bab-1-chapter001-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#48",
+      "text": "“Jadi, untuk apa kamu di sini?” aku bertanya. Aku tidak tahu kenapa Yuigahama datang ke sini."
+    },
+    {
+      "id": "v5-bab-1-chapter001-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#49",
+      "text": "Yuigahama menunjukkan tas besar yang dia genggam dengan hati-hati di pangkuannya. “Um, ini tentang Sable. Aku meminta Komachi untuk membantuku bersamanya,” katanya, lalu dia membuka kotak itu."
+    },
+    {
+      "id": "v5-bab-1-chapter001-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#50",
+      "text": "Makhluk dengan ketidakjelasan yang tak terlukiskan dan tidak senonoh melompat keluar, merangkak ke arahku, kekacauannya diwujudkan dalam bulu coklat, mata bulat, kaki pendek, dan ekor kecil yang bergoyang. Di zaman lain, hewan yang paling mulia adalah: anjing."
+    },
+    {
+      "id": "v5-bab-1-chapter001-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#51",
+      "text": "Hewan peliharaan Yuigahama, Sable, mengunci ke arahku dan meluncur ke depan. Apakah aku Frisky Mon Petit atau apa? Anjing itu langsung memesankannya untuk aku dengan segala yang dimilikinya, dan dia tidak berhenti."
+    },
+    {
+      "id": "v5-bab-1-chapter001-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#52",
+      "text": "Sablé menggunakan Tackle! Ini sangat efektif! Hachiman pingsan!"
+    },
+    {
+      "id": "v5-bab-1-chapter001-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#53",
+      "text": "Dia menjatuhkanku dengan keras, dan aku melepaskan anjing itu sementara dia terus berliur di sekujur tubuhku. Aku mengangkatnya, tapi aku bisa melihat ekornya masih bergoyang kuat."
+    },
+    {
+      "id": "v5-bab-1-chapter001-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#54",
+      "text": "“Ada apa dengan anjing ini?” aku bertanya. “Tunggu.Apakah bulunya menjadi lebih pendek?” Aku mendapat kesan dia bertambah satu ukuran lebih kecil sejak aku melihatnya dua bulan lalu. Apakah dia tadi menggunakan Beast Spear atau semacamnya?"
+    },
+    {
+      "id": "v5-bab-1-chapter001-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#55",
+      "text": "“Oh iya,” kata Yuigahama. “Sablé berambut panjang, jadi kami memberinya potongan rambut musim panas.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#56",
+      "text": "“Uh-huh…” Yah, dia bisa melakukan jungkir balik, pukulan atas, atau pemukul tiang pancang jika dia mau. “Jadi kenapa kamu membawa anjingmu ke sini?”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#57",
+      "text": "Bahkan setelah aku melepaskan Sable, dia berputar-putar di sekitar pergelangan kakiku, menolak untuk pergi. Dia sangat keras kepala, aku tidak tahu harus berbuat apa. Guk, guk, wa-guk. Aku menatap Yuigahama dengan pandangan memohon, Ayo, lakukan sesuatu.",
+      "emphasis": [
+        {
+          "start": 167,
+          "end": 183,
+          "style": "em"
+        },
+        {
+          "start": 233,
+          "end": 253,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#58",
+      "text": "“Sablé, kemarilah,” dia memanggilnya, dan ketika dia menghampirinya, dia mengangkatnya dan mulai mengelusnya dengan lembut sambil terus berbicara. “Keluargaku akan berlibur bersama.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#59",
+      "text": "Liburan keluarga ya…? Ada istilah yang sarat dengan nostalgia. Aku tidak pernah berpikir aku akan mendengar tentang hal itu di sekolah menengah, tetapi aku kira aku tidak memiliki siapa pun untuk diajak bicara tentang hal itu, tidak, Pak. “Keluargamu kedengarannya dekat,” kataku. “Tidak seperti kami.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#60",
+      "text": "“Kaulah yang tertinggal, Kak,” kata Komachi tanpa henti."
+    },
+    {
+      "id": "v5-bab-1-chapter001-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#61",
+      "text": "Yuigahama bergidik. “Memang sesuai dugaanku, Hikki…,” gumamnya. Cara mengatakannya hampir terdengar penuh hormat. Wah, mungkin dia pandai menilai orang, pikirku. Namun, tidak; tatapannya hanya mengasihaniku.",
+      "emphasis": [
+        {
+          "start": 114,
+          "end": 151,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#62",
+      "text": "“Itu tidak benar,” protesku. “Kali ini di sekolah menengah, aku bilang aku tidak akan ikut, dan kemudian, mereka tidak pernah menerimaku lagi setelah itu.” Aku belum melalui fase pemberontakan atau apa pun. Anehnya, rasanya memalukan untuk melakukan perjalanan bersama keluarga. Itu sebabnya aku bilang tidak. Tapi lelaki tua itu sangat senang… Ya, lupakan ayahku. Kita sedang membicarakan liburan Yuigahama. “Jadi bagaimana dengan perjalananmu kali ini?” tanyaku."
+    },
+    {
+      "id": "v5-bab-1-chapter001-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#63",
+      "text": "“Oh ya,” jawabnya. “Saat kita pergi, aku berharap kalian bisa menjaga Sable.” Dengan mata menengadah, dia bertanya padaku, “Tidak?”"
+    },
+    {
+      "id": "v5-bab-1-chapter001-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#64",
+      "text": "Aku Orang Jepang yang Bisa Mengatakan Tidak: mampu menolak sebagian besar permintaan. Tapi ketika dihadapkan pada senyuman Komachi yang berseri-seri saat dia membelai Sablé, aku merasa sulit untuk menolak Yuigahama."
+    },
+    {
+      "id": "v5-bab-1-chapter001-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#65",
+      "text": "Tetap saja, aku tidak bisa dengan patuh menuruti permintaannya dan langsung memberikan ya. Tidak ada jawaban instan dalam hidup."
+    },
+    {
+      "id": "v5-bab-1-chapter001-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#66",
+      "text": "“…Tapi kamu tidak perlu membawanya jauh-jauh ke sini. Kita sudah cukup jauh.” Aku yakin dia punya banyak teman, dan aku dengar saat ini Anda bisa menemukan hotel hewan peliharaan di mana-mana.",
+      "emphasis": [
+        {
+          "start": 78,
+          "end": 192,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001.xhtml#67",
+      "text": "“Yumiko tidak pernah punya hewan peliharaan, begitu pula Hina. Aku mencoba bertanya pada Yukinon, tapi dia bilang dia tidak bisa melakukannya karena dia ada di rumah orang tuanya...” Yuigahama terdiam sesaat, terlihat gelisah."
+    },
+    {
+      "id": "v5-bab-1-chapter001_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter001_a.xhtml#../Images/Art_P12.jpg",
+      "src": "assets/chapters/volume-5/bab-1/Art_P12.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Hachiman dan Komachi di rumah."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#0",
+      "text": "Yah, Yukinoshita takut pada anjing, jadi meskipun dia tidak ada di rumah orang tuanya, aku ragu dia akan setuju untuk melakukannya… Tidak, mungkin dia akan berkata, “Serahkan padaku!” dan kemudian dengan sangat malu-malu menawarinya makanan."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#1",
+      "text": "Saat aku menghibur diriku dengan gambaran mental yang menyenangkan ini, Komachi memperhatikan keheningan tiba-tiba Yuigahama dan mendesak gadis lain untuk melanjutkan. “Apakah terjadi sesuatu dengan Yukino?” dia bertanya."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#2",
+      "text": "Yuigahama ragu-ragu sebelum melihat ke arahku dengan ragu. “Y-ya… Hikki, apa kamu pernah menghubunginya?”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#3",
+      "text": "“Tidak, aku bahkan tidak tahu nomor teleponnya.” Aku tidak punya merpati pos, jadi kecuali aku memasukkan surat ke dalam botol dan membiarkannya terapung di ombak, aku tidak akan bisa mendapatkan dia. Aku diam-diam bertanya pada Komachi, Bagaimana denganmu? Tapi dia menggelengkan kepalanya.",
+      "emphasis": [
+        {
+          "start": 238,
+          "end": 257,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#4",
+      "text": "“Tapi aku sering mengirim email dan meneleponnya,” kata Yuigahama."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#5",
+      "text": "“Apa terjadi sesuatu?” tanyaku."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#6",
+      "text": "“Saat aku menelponnya, aku menerima pesan suaranya, lalu dia mengirimiku e-mail setelahnya. Dia membutuhkan waktu lama untuk membalas…dan ketika dia menjawab, rasanya seperti setengah hati? Saat aku mengajaknya jalan-jalan, dia selalu punya rencana…”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#7",
+      "text": "“Uh-huh…” Lihat, dia menghindarimu. Maksudku, pada dasarnya seperti itulah reaksi anak-anak di kelasku saat SMP ketika aku mencoba untuk tetap berhubungan. Atau begitulah yang ingin kukatakan, tapi aku memutuskan untuk tidak melakukannya. Yuigahama jelas sudah menyadari kalau Yukinoshita sedang berusaha mendorongnya menjauh. Dia sangat pandai membaca orang dan berbaur, tidak mungkin dia tidak memahami hal yang paling mendasar.",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 155,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#8",
+      "text": "“Saya ingin tahu apakah saya melakukan sesuatu…?” Dia tertawa lemah."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#9",
+      "text": "“Jangan terlalu menekankan hal itu. Dia mungkin punya banyak hal untuk dilakukan, mengurus keluarganya. Saat sekolah dimulai lagi, aku yakin semuanya akan beres dengan sendirinya.” Itu adalah hal yang sangat membesarkan hati untuk aku katakan. Aku pandai melontarkan komentar yang tidak berdasar dan tidak berdasar. Ini seperti pepatah lama, “Dia penuh dengan delapan ratus kebohongan.” Kecuali aku, delapan puluh ribu. Karena aku Hachiman. Mereka harus mewujudkan hal itu."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#10",
+      "text": "Yah, itu tidak sepenuhnya bohong. Situasinya memang terlihat buruk dengan keluarga Yukinoshita. Ada episode kecil itu sekitar dua minggu sebelumnya, di awal Agustus. Kami semua sedang mengucapkan selamat tinggal setelah perjalanan berkemah, ketika Haruno Yukinoshita, kakak perempuannya, datang untuk membawanya pulang. Tak satu pun dari kami yang pernah melihat adik perempuan itu sejak saat itu. Dan aku masih teringat kilas balik tentang limousine hitam yang berangkat bersama mereka."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#11",
+      "text": "Ada kecelakaan mobil satu tahun yang lalu yang melibatkan aku dan Yuigahama…dan orang yang bertanggung jawab berada di dalam limusin hitam. Aku tidak tahu apakah kendaraan itu dan yang kami lihat dua minggu lalu adalah satu dan sama. Yang menghubungkan kedua mobil itu hanyalah ingatanku yang kabur. Aku tidak punya bukti apa pun. Tidak ada kesaksian, tidak ada pernyataan, tidak ada penjelasan, tidak ada apa pun."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#12",
+      "text": "Beberapa momen tanpa humor berlalu. Bahkan setelah aku berusaha setengah-setengah untuk memberi semangat, kekhawatiran Yuigahama belum mereda. “Aku—kurasa…”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#13",
+      "text": "“Aku tidak tahu,” kataku."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#14",
+      "text": "“Kenapa kamu harus seperti itu? Kamu apatis sekali.” Yuigahama memberiku senyuman jengkel."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#15",
+      "text": "Tapi aku benar-benar tidak tahu. Aku tidak kenal Yukino Yukinoshita. Tentu saja, aku tahu tentang dia pada tingkat yang dangkal. Aku tahu namanya, wajahnya, nilai-nilainya bagus, dia menjaga jarak dengan orang lain, dia suka kucing dan beruang Grue, lidahnya tajam, dan dia bisa sedikit linglung. Tapi begitulah adanya. Anda tidak dapat bertindak seolah-olah Anda mengenal seseorang hanya berdasarkan hal itu. Sama seperti tidak ada seorang pun yang memahamiku, begitu pula aku memahami mereka. Anda tidak boleh melupakan hal itu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 530,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#16",
+      "text": "Lagipula, apa yang diperlukan untuk bisa mengatakan bahwa Anda “mengenal” seseorang?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 84,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#17",
+      "text": "Saat aku masuk ke dalam labirin kontemplasi, aku mendengar dengungan kecil yang melengking. Ketika aku berbalik untuk menyelidiki tangisan awal, suara gemuruh pelan segera menyusul. Sable dan Kamakura berlarian mengelilingi Komachi, terlibat dalam kontes intimidasi. Kamakura memasang Penghalang Get-Away-from-Me, tapi Sable menghancurkannya dengan Sinar Cinta-Cinta-Kamakura dan mengejar. Komachi, yang tersenyum dan geli saat melihat mereka, tidak melakukan upaya khusus untuk menghentikan mereka."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#18",
+      "text": "Jadi, aku harus menghadapi ini untuk sementara waktu, ya…?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 58,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#19",
+      "text": "Yuigahama pasti menyadari kekecewaanku. “M-maaf. Aku berpikir untuk membawanya ke hotel hewan peliharaan, tapi ini musim liburan, jadi semuanya penuh,” katanya meminta maaf sambil tertawa."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#20",
+      "text": "“Dan di situlah peranku, Kak.” Buk! Komachi tertawa puas dan dengan angkuh memukul dada kecilnya dengan penuh semangat. Kenapa tingkahmu anehnya bisa diandalkan? Apakah kamu kapten kapal atau apa?",
+      "emphasis": [
+        {
+          "start": 31,
+          "end": 35,
+          "style": "em"
+        },
+        {
+          "start": 120,
+          "end": 196,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#21",
+      "text": "Huh. Yah, sepertinya dia sering mengirim email ke Yuigahama, jadi mungkin itu hanya muncul saat percakapan mereka.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 4,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#22",
+      "text": "“Jika kita tidak melakukan ini sekarang, kita tidak akan mempunyai peluang sama sekali musim panas. Kesempatan,” gumam Komachi pelan. Aku curiga matanya mungkin berbinar ☆ di sana, tapi perhatianku lebih tertuju pada penggunaan kata-kata Zaimokuza, kebetulan. Apakah virusnya menyebar dari aku ke orang lain? Aku tidak ingin itu menjadi apa-apa… Pengorbanan total.",
+      "emphasis": [
+        {
+          "start": 249,
+          "end": 258,
+          "style": "em"
+        },
+        {
+          "start": 260,
+          "end": 364,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#23",
+      "text": "“Baiklah, jika kamu tidak keberatan, terserahlah,” kataku. Ini adalah adik perempuanku yang cerdas di sini. Dia mungkin sudah berurusan dengan ibu kami. Jika dia sudah mengalahkan Ibu, maka satu-satunya kendala yang tersisa adalah ayah kami, dan dia tidak berdaya di tangannya. Dalam rumah tangga Hikigaya, anak laki-laki tertua tidak berperan dalam proses pengambilan keputusan. Ada hierarki yang sempurna, dan itu adalah Ibu, Komachi, lelaki tua itu, dan yang terakhir, aku. Oh, dan tentu saja, Yang Mulia Kucing berada di posisi paling atas. Baginya, manusia hanyalah pion."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#24",
+      "text": "“Pokoknya, kita bisa menjaganya atau apalah, tapi kita harus memberinya makan apa?” aku bertanya. “Vita-One? Frontline? Wah, bukan Pedigree kan? Kami tidak semewah itu lho.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#25",
+      "text": "“Kenapa kamu tahu banyak tentang makanan anjing?” Yuigahama bertanya. “Tunggu... Garis depan adalah pengobatan kutu! Aku tidak tahu tentang ini...” Dia sepertinya memikirkan kembali keputusannya, apakah ekspresi khawatirnya merupakan indikasinya."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#26",
+      "text": "Komachi tersenyum, berusaha menenangkannya. “Tidak apa-apa! Dia dulu punya seekor anjing.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#27",
+      "text": "“K-kamu punya?” tanya Yuigahama."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#28",
+      "text": "“Semacam,” jawabku. Tapi itu sudah lama sekali. Ingatanku tidak jelas. Sebenarnya, menurutku sebagian besar orang tuaku dan Komachi yang merawatnya."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#29",
+      "text": "Sedikit kehangatan muncul di senyuman Yuigahama. “Wow. Aku agak terkejut.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#30",
+      "text": "“Adikku suka kucing dan anjing. Hanya orang yang dia benci…”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#31",
+      "text": "Apakah aku sekarang adalah mantan detektif roh…?"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#32",
+      "text": "Yah, dia tidak salah. Aku tidak membenci kucing atau anjing. Aku kira mereka bahkan termasuk dalam kategori hal-hal yang aku sukai. Terutama kucing."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#33",
+      "text": "Teman-teman, aku suka kucing. Tidak, teman-teman, aku suka kucing! Aku suka shorthair Amerika. Aku suka kulit penyu. Aku suka sphinx. Aku suka Ragdolls dan rambut ikal Amerika; Aku suka lipatan Skotlandia dan Persia; Aku suka musik blues Singapura dan Rusia. Kucing di gang, di gubuk kucing kecil, di menara kucing, di atas lemari es, di tempat tidur, di pagar beranda, di kotak kardus, di kantong kertas, di punggung orang, di kasur—Aku suka setiap kucing yang hidup di bumi ini."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#34",
+      "text": "Tahukah Anda, pelecehan terhadap hewan tidak dapat dimaafkan bagi aku. Orang yang tidak menghargai makhluk hidup bisa pergi dan mati. Aku benci siapa pun yang tidak menghargai kehidupan!"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#35",
+      "text": "Saat aku menyusun pidato yang berapi-api di kepalaku, Yuigahama tiba-tiba tersenyum. “Yah, itu melegakan. Sepertinya Sable juga menyukaimu.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#36",
+      "text": "“Jangan berharap terlalu banyak. Aku lebih baik diperhatikan daripada merawat. Kamu bahkan bisa menyebutku tanggungan profesional,” jawabku."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#37",
+      "text": "Aku sudah menjadi tanggungan selama tujuh belas tahun sekarang. Aku tidak bisa memikirkan cara lain untuk hidup. Setelah Anda menghabiskan tahun-tahun pembentukan Anda dengan mengandalkan orang lain, tidak ada jalan untuk kembali. Aku mengacak-acak bulu Sable saat dia memamerkan perutnya dan berbaring telentang di sampingku. Tapi Komachi menyambarnya."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#38",
+      "text": "“Baiklah, serahkan Sabby padaku! Tidak lama lagi dia tidak akan bisa hidup tanpaku!” Komachi benar-benar berniat merayu anjing ini."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#39",
+      "text": "“Aku sebenarnya tidak menginginkan itu, tapi… Baiklah, aku serahkan dia padamu.” Meskipun dia terlihat sangat ketakutan, Yuigahama membungkuk cepat, dan matanya menatap bagian dalam pergelangan tangannya untuk melihat jam. “Oh, aku harus berangkat. Orang tuaku sudah menunggu.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#40",
+      "text": "“Baiklah kalau begitu,” kata Komachi. “Sampai jumpa.”"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#41",
+      "text": "Melihat mereka dari sudut mataku saat mereka menuruni tangga, aku mencari-cari di dalam kapal induk yang Yuigahama tinggalkan untuk kami. Ada makanan anjing di dalamnya, ditambah segala hal lain yang kami perlukan untuk merawatnya."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#42",
+      "text": "Ngomong-ngomong, dia makan Science Diet. Gaya hidupnya lebih sehat dari aku…"
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#43",
+      "text": "Sedangkan anjing yang dimaksud, dia berkeliaran dan mengendus-endus di sekitar ruangan. Oh, sepertinya dia mencium bau kucing. Adapun Kamakura, dia tampaknya telah melarikan diri dari anjing itu dan sekarang berada di atas lemari es, menatap ke arahku dan Sable dengan mata lesu. Aku ragu dia membenci Sable atau bahkan tertarik padanya sama sekali. Dia hanya menjaga jarak, tetap waspada, karena dia tidak tahu harus mendekati hewan lain. Tatapan samar-samar itu familiar bagiku.",
+      "emphasis": [
+        {
+          "start": 88,
+          "end": 126,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#44",
+      "text": "Saat itu adalah hari ulang tahun Yuigahama, jadi aku mengingatnya dengan baik."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#45",
+      "text": "Itu adalah hari cerah yang jarang terjadi selama musim hujan. Siluet matahari terbenam yang merah sebagai rasa bersalah, dia tersenyum sedih. Saat itu dia menarik garis yang pasti, aku tahu."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#46",
+      "text": "Itu berarti kami, para korban, tidak seperti dia."
+    },
+    {
+      "id": "v5-bab-1-chapter001_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter001_b.xhtml#47",
+      "text": "Baru sekarang aku akhirnya mulai memahami apa batasan itu."
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg",
+      "src": "assets/chapters/volume-5/bab-1/Art_P18.webp",
+      "width": 1800,
+      "height": 1268,
+      "text": "Suatu hari, percakapan ponsel Hachiman dan Yui."
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Suatu hari, percakapan ponsel Hachiman dan Yui",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-1",
+      "kind": "text",
+      "text": "Yui · 19:23 · Tanpa judul: “Selamat malam guk-guk! Sablé baik-baik saja?”",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-2",
+      "kind": "text",
+      "text": "Hachiman · 19:45 · Re: “Tidak banyak yang berubah dalam sehari. Kau terlalu khawatir.”",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-3",
+      "kind": "text",
+      "text": "Yui · 19:48 · Re2: “Serius, kalau tanpa emotikon kamu terdengar marah.” (emotikon)",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-4",
+      "kind": "text",
+      "text": "Hachiman · 19:50 · Re3: “Sudah kubilang, aku memang tidak memakainya. Jadi, anjing ini harus kuapakan? Ada yang perlu kuwaspadai? Aku perlu tahu bagian panjang dan pendeknya—kelebihan serta kekurangannya—atau aku tidak tahu cara menghadapinya.”",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-5",
+      "kind": "text",
+      "text": "Yui · 19:55 · Re4: “Yang panjang? Maksudnya… badannya?” (emotikon)",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-6",
+      "kind": "text",
+      "text": "Hachiman · 19:55 · Re5: “Dah.” Yui · Re6: “Tunggu, tunggu! Anggap aku nggak bilang tadi!” (panik)",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-7",
+      "kind": "text",
+      "text": "Hachiman · 19:58 · Re7: “Lalu bagian pendeknya?” Yui · Re8: “Kakinya!” (emotikon)",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v5-bab-1-chapter001_c-0-companion-8",
+      "kind": "text",
+      "text": "Hachiman · 20:00 · Re9: “Bodoh ^^” Yui · 20:01 · Re10: “Emotikon itu bikin kesal!” (emotikon)",
+      "source": "OEBPS/Text/chapter001_c.xhtml#../Images/Art_P18.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

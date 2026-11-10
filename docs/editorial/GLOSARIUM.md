@@ -53,3 +53,11 @@ Pedoman kerja untuk seluruh draf Volume 1. Perubahan istilah perlu diterapkan ko
 - `think tank`: dipertahankan sebagai istilah asing ketika menjadi bahan lelucon Yuigahama; jangan diterjemahkan menjadi “pikirkan tank”.
 - `maid café`: kafe pelayan; panggilan `Master` dapat dipertahankan dalam permainan peran, bukan “guru”. `no-waste ghost`: hantu anti-mubazir.
 - Judul karya, nama jurus, merek dan panggilan yang disengaja keliru (Hikitani, Perry/Harris) mengikuti sumber. Catatan penerjemah edisi Inggris diberi atribusi dan tidak diperlakukan sebagai hasil riset baru.
+
+## Volume 3–6
+
+- `UG Club`: Klub UG; berbeda dari Klub Layanan. Nama permainan `Double Beggar` adalah nama dalam sumber, bukan aturan permainan lokal yang boleh diasumsikan setara.
+- `cultural festival`: festival budaya; `student council`: OSIS; `executive committee`: panitia pelaksana; `committee chair`: ketua panitia. Periksa konteks peran sebelum menormalkan jabatan.
+- Haruno Yukinoshita adalah kakak perempuan Yukino. Rumi Tsurumi siswi SD. Meguri Shiromeguri ketua OSIS kelas tiga. Minami Sagami teman sekelas Hachiman.
+- `nothing less` dalam ungkapan pujian seperti `expect nothing less` berarti sesuai dugaan/harapan, bukan tidak mengharapkan apa pun. Pertahankan penggunaan sindiran.
+- Destiny Land, Grue-bear, serta ejaan merek yang sengaja berbeda mengikuti sumber. Judul karya dan referensi tetap dipertahankan; jangan mengubah komentar tokoh menjadi fakta editorial.

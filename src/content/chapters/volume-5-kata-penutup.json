@@ -1,0 +1,224 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v5-kata-penutup-afterword-0",
+      "kind": "heading",
+      "source": "OEBPS/Text/afterword.xhtml#0",
+      "headingLevel": 2,
+      "text": "Kata Penutup"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-1",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#1",
+      "text": "Halo, ini Wataru Watari."
+    },
+    {
+      "id": "v5-kata-penutup-afterword-2",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#2",
+      "text": "Kita akhirnya memasuki musim panas, musim yang tepat untuk mengurung diri di rumah dan berbaring di ruangan ber-AC sambil menonton anime dan membaca manga. Hei, tidak, jangan salah paham. Saya hanya seorang penggila kesehatan. Saya menghindari sinar matahari langsung dan keluar rumah untuk mengurangi risiko kanker kulit. Bukannya saya tidak punya rencana untuk keluar dan bersosialisasi."
+    },
+    {
+      "id": "v5-kata-penutup-afterword-3",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#3",
+      "text": "Tapi serius, Anda harus berhati-hati. Mereka menyebutnya liburan musim panas, jadi kalau kamu tidak istirahat di rumah dengan patuh, kamu malah akan memasuki perairan yang berbahaya, secara hukum.",
+      "emphasis": [
+        {
+          "start": 57,
+          "end": 64,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-kata-penutup-afterword-4",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#4",
+      "text": "Dan ngomong-ngomong soal bahaya, musim panas itu penuh dengan bahaya lho. Ada lautan, lalu gunung, sungai, kekayaan… Tidak, tunggu, itu penyanyi enka. Masih banyak lagi bahaya lainnya lho. Kolam renang dan arcade, mal, kawasan perbelanjaan, kereta komuter, tempat kerja, juga tempat kerja, dan ditambah lagi, tempat kerja. Atau bahkan tempat kerja juga. Oh, dan tempat kerja.",
+      "emphasis": [
+        {
+          "start": 145,
+          "end": 149,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-kata-penutup-afterword-5",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#5",
+      "text": "Anda melihat orang-orang ini saat berada di kereta komuter—orang-orang menuju Tokyo Disneyland. Saat kamu sedang dalam perjalanan pulang, kamu akan memegang salah satu tali pengikat sambil mulai tertidur, dan kamu akan melihat pasangan-pasangan ini memakai telinga tikus nezumimimi, atau disingkat nezu-mi…",
+      "emphasis": [
+        {
+          "start": 271,
+          "end": 281,
+          "style": "em"
+        },
+        {
+          "start": 298,
+          "end": 305,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-kata-penutup-afterword-6",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#6",
+      "text": "Melihat mereka membuatku berpikir tentang banyak hal, tahu? Seperti, Apa yang saya lakukan ketika saya masih remaja? atau Saya bertanya-tanya mengapa saya bekerja atau Mengapa saya mempunyai pekerjaan? atau Untuk alasan apa saya bekerja…? Anda tahu, segala macam hal.",
+      "emphasis": [
+        {
+          "start": 69,
+          "end": 116,
+          "style": "em"
+        },
+        {
+          "start": 122,
+          "end": 162,
+          "style": "em"
+        },
+        {
+          "start": 168,
+          "end": 201,
+          "style": "em"
+        },
+        {
+          "start": 207,
+          "end": 238,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-kata-penutup-afterword-7",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#7",
+      "text": "Akhir-akhir ini, saya rata-rata tidur sekitar tiga jam setiap malam. Tapi sejak aku menyelesaikan draf Volume 5, aku akan terbebas dari gaya hidup itu untuk sementara waktu. Saya mengucapkan selamat tinggal pada kehidupan lama itu! Selamat tinggal, berhari-hari hanya bisa tidur tiga jam semalam! Halo, hari-hariku hanya bisa tidur satu setengah jam semalam!"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-8",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#8",
+      "text": "…Tunggu, apa?"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-9",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#9",
+      "text": "Ya, banyak sekali orang yang dengan antusias berteriak menantikan pekerjaanku… Bagaimana aku harus mengatakannya, um, aku ingin tidur lebih lama dari itu, jadi maukah seseorang menjadi milikku pencari nafkah? Siapa pun yang bersedia, silakan mengirimkan surat ke bagian penyuntingan Shogakukan Gagaga Bunko. Saya akan menunggu."
+    },
+    {
+      "id": "v5-kata-penutup-afterword-10",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#10",
+      "text": "Banyak orang yang menyatakan keprihatinannya kepada saya, seperti “Oh, pasti berat!” tapi saya suka bekerja dan menulis, jadi tidak apa-apa. Saat ini, aku hanya berkata, “Aku—aku sama sekali tidak suka bekerja! B-benarkah, oke! A-Aku sebenarnya baik-baik saja...”"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-11",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#11",
+      "text": "Aku akan tetap bekerja keras!"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-12",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#12",
+      "text": "Bagaimanapun, seperti yang diumumkan di iklan obi volume ini—dan percayakah Anda—Komedi Romantis Masa Muda Saya Salah, Seperti yang Saya Harapkan sedang dibuat menjadi anime TV! Hore! Orang-orang biasa mengatakan kepada saya, seperti, “Kamu memenangkan hadiah, tapi bukumu termasuk yang terlaris sepanjang masa,” atau “Penjualanmu sangat buruk, aku bahkan tidak mengerti kenapa kamu memenangkan hadiah. Sebenarnya, apa itu hadiah, sebenarnya?” Mereka memanggilku Wataru Watari, Pencampur Logika, Jenderal Ide yang bahkan bisa menghancurkan ide hadiah buku! Tapi kemudian bukuku dijadikan anime TV…",
+      "emphasis": [
+        {
+          "start": 81,
+          "end": 145,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-kata-penutup-afterword-13",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#13",
+      "text": "Berkat dukungan banyak orang aku bisa sampai sejauh ini. Anda semua telah membawa saya ke alam magis yang sama sekali tidak dapat saya capai sendiri. Itu semua berkat dorongan Anda. Terima kasih banyak. Kebahagiaan dan rasa syukur kalian akan menjadi kekuatan pendorongku mulai dari Volume 5 dan 6 dan seterusnya, aku akan menginjak ga-ga-gas!"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-14",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#14",
+      "text": "Kita bisa melihat sedikit demi sedikit banyak hal di Volume 5. Hati Hachiman sedikit tergerak; dunianya telah maju selangkah dan mundur selangkah lalu berputar sedikit di tempatnya. Anda dapat melihatnya di mana saja, tentu saja, tapi ini adalah kisah uniknya hanya untuk dia. Aku penasaran bagaimana kelanjutannya di Jilid 6. Aku juga akan mendapatkan bantuan, tumpangan, dan pelukan dari banyak orang di jilid berikutnya! Saya akan bekerja keras untuk membalas dengan kekuatan yang lebih tinggi, Shinran akan menangis bahagia di dalam kuburnya!"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-15",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#15",
+      "text": "Di bawah ini adalah bagian ucapan terima kasih lama yang sama."
+    },
+    {
+      "id": "v5-kata-penutup-afterword-16",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#16",
+      "text": "Kepada Ponkan yang suci: Anda telah melakukan begitu banyak pekerjaan akhir-akhir ini, tidak hanya volume ini tetapi tambahan dan semuanya. Anda melakukan pekerjaan 8 orang! Terima kasih atas semua kerja keras Anda. Terakhir, Totsuka di sampulnya! Hore! Terima kasih banyak!"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-17",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#../Images/Art_1a.jpg",
+      "text": "⑧"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-18",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#18",
+      "text": "Kepada editor saya, Hoshino-sama: U-um… A-saya benar-benar…maaf… Tidak, sebenarnya Anda salah, um…tapi jika saya mengatakannya lagi, itu hanya alasan saja, jadi… O-pokoknya, terima kasih banyak!"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-19",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#19",
+      "text": "Kepada Watari Wataru-sama: Terima kasih atas komentar Anda pada obi. Mereka sangat luar biasa, Anda tidak akan pernah tahu bahwa itu adalah keputusan editorial di menit-menit terakhir yang membuat Anda melakukannya! Tunggu, apa-apaan ini?"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-20",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#20",
+      "text": "Kepada semua penulis: Karena kalian semua baru saja melewati tenggat waktu seperti Bojack Unbound dan saya sibuk minum-minum, kalian membuat cerita dan alibi untuk saya dan menyelesaikan masalah dengan editor saya dan semuanya. Terima kasih banyak. Saya juga akan mengandalkan Anda di lain waktu.",
+      "emphasis": [
+        {
+          "start": 83,
+          "end": 97,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v5-kata-penutup-afterword-21",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#21",
+      "text": "Dan untuk semua pembaca saya: Terima kasih atas dukungan Anda yang tiada henti. Setiap kali saya mendapat komentar atau kesan hangat dari pembaca, membuat rasa ngantuk, sakit punggung, dan rasa lelah saya hilang begitu saja. Itu seperti narkoba. Saya pikir masih banyak hal yang akan datang dalam seri ini, jadi saya diberkati atas dukungan dan dorongan Anda yang tiada henti. Terima kasih banyak. Saya harap Anda akan tetap bersama saya."
+    },
+    {
+      "id": "v5-kata-penutup-afterword-22",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#22",
+      "text": "Nah, pada catatan itu, saya pikir saya akan meletakkan pena saya di sini."
+    },
+    {
+      "id": "v5-kata-penutup-afterword-23",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#23",
+      "text": "Pada suatu hari di bulan Agustus, di suatu tempat di prefektur Chiba, sambil menegur diri sendiri karena bersikap lebih manis pada diri sendiri daripada MAX Coffee,"
+    },
+    {
+      "id": "v5-kata-penutup-afterword-24",
+      "kind": "text",
+      "source": "OEBPS/Text/afterword.xhtml#24",
+      "text": "Wataru Watari"
+    }
+  ]
+}

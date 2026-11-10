@@ -88,3 +88,7 @@ Google dipakai hanya selama penyiapan draf, bukan saat website dibuka atau diban
 ## Volume 2
 
 Kelanjutan diminta pemilik. Pembuka, Prolog, Bab 1–5, Kata Penutup, dan Catatan Penerjemah Edisi Inggris tersedia sebagai draf lengkap. Metode AI/mesin dan batas penyuntingan dijelaskan dalam panduan Volume 2. Lihat [pemetaan dan perhatian peninjau Volume 2](volume-2.md). Status masing-masing tetap independen dari Volume 1.
+
+## Volume 3–6
+
+Seluruh bagian dalam sumber tersedia sebagai draf Indonesia dengan metode dan batas tinjauan yang dijelaskan di [panduan Volume 3–6](volumes-3-6.md). Bonus Track Volume 3 bukan Bab 7; Prolog Volume 6 bukan Bab 0. Jangan mengubah status menjadi `reviewed` tanpa konfirmasi pemilik untuk bagian yang tepat.

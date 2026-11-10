@@ -16,6 +16,8 @@ for (volume,slug),entry in grouped.items():
     c=entry['record'];blocks=entry['blocks']
     headings=[b['text'].strip() for b in blocks if b['kind']=='heading' and not b['text'].strip().isdigit()]
     c['title']={'pembuka':'Opening','prolog':'Prologue','kata-penutup':'Afterword','catatan-penerjemah':'Translation Notes'}.get(slug) or (headings[0] if headings else c['title'])
+    if volume=='volume-3' and slug=='bab-7':
+        c.update(kind='backmatter',number=None,title=next(b['text'].strip() for b in blocks if b['kind']=='heading' and b['text'].strip()!='BT'))
     index.append(c);(root/(c['id']+'.json')).write_text(json.dumps({'blocks':blocks},ensure_ascii=False)+'\n')
 (root/'index.json').write_text(json.dumps(index,ensure_ascii=False,indent=2)+'\n')
 print(len(index),'English sections')

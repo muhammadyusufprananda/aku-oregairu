@@ -1,0 +1,567 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v4-bab-8-chapter008-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter008.xhtml#1",
+      "headingLevel": 2,
+      "text": "Dengan Yukino Yukinoshita di dalamnya, mobil itu melaju pergi.",
+      "emphasis": [
+        {
+          "start": 7,
+          "end": 25,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-8-chapter008-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter008.xhtml#../Images/Art_P177.jpg",
+      "src": "assets/chapters/volume-4/bab-8/Art_P177.webp",
+      "width": 337,
+      "height": 723,
+      "text": "Hachiman berdiri dengan seragam sekolah."
+    },
+    {
+      "id": "v4-bab-8-chapter008-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#3",
+      "text": "Di dalam mobil dalam perjalanan pulang, perjalanan terasa sepi."
+    },
+    {
+      "id": "v4-bab-8-chapter008-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#4",
+      "text": "Penghuni kursi di belakangku telah dimusnahkan. Mereka semua pingsan dalam waktu tiga puluh menit setelah keberangkatan, seperti yang biasa terjadi dalam perjalanan dengan mobil. Saat duduk di kursi penumpang depan, aku merasa seperti akan tertidur juga, jika aku tidak berkonsentrasi. Tapi aku akan kasihan pada Bu Hiratsuka jika aku tertidur saat itu juga, jadi aku berusaha untuk tetap terjaga."
+    },
+    {
+      "id": "v4-bab-8-chapter008-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#5",
+      "text": "Jalan raya sepi. Rasanya seperti tidak masuk akal, karena ini adalah waktu liburan bagi siswa seperti kami, namun bagi seluruh dunia, ini adalah hari kerja biasa. Saat itu bahkan belum ada festival Bon, jadi tidak ada alasan mengapa jalan raya menuju kota Chiba menjadi sibuk. Aku hanya perlu menunggu dua atau tiga jam lagi, dan kami akan sampai di sana."
+    },
+    {
+      "id": "v4-bab-8-chapter008-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#6",
+      "text": "“Aku berencana mengantar kalian semua ke sekolah. Apa kalian setuju dengan itu?” tanya Bu Hiratsuka. “Terlalu banyak pekerjaan untuk membawa Anda semua pulang ke rumah.” Kedengarannya dia baru saja memutuskan bagaimana kami akan pulang."
+    },
+    {
+      "id": "v4-bab-8-chapter008-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#7",
+      "text": "“Menurutku tidak apa-apa,” jawabku, dan dia memberiku anggukan dan hmm sebagai balasannya. Dia mungkin juga lelah, jadi menurutku akan lebih baik baginya jika perjalanan ini diakhiri sesegera mungkin.",
+      "emphasis": [
+        {
+          "start": 67,
+          "end": 70,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-8-chapter008-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#8",
+      "text": "Masih menghadap ke depan, Bu Hiratsuka diam-diam berkomentar, “Kali ini...kamu melewati jembatan yang agak berbahaya. Jika kamu salah langkah saja, itu bisa menjadi masalah.” Aku tidak ingat menceritakan semua detail kejadian yang terjadi, tapi rupanya dia mengetahuinya dari seseorang. Kemungkinan besar dia berbicara tentang insiden Rumi Tsurumi."
+    },
+    {
+      "id": "v4-bab-8-chapter008-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#9",
+      "text": "“Ya, aku minta maaf,” aku meminta maaf."
+    },
+    {
+      "id": "v4-bab-8-chapter008-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#10",
+      "text": "“Aku tidak mengkritikmu. Aku yakin itu tidak bisa dihindari. Faktanya, menurutku kamu melakukannya dengan cukup baik, mengingat keterbatasan waktu,” dia kata."
+    },
+    {
+      "id": "v4-bab-8-chapter008-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#11",
+      "text": "“Tapi itu cara yang buruk dalam melakukan sesuatu.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#12",
+      "text": "“Ya, kamu buruk sekali.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#13",
+      "text": "“Mengapa kamu mengevaluasi karakterku di sini…? Kupikir kita sedang membicarakan karakterku metode?”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#14",
+      "text": "“Hanya orang jahat yang akan memikirkan rencana seperti itu. Tapi mungkin justru karena kamu sangat rendah sehingga kamu bisa mendekati orang lain di titik terendah. Itu adalah bakat yang berharga.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#15",
+      "text": "“Sungguh cara yang kejam untuk memujiku…” Aku terkulai."
+    },
+    {
+      "id": "v4-bab-8-chapter008-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#16",
+      "text": "Bu Hiratsuka, sebaliknya, bersenandung dengan riang. “Nah, bagaimana kita menghitung poin kali ini?”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#17",
+      "text": "“Ini adalah kemenangan total bagi Hachiman, bukan?” kataku. Yang satu ini adalah aku: perencanaan, desain, dan produksi… Meski aku punya keraguan serius bahwa apa yang kulakukan pada akhirnya akan membantu, sudah sepantasnya aku dievaluasi berdasarkan ambisi, minat, dan sikapku."
+    },
+    {
+      "id": "v4-bab-8-chapter008-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#18",
+      "text": "“Hmm. Tapi jika Yukinoshita tidak membuat keputusan untuk menjalankan proyek ini sejak awal, kamu mungkin tidak akan mengambil tindakan. Dan jika Yuigahama tidak membujuk semua orang untuk melakukan proyek tersebut, kamu tidak akan menemukan alasan untuk bertindak sejak awal.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#19",
+      "text": "“Ugh. Jadi kita semua terikat di nomor satu, ya…?” Wah, dekat sekali! pikirku.",
+      "emphasis": [
+        {
+          "start": 51,
+          "end": 69,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-8-chapter008-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#20",
+      "text": "Tapi kemudian dia balas menyeringai ke arahku, dan aku punya kecurigaan yang tidak menyenangkan. “Sudah berapa lama kamu berkhayal… bahwa kamu semua terikat pada nomor satu?” katanya."
+    },
+    {
+      "id": "v4-bab-8-chapter008-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#21",
+      "text": "“Itu lagi?”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#22",
+      "text": "“Kamu awalnya mencoba untuk melewatkan ini. Jadi kurangi satu poin untuk itu, dan jika Yukinoshita dan Yuigahama masing-masing mendapat satu poin, kamu mendapat nol.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#23",
+      "text": "“Saya merasa ini akan terjadi…”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#24",
+      "text": "“Tapi, kerja bagus.” Tiba-tiba, tangannya terulur dari kursi pengemudi. Tangannya yang lain masih memegang kemudi, Bu Hiratsuka menepuk kepalaku."
+    },
+    {
+      "id": "v4-bab-8-chapter008-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#25",
+      "text": "“Memalukan sekali bagimu memperlakukanku seperti anak kecil,” kataku. “Tolong hentikan.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#26",
+      "text": "“Jangan malu-malu, ayo!” Bu Hiratsuka sepertinya senang menggodaku. Dia dengan keras kepala terus menepuk kepalanya."
+    },
+    {
+      "id": "v4-bab-8-chapter008-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#27",
+      "text": "“Oh, tidak, maksudku bukan aku. Aku pikir kamu mungkin akan malu. Memperlakukan siswa sekolah menengah seperti anak kecil benar-benar membuatmu terlihat tua dan—”",
+      "emphasis": [
+        {
+          "start": 42,
+          "end": 46,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-8-chapter008-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#28",
+      "text": "“Hikigaya. Kamu boleh tidur sekarang.” Dia menghunuskan pisau tepat di leherku, dan kesadaranku terjun ke dalam terowongan hitam."
+    },
+    {
+      "id": "v4-bab-8-chapter008-29",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter008.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v4-bab-8-chapter008-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#30",
+      "text": "Seseorang mengguncangku dengan kasar. “Hikigaya. Kita sudah sampai. Bangun.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#31",
+      "text": "“Mm...” Saat aku membuka mataku, di depanku ada pemandangan yang familiar. Itu adalah sekolahku. Waktu tampaknya sudah lewat tengah hari. Aku pasti kelelahan; Aku tidur nyenyak, cukup nyenyak hingga aku tidak ingat pernah tertidur, dan sekarang setelah aku bangun, aku merasa segar. “Maaf,” kataku. “Saya pasti tertidur suatu saat.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#32",
+      "text": "“Hmm?” Itu adalah Bu Hiratsuka. “......Oh ya. Jangan khawatir. Kamu mungkin lelah. Ayo, keluar dari van,” dia mengajak, bersikap baik seperti biasanya."
+    },
+    {
+      "id": "v4-bab-8-chapter008-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#33",
+      "text": "Aku keluar dari kendaraan dengan udara tebal musim panas menempel di kulitku. Suasananya seperti ini di sekitar sini, dekat dengan laut. Baru dua atau tiga hari sejak kami berangkat, namun aku melewatkannya."
+    },
+    {
+      "id": "v4-bab-8-chapter008-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#34",
+      "text": "Setelah beberapa kali meregangkan tubuh dan menguap di jalan, kami menurunkan tas kami dari van dan dengan mengantuk bersiap untuk pulang. Panas yang dipantulkan dari aspal terasa panas sekali. Kami semua memeriksa untuk memastikan kami tidak melupakan apa pun dan kemudian membentuk garis yang tidak rapi, sepertinya kami harus melakukannya."
+    },
+    {
+      "id": "v4-bab-8-chapter008-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#35",
+      "text": "Bu Hiratsuka mengamati kami dengan puas. “Kerja bagus, semuanya. Perjalanan ini belum berakhir sampai kalian tiba di rumah, jadi berhati-hatilah dalam perjalanan pulang. Kalian sekarang bebas berangkat.” Dia tampak senang dengan dirinya sendiri karena suatu alasan. Dia mungkin sudah berencana untuk mengakhiri perjalanan dengan pertukaran guru-murid klasik ini bahkan sebelum kami berangkat…"
+    },
+    {
+      "id": "v4-bab-8-chapter008-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#36",
+      "text": "“Jadi, Kak, bagaimana kita pulang ke rumah?” Komachi bertanya padaku."
+    },
+    {
+      "id": "v4-bab-8-chapter008-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#37",
+      "text": "“Sepertinya kita naik bus ke Keiyo Line,” kataku. “Kami akan berbelanja dalam perjalanan pulang.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#38",
+      "text": "“Aye-aye, Pak!” jawabnya riang dengan hormat yang tajam. Lalu dia menoleh ke arah Yukinoshita. “Karena kita naik Jalur Keiyo, maukah kamu ikut dengan kami, Yukino?”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#39",
+      "text": "“Oh, baiklah… Setengah jalan kalau begitu.” Yukinoshita mengangguk."
+    },
+    {
+      "id": "v4-bab-8-chapter008-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#40",
+      "text": "Yuigahama dan Totsuka saling berpandangan. “Kalau begitu, sepertinya aku dan Sai-chan akan naik bus,” kata Yuigahama."
+    },
+    {
+      "id": "v4-bab-8-chapter008-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#41",
+      "text": "“Ya, sepertinya begitu. Sampai jumpa…,” kata Totsuka."
+    },
+    {
+      "id": "v4-bab-8-chapter008-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#42",
+      "text": "Kami semua mengucapkan selamat tinggal, lalu berpisah untuk pulang. Saat itulah sebuah limusin hitam legam berhenti di samping kami dengan dengkuran mesin yang halus dan pelan, perlahan-lahan melintas. Di kursi pengemudi sebelah kiri duduk seorang pria paruh baya dengan rambut abu-abu keperakan mengintip dari balik topi seragam pengemudinya. Jendela kursi penumpang belakang diwarnai untuk mengaburkan interiornya."
+    },
+    {
+      "id": "v4-bab-8-chapter008-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#43",
+      "text": "“Mobil yang terlihat mahal…,” komentar aku. Ada semacam hiasan ikan emas terbang di bagian depan, dan tudungnya telah dipoles hingga mengkilat, tidak ada satu noda pun di atasnya. Rasanya aku pernah melihatnya sebelumnya… Saat aku mengamati mobil itu lebih dekat, pengemudi penuh gaya itu melangkah keluar, membungkuk tajam kepada kami, dan dengan cepat membuka pintu belakang.",
+      "emphasis": [
+        {
+          "start": 180,
+          "end": 221,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-8-chapter008-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#44",
+      "text": "Seorang wanita muncul dari dalam mobil, tipe wanita yang akan membuatmu merasakan kenyamanan hari musim gugur yang sejuk, bahkan di puncak musim panas. “Hai, Yukino-chan!” Haruno Yukinoshita mengenakan gaun putih cerah saat dia keluar dari mobil dengan anggun."
+    },
+    {
+      "id": "v4-bab-8-chapter008-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#45",
+      "text": "“Ini adikku...” Yukinoshita terdiam."
+    },
+    {
+      "id": "v4-bab-8-chapter008-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#46",
+      "text": "“Hah? Yukinon? …Adikmu?” Yuigahama berkedip cepat, membandingkan Yukino dan Haruno Yukinoshita."
+    },
+    {
+      "id": "v4-bab-8-chapter008-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#47",
+      "text": "“Wow! Kalian berdua mirip sekali...,” gumam Komachi, dan Totsuka mengangguk penuh semangat. Pasangan ini berada di ujung spektrum yang berlawanan, tapi mereka sangat mirip satu sama lain, seperti Nega dan Posi."
+    },
+    {
+      "id": "v4-bab-8-chapter008-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#48",
+      "text": "“Yuki, kamu disuruh pulang ke rumah untuk liburan musim panas, tapi kamu tidak melakukannya,” kata Haruno. “Aku sangat khawatir, aku datang menjemputmu!”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#49",
+      "text": "“Bagaimana dia tahu di mana kita berada…?” Aku diam-diam bertanya pada Yukinoshita. “Sejujurnya, aku ketakutan sekarang…”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#50",
+      "text": "“Dia mungkin melacakku melalui GPS di ponselku,” jawab Yukinoshita. “Astaga. Dia selalu membuat masalah.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#51",
+      "text": "Haruno menyela. “Oh, itu kamu, Hikigaya! Ooh, jadi kamu jalan-jalan bersama. Hmm? Kamu sedang berkencan! Kamu sedang berkencan, bukan?! Aku sangat iri! Oh, jadi muda!”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#52",
+      "text": "“Jangan ini lagi…,” erangku. “Sudah kubilang, kita tidak pacaran.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#53",
+      "text": "Dia menyikutku dengan sikunya. Gadis ini adalah orang paling menjengkelkan yang pernah ada. Aku menatapnya dengan tatapanmu yang menggangguku, tapi dia tidak mundur. Faktanya, dia meningkat dan praktis menempelkan tubuhnya ke tubuhku. Dia menyebalkan, lembut, dan mengganggu, serta berbau harum, dan sejujurnya aku ingin dia pergi."
+    },
+    {
+      "id": "v4-bab-8-chapter008-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#54",
+      "text": "“U-um! Hikki tidak suka itu.” Yuigahama menarik lenganku, menarikku menjauh dari Haruno."
+    },
+    {
+      "id": "v4-bab-8-chapter008-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#55",
+      "text": "Wanita tua itu segera berhenti. Dia mengamati Yuigahama dengan rasa ingin tahu, tapi aku juga melihat kilatan tajam di matanya. Dia tersenyum tenang lalu menghadap Yuigahama. “Hmm, jadi ini karakter baru ya? Apakah kamu...pacar Hikigaya?”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#56",
+      "text": "“T-tidak! Bukan seperti itu!” Yuigahama tergagap."
+    },
+    {
+      "id": "v4-bab-8-chapter008-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#57",
+      "text": "“Oh, bagus,” jawab Haruno. “Aku hanya berpikir, apa yang akan aku lakukan jika kamu menghalangi Yukino-chan? Aku Haruno Yukinoshita, adiknya.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#58",
+      "text": "“Oh, senang bertemu denganmu... aku Yui Yuigahama. Aku dan Yukinon berteman.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#59",
+      "text": "“Teman, ya...?” Haruno menyeringai lebar, tapi nadanya sedingin es. “Jadi Yukino-chan punya teman yang baik, ya? Bagus sekali. Itu melegakan.” Kata-katanya lembut, dan nadanya lembut, tetapi suasana yang menyelimutinya memberi kesan jika Anda menyentuhnya, duri akan keluar dari bawahnya. “Oh, tapi kamu tidak boleh menyentuh Hikigaya. Itu milik Yuki.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#60",
+      "text": "“Tidak, dia tidak melakukannya.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#61",
+      "text": "“Serius, tidak.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#62",
+      "text": "Yukinoshita dan aku menjawab dengan praktis serempak."
+    },
+    {
+      "id": "v4-bab-8-chapter008-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#63",
+      "text": "“Lihat! Kalian sangat selaras!” Haruno berkicau dengan tawa senang. Apakah ini hanya untuk bersenang-senang, atau hanya bagian dari aktingnya?"
+    },
+    {
+      "id": "v4-bab-8-chapter008-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#64",
+      "text": "“Cukup, Haruno.” Kali ini, Bu Hiratsuka yang berbicara."
+    },
+    {
+      "id": "v4-bab-8-chapter008-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#65",
+      "text": "Tawa Haruno langsung berhenti. “Sudah lama sekali, Shizuka-chan.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#66",
+      "text": "“Jangan panggil aku seperti itu.” Bu Hiratsuka menyentakkan kepalanya. Kurasa itu membuatnya malu."
+    },
+    {
+      "id": "v4-bab-8-chapter008-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#67",
+      "text": "Tapi aku terkejut mereka berdua berkenalan. “Anda kenal dia, Bu Hiratsuka?” tanyaku."
+    },
+    {
+      "id": "v4-bab-8-chapter008-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#68",
+      "text": "“Dia mantan murid.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#69",
+      "text": "“Apakah itu berarti—?” Aku mencoba mencari tahu maksud sebenarnya di balik jawaban Bu Hiratsuka yang terlalu singkat, tapi Haruno memotongku."
+    },
+    {
+      "id": "v4-bab-8-chapter008-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#70",
+      "text": "“Yah, kita bisa bertemu lagi lain kali, kan? Baiklah, Yukino-chan. Ayo berangkat.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#71",
+      "text": "Tapi Yukinoshita tidak menunjukkan jawaban apa pun. indikasi bergerak. Dia praktis mengabaikan adiknya."
+    },
+    {
+      "id": "v4-bab-8-chapter008-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#72",
+      "text": "“Ayo. Ibu kita sudah menunggu,” kata Haruno."
+    },
+    {
+      "id": "v4-bab-8-chapter008-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#73",
+      "text": "Yukinoshita tetap mempertahankan sikap arogannya sampai saat itu, tapi saat mendengar kata-kata itu, dia mengejang. Dia menunjukkan sedikit keraguan. Lalu dia menghela napas pasrah dan menoleh ke arahku dan Komachi. “Komachi. Aku menghargai undanganmu, tapi aku harus meminta maaf. Aku tidak akan bisa pergi bersamamu.” Cara Yukinoshita berbicara kaku, formal, dan agak jauh."
+    },
+    {
+      "id": "v4-bab-8-chapter008-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#74",
+      "text": "Jawaban Komachi membingungkan. “Um, o-oke… Baiklah, jika keluargamu menunggu, maka…”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#75",
+      "text": "Yukinoshita memberikan senyuman yang jelas dan kemudian, dengan suaranya yang sangat lembut hingga tidak terdengar sama sekali, dia berbisik, “…Selamat tinggal.” Haruno mendorong punggungnya, dan dia menghilang ke dalam mobil."
+    },
+    {
+      "id": "v4-bab-8-chapter008-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#76",
+      "text": "“Sampai jumpa, Hikigaya. Sampai jumpa!” Haruno melambai padaku, naik ke dalam mobil, dan berkata kepada pengemudinya, “Tsuzuki, ayo pergi.”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#77",
+      "text": "Sopir itu membungkuk dan menutup pintu dengan pelan. Tanpa melirik ke arah kami, dia duduk di kursi pengemudi. Kurasa busur pertama itu bukan ditujukan pada kami, melainkan pada Yukinoshita."
+    },
+    {
+      "id": "v4-bab-8-chapter008-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#78",
+      "text": "Aku tidak bisa melihat apa yang ada di dalam mobil di luar jendela yang gelap. Tapi aku merasa Yukinoshita sedang duduk tegak, seperti biasa, menghadap ke depan, hanya matanya yang menghadap ke jendela di samping."
+    },
+    {
+      "id": "v4-bab-8-chapter008-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#79",
+      "text": "Limusin itu menyalakan mesinnya dengan tenang, dan mobil itu melaju dengan mulus. Ia berangkat dalam garis lurus dan panjang lalu menghilang di tikungan."
+    },
+    {
+      "id": "v4-bab-8-chapter008-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#80",
+      "text": "Aku melihatnya pergi, tertegun. Yuigahama menarik lengan bajuku dengan lembut. “Hei…mobil itu…”"
+    },
+    {
+      "id": "v4-bab-8-chapter008-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#81",
+      "text": "“Yah, limusin sewaan yang disopir itu semuanya terlihat sama. Dan aku sangat kesakitan, tentu saja, jadi aku tidak ingat semuanya tentang mobil itu,” kataku, tapi aku tidak tulus."
+    },
+    {
+      "id": "v4-bab-8-chapter008-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#82",
+      "text": "Sebenarnya, saat aku melihatnya limo, aku tahu."
+    },
+    {
+      "id": "v4-bab-8-chapter008-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#83",
+      "text": "Aku tidak melihat Yukino Yukinoshita lagi musim panas itu."
+    },
+    {
+      "id": "v4-bab-8-chapter008-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#84",
+      "text": "Referensi:"
+    },
+    {
+      "id": "v4-bab-8-chapter008-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter008.xhtml#85",
+      "text": "Natsume, Souseki. Kokoro.",
+      "emphasis": [
+        {
+          "start": 18,
+          "end": 25,
+          "style": "em"
+        }
+      ]
+    }
+  ]
+}

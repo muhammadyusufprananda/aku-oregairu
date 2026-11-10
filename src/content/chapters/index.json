@@ -198,5 +198,455 @@
     "order": 8,
     "title": "Catatan Penerjemah Edisi Inggris",
     "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "pembuka",
+    "kind": "frontmatter",
+    "number": null,
+    "order": 0,
+    "id": "volume-3-pembuka",
+    "title": "Pembuka Volume 3",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "bab-1",
+    "kind": "chapter",
+    "number": 1,
+    "order": 1,
+    "id": "volume-3-bab-1",
+    "title": "Beginilah Shizuka Hiratsuka memulai pertandingan baru.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "bab-2",
+    "kind": "chapter",
+    "number": 2,
+    "order": 2,
+    "id": "volume-3-bab-2",
+    "title": "Komedi romantis masa muda Saika Totsuka memang benar, seperti dugaanku.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "bab-3",
+    "kind": "chapter",
+    "number": 3,
+    "order": 3,
+    "id": "volume-3-bab-3",
+    "title": "Yukino Yukinoshita memang sangat menyukai kucing.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "bab-4",
+    "kind": "chapter",
+    "number": 4,
+    "order": 4,
+    "id": "volume-3-bab-4",
+    "title": "Komachi Hikigaya menyusun siasat dengan cerdik.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "bab-5",
+    "kind": "chapter",
+    "number": 5,
+    "order": 5,
+    "id": "volume-3-bab-5",
+    "title": "Meski begitu, Yoshiteru Zaimokuza meratap sendirian di tanah tandus.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "bab-6",
+    "kind": "chapter",
+    "number": 6,
+    "order": 6,
+    "id": "volume-3-bab-6",
+    "title": "Akhirnya, permulaan dia dan dirinya berakhir.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "bonus-track",
+    "kind": "backmatter",
+    "number": null,
+    "order": 7,
+    "id": "volume-3-bonus-track",
+    "title": "Bonus Track! “Lagu Ulang Tahun Semacam Ini.”",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-3",
+    "slug": "catatan-penerjemah",
+    "kind": "backmatter",
+    "number": null,
+    "order": 8,
+    "id": "volume-3-catatan-penerjemah",
+    "title": "Catatan Penerjemah Edisi Inggris",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "pembuka",
+    "kind": "frontmatter",
+    "number": null,
+    "order": 0,
+    "id": "volume-4-pembuka",
+    "title": "Pembuka Volume 4",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "bab-1",
+    "kind": "chapter",
+    "number": 1,
+    "order": 1,
+    "id": "volume-4-bab-1",
+    "title": "Beginilah Hachiman Hikigaya menghabiskan liburan musim panasnya.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "bab-2",
+    "kind": "chapter",
+    "number": 2,
+    "order": 2,
+    "id": "volume-4-bab-2",
+    "title": "Apa pun yang dilakukan, kau tak bisa lolos dari Shizuka Hiratsuka.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "bab-3",
+    "kind": "chapter",
+    "number": 3,
+    "order": 3,
+    "id": "volume-4-bab-3",
+    "title": "Hayato Hayama pandai bergaul dengan siapa saja.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "bab-4",
+    "kind": "chapter",
+    "number": 4,
+    "order": 4,
+    "id": "volume-4-bab-4",
+    "title": "Mendadak, Hina Ebina mulai menyebarkan ajarannya.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "bab-5",
+    "kind": "chapter",
+    "number": 5,
+    "order": 5,
+    "id": "volume-4-bab-5",
+    "title": "Sendirian, Yukino Yukinoshita menatap langit malam.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "bab-6",
+    "kind": "chapter",
+    "number": 6,
+    "order": 6,
+    "id": "volume-4-bab-6",
+    "title": "Sayangnya, Hachiman Hikigaya tidak membawa pakaian renang.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "bab-7",
+    "kind": "chapter",
+    "number": 7,
+    "order": 7,
+    "id": "volume-4-bab-7",
+    "title": "Pada akhirnya, Rumi Tsurumi memilih jalannya sendiri.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "bab-8",
+    "kind": "chapter",
+    "number": 8,
+    "order": 8,
+    "id": "volume-4-bab-8",
+    "title": "Dengan Yukino Yukinoshita di dalamnya, mobil itu melaju pergi.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "kata-penutup",
+    "kind": "backmatter",
+    "number": null,
+    "order": 9,
+    "id": "volume-4-kata-penutup",
+    "title": "Kata Penutup",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-4",
+    "slug": "catatan-penerjemah",
+    "kind": "backmatter",
+    "number": null,
+    "order": 10,
+    "id": "volume-4-catatan-penerjemah",
+    "title": "Catatan Penerjemah Edisi Inggris",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "pembuka",
+    "kind": "frontmatter",
+    "number": null,
+    "order": 0,
+    "id": "volume-5-pembuka",
+    "title": "Pembuka Volume 5",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "bab-1",
+    "kind": "chapter",
+    "number": 1,
+    "order": 1,
+    "id": "volume-5-bab-1",
+    "title": "Mendadak, ketenangan keluarga Hikigaya runtuh.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "bab-2",
+    "kind": "chapter",
+    "number": 2,
+    "order": 2,
+    "id": "volume-5-bab-2",
+    "title": "Tentu saja, dia melupakan Saki Kawasaki.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "bab-3",
+    "kind": "chapter",
+    "number": 3,
+    "order": 3,
+    "id": "volume-5-bab-3",
+    "title": "Selera Saika Totsuka ternyata cukup bersahaja.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "bab-4",
+    "kind": "chapter",
+    "number": 4,
+    "order": 4,
+    "id": "volume-5-bab-4",
+    "title": "Sayangnya, tak seorang pun tahu ke mana benang merah Shizuka Hiratsuka pergi.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "bab-5",
+    "kind": "chapter",
+    "number": 5,
+    "order": 5,
+    "id": "volume-5-bab-5",
+    "title": "Komachi Hikigaya memikirkan bahwa suatu hari, kakaknya mungkin pergi.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "bab-6",
+    "kind": "chapter",
+    "number": 6,
+    "order": 6,
+    "id": "volume-5-bab-6",
+    "title": "Dan begitulah Yui Yuigahama menghilang di tengah kerumunan.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "bab-7",
+    "kind": "chapter",
+    "number": 7,
+    "order": 7,
+    "id": "volume-5-bab-7",
+    "title": "Sedangkan Hachiman Hikigaya…",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "bab-8",
+    "kind": "chapter",
+    "number": 8,
+    "order": 8,
+    "id": "volume-5-bab-8",
+    "title": "Yukino Yukinoshita berhenti di tempatnya, hanya sesaat.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "kata-penutup",
+    "kind": "backmatter",
+    "number": null,
+    "order": 9,
+    "id": "volume-5-kata-penutup",
+    "title": "Kata Penutup",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-5",
+    "slug": "catatan-penerjemah",
+    "kind": "backmatter",
+    "number": null,
+    "order": 10,
+    "id": "volume-5-catatan-penerjemah",
+    "title": "Catatan Penerjemah Edisi Inggris",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "pembuka",
+    "kind": "frontmatter",
+    "number": null,
+    "order": 0,
+    "id": "volume-6-pembuka",
+    "title": "Pembuka Volume 6",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "prolog",
+    "kind": "frontmatter",
+    "number": null,
+    "order": 1,
+    "id": "volume-6-prolog",
+    "title": "Prolog",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-1",
+    "kind": "chapter",
+    "number": 1,
+    "order": 2,
+    "id": "volume-6-bab-1",
+    "title": "Di tengah badai, Hachiman Hikigaya terus tergelincir.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-2",
+    "kind": "chapter",
+    "number": 2,
+    "order": 3,
+    "id": "volume-6-bab-2",
+    "title": "Minami Sagami mengajukan permintaan dengan agresif.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-3",
+    "kind": "chapter",
+    "number": 3,
+    "order": 4,
+    "id": "volume-6-bab-3",
+    "title": "Musikal Hina Ebina memang homoerotis, seperti dugaanku. (Bagian 2)",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-4",
+    "kind": "chapter",
+    "number": 4,
+    "order": 5,
+    "id": "volume-6-bab-4",
+    "title": "Mendadak, Haruno Yukinoshita menyerang.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-5",
+    "kind": "chapter",
+    "number": 5,
+    "order": 6,
+    "id": "volume-6-bab-5",
+    "title": "Meguri Shiromeguri dipermainkan dengan riang.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-6",
+    "kind": "chapter",
+    "number": 6,
+    "order": 7,
+    "id": "volume-6-bab-6",
+    "title": "Tidak seperti biasanya, Yui Yuigahama geram.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-7",
+    "kind": "chapter",
+    "number": 7,
+    "order": 8,
+    "id": "volume-6-bab-7",
+    "title": "Inilah saat SMA Soubu paling semarak merayakan festival.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-8",
+    "kind": "chapter",
+    "number": 8,
+    "order": 9,
+    "id": "volume-6-bab-8",
+    "title": "Di seberang sana, Yukino Yukinoshita mengamati seseorang.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-9",
+    "kind": "chapter",
+    "number": 9,
+    "order": 10,
+    "id": "volume-6-bab-9",
+    "title": "Dan begitulah tirai di setiap panggung terangkat.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "bab-10",
+    "kind": "chapter",
+    "number": 10,
+    "order": 11,
+    "id": "volume-6-bab-10",
+    "title": "Akhirnya, dia dan dirinya menemukan jawaban yang benar.",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "kata-penutup",
+    "kind": "backmatter",
+    "number": null,
+    "order": 12,
+    "id": "volume-6-kata-penutup",
+    "title": "Kata Penutup",
+    "editorialStatus": "draft"
+  },
+  {
+    "volume": "volume-6",
+    "slug": "catatan-penerjemah",
+    "kind": "backmatter",
+    "number": null,
+    "order": 13,
+    "id": "volume-6-catatan-penerjemah",
+    "title": "Catatan Penerjemah Edisi Inggris",
+    "editorialStatus": "draft"
   }
 ]

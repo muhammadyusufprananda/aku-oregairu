@@ -1,0 +1,1220 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v4-bab-5-chapter005_b-90"
+    ],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v4-bab-5-chapter005-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter005.xhtml#1",
+      "headingLevel": 2,
+      "text": "Sendirian, Yukino Yukinoshita menatap langit malam.",
+      "emphasis": [
+        {
+          "start": 11,
+          "end": 29,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter005.xhtml#../Images/Art_P99.jpg",
+      "src": "assets/chapters/volume-4/bab-5/Art_P99.webp",
+      "width": 337,
+      "height": 723,
+      "text": "Yukino berdiri dengan seragam sekolah."
+    },
+    {
+      "id": "v4-bab-5-chapter005-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#3",
+      "text": "Dari area cuci terdengar suara kapon klasik dari bak mandi. Aku selalu bertanya-tanya apa arti suara itu. Suara ember air membentur ubin? Aku segera membasuh kepala, badan, dan wajahku, lalu masuk ke dalam air.",
+      "emphasis": [
+        {
+          "start": 31,
+          "end": 36,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#4",
+      "text": "Ini adalah sumber air panas, kata mereka. Aku segar kembali setelah membilas keringat, dan aku merasa airnya membuatku jenuh."
+    },
+    {
+      "id": "v4-bab-5-chapter005-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#5",
+      "text": "Ada pemandian besar di penginapan pengunjung. Seperti yang sering terjadi pada sebagian besar kunjungan lapangan, perjalanan berkemah, dan acara sekolah lainnya, ketika siswa menginap, mereka memberikan waktu terpisah untuk anak laki-laki dan perempuan. Namun kali ini, aku sedang berendam di kamar mandi biasa di gedung manajer."
+    },
+    {
+      "id": "v4-bab-5-chapter005-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#6",
+      "text": "Karena diskusi kita sebelumnya sudah berlangsung lama, hanya ada waktu bagi satu kelompok untuk menggunakan pemandian besar tersebut, padahal mereka jelas membutuhkan waktu untuk tiga orang: laki-laki, perempuan, dan Totsuka. Setelah beberapa negosiasi, mereka membiarkan anak-anak itu menggunakan kamar mandi biasa. Tapi, ya, bak mandi ini tidak lebih besar dari bak mandi yang ada di rumah pada umumnya, jadi kami masuk ke dalamnya satu per satu. Sebagian besar pria mungkin tidak akan tertarik untuk mandi bersama dengan pria lain, jadi semuanya berhasil."
+    },
+    {
+      "id": "v4-bab-5-chapter005-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#7",
+      "text": "Mungkin kalau aku dan Totsuka mandi bersama, kita berdua bisa cocok sekaligus, tapi kalau begitu... Yah, itu akan jadi seperti, kamu tahu, agak... Maksudku, kalau Totsuka benar-benar perempuan, Gae Bolg-ku pasti akan aktif, dan kalau dia laki-laki dan Gae Bolg-ku meledak, satu hal mungkin akan mengarah ke hal lain, dan Aku harus menghapus bagian Bolg…",
+      "emphasis": [
+        {
+          "start": 348,
+          "end": 352,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#8",
+      "text": "Jadi ini yang terbaik."
+    },
+    {
+      "id": "v4-bab-5-chapter005-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#9",
+      "text": "Saat seorang pria mandi, dia menyelesaikannya secepat burung gagak di pemandian burung. Jika Totsuka mandi tepat di depanku, aku akan berendam pelan-pelan, tapi yang terjadi adalah Tobe dan kemudian Hayama, jadi aku menyelesaikannya dengan cepat. Aku mengeringkan badanku dengan handuk hingga kering di ruang ganti kecil, lalu meraba-raba keranjang pakaianku. “Pakaian dalam, celana dalam… ya?” Tanganku menyentuh celana boxerku tepat saat pintu terbuka. Dengan kata lain, meskipun aku melakukannya dengan benar saat itu juga, aku tidak akan berhasil tepat waktu. Hawawa! Tuan, musuh ada di sini! >."
+    },
+    {
+      "id": "v4-bab-5-chapter005-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#10",
+      "text": "Pintu terbuka, dan wajah Totsuka menyambutku. “Oh, Hachi…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#11",
+      "text": "“         ”"
+    },
+    {
+      "id": "v4-bab-5-chapter005-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#12",
+      "text": "Dan waktu terus berjalan."
+    },
+    {
+      "id": "v4-bab-5-chapter005-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#13",
+      "text": "“Ah! Ah-ah-ah-ah! M-maaf!” Totsuka tergagap."
+    },
+    {
+      "id": "v4-bab-5-chapter005-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#14",
+      "text": "“U-uhhhhh… U-uh, maaf, sepertinya!”"
+    },
+    {
+      "id": "v4-bab-5-chapter005-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#15",
+      "text": "Karena bingung, Totsuka segera menutup pintu, dan aku segera berpakaian. Aku memakai celana dalamku dengan pas di Pilder-On dan dilanjutkan dengan T-shirt dan celana pendekku. Secara keseluruhan, mungkin hanya butuh waktu kurang dari sepuluh detik."
+    },
+    {
+      "id": "v4-bab-5-chapter005-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#16",
+      "text": "“K-kamu boleh masuk sekarang,” seruku."
+    },
+    {
+      "id": "v4-bab-5-chapter005-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#17",
+      "text": "Pintu terbuka perlahan dan sangat ragu-ragu, lebarnya sekitar tiga sentimeter. Totsuka mengintip melalui celah itu, memeriksa apakah itu aman. Sambil menghela napas lega, dia memasuki ruang ganti. “M-maaf. Aku pikir kamu sudah selesai...” Totsuka meminta maaf sambil membungkuk. Namun saat dia mengangkat kepalanya dan matanya bertemu dengan mataku, wajahnya memerah, dan dia langsung membuang muka."
+    },
+    {
+      "id": "v4-bab-5-chapter005-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#18",
+      "text": "…Kenapa dia tersipu? Sekarang aku jadi malu.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 44,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#19",
+      "text": "“J-jadi…aku akan mandi sekarang,” katanya."
+    },
+    {
+      "id": "v4-bab-5-chapter005-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#20",
+      "text": "“Y-ya,” jawabku, lalu kami saling mempertimbangkan dalam diam beberapa saat lagi."
+    },
+    {
+      "id": "v4-bab-5-chapter005-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#21",
+      "text": "“Um… aku akan… menanggalkan pakaian, jadi…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005.xhtml#22",
+      "text": "Totsuka menatapku, matanya basah dan hampir menuduh saat tangannya menggenggam ujung kemejanya. “Ini sedikit menggangguku…jika kamu menontonnya sepanjang waktu.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter005_a.xhtml#../Images/Art_P101.jpg",
+      "src": "assets/chapters/volume-4/bab-5/Art_P101.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Hachiman dan yang lain berada di tepi air."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#0",
+      "text": "“Oh, begitu. Maaf, maaf. Saya pergi.” Yah, meskipun kita semua laki-laki di sini, kurasa tidak akan menyenangkan jika seseorang menatapmu saat kamu berganti pakaian. Menutup pintu di belakangku, aku mulai berjalan dengan suara air mengalir di belakangku yang terdengar jelas di telingaku."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#1",
+      "text": "Tapi kawan, itu sama sekali tidak seperti acara mandi yang biasa kualami. Apakah para dewa itu idiot? Mereka ingin mati?"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#2",
+      "text": "Jika posisi kita dibalik, setidaknya… Tidak, itu juga tindakan bodoh."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-3",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter005_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#4",
+      "text": "Hayama dan Tobe sudah berada di bungalo. Sepertinya mereka tidak punya banyak pekerjaan, mengingat mereka kebanyakan hanya menggunakan ponsel. Hayama sedang mengusap-usap tablet. Gerakan keren dan modern itu membuat Anda terlihat tahu apa yang Anda lakukan. Orang-orang sangat puas dengan hal itu. Aku sudah mengatakan hal ini sebelumnya, dan aku tidak tahu apakah ada orang yang benar-benar mempercayai hal ini, namun mereka masih harus sadar dan menyadari bahwa perangkatlah yang menakjubkan dan bukan mereka."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#5",
+      "text": "Ada setumpuk kartu tergeletak di kakinya, tapi jelas mereka tidak akan mempermainkan aku. Sesekali keduanya mengobrol satu sama lain. Aku mengambil keputusan mandiri untuk menempati sudut terjauh ruangan, meletakkan kasurku dan menyelinap ke bawah selimut. Aku mencari-cari di dalam tasku, tapi sepertinya tidak ada benda khusus yang bisa kugunakan untuk menghabiskan waktu. Bahkan Komachi pun tidak mampu mempersiapkan sebanyak itu dalam waktu sesingkat itu."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#6",
+      "text": "Saat ini, Anda dapat melakukan hampir semua hal hanya dengan ponsel Anda. Jadi aku bermain-main dengan milikku sambil menunggu untuk mengantuk. Di belakangku, aku mendengar percakapan mereka."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#7",
+      "text": "“Hei, hei, apa yang kamu lihat, Hayato? Porno?” tanya Tobe."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#8",
+      "text": "“Bukan, hanya buku untuk belajar. Ada dalam bentuk PDF,” jawab Hayama."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#9",
+      "text": "“Wah, inilah kosa kata yang cerdas!”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#10",
+      "text": "Aku tidak tahu menurutku ada satu kata cerdas dalam keseluruhan percakapan itu."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#11",
+      "text": "Aku kira lebih mudah membawa buku sekolah dalam bentuk PDF, ya? Membawa setumpuk buku ke mana-mana jadi sangat berat, dan akhirnya kamu lupa satu…"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#12",
+      "text": "“Kamu pintar sekali, Hayama,” kataku. Aku berbicara pada diri sendiri, dan tidak masalah bagi aku jika ada yang mendengarnya. Orang yang penyendiri sering kali melontarkan pernyataan seperti itu."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#13",
+      "text": "Tapi tentu saja, Hayama, inkarnasi dari kebaikan yang salah tempat, harus merespons. “Aku tidak terlalu pintar.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#14",
+      "text": "“Tidak mungkin, kawan,” kata Tobe. “Nilaimu sepertinya jelek, Hayato! Sepertinya, kamu berada di peringkat atas dalam bidang humaniora!”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#15",
+      "text": "Menurutku sakit umumnya memiliki konotasi negatif, tapi menurutku anak-anak muda saat ini mengartikannya sebagai hal yang baik. Itu seperti mengatakan, Aku sama sekali tidak menyukaimu, Kakak!",
+      "emphasis": [
+        {
+          "start": 10,
+          "end": 15,
+          "style": "em"
+        },
+        {
+          "start": 152,
+          "end": 192,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#16",
+      "text": "“Yah, nilaiku bagus,” jawab Hayama dengan senyum samar, seolah dia sedikit malu."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#17",
+      "text": "Oh, apakah dia salah satu dari mereka yang berwatak halus tipe menjengkelkan yang membedakan antara nilai ujian dan kecerdasan?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 127,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#18",
+      "text": "“Layak?” kata Tobe. “Kamu adalah yang terbaik di kelas, bukan?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#19",
+      "text": "“Tapi Yukinoshita mengalahkanku,” jawabnya."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#20",
+      "text": "…"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#21",
+      "text": "Oh, aku mengerti. Semuanya menjadi jelas. Aku sekarang mengerti mengapa aku terpaksa menerima peringkat ketiga aku selama ini. Itu karena posisi pertama dan kedua sudah ditempati secara permanen. Jadi dia punya penampilan, kepribadian, dan otak ya? Kombinasi yang patut membuat putus asa, seperti Goku dan Vegeta yang menyatu dengan Potara. Mengapa orang-orang ini masih hidup? Setidaknya tidak bisakah kamu membiarkanku menang dalam bahasa Jepang?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 195,
+          "style": "em"
+        },
+        {
+          "start": 236,
+          "end": 239,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#22",
+      "text": "Tepat ketika aku hendak tidur dengan terengah-engah, aku mendengar suara ketukan pintu terbuka. “Fiuh… aku keluar dari kamar mandi.” Totsuka sudah kembali, menutup pintu di belakangnya dengan satu tangan. Saat dia mengeringkan rambutnya yang basah dengan handuk, dia melewatiku, mengikuti aroma lembut sampo di belakangnya. Dia duduk dengan gedebuk lembut dan mulai mengeringkan rambutnya dengan pengering yang dia ambil dari tasnya. Kontras antara rambutnya yang basah dan kulitnya yang memerah, yang baru keluar dari bak mandi, anehnya sangat sensual. Sebelum aku sadar apa yang kulakukan, aku sedang melamun dan menatapnya.",
+      "emphasis": [
+        {
+          "start": 341,
+          "end": 348,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#23",
+      "text": "Setelah mengacak-acak rambutnya untuk terakhir kalinya untuk memastikan apakah sudah kering, Totsuka menghela napas puas. “Aku sudah selesai, jadi…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#24",
+      "text": "“Kalau begitu, ayo kita tidur,” jawab Hayama."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#25",
+      "text": "Tobe dan Totsuka mulai bersiap-siap untuk tidur. Aku sudah meletakkan kasur aku, jadi tidak ada yang bisa aku lakukan. Sungguh pandangan jauh ke depan yang kumiliki."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#26",
+      "text": "Dengan susah payah, Totsuka menarik selimutnya dan meletakkannya di sebelah kasurku. Dia melirik ke arahku, sambil memukul bantalnya beberapa kali. “Saya bisa…tidur di sini, kan?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#27",
+      "text": "“…Tentu.” Saat kami saling menatap, kecanggungan pertemuan kami sebelumnya di pemandian muncul kembali. Itu adalah kenangan yang memalukan. Totsuka sudah melihat segalanya… Aku yakin saat ini tidak ada pilihan lain selain dia mengambil tanggung jawab dan mendukungku seumur hidup.",
+      "emphasis": [
+        {
+          "start": 173,
+          "end": 280,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#28",
+      "text": "Namun, Totsuka sepertinya tidak merasa terganggu dengan hal itu, dan dia meringkuk di kasurnya tanpa rasa curiga yang jelas terhadapku. Hei, ayolah. Dari posisi itu, jika kamu berguling-guling dalam tidurmu, kita akan berakhir berciuman.",
+      "emphasis": [
+        {
+          "start": 136,
+          "end": 237,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#29",
+      "text": "Hayama, setelah selesai dengan tempat tidurnya, mengulurkan tangan ke tombol lampu. “Aku matikan lampunya,” katanya, dan dengan sekali klik, bohlam yang tergantung di langit-langit itu berkedip-kedip."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#30",
+      "text": "“Hei, Hayato,” kata Tobe. “Rasanya seperti kita sedang melakukan karyawisata, ya?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#31",
+      "text": "“Ya, tentu saja.” Hayama memberikan jawaban yang suam-suam kuku. Mungkin dia lelah."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#32",
+      "text": "“…Mari kita bicara tentang orang yang kita sukai.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#33",
+      "text": "“Jangan.” Cukup mengejutkan, Hayama mematikan status itu."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#34",
+      "text": "Totsuka tertawa sedikit tidak nyaman. “Ah-ha-ha… aku jadi malu,” katanya."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#35",
+      "text": "“Kenapa tidak?!” tuntut Tobe. “Ayo, kita bicara! Baiklah, aku mengerti! Aku pergi dulu!”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#36",
+      "text": "Tidak dapat disangkal, dia mengangkat topik itu karena dia ingin membicarakannya."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#37",
+      "text": "Sepasang desahan yang agak lelah menunjukkan bahwa Hayama dan Totsuka telah mencapai tujuan yang sama kesimpulan."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#38",
+      "text": "“Sebenarnya, aku…,” Tobe memulai. Tidak ada gunanya mendengarkan. Dia akan mengatakan bahwa dia menyukai Miura. “…Menurutku Ebina baik-baik saja…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#39",
+      "text": "“…Serius?” aku berseru. Itu di luar dugaan.",
+      "emphasis": [
+        {
+          "start": 24,
+          "end": 27,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#40",
+      "text": "Aku pikir Tobe tidak tahu siapa yang berbicara, karena tanggapannya ragu-ragu. “Hah? …Y-ya. Apa, kamu mendengarkan, Hikitani? Kamu baru saja berbaring di sana, jadi kupikir kamu tertidur!”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#41",
+      "text": "“Hmm. Tapi aku terkejut. Kupikir kamu menyukai Miura,” jawabku."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#42",
+      "text": "“Ah, aku tidak bisa bergerak tentang Yumiko… Dia terlalu menakutkan.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#43",
+      "text": "Jadi kamu juga takut padanya, ya? Artinya, menurut perhitunganku, hampir semua pria takut padanya. Ayolah, maksudku, meski ada hantu atau semacamnya, tidak semua orang percaya padanya. Dengan kata lain, Miura berada pada tingkat bencana alam dalam skala teror. “Karena takut padanya, kamu tentu sering berbicara dengannya. Lebih dari Ebina.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 33,
+          "style": "em"
+        },
+        {
+          "start": 156,
+          "end": 167,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#44",
+      "text": "“Y-ya...itu hanya karena, kamu tahu pepatah itu? Misalnya, jika kamu ingin menembak sang jenderal, tembak kudanya terlebih dahulu.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#45",
+      "text": "“Uh, menurutku Miura jelas merupakan jenderal dalam situasi ini,” jawabku. Tapi aku memiliki empati yang sangat besar padanya. Semakin Anda menyukai seorang gadis, semakin sedikit Anda bisa berkomunikasi dengannya. Sebagai laki-laki, aku mengerti."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#46",
+      "text": "“Yui juga cukup baik, tapi dia agak bodoh, tahu?” lanjutnya."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#47",
+      "text": "Ah, benar juga. Dia bodoh. Namun menurut aku itu tidak terlalu buruk sehingga memberi Anda hak untuk mengatakan hal tersebut.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 125,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#48",
+      "text": "“Lagipula, dia cukup populer, jadi ada banyak persaingan.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#49",
+      "text": "……Yah, aku yakin itu benar."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#50",
+      "text": "Pria menyukai gadis yang baik. Orang-orang pecundang mengartikan kebaikan mereka sebagai ketertarikan—mereka sering kali terperdaya dalam hal itu—jadi Yuigahama pasti akan mendapatkan banyak ikan. Tidak ada daya tarik lain yang bisa menandinginya. Bahkan Grander Musashi pun akan pucat pasi karena tangkapan sebesar itu. Aku tidak terlalu terkejut atau merasa terganggu, jadi menurutku ini bukan hal yang aneh atau mengagetkan, dan sama sekali tidak menggangguku."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#51",
+      "text": "Sungguh, ini benar-benar membuatku kesal.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 41,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#52",
+      "text": "Tobe mengabaikan desahanku dan melanjutkan. “Ebina, sepertinya, banyak orang yang merasa aneh, begitu pula para pria, jadi menurutku itu membuatku ingin memilihnya?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#53",
+      "text": "Dia ada benarnya—seperti yang kamu harapkan dari anggota kasta atas, Ebina itu manis. Tapi laki-laki cenderung menghindarinya karena minat khususnya. Sebenarnya, aku merasa bahwa mengiklankan kepentingannya secara terbuka adalah upayanya dalam strategi pertahanan. Aku pikir jika dia yang sebenarnya, dia akan menyembunyikannya. Yah, aku mungkin menganalisisnya terlalu dalam."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#54",
+      "text": "Tobe pasti menyadari bahwa dialah satu-satunya yang berbagi, saat dia mengajukan pertanyaan pada kami. “Bagaimana dengan kalian?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#55",
+      "text": "“Apakah aku menyukai gadis mana pun? …Cewek, ya… Mmm, tidak juga,” kata Totsuka."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#56",
+      "text": "Dia tidak menyukai gadis mana pun. J-jadi bagaimana dengan laki-laki? Entah kenapa, jantungku berdebar kencang.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 69,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#57",
+      "text": "Namun, Tobe melompatiku, dan berpindah ke Hayama. “Bagaimana denganmu, Hayato?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#58",
+      "text": "“Aku… Tidak, lupakan saja.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#59",
+      "text": "“Hei, hei, hei, Hayato, ayolah! Kamu punya naksir, kan? 'Akui saja.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#60",
+      "text": "“…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#61",
+      "text": "“Bahkan hanya inisial pertamanya!”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#62",
+      "text": "Hayama menghela napas pasrah. “…Y.”",
+      "emphasis": [
+        {
+          "start": 32,
+          "end": 33,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#63",
+      "text": "“Y? Tunggu, jadi maksudmu—?”",
+      "emphasis": [
+        {
+          "start": 1,
+          "end": 2,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#64",
+      "text": "“Cukup. Ayo tidur.” Hayama menolak penyelidikan lebih lanjut. Dia terdengar marah, sekali ini. Hayama adalah tipe pria baik yang baik kepada semua orang, jadi aku ragu dia sering menunjukkan rasa kesal. Dari sudut pandang yang berbeda, mungkin itu berarti dia bersedia berbagi sisi lain dirinya dengan Tobe."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#65",
+      "text": "“Ini sangat menggangguku hingga aku tidak bisa tidur! Jika aku mati karena insomnia, itu salahmu, Hayato.” Tobe dengan santai menangkis kemarahan Hayato dengan humor. Itu adalah teknik sosial yang sering digunakan untuk mencegah hal-hal menjadi serius, sebuah metode konvensional yang digunakan untuk menghindari hubungan menjadi buruk atau membuat keadaan menjadi canggung."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#66",
+      "text": "Aku menatap kosong ke dalam kegelapan yang sunyi. Siapa Y yang dimaksud Hayama? Sejumlah pilihan terlintas di benak aku.",
+      "emphasis": [
+        {
+          "start": 56,
+          "end": 57,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#67",
+      "text": "Anehnya ruangan itu terasa tegang, jadi meski sunyi, aku tidak bisa tidur. Aku berguling dan menemukan wajah Totsuka tepat di depanku. Nafasnya yang lambat dan teratur memberitahuku bahwa dia tertidur."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#68",
+      "text": "“…Nhn.” Dia menghela napas. Sinar bulan yang masuk melalui jendela dengan lembut menyinari wajahnya. Bibirnya yang berkilau bergerak sedikit, seolah menggumamkan nama seseorang. Dia tampak bahagia, tersenyum lembut dan lembut."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#69",
+      "text": "Kegelisahan yang selama ini kurasakan berubah menjadi gulungan di dadaku. Sekarang setelah aku memperhatikan bibir Totsuka, aku tidak bisa berhenti memikirkannya. Aku sangat sadar akan setiap suara yang dia keluarkan saat dia bergerak dalam tidurnya, setiap napas ringan yang dia ambil. “Aku tidak akan tidur di sini…” Sambil mengintip ponsel di tanganku, aku terkejut karena saat itu belum genap pukul sebelas. Aku kira begitu Anda menjauh dari kota, waktu berjalan lebih lambat. Tidak ada suara kereta api atau lampu jalan yang terang benderang. Malam itu sepi."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#70",
+      "text": "Pergi keluar untuk mencari udara malam mungkin akan menenangkanku. Aku berdiri dengan tenang, agar tidak membangunkan tiga orang lainnya, dan meninggalkan bungalo. Suatu malam di dataran tinggi. Sejuknya ketenangan perlahan menenangkan hatiku…"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#71",
+      "text": "Atau begitulah yang kupikirkan. Sebenarnya itu sangat menakutkan. Seperti, ada sesuatu yang bersuara, dan gemerisik beberapa dedaunan saja sudah cukup membuatku mencicit. Dengan gemetar di dalam, aku mengamati area itu. Aku pikir aku bisa melihat sosok di antara pepohonan… Sesuatu yang tidak berwujud… Atau mungkin hanya arboreal. Ya. Alternatifnya pasti terlalu menakutkan."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#72",
+      "text": "Pokoknya, intinya dia bukanlah roh pohon, atau dryad, seperti yang mereka katakan dalam bahasa Inggris. Aku bahkan tidak tahu apakah dryad adalah bahasa Inggris. Di antara pepohonan berdiri seorang gadis dengan rambut panjang tergerai. Sesuatu dalam adegan itu telah dihapus dari kenyataan, seperti penampakan roh atau peri. Di bawah sinar bulan yang lembut, kulit putihnya tampak bersinar. Dengan setiap hembusan angin yang bertiup, rambutnya berkibar dan menari. Dia tampak seperti peri saat dia bermandikan cahaya perak, bernyanyi dengan pelan, oh-sangat-sangat pelan.",
+      "emphasis": [
+        {
+          "start": 47,
+          "end": 53,
+          "style": "em"
+        },
+        {
+          "start": 133,
+          "end": 138,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#73",
+      "text": "Di hutan yang gelap dan dingin, melodinya yang seperti bisikan terdengar sangat menyenangkan di telingaku. Aku hanya mengawasinya. Jika aku maju selangkah saja, aku akan menghancurkan dunia kecil yang dia ciptakan sendirian. Aku enggan mengeluarkan suara. Berpikir aku harus kembali, aku perlahan berbalik untuk kembali ke tempat asalku. Namun saat aku melangkah ke depan, kakiku mematahkan ranting dengan sekejap."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#74",
+      "text": "Nyanyian seketika terhenti."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#75",
+      "text": "“…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#76",
+      "text": "“…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#77",
+      "text": "Satu detik, dua detik, tiga detik berlalu saat kami mencoba mengidentifikasi satu sama lain dalam kegelapan."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#78",
+      "text": "“…Siapa itu?” Suara itu milik gadis normal, Yukino Yukinoshita."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#79",
+      "text": "Aku bisa saja mencoba mengeong seperti kucing, dan mungkin dia akan seperti, Oh, apakah ada kucing yang mendengarku bernyanyi? tapi ini Yukinoshita, jadi dia mungkin akan berkata, Oh, hanya itu saja.",
+      "emphasis": [
+        {
+          "start": 77,
+          "end": 126,
+          "style": "em"
+        },
+        {
+          "start": 180,
+          "end": 198,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#80",
+      "text": "Jadi aku pasrah dan mendekatinya. “…Ini aku.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#81",
+      "text": "“…Siapa?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#82",
+      "text": "“Mengapa Anda mengulangi pertanyaan itu? Anda tahu siapa saya.” Jangan membuatku memiringkan kepala dengan bingung. Faktor keimutannya malah bikin tambah jengkel, ayolah.",
+      "emphasis": [
+        {
+          "start": 64,
+          "end": 170,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#83",
+      "text": "“Apa yang kamu lakukan jam segini?” dia bertanya. “Kamu harus mendapatkan tidur abadimu.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#84",
+      "text": "“Tidak bisakah kamu mengumumkan kematianku dengan berpura-pura mengkhawatirkanku?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#85",
+      "text": "Yukinoshita membuang muka seolah-olah mengatakan bahwa dia tidak tertarik lagi padaku, dan malah mengangkat kepalanya ke arah langit. Mengikuti petunjuknya, aku menatap ke langit yang cerah dan berbintang."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#86",
+      "text": "“Apakah kamu sedang melihat bintang?” aku bertanya. Anda bisa melihatnya dengan sangat jelas di sini dibandingkan di kota. Saat tidak ada cahaya lain di sekitarnya, bintang-bintang bersinar lebih terang. Dalam hal ini, aku yakin para penyendiri akan bersinar lebih terang, karena hanya ada sedikit orang lain di sekitar mereka. Ya ampun, masa depanku cerah.",
+      "emphasis": [
+        {
+          "start": 351,
+          "end": 356,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#87",
+      "text": "“Tidak terlalu,” jawabnya."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#88",
+      "text": "Oh, jadi dia tidak melakukan hal At the Mercy of the Sky? Jadi apakah ini yang dimaksud dengan Harga Surga yang Hilang?",
+      "emphasis": [
+        {
+          "start": 33,
+          "end": 56,
+          "style": "em"
+        },
+        {
+          "start": 95,
+          "end": 118,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#89",
+      "text": "“Miura sepertinya mengejarku…” Kepala Yukinoshita terkulai dalam keputusasaan."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#90",
+      "text": "Oh-ho, pemandangan langka. Tadinya aku yakin tak ada yang bisa membuatnya mundur. Memang hebat Miura. Menghadapi ratu api memang berarti menemui kekalahan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 26,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#91",
+      "text": "“Saya mendebatnya selama setengah jam dan membuatnya menangis. Saya tidak dewasa…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#92",
+      "text": "Yang Mulia Es terlalu kuat. Jangankan Kencan dengan kekalahan, dia adalah Nobunaga dengan kekalahan. “Jadi tentu saja keadaan menjadi canggung, dan kamu pergi ke luar, ya?”",
+      "emphasis": [
+        {
+          "start": 38,
+          "end": 44,
+          "style": "em"
+        },
+        {
+          "start": 74,
+          "end": 82,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#93",
+      "text": "“Ya. Aku tidak mengira dia akan menangis… Yuigahama sedang menghiburnya sekarang.” Mungkin air mata terlalu banyak, bahkan untuk Yukinoshita. Dia kelihatannya sedikit menyesal."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#94",
+      "text": "Sial, sebaiknya aku mengesampingkan hambatanku untuk menangis di hadapannya juga. Lame."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#95",
+      "text": "Yukinoshita merapikan rambutnya, dan seolah-olah itu adalah semacam sinyal, dia mengubah topik pembicaraan. “Kita harus…melakukan sesuatu terhadap gadis itu.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#96",
+      "text": "“Kamu nampaknya sangat bersemangat membantu anak yang tidak kamu kenal.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#97",
+      "text": "“Klub Layanan tidak melakukan apa pun selain membantu orang yang tidak kukenal. Aku tidak menghubungi hanya karena aku mengenal seseorang secara pribadi. Ditambah lagi…bukankah menurutmu dia…seperti Yuigahama?”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#98",
+      "text": "“Oh?” Aku tidak melakukannya, tidak sama sekali. Dia memiliki kemiripan yang jauh lebih dekat dengan orang lain."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#99",
+      "text": "Yukinoshita menatapku, ada sedikit kesedihan di matanya. “Saya pikir dia mungkin…memiliki pengalaman seperti itu.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#100",
+      "text": "Oh, jika itu maksudnya, maka aku mengerti. Yuigahama tentu saja lebih sadar akan politik kelas dibandingkan orang lain. Aku tidak terlalu ingin memikirkannya, tapi…Aku yakin dia pernah terjebak dalam mentalitas massa satu atau dua kali."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#101",
+      "text": "Dan itulah sebabnya dia mendapatkannya. Dia memahami perasaan bersalah itu. Kebaikan Yuigahama bukanlah kebajikan yang buta. Rasa belas kasihannya lahir dari kesadarannya akan sifat manusia yang menjijikkan, jelek, dan pengecut, dan dia tetap mengulurkan tangan tanpa mengalihkan pandangannya."
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#102",
+      "text": "“Dan…” Yukinoshita menundukkan kepalanya, dengan lembut menendang kerikil di kakinya. “…Aku yakin Hayama juga merasa khawatir.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_b-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_b.xhtml#103",
+      "text": "“Ya, aku tidak akan terkejut.” Aku rasa bisa dibilang dia punya watak tertentu. Seperti seorang pemimpin legendaris di akhir abad. Dia mungkin memiliki kecenderungan untuk menjadi pahlawan. Dia mungkin dibesarkan di manga klasik dari majalah Shonen Jump. Dia tidak akan mendapatkan pendidikan yang mudah dan terlindung sepertiku.",
+      "emphasis": [
+        {
+          "start": 242,
+          "end": 253,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_c-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter005_c.xhtml#../Images/Art_P110.jpg",
+      "src": "assets/chapters/volume-4/bab-5/Art_P110.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yui memegang senter di malam hari."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#0",
+      "text": "“Bukan itu maksudku…,” Yukinoshita melakukan lindung nilai. Tapi apapun yang ingin dia katakan dikalahkan oleh gemerisik hutan. Setelah itu suasana hening."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#1",
+      "text": "“Hei, apa ada yang terjadi antara kamu dan Hayama?” tanyaku, sedikit penasaran. Yukinoshita telah memberinya sikap serius. Aku mendapat kesan bahwa dia sangat dingin padanya. Dia sudah seperti itu sejak pertama kali Hayama masuk ke ruang Klub Layanan, dan perjalanan berkemah ini hanya menyoroti masalahnya."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#2",
+      "text": "“Kami hanya bersekolah di SD yang sama,” jawab Yukinoshita dengan dingin, seolah itu bukan apa-apa baginya. “Ayahnya adalah penasihat hukum untuk bisnis keluarga saya. Ngomong-ngomong, ibunya adalah seorang dokter.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#3",
+      "text": "“Hah.” Nilai sempurna, atletik serba bisa, keluarga elit, tampan, normie, dan punya gadis cantik sebagai teman masa kecil.",
+      "emphasis": [
+        {
+          "start": 74,
+          "end": 77,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#4",
+      "text": "Hmm…Aku tidak yakin bagaimana menjelaskannya, tapi mungkin dia tidak akan membantaiku di kompetisi ini.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 103,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#5",
+      "text": "Aku mempunyai wajah yang baik-baik saja, bakat dalam bidang humaniora, kebencian terhadap olahraga tim, adik perempuan yang sangat lucu, dan itu saja.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 150,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#6",
+      "text": "…Oke, kita seimbang! Aku ingin tahu kekalahan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 46,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#7",
+      "text": "Jika dia punya adik perempuan, aku akan mendapat masalah. Aku hampir hancur di sana."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#8",
+      "text": "“Pasti menyebalkan, jika keluargamu memaksamu untuk bersatu,” kataku."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#9",
+      "text": "“Sepertinya.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#10",
+      "text": "“Kamu membuatnya terdengar seperti itu bukan milikmu masalah…”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#11",
+      "text": "“Adalah tugas kakakku untuk menangani kewajiban sosial semacam itu. Aku hanya seorang pengganti,” jawabnya. Puncak pohon bergemuruh dan bergoyang tertiup angin. Suara gemerisik dedaunan terdengar bergelombang di malam yang sunyi, bagaikan riak di permukaan air. Tapi saat hutan bergerak, aku masih bisa mendengar suara Yukinoshita. “Meski begitu,” katanya, “…Saya senang bisa datang hari ini. Saya tidak yakin saya bisa datang.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#12",
+      "text": "“Hah? Kenapa?” Aku berbalik ke arahnya. Aku tidak yakin apa yang dia maksud. Tapi dia masih mempelajari bintang-bintang. Seolah-olah aku tidak berkata apa-apa. Tetap saja, aku menunggu jawabannya. Serangga yang sangat bersemangat mengeluarkan kicauan yang panjang dan mendengung. Mungkin saat itu sudah larut malam dan udaranya dingin, namun hembusan angin berikutnya terasa seperti musim gugur."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#13",
+      "text": "Mungkin dia sudah menunggu hal itu. Yukinoshita berbalik ke arahku. Ada sedikit senyuman di bibirnya, dan dia tidak berkata apa-apa. Dia tidak menjawab dan bertanya padaku."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#14",
+      "text": "Namun, saat hening segera berakhir, dan dia berdiri tegak. “Saya akan kembali.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#15",
+      "text": "“…Baiklah. Sampai jumpa.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#16",
+      "text": "“Ya, selamat malam.”"
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#17",
+      "text": "Aku tidak pernah menyelidiki lebih jauh. Aku tidak tertarik untuk mencoba memaksanya mengatakan sesuatu yang tidak dia inginkan. Menurutku, sebagian dari hal itu adalah hubungan nyaman yang kami bangun meski kami tidak terlalu mengenal satu sama lain."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#18",
+      "text": "Yukinoshita berjalan dengan langkah pasti menyusuri jalan yang gelap, dan aku melihatnya perlahan-lahan menghilang ke dalam kegelapan."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#19",
+      "text": "Sekarang sendirian, aku menatap bintang-bintang di atas, langit yang sama dengan Yukino Yukinoshita memperhatikannya dengan cermat. Aku pernah mendengar bahwa cahaya bintang sebenarnya berasal dari masa lalu. Selama ribuan tahun, mereka telah memancarkan cahaya kuno dari zaman yang telah berlalu."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#20",
+      "text": "Semua orang terjebak di masa lalu. Tidak peduli seberapa besar niat Anda untuk melanjutkan hidup, hanya dengan satu pandangan ke atas, pengalaman itu akan menghujani Anda seperti cahaya bintang. Anda tidak bisa menertawakan semuanya atau menghapusnya. Kamu hanya terus membawanya di salah satu sudut kecil hatimu, hanya untuk menemukan semuanya membanjiri kembali saat kamu tidak menduganya."
+    },
+    {
+      "id": "v4-bab-5-chapter005_d-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter005_d.xhtml#21",
+      "text": "Hal yang sama juga terjadi pada Yui Yuigahama, Hayato Hayama, dan mungkin Yukino Yukinoshita."
+    },
+    {
+      "id": "v4-bab-5-chapter005_e-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg",
+      "src": "assets/chapters/volume-4/bab-5/Art_P114.webp",
+      "width": 1800,
+      "height": 1352,
+      "text": "Percakapan di mobil menuju Chiba Village — baris belakang."
+    },
+    {
+      "id": "v4-bab-5-chapter005_e-0-companion-title",
+      "kind": "heading",
+      "headingLevel": 2,
+      "text": "Percakapan di mobil menuju Chiba Village — baris belakang",
+      "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-bab-5-chapter005_e-0-companion-1",
+      "kind": "text",
+      "text": "Komachi: “Selama liburan musim panas, Totsuka melakukan apa?” Totsuka: “Klub, kurasa? Aku bermain tenis. Komachi ikut klub juga?” Komachi: “Aku di OSIS, jadi tidak.”",
+      "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-bab-5-chapter005_e-0-companion-2",
+      "kind": "text",
+      "text": "Totsuka: “Ada klub yang ingin kauikuti kalau sudah SMA?” Komachi: “Oh, aku harus mengurus kakakku, jadi… haah. Enaknya kalau ada orang yang bisa menjaganya untukku…” Komachi melirik.",
+      "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-bab-5-chapter005_e-0-companion-3",
+      "kind": "text",
+      "text": "Totsuka: “Hah?? Kenapa tadi kau menatapku…?” Komachi: “Maaf, benar-benar tidak sengaja.”",
+      "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-bab-5-chapter005_e-0-companion-4",
+      "kind": "text",
+      "text": "Totsuka: “Ah-ha-ha. Kalau ada kesulitan, beri tahu aku. Walaupun aku tidak yakin bisa mengurus Hachiman.” Komachi: “Ngh! Senyum itu! Terang banget!”",
+      "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-bab-5-chapter005_e-0-companion-5",
+      "kind": "text",
+      "text": "Totsuka: “Apanya yang terang? Oh, kau duduk di sisi yang kena matahari? Mau bertukar tempat?”",
+      "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg (teks dalam ilustrasi)"
+    },
+    {
+      "id": "v4-bab-5-chapter005_e-0-companion-6",
+      "kind": "text",
+      "text": "Komachi: “Yamato nadeshiko yang baik dan perhatian… Hmm, menurut penilaian Komachi, yang ini mungkin bisa lolos, tipis…”",
+      "source": "OEBPS/Text/chapter005_e.xhtml#../Images/Art_P114.jpg (teks dalam ilustrasi)"
+    }
+  ]
+}

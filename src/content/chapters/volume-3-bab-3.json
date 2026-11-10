@@ -1,0 +1,1553 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v3-bab-3-chapter003-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter003.xhtml#1",
+      "headingLevel": 2,
+      "text": "Yukino Yukinoshita memang sangat menyukai kucing.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 18,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter003.xhtml#../Images/Art_P41.jpg",
+      "src": "assets/chapters/volume-3/bab-3/Art_P41.webp",
+      "width": 216,
+      "height": 416,
+      "text": "Kipas angin berdiri."
+    },
+    {
+      "id": "v3-bab-3-chapter003-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#3",
+      "text": "Sabtu adalah hari terkuat dalam seminggu. Ini tak tergoyahkan, jauh lebih unggul. Tidak hanya hari libur sekolah, hari berikutnya juga merupakan hari libur, seperti semacam obralan Super Saiyan. Aku sangat menyukai hari Sabtu, aku pikir di masa depan aku ingin seluruh minggu aku menjadi seperti hari Sabtu. Di hari Minggu, kamu jadi depresi dan berpikir, Besok sekolah lagi ya…, jadi hari itu tidak bagus.",
+      "emphasis": [
+        {
+          "start": 356,
+          "end": 378,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#4",
+      "text": "Baru bangun dari tempat tidur dan masih merasa grogi, aku dengan muram membaca koran pagi. Kobo luar biasa hari ini. Sebenarnya, Kobo adalah satu-satunya hal yang aku baca. Setelah aku selesai mengikuti berita, yaitu Kobo, aku memeriksa brosur kupon seperti biasa. Jika aku menemukan sesuatu yang murah, aku akan melingkarinya dengan warna merah dan menyerahkannya pada Komachi, lalu dia akan mencatatnya di daftar belanjaan, dan ibuku atau Komachi akan keluar untuk membelinya.",
+      "emphasis": [
+        {
+          "start": 91,
+          "end": 95,
+          "style": "em"
+        },
+        {
+          "start": 129,
+          "end": 133,
+          "style": "em"
+        },
+        {
+          "start": 217,
+          "end": 221,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#5",
+      "text": "Tetapi kemudian tulisan yang sangat berkilau di brosur itu menarik perhatianku. Mengingat banyaknya cahaya yang memancar dari halaman tersebut, aku tidak akan terkejut jika mengetahui font ini menginspirasi kata photon.",
+      "emphasis": [
+        {
+          "start": 212,
+          "end": 218,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#6",
+      "text": "“K-Komachi! Lihat, lihat ini! Pertunjukan Kucing dan Anjing Tokyo sedang diadakan sekarang!” Aku mengambilnya dan mendorongnya tinggi-tinggi di atas kepala aku. Itu seperti adegan dari musikal yang berhubungan dengan singa, jadi aku mengeluarkan suara gemuruh yang sesuai. U-Ra-Ra! Tunggu, itu Beetlebomb.",
+      "emphasis": [
+        {
+          "start": 273,
+          "end": 281,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#7",
+      "text": "“Tidak mungkin! Benarkah? Ya! Kerja bagus menemukannya, Kak!”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#8",
+      "text": "“Ha-ha-ha! Pujilah aku, pujilah aku lagi!”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#9",
+      "text": "“Eeek, kamu keren sekali! Kamu luar biasa, Kak!”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#10",
+      "text": "“…Sial, kalian berdua. Kalian terlalu berisik.” Ibu kami merangkak keluar dari kamar tidurnya seperti golem dan mengucapkan makian. Dia memiliki kepala tempat tidur, kacamatanya meluncur ke bawah hidungnya, dan kantung di bawah matanya tampak seperti permanen."
+    },
+    {
+      "id": "v3-bab-3-chapter003-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#11",
+      "text": "“M-maaf…,” aku meminta maaf, dan ibu kami mengangguk kecil sebelum kembali ke kamarnya. Rupanya dia akan kembali tidur sebentar… Pasti berat rasanya menjadi wanita karier. Saat aku menemukan istri yang bisa mendukungku, aku akan memperlakukannya dengan simpati dan kebaikan. Itulah artinya menjadi lintah super yang melampaui lintah.",
+      "emphasis": [
+        {
+          "start": 129,
+          "end": 333,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#12",
+      "text": "Dia meletakkan tangannya di pintu lalu berbalik ke arah kami. “Hei. Kamu boleh keluar, tapi hati-hati dengan mobil. Di luar sana seperti sauna, dan pengemudinya pemarah, jadi pasti ada lebih banyak kecelakaan. Jangan bersepeda dengan Komachi di belakang.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#13",
+      "text": "“Aku tahu. Aku tidak akan membiarkan Komachi mendapat bahaya.” Kasih orang tua aku terhadap saudara perempuan aku sangat besar. Hal ini sebagian karena dia perempuan, tapi dia juga melakukan banyak pekerjaan rumah, dia menangani semuanya seperti seorang profesional, dan dia bahkan sangat manis, jadi dia seperti harta karun kecil mereka."
+    },
+    {
+      "id": "v3-bab-3-chapter003-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#14",
+      "text": "Sebaliknya, putra sulung keluarga itu tampaknya tidak. Meski begitu, ibuku mendesah lelah padaku. “Agh… Kamu bodoh. Kamulah yang aku khawatirkan.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#15",
+      "text": "“…Hah?” Aku mendapati diri aku menangis. Aku tak pernah membayangkan dia akan begitu peduli padaku… Dia tidak membangunkanku di pagi hari, dia hanya memberiku koin lima ratus yen untuk makan siang, dan terkadang dia membelikanku kemeja aneh yang mereka jual di lingkungan sekitar, jadi kupikir dia tidak mencintaiku. Tetap saja, kenapa dia membelikanku pakaian yang mengecewakan? Itu hampir merupakan pelecehan yang disengaja.",
+      "emphasis": [
+        {
+          "start": 100,
+          "end": 426,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#16",
+      "text": "Tetap saja…ikatan antara ibu dan anak adalah hal yang luar biasa. Mataku sedikit perih. “Bu-Bu…”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#17",
+      "text": "“Aku benar-benar khawatir. Jika Komachi terluka, ayahmu akan membunuhmu.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#18",
+      "text": "“A-Ayah…” Aku merasa kesal."
+    },
+    {
+      "id": "v3-bab-3-chapter003-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#19",
+      "text": "Ngomong-ngomong tentang Ayah, dia masih akan tertidur lelap, tersesat dalam dunia mimpi. Di matanya, aku bukanlah siapa-siapa. Aku tahu betul betapa dia mencintai Komachi, dan bagiku dia sangat bermusuhan. Yang dia katakan kepada aku hanyalah hal-hal yang tidak berguna seperti Hati-hati terhadap permainan badger, atau Jika seorang gadis mendekati Anda, dia sebenarnya hanya ingin memaksa Anda membeli lukisan, atau Perdagangan berjangka pada umumnya adalah penipuan, atau Dapatkan pekerjaan dan Anda rugi. Hal itu sebagian besar didasarkan pada pengalamannya sendiri, jadi aku tidak bisa mengabaikan ocehannya, yang membuat semuanya sangat menyiksa.",
+      "emphasis": [
+        {
+          "start": 278,
+          "end": 313,
+          "style": "em"
+        },
+        {
+          "start": 320,
+          "end": 410,
+          "style": "em"
+        },
+        {
+          "start": 417,
+          "end": 467,
+          "style": "em"
+        },
+        {
+          "start": 474,
+          "end": 506,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#20",
+      "text": "Saat aku pergi, aku pastikan untuk membanting pintu sekuat tenaga agar mengganggu tidurnya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#21",
+      "text": "“Kami naik bus, jangan khawatir. Oh, jadi aku butuh uang untuk itu.” Komachi berlari ke arah ibu kami."
+    },
+    {
+      "id": "v3-bab-3-chapter003-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#22",
+      "text": "“Ya, ya. Berapa biaya perjalanan pulang pergi lagi?” ibu kami bertanya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#23",
+      "text": "“Um…” Komachi mulai menghitung dengan jarinya. Hei, sekali jalan biayanya seratus lima puluh yen, dan pulang pergi tiga ratus yen. Untuk apa kamu menggunakan jarimu?",
+      "emphasis": [
+        {
+          "start": 47,
+          "end": 165,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#24",
+      "text": "“Harganya tiga ratus yen.” Aku akhirnya membalas sebelum Komachi menyelesaikan perhitungannya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#25",
+      "text": "Ibu kami menjawab, “Oke,” dan mengeluarkan kembalian dari dompetnya. “Ini dia. Tiga ratus yen.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#26",
+      "text": "“Terima kasih!” Komachi berkicau."
+    },
+    {
+      "id": "v3-bab-3-chapter003-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#27",
+      "text": "“U-um, Bu… aku ikut juga…” tanyaku lemah lembut, seolah-olah aku adalah Masuo yang sedang berbicara dengan ibu mertuanya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#28",
+      "text": "“Oh, kamu butuh beberapa juga?” Bereaksi seolah dia baru sadar, ibu kami mengeluarkan beberapa koin lagi."
+    },
+    {
+      "id": "v3-bab-3-chapter003-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#29",
+      "text": "“Oh, dan aku makan di luar untuk makan siang, jadi aku butuh uang untuk makan!” Komachi memanfaatkan kesempatan ini."
+    },
+    {
+      "id": "v3-bab-3-chapter003-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#30",
+      "text": "“Hah? Kalau begitu, sepertinya aku tidak punya pilihan lain…” Sesuai permintaan, ibu kami menarik beberapa lembar uang dan menyerahkannya kepada putrinya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#31",
+      "text": "Wah, kerja bagus, Komachi. Tapi uang makan siangku yang normal adalah lima ratus yen, jadi kenapa dia mendapat seribu saat dia bertanya, Bu?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 140,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#32",
+      "text": "“Terima kasih! Ayo pergi, Kak.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#33",
+      "text": "“Ya.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#34",
+      "text": "“Oke, sampai jumpa lagi.” Ibu kami dengan mengantuk menyuruh kami pergi dan menghilang kembali ke kamar tidur. Selamat malam, Bu.",
+      "emphasis": [
+        {
+          "start": 111,
+          "end": 129,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#35",
+      "text": "Saat aku meninggalkan rumah, aku mengerahkan seluruh kekuatan di tubuhku dan membanting pintu dengan sekuat tenaga. Semoga guntur ini sampai padamu! Selamat pagi, Ayah!",
+      "emphasis": [
+        {
+          "start": 116,
+          "end": 168,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-36",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter003.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v3-bab-3-chapter003-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#37",
+      "text": "Dari rumah kami, dibutuhkan waktu sekitar lima belas menit dengan bus untuk sampai ke Makuhari Messe untuk menghadiri Tokyo Cat and Dog Show. Walaupun namanya Tokyo Pertunjukan Kucing dan Anjing, acara ini sebenarnya diadakan di Chiba, jadi hati-hatilah. Kamu pasti akan gagal dan berakhir di Tokyo Big Sight.",
+      "emphasis": [
+        {
+          "start": 159,
+          "end": 164,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#38",
+      "text": "Ada gerombolan kecil di tempat tersebut, dan beberapa dari mereka membawa hewan peliharaannya. Tempatnya penuh sesak, jadi Komachi dan aku saling mengulurkan tangan untuk berpegangan tangan. Kami tidak sedang berkencan mesra atau apa pun; kami sering bepergian bersama sejak kami masih kecil, jadi itu adalah kebiasaan lama. Komachi bersenandung dan mengayunkan lenganku maju mundur. Hei, bahuku akan terkilir.",
+      "emphasis": [
+        {
+          "start": 384,
+          "end": 410,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#39",
+      "text": "Mungkin karena pakaiannya, tapi hari itu Komachi tampak lebih cerah dan ceria dari biasanya. Dia memadukan tank top dengan pinggiran dengan atasan off-the-shoulder yang terbuat dari kain jersey merah muda, dan dia mengenakan celana pendek berpinggang rendah yang ujungnya tinggi di paha. Bersamaan dengan senyum riang, ceria, dan terbaik. Aku bangga terlihat bersamanya kemanapun kami pergi. Siapa pun tidak boleh melihatnya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#40",
+      "text": "Bagaimanapun, Tokyo Cat and Dog Show pada dasarnya adalah pameran dan pasar untuk kucing, anjing, dan hewan peliharaan lainnya. Mereka juga memamerkan beberapa hewan langka, jadi ini bisa menyenangkan. Tiket masuknya gratis, jadi ini adalah acara yang patut diperhitungkan. Chiba memang yang terbaik."
+    },
+    {
+      "id": "v3-bab-3-chapter003-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#41",
+      "text": "Saat kami menginjakkan kaki di pusat konvensi, Komachi langsung menunjuk dan memantul. “Wow, Kak! Penguin! Ada banyak sekali penguin yang berjalan-jalan! Mereka lucu sekali!”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#42",
+      "text": "“Iya… Aku jadi ingat, kata penguin berasal dari bahasa Latin, dan sepertinya berarti ‘obesitas’. Kalau dipikir-pikir, sepertinya sekelompok pegawai berperawakan gemuk sedang berkunjung untuk urusan bisnis.”",
+      "emphasis": [
+        {
+          "start": 27,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#43",
+      "text": "“A-aww… Tiba-tiba, mereka tidak lucu lagi…” Merasa sedih, Komachi menurunkan lengannya dan menegurku dengan tatapannya. “Aku tidak perlu tahu itu. Sekarang setiap kali aku melihat penguin, kata obesitas akan muncul di kepalaku…,” gumamnya.",
+      "emphasis": [
+        {
+          "start": 194,
+          "end": 202,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#44",
+      "text": "Mengeluh kepadaku tidak akan membantu. Merengeklah pada pria yang pertama kali memberi nama penguin.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 100,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#45",
+      "text": "“Dengar, Kak, kamu tidak boleh mengatakan hal seperti itu saat sedang berkencan. Kalau seorang gadis berkata, ‘Itu lucu sekali!’ kamu harus menjawab, ‘Iya, tapi kamu lebih manis.’”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#46",
+      "text": "“…Itu bodoh.” Anda mungkin berpikir udara panas akan berdampak buruk bagi penduduk asli Antartika.",
+      "emphasis": [
+        {
+          "start": 14,
+          "end": 98,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#47",
+      "text": "“Terserahlah, kawan! Aku tidak serius. Aku hanya terus mengucapkan kata imut untuk menekankan betapa lucunya aku.”",
+      "emphasis": [
+        {
+          "start": 72,
+          "end": 76,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#48",
+      "text": "“Tapi bukan taktik yang lucu...” Ini bukanlah percakapan yang seharusnya kita lakukan di tempat yang begitu menyentuh hati dengan semua anjing ini dan kucing serta penguin disekitarnya.",
+      "emphasis": [
+        {
+          "start": 33,
+          "end": 185,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#49",
+      "text": "“Aku baru saja membalasmu karena mengoceh! Pokoknya, ayo, ayo! Ayo cepat dan lihat sekeliling,” desak Komachi, menarik lenganku saat dia berlari."
+    },
+    {
+      "id": "v3-bab-3-chapter003-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#50",
+      "text": "“Hei, jangan lepas semua tiba-tiba—kamu akan menepikanku.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#51",
+      "text": "Area ini tampak seperti zona burung, dan dunia polikrom yang penuh dengan burung beo, cockatiel, dan banyak lagi lainnya terbentang di hadapan kami. Ada warna kuning, merah, dan hijau… Bulu setiap burung diwarnai secara agresif dalam warna-warna primer, mencolok dan cerah. Saat mereka melebarkan sayapnya, bulu-bulunya beterbangan di udara, menangkap cahaya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#52",
+      "text": "Tetapi di balik banyaknya warna yang mencolok itu, yang paling mempesona dari semuanya adalah hitamnya rambut seorang gadis. Dia memegang buklet Pertunjukan Kucing dan Anjing Tokyo di satu tangan, dan setiap kali dia melirik ke sekeliling, kuncir kembarnya bergoyang."
+    },
+    {
+      "id": "v3-bab-3-chapter003-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#53",
+      "text": "“Apakah itu…Yukino?” Rupanya, Komachi juga menyadarinya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#54",
+      "text": "Atau lebih tepatnya, hanya sedikit orang yang memiliki keunikan seperti dia, jadi dia menarik banyak perhatian. Dia mengenakan kardigan panjang berwarna krem ​​​​yang tidak dikancingkan di atas gaun musim panas yang lapang dan sederhana dengan pita yang menempel tepat di bawah payudaranya. Itu membuatnya tampak lebih lembut dari biasanya. Dengan setiap langkah yang diambilnya, sandal sederhana di kaki telanjangnya mengetuk lantai dengan suara yang jernih dan ringan. Dia tampak sama sekali tidak menyadari berapa banyak orang yang menatapnya, saat dia mencari-cari sesuatu dengan ekspresi dingin yang sama seperti yang selalu dia kenakan di klub. Dia memeriksa nomor tampilan aula dan kemudian mengalihkan pandangannya ke bukletnya. Dia melihat sekeliling lagi, lalu kembali ke pamflet, sebelum menghela napas pendek dan pasrah."
+    },
+    {
+      "id": "v3-bab-3-chapter003-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#55",
+      "text": "Ada apa dengan dia? Apa dia tersesat?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 37,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#56",
+      "text": "Yukinoshita menutup buklet itu, seolah-olah dia sudah mengambil keputusan tentang sesuatu, dan dengan cepat berjalan menuju dinding."
+    },
+    {
+      "id": "v3-bab-3-chapter003-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#57",
+      "text": "“Hei, tidak ada apa-apa selain tembok di sana,” aku memanggilnya, tidak bisa begitu saja tonton."
+    },
+    {
+      "id": "v3-bab-3-chapter003-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#58",
+      "text": "Yukinoshita menjawab panggilanku dengan tatapan curiga. Menakutkan! Namun ketika dia menyadari bahwa itu adalah aku, rasa ingin tahu menggantikan skeptisisme, dan dia berjalan ke arah kami. “Oh, sungguh binatang yang langka.”",
+      "emphasis": [
+        {
+          "start": 56,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#59",
+      "text": "“Jangan menyapa saya dengan menyebut saya Homo sapiens. Anda mencoba meniadakan kepribadian saya, bukan?”",
+      "emphasis": [
+        {
+          "start": 42,
+          "end": 54,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#60",
+      "text": "“Tetapi tidak salah jika memanggil Anda seperti itu, bukan?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#61",
+      "text": "“Secara teknis, tapi kamu hanya bisa mengambil sejauh ini…” Kata-kata pertama yang keluar dari mulutnya telah mengidentifikasiku sebagai ordo: primata, spesies: manusia. Dia sangat benar, secara biologis, tetapi sebagai sapaan, itu adalah yang paling rendah. “Mengapa kamu menuju ke tembok?” tanyaku."
+    },
+    {
+      "id": "v3-bab-3-chapter003-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#62",
+      "text": "“…Aku tersesat.” Matanya berduka atas kegagalannya, dan nada suaranya menyiratkan pengakuan bahwa itu adalah penderitaan sehingga dia berencana untuk melakukan ritual bunuh diri saat itu juga. Tanpa berusaha menyembunyikan kekesalannya, dia mempelajari buklet yang dia buka sekali lagi."
+    },
+    {
+      "id": "v3-bab-3-chapter003-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#63",
+      "text": "“Eh, menurutku tempat ini tidak cukup besar untuk membuat orang tersesat…”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#64",
+      "text": "Aku penasaran apakah dia punya indra penunjuk arah yang buruk. Terkadang Anda bisa tersesat bahkan dengan peta. Terutama ketika sebuah bangunan memiliki desain yang tampak sama di mana-mana, peta tidak ada gunanya. Seperti di Comiket, atau stasiun kereta bawah tanah Shinjuku. Dan Stasiun Umeda. Yang itu jelek sekali sampai-sampai kamu akan terdampar jika tidak membawa selembar kertas grafik untuk memetakan semuanya."
+    },
+    {
+      "id": "v3-bab-3-chapter003-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#65",
+      "text": "“Yukino! Halo!”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#66",
+      "text": "“Oh, jadi Komachi bersamamu, ya? Halo.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#67",
+      "text": "“Tapi aku tidak menyangka akan melihatmu di sini. Apakah kamu datang untuk melihat sesuatu?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#68",
+      "text": "“…Ya. Ya, um, berbagai hal.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#69",
+      "text": "Pasti itu kucing… Dia bahkan memiliki lingkaran merah besar di sekelilingnya yang bertuliskan “Cat Corner.”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 16,
+          "style": "em"
+        },
+        {
+          "start": 18,
+          "end": 107,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003.xhtml#70",
+      "text": "Yukino mendeteksi tatapanku dan diam-diam melipat buklet seolah-olah tidak terjadi apa-apa. “H-Hyeek… Ahem, Hikigaya, kenapa kamu ada di sini?” Dia berusaha bersikap tenang, tapi dia malah tergagap-gagap."
+    },
+    {
+      "id": "v3-bab-3-chapter003_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter003_a.xhtml#../Images/Art_P47.jpg",
+      "src": "assets/chapters/volume-3/bab-3/Art_P47.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yukino memegang kartu permainan."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#0",
+      "text": "Menahan keinginan untuk mengejeknya tanpa ampun, aku pura-pura tidak menyadarinya. Karena jika aku mengatakan sesuatu, dia akan mengembalikannya padaku lima kali lipat. “Saya datang ke sini setiap tahun bersama saudara perempuan saya.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#1",
+      "text": "“Dan kami memelihara kucing kami di sini!” Komachi menambahkan."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#2",
+      "text": "Seperti yang dikatakan Komachi, awalnya kami mendapatkan kucing kami, Kamakura, di sini, di pertunjukan ini. Meskipun ia termasuk kucing yang penuh semangat, ia memiliki sertifikat silsilah. Komachi mengatakan dia menginginkannya, jadi keinginannya langsung terkabul. Aku merasa kasihan pada ayah kami yang datang jauh-jauh ke Makuhari Messe hanya untuk membayarnya."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#3",
+      "text": "Yukinoshita melihat ke arah Komachi dan aku dan kembali lagi dengan senyuman tipis. Itu adalah kedua kalinya. Dia pernah tersenyum seperti itu sebelumnya. “Kalian berdua tampak sangat dekat.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#4",
+      "text": "“Tidak juga. Ini lebih merupakan acara wajib tahunan,” jawab aku."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#5",
+      "text": "“Begitu… Selamat tinggal kalau begitu.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#6",
+      "text": "“Ya, sampai jumpa.” Kami berdua menghindari peningkatan interaksi dan mengucapkan selamat tinggal."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#7",
+      "text": "“Hei! Tunggu, tunggu, tunggu! Yukino. Akhirnya aku punya kesempatan untuk bertemu denganmu lagi, jadi ayo kita periksa bersama-sama!” Komachi menangkap lengan baju Yukinoshita saat dia mulai melarikan diri dan menarik punggungnya. “Saat aku bersama kakakku, dia hanya melontarkan komentar-komentar yang merendahkan. Aku akan lebih bersenang-senang bersamamu,” desak Komachi sambil terus menarik lengan baju Yukinoshita dengan antusias."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#8",
+      "text": "“Y-kamu mau?” Jawab Yukinoshita sambil mengambil langkah mundur."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#9",
+      "text": "“Aku akan melakukannya, aku akan melakukannya! Ayo, ayo!”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#10",
+      "text": "“Bukankah itu akan merepotkan? …kehadiran Hikigaya, maksudku.” "
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#11",
+      "text": "Dia mengecualikanku seolah-olah itu adalah hal yang wajar untuk dilakukan."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#12",
+      "text": "“Dasar brengsek,” kataku. “Apa yang kamu bicarakan? Kalau ada kegiatan kelompok, aku biasanya diam saja. Aku tidak akan menghalangi sama sekali.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#13",
+      "text": "“Kamu memberi arti baru pada ungkapan menyatu dengan lingkungan sekitar. Bisa dibilang, itu adalah bakat yang luar biasa...” Ekspresi wajah Yukinoshita bukanlah ekspresi keheranan atau kejengkelan. Sebenarnya, ketika ada pria pendiam dalam kelompok yang melakukan hal yang tidak mencolok, semua orang akan bertindak sangat hati-hati di sekitarnya. “...Baiklah. Kalau begitu, ayo kita jalan-jalan bersama. Apakah ada hal khusus yang ingin kamu lihat? Dan...jika tidak ada...”",
+      "emphasis": [
+        {
+          "start": 38,
+          "end": 71,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#14",
+      "text": "“Ya... Karena kita sudah di sini, ayo kita lihat sesuatu yang benar-benar tidak biasa!” Komachi bertepuk tangan seolah-olah dia baru saja mendapatkan emas."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#15",
+      "text": "“…Aku tidak tahu apakah kamu tanggap atau hanya tidak mengerti,” kataku."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#16",
+      "text": "“Hah? Apa?” Komachi memiringkan kepalanya, bingung."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#17",
+      "text": "“...Aku baik-baik saja dengan itu. Haah...” Yukinoshita mendesah pasrah."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#18",
+      "text": "Yah, eh, kamu tahu. Maaf tentang adikku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 40,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#19",
+      "text": "Meskipun Komachi mengatakan dia ingin melihat sesuatu yang langka, ruangnya jelas terbatas, jadi tidak akan ada sesuatu yang besar. Oleh karena itu, zona burung adalah yang paling lengkap. Mungkin karena burung relatif jarang dan tidak memakan banyak tempat."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#20",
+      "text": "Kami meninggalkan stan bertema tropis yang penuh warna dan melihat tampilan yang sangat keren. Di balik pagar logam yang dramatis terdapat paruh yang tajam, cakar yang tajam, dan siluet gagah dengan sayap dan ekor yang kokoh."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#21",
+      "text": "“L-lihat! Komachi! Itu elang! Elang! Elang! Manis… aku mau satu…” Keren sekali… Otomatis aku berhenti dan mencondongkan tubuh ke depan melewati pagar. Jika Anda pernah terkena sindrom M-2 sekali saja, Anda pasti akan tertarik pada keagungan mereka. Militer Amerika mungkin mempunyai kasus yang sangat akut dalam penderitaan ini.",
+      "emphasis": [
+        {
+          "start": 66,
+          "end": 79,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#22",
+      "text": "Tetapi tampaknya, Komachi tidak dapat memahami betapa kerennya mereka dan hanya merengek. “Apa? Itu tidak lucu! Kedengarannya seperti kasus M-2.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#23",
+      "text": "“Hei, bodoh. Apa yang kamu bicarakan? Mereka lucu. Lihat cara mereka memiringkan kepala? Ayo.” Aku berbalik, mencoba membujuknya, tapi Komachi sudah setengah jalan menuju area berikutnya. Jahat."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#24",
+      "text": "“Mereka tidak lucu…tapi menurutku mereka megah dan cantik.” Jawaban itu datang bukan dari adikku yang berhati batu tapi dari Yukinoshita, yang cukup mengejutkan. Sepertinya dia mengatakan yang sebenarnya juga, saat dia menyentuh pagar dan bergerak ke sampingku untuk mengambil sudut yang lebih baik."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#25",
+      "text": "“Whoa! Jadi, kamu paham betapa kerennya mereka? Mereka menarik bagi jiwa siswa sekolah menengahmu, bukan?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#26",
+      "text": "“…Aku tidak mengerti apa yang kamu bicarakan tentang.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#27",
+      "text": "Ngh, jadi seorang gadis tidak dapat memahami kemuliaan mereka… Ups, hampir saja. Aku hampir berubah menjadi Zaimokuza.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 118,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#28",
+      "text": "Sindrom M-2 adalah",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 18,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#29",
+      "text": "suatu kondisi yang tidak dapat disembuhkan,",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 43,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#30",
+      "text": "sebuah penyakit mind.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 21,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#31",
+      "text": "(kelebihan suku kata)"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#32",
+      "text": "Puisi dari jiwa Hachiman. Ngomong-ngomong, kata musiman di sana adalah sindrom M-2. Istilah ini mengingatkan pada musim semi yang menghijau.",
+      "emphasis": [
+        {
+          "start": 71,
+          "end": 82,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-33",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter003_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#34",
+      "text": "Kami meninggalkan zona burung dan memilih area hewan kecil. Bagian ini mencakup hewan peliharaan seperti hamster, kelinci, dan musang. Tempat semacam ini berada tepat di gang Komachi. Di pojok petting, dia meributkan makhluk-makhluk kecil itu, menderu-deru dan meremas-remas dan awwing tanpa ada tanda-tanda dia akan pergi.",
+      "emphasis": [
+        {
+          "start": 279,
+          "end": 282,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#35",
+      "text": "Dan kemudian ada Yukinoshita. Dia memang mencoba menggores dan menepuk-nepuknya, tapi setelah beberapa saat, kepalanya miring ke sudut yang membingungkan. Rupanya, teksturnya tidak sesuai dengan yang dia cari. Dia ternyata sangat pilih-pilih dalam hal ini…",
+      "emphasis": [
+        {
+          "start": 210,
+          "end": 256,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#36",
+      "text": "Ngomong-ngomong, saat aku mendekati kumpulan kecil bulu itu, mereka semua bergegas pergi. …Aku tidak percaya. Bahkan orang-orang ini pun membenciku. “Komachi, ayo kita lanjutkan.”",
+      "emphasis": [
+        {
+          "start": 90,
+          "end": 148,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#37",
+      "text": "“Eeek! Aku benar-benar bisa menginjaknya! Mereka lucu sekali! Hah? Oh, kamu bisa lanjutkan dulu. Aku akan nongkrong di sini lagi.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#38",
+      "text": "“Oke…” Itu bukanlah alasan yang bagus untuk menemukan sesuatu yang lucu. Apakah dia baik-baik saja? Tapi Komachi telah memberiku izin untuk pindah, jadi aku memutuskan untuk melakukannya. Jika diingat-ingat, area berikutnya memiliki anjing, dan setelah itu adalah zona kucing. “Oke, Yukinoshita. Bagian setelah yang berikutnya adalah kucing. Maaf, tapi kamu awasi Komachi untukku.”",
+      "emphasis": [
+        {
+          "start": 7,
+          "end": 99,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#39",
+      "text": "“Aku tidak keberatan, tapi Komachi sudah tidak muda lagi. Bukankah menurutmu tindakan seperti itu berlebihan?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#40",
+      "text": "“Bukan itu maksudku—awasi dia agar dia tidak merusak apa pun.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#41",
+      "text": "“Aku tidak akan menghancurkan mereka! Oh, Yukino, tidak apa-apa jika kamu ingin pergi memeriksa kucing-kucing itu.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#42",
+      "text": "“B-benarkah? Ka-kalau begitu, sebaiknya aku juga…,” kata Yukinoshita, sudah setengah berdiri. Seberapa besar keinginanmu untuk melihat kucing-kucing itu? “Kalau begitu, ayo pergi.” Dan kemudian, tanpa melirik ke arahku, dia terus maju ke area berikutnya, buta terhadap segala sesuatu di sekitarnya. Namun saat huruf yang bertuliskan DOG ZONE memasuki pandangannya, dia mengejang.",
+      "emphasis": [
+        {
+          "start": 94,
+          "end": 153,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#43",
+      "text": "“Apakah ada yang salah?” tanyaku."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#44",
+      "text": "“Tidak...” Yukinoshita dengan santai mengurangi kecepatannya dan meluncur ke belakang punggungku, membuatku berjalan di depannya."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#45",
+      "text": "Oh tidak, dia menangkapku dari belakang! Dia akan membunuhku! Pikirku, tapi dia tidak bergerak untuk menyerang. Oh, anjing-anjing itu. Dia agak takut pada mereka, bukan? “Asal tahu saja, yang ada di sini hanyalah anak anjing.” Acara ini sebagian merupakan kegiatan komersial, jadi bagian untuk hewan peliharaan umum seperti kucing dan anjing kebanyakan memiliki bayi. Memang menyedihkan, tapi itulah urusannya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 61,
+          "style": "em"
+        },
+        {
+          "start": 112,
+          "end": 169,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#46",
+      "text": "Aku tidak tahu apakah kata-kataku berdampak pada Yukinoshita, tapi dia tetap menghindari pandanganku. “Sepertinya kalau itu anak anjing... J-asal tahu saja, bukan berarti aku takut pada anjing, lho. Um...Aku hanya...agak tidak nyaman berada di dekat mereka.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#47",
+      "text": "“Itu biasanya disebut 'takut pada anjing.'”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#48",
+      "text": "“Penafsiran itu ada di dalam diri kita sendiri.” margin kesalahan.“"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#49",
+      "text": "Benarkah? Baiklah, kalau dia bilang dia baik-baik saja, terserahlah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 68,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#50",
+      "text": "“Apakah kamu…pencinta anjing, Hikigaya?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#51",
+      "text": "“Aku bukan siapa-siapa. Aku tidak berafiliasi dengan label apa pun.” Orang yang benar-benar kuat tidak akan lari dalam kelompok. Sendirian seperti melawan seluruh dunia. Aku versus dunia. Ini hampir seperti aku Steven Seagal. Dari sudut pandang Seagal, aku super-Seagal."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#52",
+      "text": "Tetapi Yukinoshita menolak mendukung identifikasi diri aku. “Mungkin itu karena tidak ada seorang pun yang mau berafiliasi dengan Anda.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#53",
+      "text": "“Ya, kurang lebih Anda benar. Dan saya tidak masalah dengan itu, jadi ayo pergi.” Dia memang benar, jadi aku tidak bisa membantah. Yang kudapat dari berdebat dengan Yukinoshita hanyalah luka dan luka bakar, jadi aku dengan rapi menghentikan pembicaraan itu sejak awal."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#54",
+      "text": "Saat aku mulai berjalan, aku mendengar Yukinoshita bergumam di belakangku, “Tapi kupikir kamu adalah pecinta anjing…”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#55",
+      "text": "“Apa? Kenapa?” Aku berbalik untuk bertanya."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#56",
+      "text": "“…Kamu sangat putus asa.” Jawaban Yukinoshita sulit dipahami."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#57",
+      "text": "Kapan Yukinoshita melihatku bersemangat melakukan sesuatu? Aku hanya dapat mengingat satu kali, jadi mungkin itu saja. Pertandingan tenis atas Totsuka. Memang benar—aku sangat bersemangat untuk menang saat itu. Aku telah mengerahkan segenap hati dan jiwaku untuk membantu Totsuka. Maksudku, dia sangat manis. Dia gemetar seperti seekor Chihuahua hari itu, bahkan seperti anak anjing. Jadi menurutku benar jika dikatakan bahwa aku adalah orang Totsuka. Aku suka Totsuka, lho."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#58",
+      "text": "Menggaruk kepala sambil berpikir, Entahlah, aku merasakan Yukinoshita menyenggol bahuku.",
+      "emphasis": [
+        {
+          "start": 34,
+          "end": 42,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#59",
+      "text": "“Bisakah kamu berjalan lebih cepat?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#60",
+      "text": "“Oh, oke.” Karena terdorong, aku melewati gerbang murahan bertuliskan ZONA ANJING. Di dalamnya ada area yang penuh dengan banyak kandang. Itu seperti dua atau tiga toko hewan peliharaan yang digabungkan menjadi satu. Anjing memang banyak diminati dan pengunjungnya banyak. Selain ras kecil yang populer seperti Chihuahua, miniatur dachshund, anjing mameshiba, dan corgi, sejumlah ras standar seperti lab, retriever, beagle, dan bulldog juga dapat ditemukan. Anjing-anjing yang dipamerkan semuanya adalah anjing-anjing dengan silsilah terbaik yang dibesarkan oleh para peternak, dengan gelar-gelar seperti Grand Champion atau Festival Nominee atau Monde Selection atau Good Design, meskipun seberapa besar bobot yang dibawa oleh sebutan tersebut sulit diketahui dengan sekali pandang.",
+      "emphasis": [
+        {
+          "start": 349,
+          "end": 358,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#61",
+      "text": "Sejak kami memasuki zona anjing, Yukinoshita sudah tutup mulut. Dia begitu pendiam, aku mulai bertanya-tanya apakah dia masih bernapas. Area di sekitar kami dipenuhi dengan begitu banyak aktivitas sehingga keheningan satu orang terlihat sangat meresahkan. Sebenarnya, segala sesuatunya terlalu riuh. Khususnya wanita yang memekik dan mengambil serangkaian foto."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#62",
+      "text": "…Tunggu, itu Bu Hiratsuka. Aku akan berpura-pura tidak melihatnya. Ayolah, Nona H.… Akhirnya kau mendapat hari libur, jadi pergilah berkencan atau apalah… Ya, di sisi lain ada zona kucing, jadi kurasa kita akan langsung saja, pikirku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 224,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#63",
+      "text": "Tapi begitu aku melakukannya, Yukinoshita hanya menghela napas pelan. Penyebab yang jelas adalah area berlabel TRIMMING CORNER, yang ditulis dalam bahasa Inggris."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#64",
+      "text": "“Hah? Apa? Apakah mereka sedang mengedit foto?” Aku bertanya."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#65",
+      "text": "“Tidak, itu berarti mereka merawat bulu anjing dan merawatnya agar bulunya berkilau. Kata bahasa Inggris grooming juga umum digunakan.”",
+      "emphasis": [
+        {
+          "start": 105,
+          "end": 113,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#66",
+      "text": "Grooming ya…? Suka Jaja Uma Dandan? Manga yang benar-benar terkenal.",
+      "emphasis": [
+        {
+          "start": 19,
+          "end": 34,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#67",
+      "text": "Sementara pemikiranku beralih ke empat saudara perempuan di peternakan Watarai, Yukinoshita melanjutkan penjelasannya dengan sedikit tidak sabar. “Pada dasarnya, ini adalah salon kecantikan anjing.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#68",
+      "text": "“Hah? Apakah itu menarik? Kedengarannya mewah. Apakah Tsunayoshi juga terlibat dalam hal ini?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#69",
+      "text": "“Dan tampaknya tidak hanya ada kelas perawatan tetapi juga kelas kepatuhan. Mengapa Anda tidak mendaftar?” Dia dengan santai mencapku sebagai seekor anjing seolah-olah itu adalah hal paling alami di dunia. Terserahlah, aku sudah terbiasa dengan hal itu."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#70",
+      "text": "Saat kami saling bertukar kata-kata kecil, seekor dachshund mini berambut panjang menyelesaikan sesi menyikat giginya dan berlari keluar sambil menguap. Hei, di mana pemiliknya?",
+      "emphasis": [
+        {
+          "start": 153,
+          "end": 177,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#71",
+      "text": "“Hei, hei! Sable! Tunggu, kerahmu rusak!”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#72",
+      "text": "Dachshund mini tanpa tali itu mengakui teriakan itu dan kemudian mengabaikannya dengan acuh tak acuh. Lalu ia berlari menuju pintu keluar—yakni kita—seperti kelinci yang ketakutan. Padahal itu adalah seekor anjing."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#73",
+      "text": "“H-Hikigaya…i-anjing itu…,” Yukinoshita tergagap, terguncang dan kebingungan. Matanya melirik ke sekeliling ruangan, tangannya gelisah dan menggapai-gapai di udara. "
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#74",
+      "text": "…Ini tidak terjadi setiap hari. Aku agak tertarik, jadi aku tergoda untuk mengabaikannya begitu saja, tapi akan sangat merepotkan jika dia membuat keributan."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#75",
+      "text": "“Ayo.” Aku mencengkeram tengkuk anjing itu. Kucingku membenciku dan selalu lari dariku, jadi aku berlatih menangkap hewan peliharaan. Latihanku tidak sia-sia."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#76",
+      "text": "Awalnya anjing itu memohon padaku dengan mata sedih, tapi kemudian tiba-tiba ia mengangkat kepalanya dan mulai mengendus-endus serta menjilati jari-jariku dengan penuh semangat."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#77",
+      "text": "Karena terkejut, secara naluri aku melepaskannya. “Waagh! Anjing itu berliur di sekujur tubuhku...”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#78",
+      "text": "“Oh, idiot. Kalau kamu melepaskannya...,” kata Yukinoshita, bingung."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#79",
+      "text": "Tetapi anjing itu tidak berhenti untuk keluar dan malah berlari kencang di sekitar pergelangan kakiku sebelum tiba-tiba berguling ke arahku punggungnya. Ia memperlihatkan perutnya dan terengah-engah, lidahnya terjulur."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#80",
+      "text": "Ada apa dengan anjing ini? Bukankah bersikap terlalu bersahabat denganku?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 73,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#81",
+      "text": "“Anjing ini adalah…” Yukinoshita berlindung di belakang punggungku, diam-diam mengintip ke arah anjing itu."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#82",
+      "text": "Ayolah, menurutku hewan itu tidak begitu menakutkan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 52,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#83",
+      "text": "“S-Sablé! Maaf dia mengganggumu.” Pemiliknya bergegas menghampiri kami dan segera mengambil anjing itu dengan busur api cepat. Sanggul di kepala gadis itu sedikit terangkat."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#84",
+      "text": "“Oh, Yuigahama,” kata Yukinoshita."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#85",
+      "text": "“Hwa?” datang jawaban pemiliknya, mengangkat kepalanya dengan ekspresi bingung. Gaya rambutnya, suaranya, tingkah lakunya… Tidak diragukan lagi itu adalah Yui Yuigahama. “Hah? Y-Yukinon?” Kepalanya secara mekanis berputar pada porosnya ke arahku di sisi Yukinoshita. “H-hah? Apa? Hikki? Dan Yukinon?” Yuigahama melihat dari Yukinoshita ke arahku dan kembali lagi, benar-benar bingung. “Hah? Hah?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#86",
+      "text": "“’Sup,” sapaku."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#87",
+      "text": "“Oh. H-hai…,” jawabnya. Keheningan yang sangat aneh menyelimuti kami berdua. Wah, ini tidak nyaman…",
+      "emphasis": [
+        {
+          "start": 77,
+          "end": 99,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#88",
+      "text": "Sementara suasana aneh ini menyelimuti kami, anjing di pelukan Yuigahama menyalak. Yukinoshita mengejang, dan meskipun dia tidak bersembunyi di balik bayanganku, dia sedikit memperpendek jarak di antara kami. Tampaknya dia bermaksud menggunakanku sebagai perisai daging jika ada bahaya."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#89",
+      "text": "“…U-uh…um…” Yuigahama dengan lembut membelai kepala anjingnya saat tatapannya berkeliling ke area antara aku dan Yukinoshita—seolah-olah dia sedang mengukur apa yang ada di antara kami."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#90",
+      "text": "“Kebetulan sekali, bertemu denganmu di sini,” kata Yukinoshita, dan Yuigahama terlonjak sedikit."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#91",
+      "text": "“Y-ya. Kenapa kamu dan Hikki…bersama? Um…agak…tidak biasa melihat kalian berdua bersama, seperti…” "
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#92",
+      "text": "Mungkin karena kami tidak berinteraksi selama beberapa hari, tapi Yuigahama terlihat menjauh, bahkan dengan Yukinoshita. Menghindari kontak mata dengan Yukinoshita, dia memeluk anjing itu erat-erat."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#93",
+      "text": "Dia bisa bertanya kenapa dia menginginkan semua itu, tapi sebenarnya kami kebetulan bertemu satu sama lain, jadi tidak ada yang terjadi. Yukinoshita dan aku hanya saling berpandangan, dan kami berdua akhirnya mengatakan hal yang sama. "
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#94",
+      "text": "“Tidak ada alasan.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#95",
+      "text": "Yuigahama memotong penjelasan lebih lanjut. “Oh, sebenarnya sudahlah! Lupakan saja—tidak apa-apa. Bukan apa-apa... Kalian keluar bersama di akhir pekan, jadi sudah jelas apa yang terjadi, bukan? Begitu... Aku bertanya-tanya kenapa aku tidak pernah menyadarinya? Kupikir menangkap isyarat sosial adalah satu-satunya hal yang bisa kulakukan...” Dia memaksakan senyum di matanya dan berusaha membuat bibirnya mengikuti nada “Ah-ha-ha...”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#96",
+      "text": "Apakah dia membuat asumsi aneh di sini? Seperti, apakah menurutnya Yukinoshita dan aku akan pacaran atau apa? Nah, jika kamu memikirkannya sejenak, kamu akan langsung menyadari bahwa hal itu tidak akan pernah terjadi. Namun mengklaim Kami tidak akan pacaran akan terdengar agak bodoh, dan agak minder, dan bertentangan dengan selera estetika aku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 109,
+          "style": "em"
+        },
+        {
+          "start": 234,
+          "end": 257,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#97",
+      "text": "Kesalahpahaman tetaplah kesalahpahaman. Itu tidak benar. Dan selama aku mengetahui kebenarannya, itu sudah cukup bagi aku. Aku tidak peduli apa yang diyakini orang lain… Semakin Anda mencoba memperbaiki kekeliruan, semakin banyak orang salah menafsirkannya dan memperburuk keadaan. Aku sudah menyerah."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#98",
+      "text": "Anjing di pelukan Yuigahama merengek Hween? sedih pada pemiliknya. Yuigahama bergumam, “Tidak apa-apa…” sambil mengelus kepalanya. “S-sampai jumpa lagi. Aku berangkat...” Yuigahama menjadi lemas dan, masih tertunduk, mulai berjalan pergi.",
+      "emphasis": [
+        {
+          "start": 37,
+          "end": 43,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#99",
+      "text": "Yukinoshita menghentikannya. “Yuigahama.” Suaranya bergema nyaring dan jelas di tengah hiruk pikuk aula. Suara itu adalah satu-satunya hal yang terdengar di telingaku, seolah semua aktivitas di sekitar kami berada di balik penghalang tak kasat mata."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#100",
+      "text": "Yuigahama mengangkat kepalanya dan secara otomatis menoleh ke arah Yukinoshita."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#101",
+      "text": "“Aku perlu bicara denganmu tentang kami, jadi bisakah kamu datang ke ruang klub pada hari Senin?” gadis berekor dua itu bertanya."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#102",
+      "text": "“Oh… Ah-ha-ha… Aku tidak tahu…apakah aku benar-benar ingin mendengarnya… Um, sepertinya, itu akan menjadi tidak berarti lagi saat ini, karena, sepertinya, aku tidak bisa berbuat apa-apa…,” Yuigahama berkata seolah-olah dia merasa malu. Dibalik nada bicaranya yang lembut dan senyumnya yang bermasalah, jelas ada kata tidak."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#103",
+      "text": "Terhuyung menghadapi penolakan Yuigahama, pandangan Yukinoshita sedikit menunduk. Untuk sesaat, aku membayangkan volume keributan di sekitar kami semakin meningkat. Yukinoshita berbicara dengan ragu-ragu di tengah keributan yang terjadi, seolah-olah kata-kata itu keluar dari mulutnya. “…Saya bukan tipe orang yang bisa mengatakan hal seperti ini tanpa usaha, tapi…Saya ingin mengatakan ini dengan benar.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#104",
+      "text": "“…Ya.” Respons Yuigahama yang membosankan bukanlah penolakan atau penerimaan. Dia sesaat memandang Yukinoshita dengan sedikit keraguan, tapi dia segera menemukan hal lain untuk dilihat. Kemudian dia berbalik dan melangkah pergi. Yukinoshita dan aku diam-diam melihatnya pergi saat tubuhnya yang mungil dan bungkuk menghilang ke dalam kerumunan orang."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#105",
+      "text": "Aku bertanya pada Yukinoshita di sebelahku, “Hei. Apa yang ingin kamu bicarakan dengan Yuigahama?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#106",
+      "text": "“Tahukah kamu apa yang terjadi pada tanggal delapan belas Juni adalah?” Yukinoshita mengamatiku seolah-olah ini adalah sebuah ujian. Wajahnya tiba-tiba mendekati wajahku, aku secara refleks mundur selangkah."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#107",
+      "text": "“…Yah, aku tahu ini bukan hari libur.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#108",
+      "text": "Saat mengetahui bahwa aku tidak tahu, dia membusungkan dadanya sedikit dengan bangga dan menjawab, “Itu wajah Yuigahama ulang tahun… menurutku.”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#109",
+      "text": "“Benarkah? …Hah? Kamu ‘berpikir’?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#110",
+      "text": "“Saya belum memastikannya dari sumbernya.” Tidak mengherankan, dengan keterampilan komunikasinya. “Jadi aku ingin merayakan ulang tahunnya. Bahkan jika dia tidak lagi datang ke Klub Layanan...Aku ingin mengungkapkan rasa terima kasihku yang tulus atas semua yang telah dia lakukan untuk kita,” Yukinoshita mengumumkan sambil dengan hati-hati mengalihkan pandangannya, jelas-jelas sadar diri."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#111",
+      "text": "“Aku mengerti.” Berkat kepribadiannya dan kesempurnaannya secara umum, Yukinoshita tak henti-hentinya menjadi korban api kecemburuan. Yuigahama sudah pasti adalah teman pertama yang dia miliki. Aku pikir dia jujur ​​ketika dia mengatakan dia bersyukur. Meskipun suaranya diwarnai dengan kepasrahan, dia mungkin tidak ingin kehilangan persahabatan itu."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#112",
+      "text": "Agh… Ini mungkin karena sesuatu yang aku katakan pada Yuigahama, ya? Dengan sedikit rasa bersalah, aku melirik ke arah Yukinoshita. Dia memperhatikan dan menggeliat karena merasa tidak nyaman. Oh, dia mungkin akan pergi, Jangan lihat, kamu membuatku takut atau semacamnya, pikirku, mengalihkan perhatianku ke tempat lain sebelum dia bisa mengatakan apa pun.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 68,
+          "style": "em"
+        },
+        {
+          "start": 193,
+          "end": 220,
+          "style": "em"
+        },
+        {
+          "start": 256,
+          "end": 271,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#113",
+      "text": "Dia berdeham, pipinya sedikit merah. “Hei, Hikigaya…”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#114",
+      "text": "“Uh-hah?” Saat aku berbalik menghadapnya, Yukinoshita sedang mengepalkan tangannya ke dadanya. Aku kira suara tegukan itu berarti dia cemas. Seolah mencoba mengalihkan perhatian dari pipinya yang memerah, dia menatap ke arahku melalui bulu matanya dengan mata basah. Ini sudah cukup membuatku bingung."
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#115",
+      "text": "Yukinoshita berbisik pelan, tipis, seolah kata-kata itu berusaha keluar dari tenggorokannya. “U-um…maukah kamu berkencan denganku?”"
+    },
+    {
+      "id": "v3-bab-3-chapter003_b-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter003_b.xhtml#116",
+      "text": "“…Hah?”"
+    }
+  ]
+}

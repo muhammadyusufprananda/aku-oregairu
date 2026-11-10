@@ -1,0 +1,2499 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [
+      "v6-bab-9-chapter009_b-24"
+    ],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v6-bab-9-chapter009-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter009.xhtml#1",
+      "headingLevel": 2,
+      "text": "Dan begitulah tirai di setiap panggung terangkat.",
+      "emphasis": [
+        {
+          "start": 23,
+          "end": 38,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter009.xhtml#../Images/Art_P189.jpg",
+      "src": "assets/chapters/volume-6/bab-9/Art_P189.webp",
+      "width": 208,
+      "height": 392,
+      "text": "Minami Sagami versi chibi."
+    },
+    {
+      "id": "v6-bab-9-chapter009-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#3",
+      "text": "Aku mengganti baterai kamera yang dipasang di catwalk gym dan memeriksa ruang yang tersisa di kartu memori. Merekam penampilan kelompok relawan adalah bagian lain dari tugas Records dan Miscellaneous. Kami bahkan harus mengedit file video nanti di Final Cut Pro atau program apa pun yang ada di Mac OSIS. Mereka mengajari aku dasar-dasarnya, tapi itu selalu menyusahkan, dan orang Windows seperti aku tidak akan pernah bisa membuat Mac berfungsi dengan baik. Yang paling bisa kulakukan hanyalah menambahkan beberapa keterangan."
+    },
+    {
+      "id": "v6-bab-9-chapter009-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#4",
+      "text": "Tapi kami punya banyak peralatan, termasuk Mac dan Final Cut Pro. Mereka pasti membelinya dengan uang sekolah, karena kameranya tampaknya cukup bagus, dan mikrofonnya cukup sensitif. Aku menyentuh layar untuk memeriksa apakah semuanya baik-baik saja dan siap untuk direkam."
+    },
+    {
+      "id": "v6-bab-9-chapter009-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#5",
+      "text": "Setelah selesai, selanjutnya aku harus bersiap untuk upacara penutup. Berbeda dengan hari sebelumnya, yang harus kulakukan kali ini hanyalah pekerjaan sambilan, yang merupakan beban pikiranku."
+    },
+    {
+      "id": "v6-bab-9-chapter009-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#6",
+      "text": "Aku turun dari catwalk menuju sayap panggung. Kelompok relawan yang datang tepat sebelum upacara penutupan, penampilan terakhir, adalah band Hayama. Persiapan telah dimulai di belakang panggung untuk upacara tersebut, yang berarti sayap panggung dipenuhi oleh orang-orang."
+    },
+    {
+      "id": "v6-bab-9-chapter009-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#7",
+      "text": "“Urk… Aduh, aku mulai gugup.” Miura menundukkan kepalanya, terlihat kuyu. Rupanya dia juga tergabung dalam kelompok sukarelawan ini. Melihat ke arah yang lain, aku melihat Hayama memetik gitarnya dengan kabel dicabut, melakukan pemanasan. Tobe sedang memukul genderang tak kasat mata dengan sepasang stik drum. Yang lainnya, Yamato, membeku dengan bass di tangannya. Ooka menatap keyboard di atas panggung dengan konsentrasi tinggi."
+    },
+    {
+      "id": "v6-bab-9-chapter009-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#8",
+      "text": "Satu-satunya yang tampak tenang adalah Hayama, dan yang lainnya hampir mencapai titik puncaknya. Tobe lebih sering mengayunkan kepalanya daripada stik drum."
+    },
+    {
+      "id": "v6-bab-9-chapter009-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#9",
+      "text": "Beberapa orang juga berkeliaran bersama anggota band."
+    },
+    {
+      "id": "v6-bab-9-chapter009-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#10",
+      "text": "“Ummm, minuman panggung… Oh! Kurasa akan lebih mudah jika diminum dengan sedotan.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#11",
+      "text": "“Yui, dengan benda-benda ini, jika kamu memasukkan ini ke dalam tutupnya dan menggoyangkannya, itu akan menjadi lubang yang sempurna. Lalu kamu masukkan sedotannya ke sini.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#12",
+      "text": "“Hah? Wow, Hina!”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#13",
+      "text": "Are kalian sekarang menjadi asisten mereka?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 43,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#14",
+      "text": "Setelah headset terisi cukup untuk semua orang, Yukinoshita mulai bergegas ke sana kemari. Itu menjadi sangat menjengkelkan."
+    },
+    {
+      "id": "v6-bab-9-chapter009-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#15",
+      "text": "“Apakah Anda memerlukan sesuatu?” Aku bertanya padanya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#16",
+      "text": "Karena terkejut, Yukinoshita menjawab dengan pertanyaannya sendiri. “Hei…di mana Sagami?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#17",
+      "text": "Aku melihat sekeliling. Sebenarnya aku tidak ingat pernah melihatnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#18",
+      "text": "“Saya ingin mengadakan pertemuan terakhir dengannya sebelum upacara penutup…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#19",
+      "text": "“Saya akan mencoba meneleponnya.” Meguri memutar nomor ponselnya, tapi setelah beberapa saat, ekspresinya berubah serius. “…Dikatakan dia berada di luar jangkauan, atau teleponnya dimatikan.” Dia mengulangi pesan otomatis kata demi kata. “Aku akan bertanya pada yang lain.” Meguri membuat serangkaian panggilan telepon, tapi dia tidak bisa menemukan Sagami. Dia menghela napas, lalu berbicara di udara. “Apakah kalian di sana, teman-teman?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#20",
+      "text": "“Di sini.” Tiba-tiba, anggota OSIS muncul dari balik tirai."
+    },
+    {
+      "id": "v6-bab-9-chapter009-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#21",
+      "text": "Apakah kalian ninja? Atau pembunuh?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 35,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#22",
+      "text": "“Bisakah kamu mencarikan Sagami untukku?” Meguri bertanya. “Saya akan sangat menghargai jika Anda juga dapat terus menghubungi saya secara rutin.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#23",
+      "text": "“Baik, Nyonya.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#24",
+      "text": "Serius, apakah Anda ninja?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 26,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#25",
+      "text": "Pencarian dimulai dengan kekuatan penuh dari OSIS. Tapi bahkan para master ninja hanya bisa melacak keberadaannya sekitar tengah hari. Setelah itu, mereka tidak dapat menemukan jejaknya. Jalurnya tiba-tiba berakhir."
+    },
+    {
+      "id": "v6-bab-9-chapter009-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#26",
+      "text": "Setelah penampilan grup Hayama yang akan datang selesai, kami akan segera memulai upacara penutup. Jika kamu memperhitungkan pemeriksaan dan persiapan sebelumnya, kita tidak punya banyak waktu."
+    },
+    {
+      "id": "v6-bab-9-chapter009-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#27",
+      "text": "Yukinoshita melipat tangannya dan menutup matanya. Saat Yuigahama menyadarinya, dia berlari ke arahnya. “Ada apa, Yukinon?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#28",
+      "text": "“Apakah kamu tahu di mana Sagami berada?” Yukinoshita bertanya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#29",
+      "text": "Yuigahama memiringkan kepalanya. “Entahlah. Aku belum melihatnya... Apakah kamu membutuhkannya di sini?” Yukinoshita mengangguk, dan Yuigahama mengeluarkan ponselnya. “Hmm, aku akan mencoba bertanya-tanya.” Yuigahama menjauh untuk melakukan panggilan telepon."
+    },
+    {
+      "id": "v6-bab-9-chapter009-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#30",
+      "text": "Aku terus menjaga Yuigahama dalam pandanganku saat aku memberikan saran lain kepada Yukinoshita. “Mengapa tidak membuat pengumuman saja melalui interkom?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#31",
+      "text": "“Ya, tentu saja.” Yukinoshita menghubungi ruang penyiaran dan menyuruh mereka membuat pengumuman di seluruh sekolah, tapi tidak ada tanggapan sama sekali."
+    },
+    {
+      "id": "v6-bab-9-chapter009-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#32",
+      "text": "“Yukinoshita.” Bu Hiratsuka pasti sudah mendengar pengumuman itu, karena dia diam-diam datang dari pintu belakang. “Apakah Sagami sudah muncul?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#33",
+      "text": "Yukinoshita menggelengkan kepalanya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#34",
+      "text": "“…Begitu. Karena pengumuman itu, para guru juga sudah memahami situasinya secara umum, jadi jika mereka menemukannya, kupikir mereka akan menghubungimu, tapi…” Ekspresi guru itu muram. Secara tidak langsung, dia mengatakan, Jangan berharap banyak.",
+      "emphasis": [
+        {
+          "start": 224,
+          "end": 246,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#35",
+      "text": "Penonton sangat antusias, namun suhu di belakang panggung langsung turun. Semakin banyak waktu berlalu, semakin serius isu ketidakhadiran ketua Komite Festival Kebudayaan."
+    },
+    {
+      "id": "v6-bab-9-chapter009-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#36",
+      "text": "“Ini tidak bagus,” kata Yukinoshita. “Kalau terus begini, kita tidak akan bisa mengadakan upacara penutup.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#37",
+      "text": "“Kau benar...” Meguri mengangguk, agak bingung."
+    },
+    {
+      "id": "v6-bab-9-chapter009-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#38",
+      "text": "Khawatir dengan ekspresi muram mereka, Yuigahama bertanya, “Apa Sagamin harus ada di sini?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#39",
+      "text": "“Ya,” kata Yukinoshita. “Salam, komentar umum, dan penyerahan penghargaan adalah bagian dari perannya.” Itu selalu menjadi tugas ketua komite, tahun demi tahun. Tak peduli apa yang terjadi pada Sagami, peran yang diberikan padanya tidak akan berubah."
+    },
+    {
+      "id": "v6-bab-9-chapter009-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#40",
+      "text": "“Kasus terburuk…kita bisa menggantikannya…” Meguri menawarkan rencana alternatif. Kalau begitu, yang akan menggantikannya adalah Meguri atau Yukinoshita. Mengingat posisi mereka, salah satu dari mereka dapat dibenarkan untuk mengambil peran tersebut. Tapi, yah, itu masih terasa canggung."
+    },
+    {
+      "id": "v6-bab-9-chapter009-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#41",
+      "text": "Tapi Yukinoshita menggagalkan usulan itu sejak awal. “Menurutku itu ide yang buruk. Sagami adalah satu-satunya yang mengetahui hasil dari penghargaan prestasi dan pemungutan suara penghargaan regional.” Semua orang di ruang konferensi mengerjakan penghitungan secara bergiliran, kapan pun diperlukan. Jadi meskipun semua orang memiliki pemahaman yang terbatas tentang angka-angka tersebut, hanya Sagami, yang telah mengkonsolidasikan hasil akhir, yang mengetahui apa hasil tersebut."
+    },
+    {
+      "id": "v6-bab-9-chapter009-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#42",
+      "text": "“Kalau begitu, kita bisa menunda presentasi hasil penghargaan hingga besok?” Kataku."
+    },
+    {
+      "id": "v6-bab-9-chapter009-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#43",
+      "text": "Yukinoshita mengangguk, tapi ekspresinya tetap serius. “Dalam skenario terburuk. Tapi jika kita tidak mengumumkan penghargaan regional sekarang, menurutku tidak ada gunanya.” Festival budaya ini mengedepankan ikatan regional. Tidak pantas jika penghargaan diberikan terlambat satu hari pada tahun penghargaan itu ditetapkan."
+    },
+    {
+      "id": "v6-bab-9-chapter009-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#44",
+      "text": "Apa pun masalahnya, kami tetap harus menemukan Sagami. Tapi kami masih belum bisa menghubunginya, dan kami juga belum melacak keberadaannya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#45",
+      "text": "Yukinoshita menggigit bibirnya keras-keras."
+    },
+    {
+      "id": "v6-bab-9-chapter009-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#46",
+      "text": "“Apakah ada yang salah?” Hayama bertanya, terlihat tenang meski hendak naik ke atas panggung. Dia pasti merasakan adanya kerusuhan."
+    },
+    {
+      "id": "v6-bab-9-chapter009-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#47",
+      "text": "“Ya. Kami tidak dapat menemukan Sagami...” Meguri menjelaskan situasinya kepada Hayama."
+    },
+    {
+      "id": "v6-bab-9-chapter009-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#48",
+      "text": "Hayama segera beraksi. “Wakil Ketua, saya ingin meminta perubahan dalam program ini. Bisakah Anda mengizinkan kami menambahkan satu lagu lagi ke dalam akting kami? …Kami tidak punya banyak waktu, jadi persetujuan lisan saja sudah cukup, bukan?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#49",
+      "text": "“Bisakah Anda melakukan itu?” tanya Yukinoshita."
+    },
+    {
+      "id": "v6-bab-9-chapter009-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#50",
+      "text": "“Ya… Yumiko, bisakah kamu bermain dan bernyanyi untuk satu lagu lagi?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#51",
+      "text": "“Hah? Lagu lain? Serius? Tidak, tidak, tidak mungkin, tidak mungkin! Aku tidak bisa! Aku benar-benar ketakutan sekarang!” Miura begitu tegang sehingga pertanyaan itu benar-benar mengejutkannya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#52",
+      "text": "“Tolong.” Tapi kemudian Hayama tersenyum padanya, dan dia mengerang putus asa. Menjatuhkan kepalanya ke tangannya, dia mengerang lagi. Itu lucu sekali."
+    },
+    {
+      "id": "v6-bab-9-chapter009-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#53",
+      "text": "Yukinoshita mengambil satu langkah menuju Miura yang kesakitan. “...Aku menelan harga diriku untuk menanyakan hal ini padamu. Aku akan berterima kasih.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#54",
+      "text": "“Agh...ini sulit dipercaya, sungguh...” Miura menghela napas pasrah dan mengangkat kepalanya untuk menatap tajam ke arah Yukinoshita. “Bukannya aku melakukan ini untukmu.” Itu bukanlah upaya untuk menutupi rasa malu; permusuhan itu tulus. Dia berbalik dan berjalan ke arah lain. “Ayo. Tobe, Ooka, Yamato. Bersiaplah.” Dia memukul kepala mereka masing-masing dan meluncur ke atas panggung."
+    },
+    {
+      "id": "v6-bab-9-chapter009-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#55",
+      "text": "Di belakangnya, ketiga antek itu berkata, “Benarkah?” dan “Ya ampun,” dan “Kamu bercanda!” namun tetap dengan patuh mengikutinya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#56",
+      "text": "Mereka berempat bersiaga untuk pertunjukan tersebut, dan bagian Manajemen Relawan langsung bertindak. Mereka memeriksa ulang di mana setiap orang berada pada setiap titik waktu dan bersiap untuk lagu tambahan di tengah kesibukan aktivitas."
+    },
+    {
+      "id": "v6-bab-9-chapter009-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#57",
+      "text": "Sementara itu, Hayama telah mengeluarkan ponselnya dan dengan cepat menghubungi berbagai orang. Aku ragu dia hanya mengirim SMS sederhana. Dia harus bekerja di milis atau SNS atau Facebook atau LINE atau apa pun. Setelah mengetik beberapa kali, dia juga melakukan beberapa panggilan telepon. Setelah dia selesai, dia menghela napas."
+    },
+    {
+      "id": "v6-bab-9-chapter009-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#58",
+      "text": "“…Terima kasih,” kata Yukinoshita."
+    },
+    {
+      "id": "v6-bab-9-chapter009-59",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#59",
+      "text": "“Jangan khawatir. Aku ingin kita tampil bagus hari ini juga. Pokoknya…kami bisa memberimu sepuluh menit dengan penampilan ekstra. Kamu harus menemukannya sebelum itu.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#60",
+      "text": "“Baiklah.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#61",
+      "text": "“…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#62",
+      "text": "Dia bisa memberi kita sepuluh menit, ya? Jika Sagami tidak menjawab teleponnya atau menanggapi pengumuman tersebut, maka dia sudah berniat untuk memberikan jaminan selama ini. Mustahil menemukan seseorang yang ingin bersembunyi dalam waktu sesingkat itu."
+    },
+    {
+      "id": "v6-bab-9-chapter009-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#63",
+      "text": "“Aku akan pergi mencarinya.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#64",
+      "text": "Yuigahama mencoba pergi, tapi aku menghentikannya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#65",
+      "text": "“Jika kamu hanya mencarinya secara acak, kamu tidak akan menemukannya.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#66",
+      "text": "Meguri telah mengerahkan OSIS untuk berburu. Kami sudah memanfaatkan banyak koneksi. Tapi kami masih tidak dapat menemukannya. Aku ragu Yuigahama akan bertemu Sagami jika dia keluar saat itu juga untuk melihatnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#67",
+      "text": "Jadi akan lebih konstruktif untuk mempertimbangkan dia pergi dan menggunakan waktu yang diberikan Hayama kepada kita untuk mengambil langkah selanjutnya. “Mungkin akan lebih cepat jika ada orang lain yang maju dan langsung mendapatkan hasil hadiahnya. Lagi pula, nomor jajak pendapatnya tidak dipublikasikan,” kataku."
+    },
+    {
+      "id": "v6-bab-9-chapter009-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#68",
+      "text": "Semua orang tampak terkejut."
+    },
+    {
+      "id": "v6-bab-9-chapter009-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#69",
+      "text": "“Hikigaya…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#70",
+      "text": "“Benarkah…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#71",
+      "text": "“Itu sedikit berlebihan…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#72",
+      "text": "“Saya tidak yakin apakah itu ide yang bagus…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#73",
+      "text": "Bu Hiratsuka, Meguri, Yuigahama, dan Hayama dari faksi “akal sehat” mengungkapkan perbedaan pendapat mereka."
+    },
+    {
+      "id": "v6-bab-9-chapter009-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#74",
+      "text": "…Tidak boleh pergi, ya? Tapi kupikir aku sudah menyarankan rencana yang cukup realistis di sana.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 96,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#75",
+      "text": "Yukinoshita, orang yang menurutmu akan menjadi orang pertama yang menolak ideku di saat seperti ini, tetap diam. Penasaran, aku menoleh dan melihat tangannya menutupi mulutnya. Rupanya, dia sedang memikirkan sesuatu selama ini. “…Hikigaya.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#76",
+      "text": "“Apa?” Dia sudah mempertimbangkannya cukup lama sehingga aku kini cemas dengan hinaan mengerikan yang akan dia lontarkan kepadaku."
+    },
+    {
+      "id": "v6-bab-9-chapter009-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#77",
+      "text": "Tapi dia menatap lurus ke mataku. “Jika kita mengulur sepuluh menit lagi, bisakah kamu menemukannya?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#78",
+      "text": "“Entahlah…” Aku sedikit menjajaki kemungkinan itu. Kelompok Miura hendak naik ke panggung. Mereka hanya dapat membawakan satu lagu tambahan. Skenario terbaiknya, mereka bisa melakukan sedikit MC sebelum dan sesudah lagu mereka. Lalu ada waktu yang mereka perlukan untuk meninggalkan panggung, dan saat penonton bisa menunggu dalam diam untuk upacara penutup. Selain itu, sesuatu yang tidak terduga dapat terjadi dan akan mempersingkat waktu."
+    },
+    {
+      "id": "v6-bab-9-chapter009-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#79",
+      "text": "Dengan mempertimbangkan semua hal ini, band Miura dapat menghibur penonton selama tujuh atau delapan menit dari sekarang. Menambahkan sepuluh menit lagi berarti mereka bisa bertahan selama lebih dari lima belas menit. Dengan berjalan kaki dari gym, aku bisa mencari paling banyak satu tempat. Jika Sagami meninggalkan halaman sekolah, maka kami akan keluar. Aku tidak punya pilihan selain menebak dan bertaruh pada satu kesempatan itu."
+    },
+    {
+      "id": "v6-bab-9-chapter009-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#80",
+      "text": "“…Yang bisa saya katakan hanyalah, saya tidak tahu.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#81",
+      "text": "“Saya mengerti. Kalau begitu, Anda tidak mengatakan itu tidak mungkin. Itu sudah cukup.” Meski jawabanku samar-samar, jawaban Yukinoshita jelas. Dia mengeluarkan ponselnya dan menarik napas dalam-dalam. Memperkuat dirinya sendiri, dia menelepon. Dengan mata terpejam, dia menunggu orang itu mengangkatnya. Beberapa detik kemudian, matanya terbuka. “Haruno? Ayo ke panggung sekarang.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#82",
+      "text": "Bagaimana dia bisa mengulur waktu sepuluh menit lagi? Yukinoshita telah menemukan jawabannya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-83",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter009.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v6-bab-9-chapter009-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#84",
+      "text": "Tidak lama setelah panggilan Yukinoshita, penerimanya muncul. “Hei, Yukino-chan. Ada apa? Aku ingin melihat band Hayato, dan mereka akan naik panggung.” Senyuman Haruno Yukinoshita dipenuhi dengan rasa percaya diri, itu menakutkan. Rupanya, dia telah menonton band sukarelawan selama ini. Tidak perlu bersusah payah meneleponnya, karena ternyata dia ada di dekatnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#85",
+      "text": "Yukinoshita mengabaikan keluhan Haruno dan langsung berbisnis. “Kamu perlu membantu, Haruno.” Pernyataannya begitu lugas, hingga mata Haruno berubah warna. Tanpa sepatah kata pun, dia memandang Yukinoshita dengan dingin. Tapi Yukinoshita tidak mengalihkan pandangannya; dia balas menatap Haruno dengan tekad yang kuat."
+    },
+    {
+      "id": "v6-bab-9-chapter009-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#86",
+      "text": "Tempat di mana tatapan mereka bertemu sangat sunyi dan sangat dingin. Udara di sekitar mereka membeku, seperti nitrogen cair yang tumpah."
+    },
+    {
+      "id": "v6-bab-9-chapter009-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#87",
+      "text": "Senyuman dingin Haruno berubah menjadi tawa kecil. “Oh? Baiklah. Karena ini pertama kalinya kamu benar-benar meminta sesuatu dariku, aku akan dengan senang hati mendengarkan permintaanmu,” katanya dengan angkuh. Sekalipun dia bersikap penuh belas kasihan, jawabannya tidak ada yang baik. Itu bahkan lebih tajam dari penolakan datar.",
+      "emphasis": [
+        {
+          "start": 142,
+          "end": 160,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#88",
+      "text": "Tapi Yukinoshita memiringkan kepalanya mendengarnya. Lalu tiba-tiba, dia tersenyum kecil. “Permintaan? Jangan salah paham. Ini adalah perintah, sebagai anggota komite. Apakah kamu tidak melihat struktur organisasinya? Kamu harusnya tahu bahwa menurut rantai komando, aku mempunyai wewenang di sini. Kamu wajib bekerja sama sebagai perwakilan dari kelompok sukarelawan—bahkan jika kamu bukan bagian dari sekolah ini,” jawab Yukinoshita dengan sangat percaya diri. Sombong sampai akhir. Meskipun dialah orang yang membutuhkan sesuatu dari Haruno, dia tidak akan mundur dari posisi superiornya.",
+      "emphasis": [
+        {
+          "start": 134,
+          "end": 142,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#89",
+      "text": "Tiba-tiba aku teringat akan siapa dia enam bulan sebelumnya. Tidak pernah menjadi kaki tangan siapa pun, menebas lawan dengan pisau rasa keadilannya: Itulah Yukino Yukinoshita."
+    },
+    {
+      "id": "v6-bab-9-chapter009-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#90",
+      "text": "Sementara itu, Haruno Yukinoshita terkekeh dan tersenyum dengan gembira. “Jadi, apakah ada hukuman jika aku menolak tugas ini? Kamu tidak punya wewenang untuk memaksaku melakukan ini, kan? Sudah terlambat untuk mendiskualifikasiku dari melakukan tugas ini. Jadi, apa yang akan kamu lakukan? Beritahu aku pada guru?” Dia hanya terkikik. Dia mengejek kebenaran Yukinoshita, menyebutnya sebagai moralitas kekanak-kanakan yang tidak pernah berhasil di dunia nyata."
+    },
+    {
+      "id": "v6-bab-9-chapter009-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#91",
+      "text": "Haruno bersikap sangat realistis, itulah sebabnya kamu tidak bisa berdebat dengannya. Yukinoshita sedang berbicara tentang bagaimana segala sesuatunya seharusnya terjadi, berdasarkan prinsip. Skenario terbaik. Wajar jika argumennya digambarkan sebagai argumen yang idealis. Kalau memang benar demikian, hal itu tidak cocok dengan pendekatan realistis Haruno.",
+      "emphasis": [
+        {
+          "start": 151,
+          "end": 161,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#92",
+      "text": "Oh, ini tidak bagus. Yukinoshita sedikit dirugikan. Jika ingin menentang kaum realis, itu pekerjaan nihilis seperti aku. Aku hendak melangkah masuk ketika Yukinoshita merasakan hal ini dan diam-diam menahanku dengan tangannya. Lalu dia menoleh sedikit dan tersenyum lembut.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 20,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#93",
+      "text": "Dengan satu ekspresi itu, dia mengatakan kepadaku bahwa tidak apa-apa—dia bisa menjadi kuat."
+    },
+    {
+      "id": "v6-bab-9-chapter009-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#94",
+      "text": "Dia berbalik ke arah Haruno dan berbicara lagi, dengan lebih kuat. “Tidak akan ada penalti…tetapi Anda akan mendapat manfaat dari kerja sama.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#95",
+      "text": "“Bagaimana tepatnya?” Haruno terkekeh seolah dia menganggap ini semua lucu."
+    },
+    {
+      "id": "v6-bab-9-chapter009-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#96",
+      "text": "Yukinoshita menepis tekanan dari seringai indah Haruno dan meletakkan tangannya ke dadanya sendiri. “Kamu akan mendapat bantuan dariku. Terserah bagaimana kamu menerima bantuan itu,” katanya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#97",
+      "text": "Haruno membeku di tempatnya. “Hmm…” Dia tidak menyeringai lagi. Dia hanya menatap Yukinoshita dengan tatapan dingin. “Kamu sudah dewasa, Yukino-chan.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#98",
+      "text": "“Tidak.” Yukinoshita balas tersenyum padanya. “Aku selalu seperti ini. Apakah kamu tidak menyadarinya setelah tujuh belas tahun bersama?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#99",
+      "text": "“Oh...” Setelah jawaban singkat, Haruno dengan cepat menyipitkan matanya. Ekspresi tersebut menghalangi aku untuk dengan mudah membaca maksud di baliknya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#100",
+      "text": "“…Ha.” Tanpa kusadari, aku malah tertawa."
+    },
+    {
+      "id": "v6-bab-9-chapter009-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#101",
+      "text": "“…Apa?” tuntut Yukinoshita."
+    },
+    {
+      "id": "v6-bab-9-chapter009-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#102",
+      "text": "“Tidak ada...”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#103",
+      "text": "Yukinoshita memelototiku, dan aku tertawa lagi."
+    },
+    {
+      "id": "v6-bab-9-chapter009-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#104",
+      "text": "Ya, memang begitu. Inilah Yukino Yukinoshita.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#105",
+      "text": "Haruno melipat tangannya untuk menenangkan diri. Gerakan itu membuatnya sangat mirip dengan adik perempuannya. “Jadi apa rencanamu?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#106",
+      "text": "“Kita akan mengulur waktu lagi,” jawab Yukinoshita singkat, tapi itu bukanlah jawaban."
+    },
+    {
+      "id": "v6-bab-9-chapter009-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#107",
+      "text": "Sedikit mengernyit, Haruno menanyakan pertanyaan lain. “Tetapi bagaimana caranya?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#108",
+      "text": "“Dengan saya, Anda…dan dua orang lainnya, kita akan mengaturnya. Jika memungkinkan, satu lagi.” Yukinoshita melirik ke ruang hijau di dekat sayap panggung. Itu memberiku gambaran umum tentang apa yang dia rencanakan."
+    },
+    {
+      "id": "v6-bab-9-chapter009-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#109",
+      "text": "“Hei, Yukinoshita, apa kamu serius?” Aku berseru kaget."
+    },
+    {
+      "id": "v6-bab-9-chapter009-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#110",
+      "text": "Seperti aku, Haruno pasti bisa melihatnya sekilas, karena dia menyeringai. “Oh, itu ide yang menyenangkan. Lalu lagu apa?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#111",
+      "text": "“Kami tidak akan bisa berlatih, jadi kami tidak punya pilihan selain melakukan sesuatu yang sudah kami ketahui. Apakah kamu masih bisa memutar lagu yang kamu buat sebelumnya di festival budayamu?” Yukinoshita bertanya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#112",
+      "text": "Haruno menunjukkan kepada kita bahwa dia masih bisa menyanyikan lagu apa pun itu. Aku kira aku harus mengatakan aku terkesan, tetapi tidak terkejut. Dia hanya bersenandung, tapi aku akhirnya tenggelam dalam musiknya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#113",
+      "text": "Yuigahama berkata, “Ohhh, lagu itu,” juga, terkesan dan terpesona. Kalau saja aku tahu lagu itu, tentu saja Yuigahama akan mengetahuinya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#114",
+      "text": "Setelah Haruno menyelesaikan membawakan lagu kasualnya, dia menyeringai dengan berani. “Kamu pikir kamu sedang berbicara dengan siapa? Bagaimana denganmu, Yukino-chan? Bisakah kamu melakukannya?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#115",
+      "text": "“Aku bisa melakukan apa saja yang pernah kamu lakukan.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#116",
+      "text": "…Dia pasti berlatih secara rahasia.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 35,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-117",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#117",
+      "text": "Ketika Haruno mendengar itu, dia mengangguk. “Begitu. Kalau begitu, kita hanya perlu satu orang lagi, dan kita siap berangkat,” katanya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-118",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#118",
+      "text": "Kami semua saling berpandangan. Hei, hei, beberapa saat yang lalu, kamu bilang kamu perlu dua lagi, kan? Ini adalah masalah yang bahkan lebih mendasar daripada kegagalan penambahan sederhana… Atau begitulah yang kupikirkan, ketika aku mendengar desahan yang sangat besar di dekatnya.",
+      "emphasis": [
+        {
+          "start": 32,
+          "end": 191,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-119",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#119",
+      "text": "Kemudian Haruno menyebutkan nama sumber desahan itu. “Shizuka-chan.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-120",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#120",
+      "text": "“…Sepertinya aku tidak punya pilihan,” kata Bu Hiratsuka. “Aku akan memainkan bassnya. Sepertinya aku masih bisa memainkan lagu yang aku mainkan bersamamu sebelumnya.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-121",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#121",
+      "text": "Oh ya. Saat aku melihat Bu Hiratsuka selama liburan musim panas, dia menyebutkan bagaimana Haruno menyuruhnya bermain di band untuk festival budaya atau semacamnya…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 164,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-122",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#122",
+      "text": "Kemudian Haruno berbalik dan berkata, “Meguri, kamu bisa membuat keyboard cadangan, kan?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-123",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#123",
+      "text": "“Ya! Serahkan padaku!” Meguri menjawab dengan energik, kedua tangannya mengepal dengan penuh tekad. Dia tidak hanya pernah melihat Haruno tampil live sebelumnya, dia juga lebih tua dari kami dan terbiasa berdiri di depan orang banyak. Tidak ada keraguan dalam jawabannya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-124",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#124",
+      "text": "“Jadi sekarang menurutku kita hanya perlu vokal saja ya?” kata Haruno."
+    },
+    {
+      "id": "v6-bab-9-chapter009-125",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#125",
+      "text": "Ekspresi merenung, Yukinoshita berkata pelan, “…Yuigahama.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-126",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#126",
+      "text": "“A—?!” Yuigahama pasti tidak menyangka akan mendengar namanya sendiri menjadi bagian dari ini. Teriakan terkejut yang tulus dan agak lucu keluar dari mulutnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-127",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#127",
+      "text": "Yukinoshita mengambil satu langkah untuk berdiri di dekatnya. “Bolehkah aku mengandalkanmu dalam hal ini?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-128",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#128",
+      "text": "“Uh, um… Eh, aku tidak terlalu yakin dengan hal ini… Sepertinya aku tidak bisa melakukannya dengan baik, dan sejujurnya aku mungkin akan memperburuk keadaan…” Yuigahama menyatukan jari telunjuknya, memalingkan muka dan bergumam karena malu."
+    },
+    {
+      "id": "v6-bab-9-chapter009-129",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#129",
+      "text": "Tapi…"
+    },
+    {
+      "id": "v6-bab-9-chapter009-130",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#130",
+      "text": "Setelah dia terdiam, dia meremas tangan Yukinoshita dengan erat. “Aku…sudah menunggumu mengatakan hal itu kepadaku.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-131",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#131",
+      "text": "Yukinoshita membalasnya dengan hati-hati. “…Terima kasih.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-132",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#132",
+      "text": "“Tidak apa-apa. T-tapi…Aku tidak sepenuhnya ingat liriknya, lho?! Untuk semua tujuan intensif.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-133",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#133",
+      "text": "“Itu semua maksud dan tujuan. Fakta bahwa kamu bahkan tidak bisa mengatakan itu dengan benar membuatku agak gelisah.”",
+      "emphasis": [
+        {
+          "start": 5,
+          "end": 28,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-134",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#134",
+      "text": "“Itu sedikit kejam, Yukinon!” Yuigahama memprotes sambil menggoyangkan tangan Yukinoshita sedikit."
+    },
+    {
+      "id": "v6-bab-9-chapter009-135",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#135",
+      "text": "Yukinoshita tersenyum. “Aku bercanda. Jika kamu merasa sedang dalam masalah, aku akan bernyanyi juga. Jadi, um, aku tidak keberatan...jika kamu mengandalkan...padaku...” Yukinoshita tersipu cukup keras bahkan aku bisa melihatnya dalam kegelapan sayap panggung."
+    },
+    {
+      "id": "v6-bab-9-chapter009-136",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#136",
+      "text": "Yuigahama menjawab dengan senyum cerah. “…Ya!”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-137",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#137",
+      "text": "Aku memperhatikan mereka, lalu diam-diam menuju dari area belakang panggung menuju pintu yang menghubungkan ke pintu keluar gym. Secara diam-diam, diam-diam, aku mulai bertindak."
+    },
+    {
+      "id": "v6-bab-9-chapter009-138",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#138",
+      "text": "“Hikigaya.” Sebuah suara tak terduga datang dari belakangku. “Semoga beruntung.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-139",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#139",
+      "text": "“Kamu pasti bisa, Hikki!”"
+    },
+    {
+      "id": "v6-bab-9-chapter009-140",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#140",
+      "text": "Aku tidak membalas keduanya dengan kata-kata."
+    },
+    {
+      "id": "v6-bab-9-chapter009-141",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#141",
+      "text": "Aku hanya mengangkat tangan sembarangan saat aku melanjutkan keluar pintu."
+    },
+    {
+      "id": "v6-bab-9-chapter009-142",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#142",
+      "text": "Baiklah, inilah waktuku sekarang. Sepuluh menit berikutnya terserah aku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 72,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-143",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#143",
+      "text": "Di atas panggung, di bawah sorotan, bukanlah tempat aku seharusnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-144",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#144",
+      "text": "Panggung aku adalah jalan kosong keluar dari pintu keluar yang gelap."
+    },
+    {
+      "id": "v6-bab-9-chapter009-145",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#145",
+      "text": "Panggung untuk satu—Hachiman Hikigaya."
+    },
+    {
+      "id": "v6-bab-9-chapter009-146",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#146",
+      "text": "Pintu keluar gimnasium terhubung langsung ke gedung sekolah."
+    },
+    {
+      "id": "v6-bab-9-chapter009-147",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#147",
+      "text": "Tradisi sekolah mengatakan bahwa setiap tahun, band sukarelawan yang diharapkan dapat menarik penonton terbanyak akan ditempatkan untuk pertunjukan terakhir. Program yang sedikit tidak lazim ini akan memungkinkan mereka untuk bertransisi langsung ke upacara penutup. Itu adalah cara paling efisien untuk memindahkan siswa ke gym."
+    },
+    {
+      "id": "v6-bab-9-chapter009-148",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#148",
+      "text": "Dengan kata lain, saat ini, hanya ada segelintir orang yang tersebar di sekitar gedung sekolah."
+    },
+    {
+      "id": "v6-bab-9-chapter009-149",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#149",
+      "text": "Bagaimanapun, sudah waktunya untuk upacara penutupan, yang berarti banyak orang akan pergi ke konser sukarelawan untuk mengadakan konser terakhir. keributan besar dengan orang lain."
+    },
+    {
+      "id": "v6-bab-9-chapter009-150",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#150",
+      "text": "Kurangnya orang membuat nyaman. Itu berarti siapa pun di luar sini akan menarik perhatianku, bahkan dari kejauhan. Bisa dibilang kondisinya menguntungkan untuk melacak Sagami."
+    },
+    {
+      "id": "v6-bab-9-chapter009-151",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#151",
+      "text": "Tapi aku tetap tidak bisa mengunjungi lebih dari satu tempat. Waktu aku terbatas. Aku bahkan tidak punya waktu untuk memeriksa jam."
+    },
+    {
+      "id": "v6-bab-9-chapter009-152",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#152",
+      "text": "Anda tidak dapat memperlambat waktu. Anda juga tidak dapat bergerak lebih cepat dari batas fisik Anda. Jadi, satu-satunya hal yang dapat percepat adalah pikiran Anda.",
+      "emphasis": [
+        {
+          "start": 131,
+          "end": 136,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-153",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#153",
+      "text": "Berpikir.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 9,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009-154",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009.xhtml#154",
+      "text": "Setiap orang yang penyendiri harus bangga dengan kemampuannya dalam berpikir mendalam. Kita menggunakan sumber daya yang biasanya dialihkan ke hubungan interpersonal pada diri kita sendiri, dan semua introspeksi, refleksi, penyesalan, fantasi, dan imajinasi dan lamunan pada akhirnya membawa kita pada ideologi dan filsafat."
+    },
+    {
+      "id": "v6-bab-9-chapter009_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter009_a.xhtml#../Images/Art_P201.jpg",
+      "src": "assets/chapters/volume-6/bab-9/Art_P201.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yui berbicara di tengah kegiatan festival."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#0",
+      "text": "Aku akan menghabiskan semua kekuatan pemikiran yang tidak berguna itu untuk mengeksplorasi setiap kemungkinan, untuk menyangkal dan menolak kesimpulan apa pun yang aku bisa. Dan kemudian, di antara ide-ide yang tidak dapat aku tolak sepenuhnya, aku akan melakukan yang terbaik untuk membuktikannya, seperti yang aku lakukan ketika aku berbicara untuk membela diri."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#1",
+      "text": "Mengkritik orang lain dan membela diri adalah bakat terhebat Hachiman Hikigaya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#2",
+      "text": "Aku harus melakukan itu berulang kali, dan jawabannya akan muncul dengan sendirinya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#3",
+      "text": "Itu sederhana. Sagami harus sendirian saat itu. Jadi, yang harus kulakukan hanyalah menelusuri proses berpikir penyendiri."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#4",
+      "text": "Kalau soal penyendiri, aku bukan satu-satunya yang berada di atas dia; Aku sekitar seribu luka di atas. Aku tidak memulai pertunjukan ini kemarin. Aku seorang veteran. Jangan meremehkanku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#5",
+      "text": "Sagami adalah orang yang pemalu; Aku yakin akan hal itu. Saat dia berada di tahun pertama, dia berada di grup A, dan dia terbiasa menjadi yang teratas. Namun sejak tahun kedua, kehadiran Miura dan kelompoknya telah mendorongnya turun dari tiang totem. Itu tidak menyenangkan untuk dia telan. Namun meski begitu, Sagami tidak bisa melakukan apa pun untuk mengubah status kelas sosialnya.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 56,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#6",
+      "text": "Jadi itulah alasan mengapa dia mencari orang yang status sosialnya lebih rendah daripada dirinya. Setidaknya dia akan mencoba untuk berdiri di puncak grup B. Dan dia berhasil melakukannya. Namun begitu Anda sudah mengalami gaya hidup kelas atas, sulit untuk menerima gaya hidup tersebut ke bawah. Jadi dia harus memuaskan dirinya dengan hal lain."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#7",
+      "text": "Dan kemudian tibalah festival budaya ini."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#8",
+      "text": "Apakah posisi ketua komite kebudayaan sudah cukup untuk memenuhi keinginannya? Ya. Dia bergabung dengan komite berdasarkan rekomendasi Hayama, dan ketika Sagami menjadi ketua komite, bahkan Haruno Yukinoshita yang legendaris pun memujinya. Sagami juga mendapatkan bantuan berbakat untuk pekerjaannya di Yukino Yukinoshita."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#9",
+      "text": "Tapi lalu apa yang akan terjadi jika hal itu tidak berjalan dengan baik? Bagaimana jika Sagami tidak bisa mendapatkan apa yang diinginkannya, dan bahkan alternatifnya gagal secara tak terduga? Sebagai anggota komite, dia belum bisa membantu proyek kelas seperti yang dia inginkan. Ketidakpuasannya telah membawanya untuk pergi membantu, sementara orang lain bekerja dengan komite, bukan Sagami—atau lebih tepatnya, orang lain telah memenuhi peran itu bahkan lebih baik daripada dia. Dan yang lebih buruk lagi, bahkan Hayama dan Haruno, yang telah meningkatkan kepercayaan diri Sagami, akhirnya memilih pemain pengganti."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#10",
+      "text": "Jadi bagaimana dengan harga diri Sagami, kesombongannya, dan kesadaran dirinya?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#11",
+      "text": "Kesengsaraannya cukup jelas kepada aku. Aku juga pernah mengalami hal itu. Kau naif, Sagami. Itu jalan yang aku tahu.",
+      "emphasis": [
+        {
+          "start": 75,
+          "end": 117,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#12",
+      "text": "Aku ingat bolos sekolah, berkeliaran sendirian, lalu ditemukan dan dilaporkan ke sekolah dan semua orang mengetahuinya. Saat itu, kesadaran diriku yang tak terkendali dan putus asa telah meledak, dan yang kuinginkan hanyalah seseorang melihatku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#13",
+      "text": "Itulah sebabnya aku mengerti. Aku tahu apa yang ingin Anda lakukan. Dan aku tahu apa yang Anda ingin orang lain lakukan untuk Anda. Dan hal yang Anda tidak ingin kami lakukan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 175,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#14",
+      "text": "Anda terlambat lima tahun. Aku sudah mengalami semua itu saat masih di sekolah dasar.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 85,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#15",
+      "text": "Aku bisa memprediksi ke mana Anda akan pergi.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 45,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#16",
+      "text": "Apa yang diinginkan oleh seseorang yang kehilangan tempat tinggalnya? Agar seseorang menemukan tempat itu untuk mereka. Jika Anda tidak dapat mencarinya dengan mata kepala sendiri, Anda harus mencari bantuan. Aku hanya perlu menerapkan prinsip ini pada peta mentalku sendiri."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#17",
+      "text": "Sagami ingin orang-orang mencarinya, dan dia ingin ditemukan, jadi dia ada di halaman sekolah. Dan itu juga akan terlihat jelas. Dia tidak akan mengurung diri di ruang kelas yang kosong, dan dia juga tidak akan mengunci diri di mana pun."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#18",
+      "text": "Dan satu hal lagi: Dia akan berada di suatu tempat di mana dia bisa menyendiri. Jika dia tersesat di tengah kerumunan, maka dia benar-benar tidak dapat ditemukan. Jika dia mulai merasakan ketidakberhargaannya, dia pasti sudah menyadari bagaimana rasanya menghilang ke dalam suatu kelompok."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#19",
+      "text": "Dia juga tidak akan pergi ke mana pun yang secara fisik dia tidak bisa masuki. Dari sudut pandang psikologis, dia tidak mungkin berada terlalu jauh."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#20",
+      "text": "Jadi, apa lagi yang tersisa? Masih terlalu banyak pilihan. Aku perlu sedikit lebih banyak untuk membuktikan sesuatu, atau mungkin hanya mengesampingkan beberapa pilihan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#21",
+      "text": "Jika kesadaran dirinya sudah kacau, maka aku punya satu kasus lagi untuk diperiksa, selain diriku di masa lalu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#22",
+      "text": "Untuk mengikuti petunjuk itu, aku mengeluarkan ponselku. Sepertinya agak menyedihkan… Aku baru saja menelepon nomor terbaru dalam riwayat panggilan aku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#23",
+      "text": "“Ini saya.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#24",
+      "text": "Dia mengangkatnya bahkan sebelum telepon sempat berdering. Memang sesuai harapanku, Zaimokuza. Kebiasaannya mengutak-atik ponsel setiap tidak ada pekerjaan akhirnya membuahkan hasil. Aku ingin memujinya, tetapi sayangnya tidak ada waktu. Dengan cepat kuajukan pertanyaanku: “Zaimokuza, biasanya di sekolah kau berada di mana kalau sedang sendirian?”",
+      "emphasis": [
+        {
+          "start": 59,
+          "end": 94,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#25",
+      "text": "“Oh, ini panggilan yang tidak diketahui! Ba-herm, aku selalu dalam mode tunda—”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#26",
+      "text": "“Jawab saja aku. Aku ikut cepatlah.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#27",
+      "text": "“…Kamu serius?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#28",
+      "text": "“Cih. Aku menutup telepon.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#29",
+      "text": "“Tunggu, tunggu, tunggu, tolong sampai di beranda kantor perawat! Aku juga sering berada di perpustakaan! Atau di atas gedung khusus.” Ada orang-orang di kantor perawat, dan semua kelas menggunakan beranda. Perpustakaannya juga terkunci, jadi kamu tidak bisa masuk."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#30",
+      "text": "Di atas gedung khusus… Atapnya?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#31",
+      "text": "“Jika Anda mencari tempat kosong,” tambahnya, “saya rasa, ada ruang antara gedung baru dan menara klub. Tempatnya teduh dan sejuk. Dan tenang. Cocok untuk meditasi… Apakah Anda mencari seseorang?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#32",
+      "text": "“Iya, ketua komite kebudayaan.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#33",
+      "text": "“Oh, orang yang menyampaikan pidato pembuka itu. Sepertinya kamu membutuhkan bantuanku…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#34",
+      "text": "“Kamu akan membantu?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#35",
+      "text": "“Saya tidak punya pilihan. Di mana saya harus lihat?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#36",
+      "text": "“Di sekitar gedung baru. Terima kasih! Aku juga menyukainya!”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#37",
+      "text": "“Ya. Begitu juga dengan saya!”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#38",
+      "text": "“Diam, bajingan!” Aku langsung menutup teleponnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#39",
+      "text": "Jika dia ada di atap, aku punya ide tentang itu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#40",
+      "text": "Aku memesannya untuk ruang kelasku sendiri. Lorong kosong berfungsi sebagai arena pacuan kuda yang nyaman. Namun kurangnya orang meningkatkan kemungkinan bahwa orang yang kucari juga tidak ada di sana."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#41",
+      "text": "Harap hadir… Aku berlari menaiki tangga, praktis berdoa, tapi untungnya, aku melihat targetku sedang duduk di kursi lipat tepat di depan kelas kami. Kuncir kuda hitam kebiruannya terkulai murung dan kakinya yang panjang bersilang, dia dengan lesu menatap ke luar jendela lorong.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 12,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#42",
+      "text": "Aku mati-matian berusaha menyembunyikan napasku yang terengah-engah saat memanggilnya. “Kawasaki…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#43",
+      "text": "“Untuk apa kamu terengah-engah? Kukira kamu anggota komite kebudayaan?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#44",
+      "text": "Aku tidak akan menanggapi sindiran Kawasaki atau pertanyaannya. “Kamu pernah ke atap sebelumnya, kan?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#45",
+      "text": "“Hah? Apa yang kamu bicarakan? Ini acak.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#46",
+      "text": "“Katakan saja padaku.” Kami tidak punya banyak waktu, dan jawabanku yang tidak sabar ternyata lebih kasar dari yang kuinginkan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-47",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#47",
+      "text": "“K-kamu tidak perlu menjadi begitu marah…” Air mata mengalir di matanya, dan dia mulai sedikit gelisah."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-48",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#48",
+      "text": "Aku menghembuskan napas pelan untuk agak menenangkan diriku. “Aku tidak marah. Aku hanya sedang terburu-buru dengan beberapa urusan komite.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-49",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#49",
+      "text": "“B-baiklah, kalau begitu...” Dia menarik napas lega."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-50",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#50",
+      "text": "Dia sangat sensitif. Oh, tidak, tidak, pikirkan tentang atapnya sekarang. “Jadi, kamu pernah berada di atas atap sebelumnya, kan? Bagaimana kamu bisa naik ke sana?”",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 73,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-51",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#51",
+      "text": "“Aku terkejut kamu mengingatnya...,” gumam Kawasaki pelan seolah itu adalah kenangan indah. Dia menatapku dengan malu-malu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-52",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#52",
+      "text": "…Sudah kubilang, aku sedang terburu-buru.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 41,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-53",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#53",
+      "text": "Pikiran itu pasti terlihat di wajahku. Bingung, dia kembali ke topik. “U-um, kunci pintu dari tangga tengah rusak. Banyak gadis yang mengetahuinya.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-54",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#54",
+      "text": "Benarkah. Jadi Sagami juga harus mengetahuinya. Hal itu sesuai dengan syarat lain untuk suatu lokasi yang akan dia datangi: agar orang lain mengenal lokasi tersebut."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-55",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#55",
+      "text": "Apa pun masalahnya, aku tidak punya waktu lagi. Saat ini, ia adalah tersangka yang paling mungkin."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-56",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#56",
+      "text": "“Jadi bagaimana?” Kawasaki bertanya. Dia tampak bingung dengan kesunyianku. Tapi kakiku bergerak sebelum aku bisa menjawab."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-57",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#57",
+      "text": "Tapi setidaknya aku masih harus berterima kasih padanya, meskipun aku sedang terburu-buru. “Terima kasih! Aku sayang sekali, Kawasaki!” Aku berteriak dari balik bahuku sambil berlari secepat mungkin."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-58",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#58",
+      "text": "Saat aku berbelok di lorong, aku mendengar jeritan yang menggemparkan di belakangku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-59",
+      "kind": "separator",
+      "source": "OEBPS/Text/chapter009_b.xhtml#../Images/Art_orn.jpg",
+      "text": "⁂"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-60",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#60",
+      "text": "Tangga menuju atap digunakan sebagai tempat penyimpanan festival budaya, jadi sulit untuk berlari ke atas mereka. Tapi ada cukup ruang bagi seseorang untuk masuk. Sagami mungkin telah menempuh jalan yang sama melalui celah kecil itu. Dengan setiap langkah yang kuambil dalam pengejaran, semakin yakin aku merasa bahwa aku semakin dekat."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-61",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#61",
+      "text": "Aku yakin Sagami ingin menjadi seperti Yukinoshita atau Yuigahama: seseorang yang akan dikenali, diinginkan, dan dipercaya. Itu sebabnya dia langsung mencari gelar. Tadinya ia ingin membubuhkan label kursi di dadanya demi gengsi. Lalu dia bisa memberi label pada orang lain juga, dan menegaskan superioritasnya sendiri.",
+      "emphasis": [
+        {
+          "start": 200,
+          "end": 205,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-62",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#62",
+      "text": "Itulah kebenaran dari “pertumbuhan” yang Sagami bicarakan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-63",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#63",
+      "text": "Tetapi bukan itu yang dimaksud dengan pertumbuhan. Anda tidak bisa berbuat curang dan menyebut perubahan yang mudah sebagai semacam kedewasaan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-64",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#64",
+      "text": "Aku benci jika orang menyebut sesuatu sebagai “pertumbuhan” padahal itu hanya perubahan kecil atau kompromi untuk mengakhiri diskusi. Aku benci jika di ujung jalan, orang menyerah dan kemudian menganggapnya sebagai “menjadi dewasa”. Tidak ada seorang pun yang akan berubah drastis dalam semalam atau hanya dalam beberapa bulan. Manusia bukanlah Transformers."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-65",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#65",
+      "text": "Jika Anda bisa menjadi orang yang Anda inginkan, aku tidak akan seperti ini."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-66",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#66",
+      "text": "Mengubah diri sendiri dan mengubah orang lain, telah berubah dan haru berubah.",
+      "emphasis": [
+        {
+          "start": 65,
+          "end": 69,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-67",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#67",
+      "text": "Itu semua bohong."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-68",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#68",
+      "text": "Bagaimana kamu bisa begitu mudah menerima bahwa keadaanmu saat ini salah? Mengapa Anda menolak diri Anda yang dulu? Kenapa kamu tidak bisa menerima siapa dirimu sekarang? Bagaimana kamu bisa percaya pada seseorang yang belum menjadi dirimu?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-69",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#69",
+      "text": "Jika aku tidak bisa baik-baik saja dengan diriku yang dulu menjijikkan dan diriku yang sekarang berada di titik terendah, lalu kapan aku bisa menerima seseorang? Bisakah kamu menerima dirimu yang sebenarnya ketika kamu telah menolak siapa dirimu sekarang dan siapa dirimu selama ini?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-70",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#70",
+      "text": "Jangan berharap menjadi dewasa hanya dengan membuang masa lalu dan menimpa segala sesuatu tentang dirimu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-71",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#71",
+      "text": "Jangan berani-berani menyebutnya pertumbuhan ketika kamu sudah dewasa. menjadikan semuanya hanya soal gelar, berkoar-koar karena sedikit pengakuan, mabuk dengan statusmu, menangis tentang betapa pentingnya dirimu dari dalam belenggu peraturan yang kau buat sendiri, sambil mengabaikan dunia sampai seseorang mengajarimu tentang hal itu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-72",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#72",
+      "text": "Mengapa kamu tidak bisa mengatakan bahwa kamu tidak perlu berubah? Bahwa kamu baik-baik saja?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-73",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#73",
+      "text": "Semakin jauh aku menaiki tangga menuju atap, semakin sedikit rintangan yang kulihat. Akhirnya, aku mencapai landasan terbuka, titik akhir. Di balik pintu ini ada ujung antrean."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-74",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#74",
+      "text": "Petak umpet telah berakhir."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-75",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#75",
+      "text": "Seperti yang dikatakan Kawasaki, gembok pintu rusak dan tergantung di gagang pintu. Aku mengacaukannya sedikit. Ketika ditutup, pintu-pintunya tampak terkunci, tetapi tarikan yang kuat akan mendobraknya hingga terbuka. Hal ini akan membuat atap mudah masuk tanpa izin…"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-76",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#76",
+      "text": "Sedikit karat terkelupas, dan pintu terbuka, menggantung sedikit miring. Suaranya berderit keras."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-77",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#77",
+      "text": "Angin bertiup kencang saat langit biru terbuka di hadapanku. Karena aku berada di tempat yang lebih tinggi, kamu akan mengira aku lebih dekat ke langit, tapi tidak adanya titik referensi hanya membuatnya terasa lebih jauh dari biasanya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-78",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#78",
+      "text": "Sagami sedang bersandar di pagar, melihat ke arahku. Ekspresinya berubah terkejut, lalu kecewa."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-79",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#79",
+      "text": "Tidak ada yang mengejutkan. Dia tidak mungkin menungguku datang mencari. Faktanya, dia pasti ingin orang sepertiku tidak mencarinya. Pada saat itu, walaupun aku menyesal karena gagal memenuhi harapannya, aku juga sebenarnya tidak ingin datang menjemputnya. Aku berharap dia bisa membiarkannya begitu saja, dan kami akan mengakhirinya.",
+      "emphasis": [
+        {
+          "start": 115,
+          "end": 120,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-80",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#80",
+      "text": "Bagaimanapun, dalam situasi saat ini, kami melakukan pendekatan ini dari sudut pandang yang sama. Jadi kita bisa memulai percakapan ini dengan pijakan yang setara."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-81",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#81",
+      "text": "“Upacara penutup akan segera dimulai, jadi silakan kembali.” Aku memberitahunya secara singkat tujuan kedatanganku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-82",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#82",
+      "text": "Dia mengerutkan alisnya, tidak senang. “Bukannya aku yang harus melakukan itu, kan?” katanya sambil memunggungi aku untuk menunjukkan dia tidak benar-benar ingin berbicara."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-83",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#83",
+      "text": "“Sayangnya, Anda benar-benar melakukannya, karena beberapa alasan. Waktunya tidak banyak. Sebaiknya Anda mempercepatnya.” Menurutku, aku tidak bisa meyakinkan orang lain, jika aku sendiri yang mengatakannya. Tapi meski sepertinya tidak seperti itu, aku sebenarnya dengan cermat menghindari kata-kata yang ingin didengar Sagami."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-84",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#84",
+      "text": "“Tidak banyak waktu— Tunggu, bukankah upacara penutupnya sudah dimulai?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-85",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#85",
+      "text": "Jadi dia tahu. Itu sedikit membuatku kesal. “Ya, biasanya akan begitu. Tapi kita bisa mengulur waktu. Jadi.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-86",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#86",
+      "text": "“Hmm. Siapa yang melakukan itu?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-87",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#87",
+      "text": "“Um…oh ya. Miura. Yukinoshita dan yang lainnya,” jawabku. Tapi band Miura mungkin sudah selesai tampil pada saat ini. Sudah waktunya bagi band Yukinoshita untuk bersiaga."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-88",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#88",
+      "text": "Sagami mencengkeram pagar dengan erat. “Oh…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-89",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#89",
+      "text": "“Sekarang kamu sudah tahu, jadi kamu harus kembali.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-90",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#90",
+      "text": "“Kalau begitu, Yukinoshita sebaiknya menanganinya saja. Lagipula dia bisa melakukan apa saja.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-91",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#91",
+      "text": "“Apa? Bukan itu masalahnya di sini. Anda sudah mendapatkan hasil pemungutan suara. Anda harus mengumumkannya, dan banyak hal lainnya juga.” Seperti yang kuperkirakan akan terjadi, Sagami dan semua jawaban menjengkelkannya membuatku gelisah. Namun aku tidak punya waktu untuk membicarakan hal ini."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-92",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#92",
+      "text": "“Mereka tinggal menghitung ulang hasil penghitungannya. Tidak akan banyak jika Anda semua mengerjakannya bersama-sama…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-93",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#93",
+      "text": "“Kita tidak bisa. Tak satu pun dari kita memiliki waktu seperti itu saat ini.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-94",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#94",
+      "text": "“Kalau begitu, ambil saja hasil pemungutan suara dan berangkat!” Pagar rantai bergetar saat Sagami melemparkan kertas yang berisi penghitungan itu ke arahku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-95",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#95",
+      "text": "Untuk sesaat, aku sebenarnya berpikir untuk mengambil kertas itu saja."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-96",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#96",
+      "text": "Tapi aku tidak bisa melakukan itu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-97",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#97",
+      "text": "Permintaan yang diterima Yukinoshita dan Klub Layanan adalah untuk mendukung Sagami dalam pekerjaannya sebagai ketua komite. Dengan kata lain, itu untuk memastikan Minami Sagami memenuhi kewajibannya. Jika bukan karena permintaan itu, aku tidak akan berada di sana sekarang, dan Yukinoshita juga tidak akan menjadi wakil ketua. Mengabaikan permintaan itu berarti menolak semua yang telah dilakukan Yukino Yukinoshita."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-98",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#98",
+      "text": "Itulah sebabnya tugasku adalah membuat Minami Sagami menghadiri upacara penutupan dan berdiri di panggung itu sebagai ketua panitia, memberinya kehormatan menjadi ketua, dan juga memastikan dia akan mengalami rasa frustrasi dan penyesalan yang terkait."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-99",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#99",
+      "text": "Jadi apa yang harus aku lakukan untuk mencapai hal itu?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-100",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#100",
+      "text": "Jika aku bisa membuat Sagami mendengarkan apa yang ingin dia dengar, dari orang yang ingin dia dengar, itu sudah cukup. Namun sayangnya, aku tidak bisa melakukan itu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-101",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#101",
+      "text": "Aku bisa terus berbicara dengannya, tapi dia keras kepala. Aku ragu dia akan mengalah."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-102",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#102",
+      "text": "Haruskah aku memberi tahu orang lain bahwa dia ada di sini dan meminta mereka datang? Tapi siapa? Kontakku termasuk Yuigahama dan Bu Hiratsuka, yang akan berada di atas panggung pada saat itu, dan aku merasa bahwa menelepon Totsuka atau Zaimokuza tidak akan banyak berubah. Aku tidak pernah membayangkan kalau gaya hidupku yang menyendiri akan menjadi bumerang di saat seperti ini."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-103",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#103",
+      "text": "Jadi, aku sampai sejauh ini, hanya untuk menemui jalan buntu, ya…? Tanpa sadar aku mengepalkan tanganku dengan kesal.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 66,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-104",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#104",
+      "text": "Saat itulah kejadiannya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-105",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#105",
+      "text": "Derit keras. Aku menoleh untuk melihat, dan Sagami mungkin juga melihatnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-106",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#106",
+      "text": "“Ini dia… Kami sedang mencarimu.” Yang datang melalui pintu adalah Hayato Hayama."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-107",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#107",
+      "text": "Di belakangnya ada dua teman komite kebudayaan Sagami. Hayama mungkin yang membawa mereka ke sini."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-108",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#108",
+      "text": "“Hayama… Teman-teman…” Sagami menyebut nama Hayama, lalu dengan lembut membuang muka. Ini mungkin yang sebenarnya diinginkan Sagami. Apa yang dia harapkan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-109",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#109",
+      "text": "Hayama terus memenuhi harapan tersebut, maju selangkah demi selangkah. “Kami tidak bisa menghubungimu, jadi kami khawatir. Kami bertanya kemana-mana, dan kemudian siswa tahun pertama memberitahu kami bahwa mereka melihatmu menaiki tangga.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-110",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#110",
+      "text": "Jadi Hayama telah melakukan yang terbaik yang Hayama lakukan dan memanfaatkan koneksi pribadinya untuk menelusuri benang tipis itu di sini. Yang bisa kukatakan hanyalah Mengesankan seperti biasa.",
+      "emphasis": [
+        {
+          "start": 169,
+          "end": 194,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-111",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#111",
+      "text": "Terlepas dari semua yang Hayama lakukan untuk mendapatkannya, Sagami masih berusaha keras. “Maaf, tapi…”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-112",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#112",
+      "text": "“Ayo kembali sekarang, oke? Semuanya menunggu. 'Kay?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-113",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#113",
+      "text": "“Benar!”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-114",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#114",
+      "text": "“Mereka semua khawatir,” teman-temannya menambahkan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-115",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#115",
+      "text": "Hayama juga tahu betul bahwa tidak ada waktu lagi, dan dia dengan sungguh-sungguh memberi tahu Sagami apa yang ingin dia dengar dalam upaya meyakinkannya. Seperti yang mungkin Anda duga, ketiganya yang mengerjakannya sekaligus akan membuatnya lelah. Dia menggandeng tangan temannya, dan mereka berbagi momen hangat bersama."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-116",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#116",
+      "text": "Tapi itu masih belum cukup."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-117",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#117",
+      "text": "“Tapi sudah terlambat untuk kembali sekarang…,” erangnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-118",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#118",
+      "text": "“Tidak mungkin, semua orang menunggumu,” kata seorang gadis."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-119",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#119",
+      "text": "“Ayo pergi bersama, oke?” kata yang lain."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-120",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#120",
+      "text": "Hayama memperhatikan percakapan mereka, tapi sesaat, tatapannya beralih ke jam tangannya. Dia juga tidak sabar. “Itu benar. Semua orang benar-benar berusaha membuat ini berhasil untukmu, Sagami.” Dia tahu dia tidak bisa meyakinkannya; ini bukan sekedar dorongan ekstra. Dia menggunakan semua yang dimilikinya untuk mencoba memenangkan hatinya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-121",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#121",
+      "text": "“Tapi…Aku telah menyebabkan banyak masalah, jadi aku tidak tahu bagaimana aku harus menghadapi semua orang…” Dikelilingi oleh teman-temannya, mata Sagami berair, dan dia terisak. Mereka semua berusaha menenangkannya, tapi kaki Sagami tidak bergerak. Satu-satunya yang bergerak di sini hanyalah jarum jam."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-122",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#122",
+      "text": "Hasilnya sama, bahkan dengan Hayama di sini, ya…?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 49,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-123",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#123",
+      "text": "Detik terus berlalu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-124",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#124",
+      "text": "Waktu kita hampir habis. Apa cara tercepat dan paling efisien untuk membuatnya maju?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-125",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#125",
+      "text": "Paksa dia?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-126",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#126",
+      "text": "Tidak."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-127",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#127",
+      "text": "Itu mungkin bisa terjadi jika hanya aku dan Hayama. Tapi kedua gadis itu pasti akan menghentikanku. Itu jelas hanya akan membuang waktu kita."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-128",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#128",
+      "text": "Lagipula."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-129",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#129",
+      "text": "Itu bukanlah cara yang Yukinoshita inginkan. Pada akhirnya, aku harus membuat Sagami keluar dari sana dengan kedua kakinya sendiri."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-130",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#130",
+      "text": "Yukinoshita punya caranya sendiri dalam melakukan sesuatu, dan dia selalu berpegang pada cara itu: menghadapi segala sesuatunya secara langsung, mempertahankan harga dirinya sambil menunjukkan kemampuannya semaksimal mungkin."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-131",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#131",
+      "text": "Kalau begitu, aku…"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-132",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#132",
+      "text": "Sepertinya aku tidak punya pilihan selain tetap berpegang pada pilihanku.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 73,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-133",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#133",
+      "text": "Memenuhi hal-hal yang tidak berperasaan, kasar, dan penuh kebencian. Adil dan jujur."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-134",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#134",
+      "text": "Apa yang harus aku lakukan agar komunikasi nyata bisa berjalan dengan Sagami?"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-135",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#135",
+      "text": "Hanya ada dua cara orang-orang di bawah bisa berkomunikasi satu sama lain: Mereka bisa saling menjilat luka, atau bisa menyeret satu sama lain ke bawah."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-136",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#136",
+      "text": "Aku punya satu pilihan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-137",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#137",
+      "text": "Aku memperhatikan Sagami dan Hayama dengan baik."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-138",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#138",
+      "text": "Hayama masih menyemangatinya, dengan baik hati, dalam upaya untuk mendorongnya, langkah kecil dengan langkah kecil. “Tidak apa-apa. Ayo kembali.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-139",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#139",
+      "text": "“Aku benar-benar sampah...,” Sagami meludah dengan nada membenci diri sendiri, dan kakinya berhenti lagi."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-140",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#140",
+      "text": "Itu berarti inilah saatnya. Astaga. Sejujurnya aku merasa jijik pada diriku sendiri—karena selalu memunculkan ide-ide seperti ini dan karena sebenarnya aku tidak benci kalau aku melakukannya. Aghhhh. Aku menghela napas panjang karena kesal.",
+      "emphasis": [
+        {
+          "start": 28,
+          "end": 199,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-141",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#141",
+      "text": "“Memang benar.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-142",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#142",
+      "text": "Tidak ada yang bergerak, dan tidak ada yang berbicara."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-143",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#143",
+      "text": "Empat pasang mata menatapku. Penonton berjumlah empat orang."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-144",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#144",
+      "text": "Jumlah penonton yang bagus, bagi aku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-145",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#145",
+      "text": "“Sagami, kamu pada dasarnya hanya ingin orang-orang menjilatmu. Kamu melakukan semua ini demi perhatian, bukan? Dan yang sebenarnya kamu inginkan saat ini adalah ada seseorang yang memberitahumu, Tidak, itu tidak benar! Tidak heran tidak ada yang memperlakukan orang seperti kamu sebagai ketua komite. Kamu benar-benar sampah.”",
+      "emphasis": [
+        {
+          "start": 196,
+          "end": 219,
+          "style": "em"
+        },
+        {
+          "start": 275,
+          "end": 279,
+          "style": "em"
+        },
+        {
+          "start": 319,
+          "end": 325,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-146",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#146",
+      "text": "“Apa yang kamu bicarakan—?” Suaranya bergetar."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-147",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#147",
+      "text": "Tapi aku memotongnya. “Aku yakin mereka semua sudah mengetahuinya. Aku bahkan tidak mengenalmu, dan aku tahu.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-148",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#148",
+      "text": "“Jangan bertingkah seolah aku sama sepertimu—”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-149",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#149",
+      "text": "“Kamu sama seperti aku. Kita hidup bersama di tingkat paling bawah.”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-150",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#150",
+      "text": "Mata Sagami tidak basah lagi. Kata-kata itu kering sekali, membara karena kebencian."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-151",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#151",
+      "text": "Aku memilih kata-kata aku dengan hati-hati untuk membangun argumen yang kuat. Segalanya sejauh ini hanyalah apa yang aku lihat dari pengalaman subjektif aku. Yang bisa dilakukannya hanyalah membuatnya marah. “Pikirkanlah,” lanjutku. “Aku tidak peduli sedikit pun tentangmu, namun akulah yang berhasil menemukanmu lebih dulu.” Pernyataan tersebut berisi fakta-fakta yang objektif yang akan membuat segalanya berjalan lancar. “Artinya…tidak ada yang benar-benar mencarimu dengan sungguh-sungguh.”",
+      "emphasis": [
+        {
+          "start": 370,
+          "end": 378,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-152",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#152",
+      "text": "Wajah Sagami memucat. Warna kemarahan dan kebenciannya memudar, dan keterkejutan serta keputusasaan pun terjadi. Perasaannya yang campur aduk lupa bagaimana mengekspresikan diri, dan yang bisa dia lakukan untuk menunjukkannya hanyalah menggigit bibir kesakitan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-153",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#153",
+      "text": "“Kamu paham, kan? Hanya itu yang kamu—,” aku memulai, tapi aku terputus. Kata-kata itu digantikan oleh suara mengi dari tenggorokanku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-154",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#154",
+      "text": "“Hikigaya, berhenti bicara.” Tangan kanan Hayama melingkari kerahku di tempat dia mendorongku ke dinding. Kejutan akibat benturan itu membuatku kehabisan napas."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-155",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#155",
+      "text": "“…Ha!” Aku memasang senyuman putus asa untuk menutupi bagaimana dia telah membuatku kehabisan tenaga. Tinju Hayama yang mencengkeram kerah bajuku bergetar. Dia menarik napas pendek dan menghembuskan napas dalam-dalam untuk menenangkan dirinya. Selama beberapa detik, kami saling melotot.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 6,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-156",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#156",
+      "text": "Saat ketegangan pecah, gadis-gadis itu mulai bergerak lagi dan bergegas untuk menghentikannya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-157",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#157",
+      "text": "“H-Hayama! Sudah cukup! Tinggalkan saja dia. Ayo pergi, oke? …Oke?” Sagami meletakkan tangannya di punggung Hayama."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-158",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#158",
+      "text": "Saat itu, Hayama menghela napas untuk terakhir kalinya dan berbalik, melepaskan kerah bajuku. Dia menghindari menatap wajahku. “…Ayo berangkat,” dia mendorong yang lain, nadanya tenang."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-159",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#159",
+      "text": "Kedua temannya mengelilinginya seperti konvoi, Sagami meninggalkan atap."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-160",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#160",
+      "text": "Saat mereka berjalan, gadis-gadis itu berbicara seolah mereka ingin aku mendengarnya. “Kamu baik-baik saja, Sagamin?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-161",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#161",
+      "text": "“Ayo pergi saja, oke?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-162",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#162",
+      "text": "“Dan wow, siapa tadi? Bukankah itu kejam?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-163",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#163",
+      "text": "“Entahlah. Apa itu tadi?”"
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-164",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#164",
+      "text": "Mereka bertiga pergi, dan pada akhirnya, Hayama mulai menutup pintu di belakangnya. “…Kenapa hanya itu satu-satunya cara agar kamu bisa mengatur segalanya?” dia bergumam, seolah-olah pada dirinya sendiri. Kata-katanya menyakitkan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-165",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#165",
+      "text": "Sendirian di atap, aku menyandarkan punggungku ke dinding dan meluncur ke pantatku."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-166",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#166",
+      "text": "Langit cerah dan jauh."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-167",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#167",
+      "text": "Untung saja kamu orang yang keren dan baik, Hayama. Kalau dia tidak marah, dia bukan Hayato Hayama. Ada baiknya Anda tidak membiarkannya pergi ketika seseorang terluka di depan Anda. Ada baiknya Anda tidak membiarkan seseorang menyakiti orang lain.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 51,
+          "style": "em"
+        },
+        {
+          "start": 100,
+          "end": 248,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-168",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#168",
+      "text": "Dengar, itu mudah—dunia di mana tidak ada seorang pun yang terluka itu lengkap."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-169",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#169",
+      "text": "Hayama mungkin benar, dan cara melakukan sesuatu seperti ini salah."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-170",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#170",
+      "text": "Tetapi saat ini, hanya ini yang bisa aku lakukan.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 49,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-171",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#171",
+      "text": "Tetapi aku pikir aku pun akan berubah suatu hari nanti. Aku yakin hal ini tidak bisa dihindari. Sesuatu akan mengubah aku. Apa pun yang aku inginkan, cara orang lain melihat, memahami, dan menilai aku pasti akan berubah. Jika segalanya terus berubah dan dunia selalu berubah, maka dunia di sekitarku, lingkunganku, standar penilaian itu sendiri akan berubah menjadi sesuatu yang ikut berubah, mengubah caraku menghadapinya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-172",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#172",
+      "text": "Itulah sebabnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-173",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#173",
+      "text": "—Itulah sebabnya aku jangan berubah.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 36,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-174",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#174",
+      "text": "“Agh…” Aku menarik napas dalam-dalam."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-175",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#175",
+      "text": "…Sudah waktunya untuk upacara penutup."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-176",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#176",
+      "text": "Aku mengirimkan pesan singkat e-mail yang berbunyi Menyelesaikan kepada Zaimokuza dan memaksa tubuhku yang berat untuk meninggalkan atap.",
+      "emphasis": [
+        {
+          "start": 51,
+          "end": 64,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-177",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#177",
+      "text": "Aku otomatis bergegas menuju gym. Bukannya aku perlu tahu bagaimana keadaannya. Sejujurnya, aku benar-benar tidak peduli dengan apa yang terjadi pada Sagami."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-178",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#178",
+      "text": "Perhatian orang-orang di lorong semuanya tertuju ke gym."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-179",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#179",
+      "text": "Bass berfrekuensi rendah menjangkau hingga ke aula, mendorong siswa dan tamu untuk secara naluriah mencari sumbernya. Kaki mereka membawa mereka ke gym hampir di luar keinginan mereka."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-180",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#180",
+      "text": "Rasanya seperti suara memenuhi seluruh gedung sekolah. Suaranya rendah dan merayap, mungkin bass dan bass drum. Tapi getaran yang menggetarkan perutku datangnya lebih dari itu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-181",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#181",
+      "text": "Itu adalah sorakan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-182",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#182",
+      "text": "Denyut hidup dari tepukan tangan dan hentakan kaki. Getaran mereka, detak jantung mereka, menciptakan ritme di seluruh sekolah."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-183",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#183",
+      "text": "Tidak banyak orang yang tertinggal di luar. Para siswa dan guru berkumpul untuk upacara penutupan."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-184",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#184",
+      "text": "Aku meletakkan tanganku di pintu gym."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-185",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#185",
+      "text": "Saat aku membukanya, aku disambut oleh serbuan suara dan cahaya. Lampu sorot menari-nari saat bola disko yang tergantung di atas menyebarkan cahaya yang tak terhitung jumlahnya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-186",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#186",
+      "text": "Dan di dalam pusaran cahaya itu ada gadis-gadis."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-187",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#187",
+      "text": "Sang bassist membunyikan nada-nada dengan semangat yang sangat besar. Sang drummer menegaskan kehadirannya dengan irama yang aneh dan funky. Gitaris yang sangat serius ini memilih dengan akurasi luar biasa seolah-olah berusaha menahan bagian ritme yang liar dan bebas. Dia mengatur band secara keseluruhan. Dan kemudian ada vokal yang riang. Kadang-kadang ada cegukan, namun sang vokalis menyanyikan setiap kata dan nada dengan sungguh-sungguh dan hati-hati."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-188",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#188",
+      "text": "Sang gitaris maju selangkah ke tengah panggung dan mencondongkan tubuh ke dekat sang vokalis. Mereka berdua pasti sudah berganti pakaian sejak tadi, karena mereka mengenakan kaos yang serasi dan saling menopang untuk merangkai melodi bersama."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-189",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#189",
+      "text": "Beberapa penonton ada yang melambai-lambaikan tangan ke depan dan ke belakang, ada yang melakukan headbang, ada yang mengayunkan ponselnya ke samping seperti bunga lili laut yang bercahaya pucat, dan ada pula yang begitu asyik menyelam dari satu tempat duduk ke tempat duduk lainnya dan diangkat ke dalam air. udara. Penonton sama antusiasnya dengan penonton profesional… Tidak, mereka begitu bersemangat justru karena pemainnya adalah amatir."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-190",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#190",
+      "text": "Saat drum melaju dengan kecepatan yang memprovokasi, gitar berpacu dengan leher dan leher, senarnya berdebar-debar. Ketika sepertinya musiknya akan berantakan, tamparan bass memarahi mereka. Lalu, sambil mengulurkan tangan seolah-olah ingin memeluk semuanya di dadanya, sang vokalis mengulurkan lengannya dan menyanyikan lagu itu dengan segala yang dimilikinya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-191",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#191",
+      "text": "Lagu tersebut memiliki seruan vokal, dan penonton membalasnya dengan teriakan. Ombak melonjak melintasi kerumunan dari kanan ke kiri. Tongkat pendar yang cemerlang bersinar seperti bintang yang tak terhitung jumlahnya tersebar di gym."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-192",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#192",
+      "text": "Pada saat itu, dalam kegelapan, mereka semua menjadi satu."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-193",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#193",
+      "text": "Tidak ada yang memperhatikan ketika aku masuk."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-194",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#194",
+      "text": "Tentu saja, aku ragu mereka bisa melihat apa pun dari atas panggung."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-195",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#195",
+      "text": "Di tengah antusiasme yang sangat kuat itu, aku bersandar ke dinding. Semua orang berjuang untuk mendekati panggung, jadi ada ruang ekstra di belakang. Tidak ada seorang pun di sekitar sana."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-196",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#196",
+      "text": "Ini adalah penampilan terakhir dari festival budaya yang sangat panjang. Semuanya sudah berakhir sekarang."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-197",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#197",
+      "text": "Oh iya, aku pernah bergabung di Records dan Miscellaneous, bukan?",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 65,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-198",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#198",
+      "text": "Jadi setidaknya aku akan mengingat ini. Aku ragu aku akan melupakan pemandangan itu. Aku tidak akan mampu melakukannya."
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-199",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#199",
+      "text": "Aku tidak berada di panggung yang bersinar itu. Aku tidak bisa ikut serta dalam semua lompatan tersebut.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 104,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-200",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#200",
+      "text": "Aku sendirian di belakang, hanya menonton.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 42,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v6-bab-9-chapter009_b-201",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter009_b.xhtml#201",
+      "text": "Tetapi aku tahu aku tidak akan lupa.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 36,
+          "style": "em"
+        }
+      ]
+    }
+  ]
+}

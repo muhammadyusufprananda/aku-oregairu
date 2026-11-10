@@ -1,0 +1,404 @@
+{
+  "translation": {
+    "sourceLanguage": "en",
+    "initialDraft": "Google Translate",
+    "editing": "Preliminary AI editing and terminology normalization; not a full semantic or literary review",
+    "aiEditedSourceBlocks": [],
+    "illustrationCompanions": "AI transcription/translation from source illustrations, aided by local OCR for inspection; draft"
+  },
+  "blocks": [
+    {
+      "id": "v3-bab-6-chapter006-1",
+      "kind": "heading",
+      "source": "OEBPS/Text/chapter006.xhtml#1",
+      "headingLevel": 2,
+      "text": "Akhirnya, permulaan dia dan dirinya berakhir.",
+      "emphasis": [
+        {
+          "start": 20,
+          "end": 23,
+          "style": "strong"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "style": "strong"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006-2",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter006.xhtml#../Images/Art_P147.jpg",
+      "src": "assets/chapters/volume-3/bab-6/Art_P147.webp",
+      "width": 350,
+      "height": 752,
+      "text": "Hachiman berdiri dengan seragam sekolah."
+    },
+    {
+      "id": "v3-bab-6-chapter006-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#3",
+      "text": "Aku tiba di ruang klub dan melirik matahari sore yang perlahan terbenam di Teluk Tokyo di luar jendela. Di sisi timur, tirai malam mulai tertutupi warna nila pucat di langit."
+    },
+    {
+      "id": "v3-bab-6-chapter006-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#4",
+      "text": "“Apa yang harus kita lakukan sekarang...? Aku bahkan sampai kesulitan membuat kue,” komentar Yukinoshita sambil menghela napas. Dia memperhatikan warna langit, sama sepertiku. Memang sudah hampir waktunya pulang. Belnya mungkin akan berbunyi saat kita memotong kuenya."
+    },
+    {
+      "id": "v3-bab-6-chapter006-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#5",
+      "text": "Yuigahama memiringkan kepalanya, bingung. “Kue? Kenapa kue?”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-6",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#6",
+      "text": "“Apa maksudmu 'kenapa'? Oh, aku belum memberitahumu kan? Aku memintamu datang ke sini karena aku ingin mengucapkan selamat ulang tahun padamu, Yuigahama,” jawab Yukinoshita."
+    },
+    {
+      "id": "v3-bab-6-chapter006-7",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#7",
+      "text": "“Hah?”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-8",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#8",
+      "text": "“Kamu belum datang ke klub akhir-akhir ini...dan, um...aku ingin mendorongmu untuk melakukan upaya yang tepat untuk hadir. Juga, uh...kurasa kamu bisa menyebut ini sebagai simbol rasa terima kasihku.” Yukinoshita berdeham pelan dengan sedikit he-hem, seolah-olah ingin mengalihkan perhatian dari rasa malunya.",
+      "emphasis": [
+        {
+          "start": 243,
+          "end": 249,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006-9",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#9",
+      "text": "Sebelum dia selesai berbicara, Yuigahama memelototinya. “…Kamu ingat hari ulang tahunku, Yukinon!”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-10",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#10",
+      "text": "Uh, dia tidak mengingatnya. Dia hanya menebaknya dari alamat emailmu lho.",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 73,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006-11",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#11",
+      "text": "Masih, tidak tertarik dengan bagaimana hal itu bisa terjadi, Yuigahama sambil menangis menikmati kegembiraannya."
+    },
+    {
+      "id": "v3-bab-6-chapter006-12",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#12",
+      "text": "“Bagaimanapun juga, sepertinya kita tidak bisa melakukan ini hari ini,” kata Yukinoshita. Kurasa dia merasa terkekang, saat dia berusaha melepaskan Yuigahama darinya saat dia berbicara. Yuigahama menolak sedikit, lalu bertepuk tangan seolah dia punya ide. Yukinoshita memanfaatkan gangguan tersebut dan dengan lancar menyelinap bebas."
+    },
+    {
+      "id": "v3-bab-6-chapter006-13",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#13",
+      "text": "“Oke, kalau begitu ayo kita pergi ke suatu tempat. Suka...keluar,” usul Yuigahama."
+    },
+    {
+      "id": "v3-bab-6-chapter006-14",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#14",
+      "text": "“Hah? Tapi kita tidak bisa begitu saja...” Yukinoshita merasa bingung saat menerima lamaran yang begitu tiba-tiba."
+    },
+    {
+      "id": "v3-bab-6-chapter006-15",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#15",
+      "text": "Tapi Yuigahama mengabaikan keberatannya dan bersikeras, “Ayo, ayo!” dengan kedipan mata yang berbunyi, Serahkan padaku! “Aku akan membuat reservasi dan segalanya, jadi jangan khawatir! Tidak apa-apa! Aku sudah sangat senang kamu mendapat kue untukku.”",
+      "emphasis": [
+        {
+          "start": 103,
+          "end": 119,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006-16",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#16",
+      "text": "“Tapi ada lebih dari sekedar kue…”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-17",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#17",
+      "text": "“T-tidak mungkin, kamu memberiku hadiah juga?!” Mata Yuigahama berbinar melihat Yukinoshita. Tanpa mempedulikan fakta bahwa dia telah melepaskannya beberapa saat sebelumnya, Yuigahama kembali menutup jarak di antara mereka."
+    },
+    {
+      "id": "v3-bab-6-chapter006-18",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#18",
+      "text": "Waspada terhadap glomping lainnya, Yukinoshita menjawab, “Ya, baiklah...tapi aku bukan satu-satunya,” katanya, melirik ke arahku."
+    },
+    {
+      "id": "v3-bab-6-chapter006-19",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#19",
+      "text": "“Hah? Maksudmu...” Yuigahama memahami maksud gadis itu dan tersenyum samar dan canggung. “Ah...ah-ha-ha. Aku sama sekali tidak menyangka kamu akan memberiku hadiah, Hikki. Sejak, um, seperti...baru-baru ini...segalanya menjadi sedikit...aneh.” Mata Yuigahama bertemu dengan mataku, dan kami berdua langsung memutuskan kontak."
+    },
+    {
+      "id": "v3-bab-6-chapter006-20",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#20",
+      "text": "Saat Yukinoshita bersama kami, aku bisa mengatasi ketidaknyamanan aneh ini dengan berpura-pura tidak menyadarinya. Tapi Yukinoshita sengaja menyeretku ke dalam percakapan kali ini, dan kupikir itu adalah pesan untuk mengakui bahwa sesuatu telah terjadi dan bersiap untuk menyelesaikannya. Mengingat betapa tidak sensitifnya dia biasanya, dia pasti memilih waktu yang aneh untuk ikut campur."
+    },
+    {
+      "id": "v3-bab-6-chapter006-21",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#21",
+      "text": "Aku mengeluarkan sebuah paket kecil dari tasku dan dengan santai menyerahkannya langsung ke Yuigahama. “…Tapi ini belum tentu untuk ulang tahunmu.”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-22",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#22",
+      "text": "“Hah?”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-23",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#23",
+      "text": "Aku tenggelam dalam suasana yang membuatnya sangat sulit untuk berbicara, namun aku memaksakan mulutku untuk bergerak sebaik mungkin, bahkan saat aku merasa terancam menjadi gagap. “Aku sudah berpikir sedikit. Kurasa... anggap saja ini, kau tahu? Aku menyelamatkan anjingmu dan kamu berusaha keras untuk bersikap baik padaku. Ayo kita bersihkan,” kataku, terus maju tanpa menunggu tanggapannya. “Maksudku, tidak ada alasan untuk memaksakan diri melakukan apa pun demi aku. Orang yang memukulku membayar tagihan rumah sakitku dengan asuransi dan datang bersama pengacara untuk meminta maaf, atau begitulah yang kudengar. Jadi tidak ada alasan bagimu untuk mengasihani atau mengkhawatirkan perasaanku.” Dengan setiap kalimat yang keluar dari mulutku, aku merasakan tekanan tidak menyenangkan di sekitar hatiku seolah ada sesuatu yang meremasnya. Meski begitu, aku tidak akan pernah bisa mengakhirinya jika aku tidak mengatakan ini. “Ditambah lagi, aku tidak menyelamatkan anjing itu karena itu milikmu.”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-24",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#24",
+      "text": "Untuk sesaat, Yuigahama menatapku dengan kesedihan yang luar biasa, tapi dia langsung menunduk."
+    },
+    {
+      "id": "v3-bab-6-chapter006-25",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#25",
+      "text": "“Aku tidak menganggapmu sebagai individu tertentu yang akan berhutang padaku, jadi kamu tidak perlu membayarnya kembali. ”Ya. Aku juga berhutang budi padaku secara individu. Tapi... seperti... Entahlah... Aku ingin membalas kebaikanmu padaku. Setelah kau kurangi ini, kita sama dengan nol. Kau tidak perlu mengkhawatirkanku lagi.“ Sekarang situasinya dapat diselesaikan, dan kita dapat melupakan hal ini—kesalahpahaman yang canggung dan upaya yang salah untuk mempertahankan diri. Meskipun keduanya mungkin akan terjadi di masa depan."
+    },
+    {
+      "id": "v3-bab-6-chapter006-26",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#26",
+      "text": "Aku menghindari tatapan Yuigahama, hanya memperhatikan garis tegas dan keras di bibirnya. “...Mengapa kamu berpikir seperti itu? Seolah-olah aku merasa kasihan padamu, atau aku memaksakan diriku untuk menjadi perhatian? ...Aku tidak pernah sekalipun berpikir seperti itu. Aku hanya...” Suaranya bergetar, pelan seperti sebuah bisikan. Yukinoshita dan aku hanya mendengarkan dalam diam. Hanya itu yang bisa kami lakukan. Tidak ada yang bisa kami berdua katakan. Kegelapan samar mengintai di sudut ruang klub. Hanya sinar matahari terkecil yang masih bisa masuk. “Seperti…ini sangat rumit, dan aku tidak begitu tahu lagi… Kupikir ini jauh lebih sederhana dari ini…” Nada suaranya sedikit lebih cerah dari sebelumnya, tapi dia sepertinya memaksakan kesan ceria itu, membuat kata-katanya tidak lebih bermakna daripada terlalu banyak basa-basi."
+    },
+    {
+      "id": "v3-bab-6-chapter006-27",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#27",
+      "text": "Komentar dingin memotong ambiguitas. “Ini tidak terlalu rumit.” Yukinoshita berdiri dengan matahari terbenam di punggungnya. Angin laut dari jendela yang terbuka menyapu rambutnya. “Hikigaya tidak ingat pernah menyelamatkanmu, Yuigahama, dan kamu tidak ingat pernah merasa kasihan padanya. Kalian berdua salah sejak awal.”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-28",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#28",
+      "text": "“Ya, itu benar,” aku setuju."
+    },
+    {
+      "id": "v3-bab-6-chapter006-29",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#29",
+      "text": "Yukinoshita mengangguk. “Jadi menurutku usulan Hikigaya untuk mengakhirinya adalah pilihan yang tepat.”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-30",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#30",
+      "text": "Kami memulai dengan kesalahan, jadi jelas kejadian selanjutnya juga membuat kami melakukan kesalahan. Tidak peduli emosi yang terlibat, jawaban itu tidak berubah, aku yakin. Bahkan jika…jika…perasaan itu adalah sesuatu yang istimewa. Jika sentimen itu lahir karena kecelakaan yang disengaja, jika ditujukan kepada aku karena pengorbanan aku, atau jika itu berkembang pada altruis mana pun yang telah menyelamatkan anjingnya, maka aku tidak dapat menerimanya sebagai hal yang nyata.",
+      "emphasis": [
+        {
+          "start": 186,
+          "end": 190,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006-31",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#31",
+      "text": "Jika aku melakukan bantuan itu untuknya tanpa mengakui dia sebagai dirinya sendiri, maka dia menerimanya tanpa mengakui aku sebagai diri aku sendiri. Jadi, perasaan dan kebaikannya bukan untukku. Itu untuk orang yang telah membantunya. Itu sebabnya aku tidak ingin dia salah paham."
+    },
+    {
+      "id": "v3-bab-6-chapter006-32",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#32",
+      "text": "Aku tidak lagi bersusah payah untuk terlalu berharap dan menyaksikan mereka mati padahal semua itu hanya ada di kepalaku. Aku tidak mengharapkan apa pun sejak awal, aku tidak mengharapkan apa pun di tengah-tengah, dan aku tidak mengharapkan apa pun hingga akhir."
+    },
+    {
+      "id": "v3-bab-6-chapter006-33",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#33",
+      "text": "Yuigahama terdiam beberapa saat sebelum menggumamkan beberapa patah kata. “Tapi mengakhirinya...? Aku agak... Aku tidak menginginkan itu.”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-34",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#34",
+      "text": "“...Jangan konyol,” kata Yukinoshita. “Jika sudah berakhir, sebaiknya kalian memulai yang baru. Tak satu pun dari kalian yang bersalah.”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-35",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#35",
+      "text": "“Apa?” Aku bertanya dengan kaget."
+    },
+    {
+      "id": "v3-bab-6-chapter006-36",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#36",
+      "text": "Dengan tenang dan tenang, Yukinoshita menyibakkan rambut di bahunya ke belakang. “Walaupun ada perbedaan diantara kalian berdua yaitu yang satu menolong dan yang satu ditolong, kalian berdua sama-sama menjadi korban kecelakaan lalu lintas, bukan? Dalam hal ini, penyebab semua itu adalah pelaku kecelakaan itu. Itu berarti...” Yukinoshita berhenti sejenak. Selama jeda singkat itu, dia menatapku, lalu Yuigahama, dengan tatapan tegas. “… kalian berdua… bisa memulai dengan baik,” katanya, dengan senyuman yang lembut dan agak sedih. Aku tidak bisa membedakan apa yang ada di matanya yang menyipit di bawah sinar matahari terbenam. “Aku harus melapor pada Bu Hiratsuka bahwa kita sudah merekrut anggota tambahan yang dia minta,” Yukinoshita menambahkan seolah-olah dia baru saja mengingatnya, lalu dengan singkat berbalik dan berjalan pergi lebih cepat dari biasanya, keluar dari pintu ruang klub tanpa berbalik."
+    },
+    {
+      "id": "v3-bab-6-chapter006-37",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#37",
+      "text": "Sekarang hanya tinggal aku dan Yuigahama. Yukinoshita sudah mengatakan hal itu, jadi kupikir dia tidak punya alasan untuk tetap tinggal, tapi suasana canggung ini bisa jadi sangat buruk."
+    },
+    {
+      "id": "v3-bab-6-chapter006-38",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#38",
+      "text": "Dengan diam-diam menatapku, Yuigahama mencari momen yang tepat sebelum dengan lembut, dengan ragu-ragu mengakhiri pembicaraan. “Um…uh… S-senang bisa kembali.” Kata-kata itu tidak perlu ditindaklanjuti, tapi entah kenapa dia menundukkan kepalanya."
+    },
+    {
+      "id": "v3-bab-6-chapter006-39",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#39",
+      "text": "“Y-ya…” Aku tidak tahu apa bagusnya hal itu."
+    },
+    {
+      "id": "v3-bab-6-chapter006-40",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#40",
+      "text": "Masih ada yang tidak beres untukku. Aku merasa Yukinoshita telah membujukku melakukan hal ini. Penyesatan seharusnya menjadi keahlianku. Aku tidak percaya dia mengalahkanku dalam permainanku sendiri. Aku tersenyum kecut.",
+      "emphasis": [
+        {
+          "start": 95,
+          "end": 199,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006-41",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#41",
+      "text": "Yuigahama menyodokku dari belakang. “…Hei, bolehkah aku membukanya?”"
+    },
+    {
+      "id": "v3-bab-6-chapter006-42",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#42",
+      "text": "“Silakan.” Sekarang setelah aku menyerahkan hadiah itu kepadanya, hadiah itu menjadi miliknya. Tak perlu repot meminta izin untuk membukanya."
+    },
+    {
+      "id": "v3-bab-6-chapter006-43",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#43",
+      "text": "Yuigahama dengan hati-hati membuka kancing kertas pembungkusnya, dan wajahnya berseri-seri. “Wow…” Dia terkesiap."
+    },
+    {
+      "id": "v3-bab-6-chapter006-44",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#44",
+      "text": "Sebuah label perak bundar terletak di tengah jalinan kulit hitam. Ini akan cocok dipadukan dengan rambut cokelat. Item itu dipilih dengan baik, jika aku sendiri yang mengatakannya. Aku mendapatkan sesuatu dengan membeli begitu banyak hadiah untuk Komachi selama bertahun-tahun. Kebetulan aku ahli dalam menjalankan tugas untuknya.",
+      "emphasis": [
+        {
+          "start": 197,
+          "end": 204,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006-45",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#45",
+      "text": "Yuigahama tampak puas dengan pilihanku saat dia mempelajari hadiahnya dengan lembut. “T-tunggu sebentar,” katanya dan langsung berbalik dariku. Dalam waktu kurang dari tiga puluh detik, dia menghadapku lagi dan memainkan poninya. “B-bagaimana tampilannya?” Dia mengalihkan pandangannya sedikit dengan malu-malu. Kulit hitam yang menghiasi leher putihnya sangat kontras dengan rambut coklatnya di bawah sinar matahari terbenam. Itu sangat cocok untuknya."
+    },
+    {
+      "id": "v3-bab-6-chapter006-46",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006.xhtml#46",
+      "text": "Aku benar-benar tidak ingin memberitahunya…tapi di saat seperti ini, tidak diragukan lagi adalah cara yang paling bijaksana untuk mengakhirinya. “Uh… tapi itu kalung anjing.” Mengapa itu terlihat sangat bagus untuknya?",
+      "emphasis": [
+        {
+          "start": 175,
+          "end": 218,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006_a-0",
+      "kind": "image",
+      "source": "OEBPS/Text/chapter006_a.xhtml#../Images/Art_P152.jpg",
+      "src": "assets/chapters/volume-3/bab-6/Art_P152.webp",
+      "width": 1200,
+      "height": 1800,
+      "text": "Yui mengenakan pita hitam."
+    },
+    {
+      "id": "v3-bab-6-chapter006_b-0",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#0",
+      "text": "“Hah?” Wajah Yuigahama berubah warna di depan mataku. “Ke-kenapa kamu tidak bilang begitu tadi?! Dasar brengsek!” teriaknya sambil melemparkan kertas kado itu ke arahku."
+    },
+    {
+      "id": "v3-bab-6-chapter006_b-1",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#1",
+      "text": "Eh, apa kamu tidak tahu? Yah, menurutku itu bisa disesuaikan, jadi…",
+      "emphasis": [
+        {
+          "start": 0,
+          "end": 67,
+          "style": "em"
+        }
+      ]
+    },
+    {
+      "id": "v3-bab-6-chapter006_b-2",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#2",
+      "text": "“Jujur saja, ya ampun! Aku akan pesankan tempat untuk kita sekarang!” Dengan marah, Yuigahama melepaskan kerah bajunya dan berjalan menuju pintu keluar. Tapi saat dia membuka pintu, dia berhenti."
+    },
+    {
+      "id": "v3-bab-6-chapter006_b-3",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#3",
+      "text": "“Terima kasih. Brengsek.” Tanpa melirik ke belakangnya, dia meninggalkanku dengan dua kata itu dan membanting pintu geser hingga tertutup sebelum aku bisa menjawab."
+    },
+    {
+      "id": "v3-bab-6-chapter006_b-4",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#4",
+      "text": "“Agh…” Sendirian di dalam kelas, aku menghela napas dalam-dalam dan melihat ke ruang kosong di dekat jendela yang ditempati Yukinoshita sebelumnya. Aku dan Yuigahama duduk tidak sampai dua meter dari tempat itu, tapi entah kenapa, jaraknya terasa tidak bisa dilewati, seolah-olah ada garis tak kasat mata yang membagi ruang di antara kami."
+    },
+    {
+      "id": "v3-bab-6-chapter006_b-5",
+      "kind": "text",
+      "source": "OEBPS/Text/chapter006_b.xhtml#5",
+      "text": "Tak lama lagi, kami akan mengetahui faktanya—kebenaran yang jelas-jelas memisahkan kami darinya."
+    }
+  ]
+}
